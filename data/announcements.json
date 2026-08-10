@@ -1,86 +1,107 @@
 [
  {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[*ST元道] 关于公司股票可能被实施重大违法强制退市的第十五次风险提示公告",
+  "time": "2026-08-10 18:02",
+  "level": "🔴"
+ },
+ {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BJ ENT URBAN] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "title": "[DONGWU CEMENT] PROFIT WARNING (Inside Information / Profit Warning)",
+  "time": "2026-08-10 18:06",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CONCORD NE] PROFIT WARNING FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Profit Warning / Inside Information)",
+  "time": "2026-08-10 18:05",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[F SSIFIRONORE F SSIFIRONORE-U] 9047, 3047 NEWS",
+  "time": "2026-08-10 18:06",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REF HOLDINGS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO GRANT OF SHARE OPTIONS (Share Scheme / Other - Miscellaneous)",
+  "time": "2026-08-10 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REM GROUP HLDGS] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-10 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WISE CSI300 ETF] WISE CSI300 ETF <02827> INFORMATION",
+  "time": "2026-08-10 18:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SIS INT'L] Results of Subsidiary (Results of a Subsidiary / Inside Information)",
+  "time": "2026-08-10 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GW TERROIR] CHANGE OF REGISTERED OFFICE ADDRESS IN BERMUDA (Change in Registered Address or Office, Registered Place of Business in HK or A",
+  "time": "2026-08-10 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WISE SSE50ETF] WISE SSE50 ETF <03024> INFORMATION",
+  "time": "2026-08-10 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[APAC RESOURCES APAC RES W2712] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
   "time": "2026-08-10 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TUYA-W] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "title": "[FOUNTAIN SET] MAJOR TRANSACTION AND CONTINUING CONNECTED TRANSACTIONS IN RELATION TO FINANCIAL SERVICES AGREEMENT (Major Transaction / Cont",
   "time": "2026-08-10 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WISE NEWECONESG] WISE NEWECONESG ETF <03182> INFORMATION",
-  "time": "2026-08-10 17:59",
+  "title": "[CITIC SEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-10 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[APAC RESOURCES APAC RES W2712] (1) CHANGE OF NON-EXECUTIVE DIRECTOR; (2) APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR; (3) CHANGE IN C",
-  "time": "2026-08-10 17:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CH MODERN D] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-10 17:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WANT WANT CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-10 17:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YLDKING N2908] Notice of Listing on The Stock Exchange of Hong Kong Limited - U.S.$450,000,000 4.55 per cent. Notes due 2029 of Yieldking I",
-  "time": "2026-08-10 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN XL2CSOPSMSN-U] ANNOUNCEMENT - Daily Targeted Leverage Factor (Matters relating to Collective Investmen",
-  "time": "2026-08-10 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TECHTRONIC IND] Next Day Disclosure Return(Equity issuer - changes in issued share capital and/or share buybacks) (Share Buyback)",
-  "time": "2026-08-10 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUGA INT'L] RESULTS OF ANNUAL GENERAL MEETING HELD ON 10 AUGUST 2026 (Results of AGM)",
-  "time": "2026-08-10 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RAYMOND IND] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-10 17:55",
+  "title": "[GW TERROIR] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-10 18:00",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国元证券] 国元证券股份有限公司2024年面向专业投资者公开发行公司债券（第三期）2026年付息公告",
-  "time": "2026-08-10 17:52",
+  "title": "[ST合纵] 关于收到执行通知书、执行裁定书暨重大诉讼的进展公告",
+  "time": "2026-08-10 18:00",
   "level": "🟢"
  }
 ]
