@@ -175,5 +175,14 @@
    "reason": "2家机构买入，成功率44.87%"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "symbol": "BTC",
+   "rate": 0.0089
+  },
+  {
+   "symbol": "ETH",
+   "rate": 0.0034
+  }
+ ]
 }
