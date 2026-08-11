@@ -1,177 +1,289 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CNE TECH CORP] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-08-11 20:06",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WEC ENERGY GROUP, INC. — 高管/董事变动",
+  "time": "2026-08-11",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONFIDENCE IN] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-08-11 19:42",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科德教育] 回购股份报告书",
-  "time": "2026-08-11 19:38",
+  "title": "[PER ENERGY] INSIDE INFORMATION PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-11 20:32",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GTHT] ANNOUNCEMENT ON THE CANCELLATION OF REPURCHASED A SHARES AND CHANGES IN SHARE CAPITAL (Other - Miscellaneous)",
-  "time": "2026-08-11 20:07",
+  "title": "[TIANJINJINRAN] POSITIVE PROFIT ALERT (Inside Information / Profit Warning)",
+  "time": "2026-08-11 20:17",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Syra Health Corp — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Apollo Global Management, Inc. — RegFD披露",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Athene Holding Ltd. — RegFD披露",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Idaho Copper Corp — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KIDZ AI Inc. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Adagio Medical Holdings, Inc. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PDS Biotechnology Corp — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ultragenyx Pharmaceutical Inc. — 其他重大事件",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ENERGY FOCUS, INC/DE — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Mereo BioPharma Group plc — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Veradermics, Inc — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TON Strategy Co — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Enviri Corp — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Theriva Biologics, Inc. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Butterfly Network, Inc. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ADAMAS TRUST, INC. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ManpowerGroup Inc. — 8-K",
+  "time": "2026-08-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LB PHARMACEUTICALS INC — 8-K",
+  "time": "2026-08-11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHONGTAIFUTURES] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 20:05",
+  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
+  "time": "2026-08-11 20:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ESTUN] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 20:04",
+  "title": "[A CICC USD A CICC USD-U] Stock Code : 9011, 3011 Information",
+  "time": "2026-08-11 20:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSPC PHARMA] VOLUNTARY ANNOUNCEMENT - PHASE I CLINICAL TRIAL OF SYS6063 FOR THE TREATMENT OF RELAPSED, REFRACTORY SYSTEMIC LUPUS ERYTHEMATO",
-  "time": "2026-08-11 20:02",
+  "title": "[NEXCHIP] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-11 20:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA JINMAO] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 20:02",
+  "title": "[SIMPLICITY HLDG] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE CIRCULAR (Other - Miscellaneous)",
+  "time": "2026-08-11 20:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SDHS NEW ENERGY] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 20:00",
+  "title": "[A CICC HKD] Stock Code : 3071 Information",
+  "time": "2026-08-11 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA JINMAO] ANNOUNCEMENT UNAUDITED SALES DATA FOR JULY 2026 (Other - Business Update)",
-  "time": "2026-08-11 20:00",
+  "title": "[ESTUN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-11 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MILLENNIUM PG] PROPOSED ISSUE OF CONVERTIBLE BONDS UNDER GENERAL MANDATE (Issue of Convertible Securities / Issue of Shares under a General",
-  "time": "2026-08-11 19:58",
+  "title": "[LAUNCH TECH] PROPOSED REVISION OF ANNUAL CAPS IN RELATION TO CONTINUING CONNECTED TRANSACTION (Continuing Connected Transaction)",
+  "time": "2026-08-11 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260811.xlsx",
-  "time": "2026-08-11 19:52",
+  "title": "[GOLDSTONE CAP] NET LIABILITIES VALUE (Net Asset Value)",
+  "time": "2026-08-11 20:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LINMON MEDIA] CONTINUING CONNECTED TRANSACTIONS RENEWAL OF THE LITERATURE WORK COPYRIGHT PURCHASE FRAMEWORK AGREEMENT (Continuing Connected",
-  "time": "2026-08-11 19:50",
+  "title": "[ESTUN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-11 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BEIJING MEDIA] NOTICE OF DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 19:48",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
+  "time": "2026-08-11 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SL GEMINI] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 19:44",
+  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
+  "time": "2026-08-11 20:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA AI INFRA] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 19:43",
+  "title": "[CEB BANK] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
+  "time": "2026-08-11 20:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
-  "time": "2026-08-11 19:40",
+  "title": "[FB SSH HIGH DIV] Summary Information",
+  "time": "2026-08-11 20:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINNEY ALLI] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-08-11 19:40",
+  "title": "[CEB BANK] ANNOUNCEMENT ON RESIGNATION OF EXECUTIVE DIRECTOR AND VICE PRESIDENT (Change in Directors or of Important Executive Functions or ",
+  "time": "2026-08-11 20:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GOLDWIND] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-11 19:39",
+  "title": "[FB TW SEMICON] Summary Information (3076)",
+  "time": "2026-08-11 20:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CPBIO] Continuing Connected Transactions (Continuing Connected Transaction)",
-  "time": "2026-08-11 19:38",
+  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "time": "2026-08-11 20:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GTHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-11 20:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REF HOLDINGS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-11 20:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENSCRIPT BIO] VOLUNTARY ANNOUNCEMENT: FINANCIAL RESULTS FOR THE SECOND QUARTER ENDED 30 JUNE 2026 OF A LISTED ASSOCIATE - LEGEND BIOTECH C",
+  "time": "2026-08-11 20:08",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华智数媒] 股票交易异常波动公告",
-  "time": "2026-08-11 20:02",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东北证券] 东北证券股份有限公司2026年面向专业投资者公开发行短期公司债券（第四期）票面利率公告",
-  "time": "2026-08-11 19:40",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科德教育] 第七届董事会第五次（临时）会议决议公告",
-  "time": "2026-08-11 19:38",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科德教育] 关于向全资子公司增资及变更其经营范围的公告",
-  "time": "2026-08-11 19:38",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科德教育] 关于对外投资在香港设立全资子公司及孙公司的公告",
-  "time": "2026-08-11 19:38",
+  "title": "[蓝盾光电] 股票交易异常波动公告",
+  "time": "2026-08-11 20:10",
   "level": "🟢"
  }
 ]
