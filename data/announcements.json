@@ -1,289 +1,205 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JACOBSON PHARMA] (1) POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON TUESDAY, 11 AUGUST 2026; (2) PAYMENT OF FINAL DIVIDEND; AND (3) APP",
-  "time": "2026-08-11 18:36",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 关于广东金马游乐股份有限公司申请向特定对象发行股票的审核问询函的回复（二次修订稿）",
+  "time": "2026-08-11 18:54",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 关于向特定对象发行股票第二轮审核问询函回复及募集说明书等申请文件更新的提示性公告",
+  "time": "2026-08-11 18:54",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 致同会计师事务所（特殊普通合伙）关于广东金马游乐股份有限公司申请向特定对象发行股票的审核问询函中有关财务会计问题的回复（修订稿）",
+  "time": "2026-08-11 18:54",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 关于广东金马游乐股份有限公司申请向特定对象发行股票的第二轮审核问询函的回复",
+  "time": "2026-08-11 18:54",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[潜能恒信] 南海22/05合同区重大合同进展公告",
+  "time": "2026-08-11 18:50",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUEXIU PROPERTY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-11 18:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JACOBSON PHARMA] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-08-11 18:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CEB WATER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update)",
-  "time": "2026-08-11 18:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SMART GLOBE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 18:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SEAZEN] UNAUDITED OPERATING STATISTICS FOR JULY 2026 (Other - Trading Update)",
-  "time": "2026-08-11 18:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CEB WATER] Overseas Regulatory Announcement - Results of the Exercise of the Resale Option for 2023 Third Tranche Medium Term Notes (Overse",
-  "time": "2026-08-11 18:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOSERA STAR50 BOSERA STAR50-R] Stock Code : 82832,2832 Information",
-  "time": "2026-08-11 18:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HKBN] CHANGE OF COMPANY SECRETARY AND AUTHORISED REPRESENTATIVE (Change in Company Secretary)",
-  "time": "2026-08-11 18:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-11 18:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AGTECH HOLDINGS] INSIDE INFORMATION - UNAUDITED TRIAL BALANCE FOR THE SECOND QUARTER OF 2026 OF MACAU PASS S.A. AND ANT BANK (MACAO) LIMITE",
-  "time": "2026-08-11 18:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHONGQING M&E] POSITIVE PROFIT ALERT (Inside Information)",
-  "time": "2026-08-11 18:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WISE SSE50ETF] WISE SSE50 ETF <03024> INFORMATION",
-  "time": "2026-08-11 18:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EG LEASING] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 18:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MIDEA GROUP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-11 18:28",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AV PROMOTIONS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 18:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOS HSK ETH BOS HSK ETH-U] 9009 & 3009 News",
-  "time": "2026-08-11 18:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LINK REIT] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-11 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI A50 AMUNDI A50-R] 2843 & 82843 News",
-  "time": "2026-08-11 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOS HSK BTC BOS HSK BTC-U] 9008 & 3008 News",
-  "time": "2026-08-11 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[1957 & CO.] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WISECSIHK100ETF] WISE CSIHK100 ETF <02825> INFORMATION",
-  "time": "2026-08-11 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI HK35 AMUNDI HK35-R] 3012 & 83012 News",
-  "time": "2026-08-11 18:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A BOS USD MM A BOS USD MM-U A BOS USD MM-R] 9196 & 3196 & 83196 News",
-  "time": "2026-08-11 18:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOS 20 UST BOS 20 UST A-U BOS 20 UST-U] 9156 & 3156 & 9107 News",
-  "time": "2026-08-11 18:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM SOL CAM SOL-U CAM SOL-R] 9460 & 3460 & 83460 News",
-  "time": "2026-08-11 18:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM BTC CAM BTC-U CAM BTC-R] 9042 & 3042 & 83042 News",
-  "time": "2026-08-11 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MBV INTL] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-11 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRADEGO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-11 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI G2 TECH 50] 3169 News",
-  "time": "2026-08-11 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MMG MMG B3010] ANNOUNCEMENT ON INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-11 18:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A PANDO INNO] 3056 News",
-  "time": "2026-08-11 18:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_11082026_EN",
-  "time": "2026-08-11 18:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-08-11 18:18",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 国联民生证券承销保荐有限公司关于广东金马游乐股份有限公司2026年度向特定对象发行股票之证券发行保荐书（修订稿）",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[广和通] 关于控股股东、实际控制人部分股份质押的公告",
-  "time": "2026-08-11 18:30",
+  "title": "[金马游乐] 2026年度向特定对象发行股票募集资金使用可行性分析报告（修订稿）",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[赢合科技] 2025年年度权益分派实施公告",
-  "time": "2026-08-11 18:28",
+  "title": "[金马游乐] 北京市中伦律师事务所关于广东金马游乐股份有限公司向特定对象发行股票的补充法律意见书（修订稿）",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[通灵股份] 关于对外担保的进展公告",
-  "time": "2026-08-11 18:24",
+  "title": "[金马游乐] 第四届董事会第二十次会议决议公告",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[泓博医药] 关于股票交易异常波动的公告",
-  "time": "2026-08-11 18:20",
+  "title": "[金马游乐] 关于2026年度向特定对象发行股票预案及相关文件修订说明的公告",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[天亿马] 关于与关联方共同投资设立合资公司暨关联交易的进展公告",
-  "time": "2026-08-11 18:12",
+  "title": "[金马游乐] 2026年度向特定对象发行股票方案论证分析报告（修订稿）",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[南极光] 关于公司及子公司部分银行账户被冻结的公告",
-  "time": "2026-08-11 18:10",
+  "title": "[金马游乐] 关于2026年度向特定对象发行股票预案（修订稿）披露的提示性公告",
+  "time": "2026-08-11 18:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[超捷股份] 超捷紧固系统（上海）股份有限公司关于完成工商变更登记并换发营业执照的公告",
-  "time": "2026-08-11 18:10",
+  "title": "[国民技术] H股公告（董事会会议通告）",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 国联民生证券承销保荐有限公司关于广东金马游乐股份有限公司2026年度向特定对象发行股票之上市保荐书（修订稿）",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 2026年度向特定对象发行股票募集说明书（二次修订稿）",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 关于2026年度向特定对象发行股票摊薄即期回报、采取填补措施及相关主体承诺（修订稿）的公告",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 2026年度向特定对象发行股票预案（修订稿）",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金马游乐] 关于调整公司2026年度向特定对象发行股票方案的公告",
+  "time": "2026-08-11 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[春光集团] 关于开立闲置募集资金现金管理专用结算账户的公告",
+  "time": "2026-08-11 18:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[国元证券] 国元证券股份有限公司2026年面向专业投资者公开发行公司债券（第四期）发行结果公告",
+  "time": "2026-08-11 18:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[联创股份] 关于受让内蒙古联和氟碳新材料有限公司20%股权的进展公告",
+  "time": "2026-08-11 18:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[威尔高] 董事会薪酬与考核委员会关于2026年限制性股票激励计划首次授予日激励对象人员名单的核实意见",
+  "time": "2026-08-11 18:45",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[威尔高] 上海君澜律师事务所关于江西威尔高电子股份有限公司2026年限制性股票激励计划首次授予相关事项之法律意见书",
+  "time": "2026-08-11 18:45",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[威尔高] 关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+  "time": "2026-08-11 18:45",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[威尔高] 第二届董事会第十五次会议决议公告",
+  "time": "2026-08-11 18:45",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[佳力奇] 关于参与认购宿州市高新区新动能创业投资合伙企业（有限合伙）基金份额的进展公告",
+  "time": "2026-08-11 18:40",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[富祥股份] 关于公司2026年半年度利润分配预案的公告",
+  "time": "2026-08-11 18:40",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[贝斯美] 第四届董事会第十七次会议决议公告",
+  "time": "2026-08-11 18:36",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[贝斯美] 关于对控股子公司增资的公告",
+  "time": "2026-08-11 18:36",
   "level": "🟢"
  }
 ]
