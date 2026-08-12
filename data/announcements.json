@@ -1,93 +1,226 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AI HEALTH TECH] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-08-12 20:48",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Embrace Change Acquisition Corp. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SYNOPSYS INC — 高管/董事变动",
+  "time": "2026-08-12",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[IMPRESSION DHP] Profit Warning (Inside Information / Profit Warning)",
-  "time": "2026-08-12 20:46",
+  "title": "[LIFETECH SCI] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-12 21:08",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST SERVICE] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE CHANGE IN USE OF PROCEEDS (Other - Business Update)",
-  "time": "2026-08-12 21:04",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Monopar Therapeutics — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "XCF Global, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alkermes plc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Vertical Data Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Neonode Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CleanCore Solutions, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Capstone Holding Corp. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HOME DEPOT, INC. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SPRUCE BIOSCIENCES, INC. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ADAMAS TRUST, INC. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Rimini Street, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DYADIC INTERNATIONAL INC — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PodcastOne, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LiveOne, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Kartoon Studios, Inc. — 其他重大事件",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CID Holdco, Inc. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SPLASH BEVERAGE GROUP, INC. — 8-K",
+  "time": "2026-08-12",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Aprea Therapeutics, Inc. — 8-K",
+  "time": "2026-08-12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HONGHUA GROUP] (1) RESIGNATION OF CHAIRMAN OF THE BOARD, EXECUTIVE DIRECTOR, CHAIRMAN OF NOMINATION COMMITTEE AND CHAIRMAN OF STRATEGIC INV",
-  "time": "2026-08-12 21:00",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-12 21:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CH INNOVATION] NET ASSET VALUE (Net Asset Value)",
-  "time": "2026-08-12 21:00",
+  "title": "[CICC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-12 21:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CATL] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM)",
-  "time": "2026-08-12 20:53",
+  "title": "[NEW CITY DEV] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-12 21:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HXTL] ANNOUNCEMENT - NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-12 20:53",
+  "title": "[NEW CITY DEV] ANNOUNCEMENT - APPOINTMENT AND REDESIGNATION OF CO-CHIEF EXECUTIVE OFFICER (Change in Chief Executive)",
+  "time": "2026-08-12 21:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AKESO] VOLUNTARY ANNOUNCEMENT - NMPA APPROVED THE 3RD INDICATION FOR (IVONESCIMAB, PD-1/VEGF) AS 1L TREATMENT FOR SQ-NSCLC (Other - Busines",
-  "time": "2026-08-12 20:51",
+  "title": "[WERIDE-W] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-12 21:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LIFETECH SCI] APPOINTMENT OF AUTHORISED REPRESENTATIVE (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-08-12 20:50",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-12 21:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEWTON RES] ANNOUNCEMENT PURSUANT TO RULES 13.51B(2), 13.51(2)(H) AND 13.51(2)(N)(IV) OF THE LISTING RULES (Change in a Director's or Super",
-  "time": "2026-08-12 20:44",
+  "title": "[HOLLY FUTURES] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-12 21:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAPLELEAF EDU] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-08-12 20:44",
+  "title": "[CSPC PHARMA] VOLUNTARY ANNOUNCEMENT - CHANGE OF TRUSTEE OF THE 2018 SHARE AWARD SCHEME (Share Scheme)",
+  "time": "2026-08-12 21:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAPLELEAF EDU] CHANGE OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND CHANGE IN COMPOSITION OF BOARD COMMITTEES (Change in Directors or of Import",
-  "time": "2026-08-12 20:42",
+  "title": "[DADI INTL GROUP] APPLICATION FOR A REVIEW BY THE GEM LISTING REVIEW COMMITTEE (Inside Information / Suspension)",
+  "time": "2026-08-12 21:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CC SECURITIES] PROPOSED FORMATION OF PARTNERSHIP (Inside Information)",
-  "time": "2026-08-12 20:39",
+  "title": "[HOPE LIFE INT] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-12 21:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XL2 BOS CHINEXT] Stock Code: 7234 Information",
+  "time": "2026-08-12 21:07",
   "level": "🟢"
  }
 ]
