@@ -1,37 +1,422 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[仙乐健康] 关于收到美国关税退税的公告",
-  "time": "2026-08-13 20:02",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LONGHUI INTL] (1) FINDINGS OF THE FORENSIC INVESTIGATION; (2) FINDINGS OF THE INTERNAL CONTROL REVIEW; AND (3) CONTINUED SUSPENSION OF TRAD",
+  "time": "2026-08-13 19:54",
+  "level": "🔴"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LIU CHONG HING] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 20:18",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GHPC] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-13 20:15",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LIU CHONG HING] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Books or Cha",
+  "time": "2026-08-13 20:12",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEWO] PROPOSED INTERIM DIVIDEND FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 20:10",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WG ENV TECH] Clarification Announcement To The Profit Warning (Profit Warning / Inside Information)",
+  "time": "2026-08-13 20:04",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEWO] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results / Dividend or Distribution / Closu",
+  "time": "2026-08-13 19:47",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PDS Biotechnology Corp — 8-K",
+  "time": "2026-08-13",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[熊猫乳品] 2026年第三次临时股东会决议公告",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ovid Therapeutics Inc. — 附件",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FATE THERAPEUTICS INC — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Tron Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HeartCore Enterprises, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FITLIFE BRANDS, INC. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SS Innovations International, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Banzai International, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ondas Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SONIDA SENIOR LIVING, INC. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lucid Diagnostics Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SPAR Group, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NEUROONE MEDICAL TECHNOLOGIES Corp — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Candel Therapeutics, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Pulmatrix, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Solo Brands, Inc. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MeiraGTx Holdings plc — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Elmet Group Co. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "VEEA INC. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DUKE Robotics Corp. — 8-K",
+  "time": "2026-08-13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GF SEC] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 20:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MCC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-13 20:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TONTINE WINES] ANNOUNCEMENT - PRE-CONDITIONAL VOLUNTARY CASH PARTIAL OFFER BY I WIN SECURITIES LIMITED FOR AND ON BEHALF OF MR. WANG HE TO ",
+  "time": "2026-08-13 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MCC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-13 20:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COSMOS MACH] Major and Connected Transaction in relation to Disposal of the Entire Equity Interest in the Target Company (Major Transaction",
+  "time": "2026-08-13 20:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SUNSHINE OIL] RESIGNATION OF CHIEF EXECUTIVE OFFICER (Change in Chief Executive)",
+  "time": "2026-08-13 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MCC] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-08-13 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CICC USD A CICC USD-U] Stock Code : 9011, 3011 Information",
+  "time": "2026-08-13 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CICC HKD] Stock Code : 3071 Information",
+  "time": "2026-08-13 20:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MODERNHEALTHTEC] SUPPLEMENTAL ANNOUNCEMENT TO THE AGM CIRCULAR IN RELATION TO THE RE-APPOINTMENT OF AUDITORS (Material Information after Is",
+  "time": "2026-08-13 20:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MCC] POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING APPOINTMENT OF DIRECTORS APPOINTMENT OF CHAIRMAN OF THE BOARD AND CHANGE ",
+  "time": "2026-08-13 20:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HASHKEY HLDGS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 20:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DICKSON CONCEPT] Announcement in Relation to Harvey Nichols in the United Kingdom (Other - Miscellaneous)",
+  "time": "2026-08-13 20:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260813.xlsx",
+  "time": "2026-08-13 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XD INC] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-13 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
+  "time": "2026-08-13 20:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEWO] CIRCULAR FOR THE EXTRAORDINARY GENERAL MEETING (Other)",
+  "time": "2026-08-13 20:06",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GDS-SW] ANNOUNCEMENT OF THE SECOND QUARTER 2026 RESULTS (Interim/Half-Year Report)",
+  "time": "2026-08-13 20:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HANKING GOLD] SUPPLEMENTAL ANNOUNCEMENT DISCLOSEABLE TRANSACTION AWARD OF THE EPC AND THE EPCM CONTRACTS FOR THE CONSTRUCTION OF THE 5.5 MT",
+  "time": "2026-08-13 20:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUAYUEXPRESSWAY] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 19:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRAGON MINING] REORGANISATION PROPOSAL-CHANGE OF THE HOLDING COMPANY OF THE GROUP FROM DRAGON MINING LIMITED (DOMICILED IN AUSTRALIA) TO DR",
+  "time": "2026-08-13 19:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEWO] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-08-13 19:58",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STANCHART] Notification of Admission to Trading and Publication of Final Terms (Overseas Regulatory Announcement - Debt Securities)",
+  "time": "2026-08-13 19:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HTSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-13 19:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEWO] PROXY FORM FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON TUESDAY, SEPTEMBER 1, 2026",
+  "time": "2026-08-13 19:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CC NEW LIFE] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 19:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
+  "time": "2026-08-13 19:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
   "time": "2026-08-13 19:50",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[熊猫乳品] 关于对中证中小投资者服务中心《股东建议函》回复的公告",
-  "time": "2026-08-13 19:50",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUICHENG INTL H] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 19:46",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA RAILWAY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-13 19:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STANCHART] HY 2026 Pillar 3 Disclosures (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-13 19:45",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熊猫乳品] 浙江金道律师事务所关于熊猫乳品集团股份有限公司2026年第三次临时股东会法律意见书",
-  "time": "2026-08-13 19:48",
+  "title": "[川环科技] 关于向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告",
+  "time": "2026-08-13 20:12",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[铭利达] 关于子公司募集资金账户部分资金被冻结的公告",
-  "time": "2026-08-13 19:42",
+  "title": "[阿石创] 关于向特定对象发行股票申请获得深圳证券交易所上市审核中心审核通过的公告",
+  "time": "2026-08-13 20:06",
   "level": "🟢"
  }
 ]
