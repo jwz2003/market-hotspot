@@ -1,100 +1,352 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[花园生物] 关于取得药品生产许可证的公告",
-  "time": "2026-08-13 15:50",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SF REIT] Interim Distribution for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 16:35",
   "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[ST恒信] 关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
-  "time": "2026-08-13 16:04",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CKH HOLDINGS] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 16:35",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA MOBILE CHINA MOBILE-R] CURRENCY ELECTION FOR 2026 INTERIM DIVIDEND CLOSURE OF REGISTER OF MEMBERS FOR HONG KONG SHARES AND ANNOUNCEME",
+  "time": "2026-08-13 16:33",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA MOBILE CHINA MOBILE-R] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ORBUSNEICH] Declaration of Interim Dividend and Closure of Register of Members (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-13 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RADIANCE HLDGS] EARNINGS PREANNOUNCEMENT (Profit Warning / Inside Information)",
+  "time": "2026-08-13 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[INNOGEN-B] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUHUI GROUP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHONGSHI MINAN] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[E. BON HOLDINGS] PROPOSED ADOPTION OF SHARE AWARD SCHEME AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Share Scheme)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IRICO NEWENERGY] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ROBOTPHOENIX] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MINTH GROUP] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CONCH CEMENT] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OMNIVISION] SUPPLEMENTAL ANNOUNCEMENT REGARDING SHARE PLEDGES BY CONTROLLING SHAREHOLDER (Charging or Pledging of Shares by Shareholder)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CC SECURITIES] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LC LOGISTICS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRISTATE HOLD] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AJISEN (CHINA)] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JY GAS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAIZHI TECH GP] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIMC ENRIC] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NISSIN FOODS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUIXIN CREDIT] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DEXIN SER GROUP] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CONCH CEMENT] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEWLINK TECH] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LAOPU GOLD] 2026 INTERIM RESULTS BRIEFING (Other - Miscellaneous)",
+  "time": "2026-08-13 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EDENSOFT] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CLOUD FACTORY] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOSUN PHARMA] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA MOBILE CHINA MOBILE-R] CUSTOMER STATISTICS FOR THE SECOND QUARTER OF 2026 (Other - Trading Update)",
+  "time": "2026-08-13 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MAOYE INT'L] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VEDAN INT'L] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIAXING GAS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FENGYINHE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LAOPU GOLD] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEUTECH GROUP] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WASION HOLDINGS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-13 16:31",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国元证券] 国元证券股份有限公司2026年面向专业投资者公开发行公司债券（第四期）在深圳证券交易所上市的公告",
-  "time": "2026-08-13 15:56",
+  "title": "[百洋医药] 关于控股股东及其一致行动人部分股份解除质押的公告",
+  "time": "2026-08-13 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[越秀资本] 广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券（第三期）在深圳证券交易所上市的公告",
-  "time": "2026-08-13 15:56",
+  "title": "[百邦科技] 国浩律师（南京）事务所关于北京百华悦邦科技股份有限公司2026年度向特定对象发行股票之法律意见书",
+  "time": "2026-08-13 16:33",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[普联软件] 关于普联转债预计触发赎回条件的提示性公告",
-  "time": "2026-08-13 15:50",
+  "title": "[百邦科技] 南京证券股份有限公司关于北京百华悦邦科技股份有限公司2026年度向特定对象发行股票之上市保荐书",
+  "time": "2026-08-13 16:33",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[科源制药] 关于控股股东部分股份解除质押及再质押的公告",
-  "time": "2026-08-13 15:42",
+  "title": "[百邦科技] 南京证券股份有限公司关于北京百华悦邦科技股份有限公司2026年度向特定对象发行股票之发行保荐书",
+  "time": "2026-08-13 16:33",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[上大股份] 华泰联合证券有限责任公司关于中和上大航空材料股份有限公司2026年半年度跟踪报告",
-  "time": "2026-08-13 15:41",
+  "title": "[百邦科技] 北京百华悦邦科技股份有限公司2026年度向特定对象发行股票募集说明书（申报稿）",
+  "time": "2026-08-13 16:33",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[英可瑞] 关于控股子公司取得发明专利证书的公告",
-  "time": "2026-08-13 15:41",
+  "title": "[百邦科技] 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告",
+  "time": "2026-08-13 16:33",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[智迪科技] 关于购买丰旭国际投资有限公司100%股权的进展公告",
-  "time": "2026-08-13 15:41",
+  "title": "[九洲集团] 关于部分新能源电站收到可再生能源发电补贴的公告",
+  "time": "2026-08-13 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[丝路视觉] 关于丝路转债回售的第六次提示性公告",
-  "time": "2026-08-13 15:39",
+  "title": "[赛意信息] 关于公司股东部分股份解除质押的公告",
+  "time": "2026-08-13 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威唐工业] 关于全资子公司取得发明专利证书的公告",
-  "time": "2026-08-13 15:39",
+  "title": "[广发证券] 广发证券股份有限公司关于“22广发08”及“22广发09”2026年付息的公告",
+  "time": "2026-08-13 16:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[迈克生物] 关于使用部分闲置募集资金进行现金管理的进展公告",
-  "time": "2026-08-13 15:39",
+  "title": "[铭利达] 关于子公司对外担保的进展公告",
+  "time": "2026-08-13 16:14",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[致欧科技] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-08-13 15:38",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[建邦科技] 关于完成工商变更登记并取得营业执照的公告",
-  "time": "2026-08-13 00:00",
+  "title": "[渤海租赁] 长城证券股份有限公司关于渤海租赁股份有限公司面向合格投资者公开发行公司债券临时受托管理事务报告",
+  "time": "2026-08-13 16:06",
   "level": "🟢"
  }
 ]
