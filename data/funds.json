@@ -175,5 +175,10 @@
    "reason": "主力做T，成功率21.02%"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "symbol": "ETH",
+   "rate": 0.0046
+  }
+ ]
 }
