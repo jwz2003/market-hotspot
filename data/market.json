@@ -115,35 +115,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 63076.0,
-  "pct": 0.06
+  "price": 63050.05,
+  "pct": 0.12
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1885.0,
+  "price": 1882.96,
   "pct": 0.37
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 75.63,
-  "pct": 0.55
+  "price": 75.58,
+  "pct": 0.56
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 611.01,
-  "pct": 0.84
+  "price": 610.34,
+  "pct": 0.69
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.0,
-  "pct": 0.15
+  "pct": 0.02
  }
 ]
