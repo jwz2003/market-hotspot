@@ -1,268 +1,289 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[爱丽家居] 爱丽家居科技股份有限公司关于股票交易停牌核查结果、股票交易风险提示暨复牌的公告",
-  "time": "2026-08-18 00:00",
-  "level": "🔴"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HK GOLD IND GP] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-17 22:54",
+  "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[瑞联新材] 关于与华星印刷签署技术许可协议暨开展印刷OLED材料业务的自愿性披露公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LX TECHNOLOGY] POSITIVE PROFIT ALERT AND DATE OF BOARD MEETING (Inside Information / Profit Warning / Date of Board Meeting)",
+  "time": "2026-08-17 22:50",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-17 22:47",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] (1) UNAUDITED INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 AND (2) PROPOSED AMENDMENTS TO THE ARTICLES OF ",
+  "time": "2026-08-17 22:45",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PKU RESOURCES] PROPOSED RE-ELECTION OF DIRECTORS AND PROPOSED RE-APPOINTMENT OF AUDITOR AND PROPOSED GENERAL MANDATES TO ISSUE SHARES AND T",
+  "time": "2026-08-17 22:36",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-17 22:34",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHANHIGH] PROFIT WARNING (Profit Warning)",
+  "time": "2026-08-17 22:25",
   "level": "🟡"
  },
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "UNITED STATES ANTIMONY CORP — 8-K",
+  "title": "VIRGINIA ELECTRIC & POWER CO — 8-K",
   "time": "2026-08-17",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "AMERICAN EXPRESS CO — RegFD披露",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JU FU TANG BIOT] COMPANY INFORMATION SHEET",
+  "time": "2026-08-17 22:54",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Narragansett Bancorp, Inc. — 8-K",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FINELAND LIVING] JOINT ANNOUNCEMENT (1) DELAY IN DESPATCH OF CIRCULAR RELATING TO (i) CONNECTED TRANSACTION AND SPECIAL DEAL IN RELATION TO",
+  "time": "2026-08-17 22:53",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "TIAA REAL ESTATE ACCOUNT — 8-K",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] FORM OF PROXY FOR USE AT THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING TO BE HELD ON 8 SEPTEMBER 2026",
+  "time": "2026-08-17 22:53",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Protopia Global Holdings Inc. — 8-K",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOLDEN FAITH GP] APPOINTMENT OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-08-17 22:52",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Vital Farms, Inc. — 8-K",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] NOTICE OF 2026 FOURTH EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-08-17 22:51",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CULLEN/FROST BANKERS, INC. — 8-K",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] (1) PROPOSED PROFIT DISTRIBUTION FOR THE FIRST HALF OF 2026; (2) PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION; (3) PROPOSE",
+  "time": "2026-08-17 22:50",
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Franklin BSP Real Estate Debt, Inc. — 其他重大事件",
-  "time": "2026-08-17",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA SANDI] PROPOSED CAPITAL REORGANISATION AND CHANGE IN BOARD LOT SIZE (Capital Reorganisation / Change in Board Lot Size / Trading Arra",
+  "time": "2026-08-17 22:48",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST网达] 第五届董事会第十一次会议决议公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KN HOSPITAL] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-17 22:48",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST海华] 青海华鼎2026年半年度报告摘要",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-08-17 22:48",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST网达] 关于使用部分闲置募集资金进行现金管理的进展公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-08-17 22:47",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST网达] 网达软件2026年半年度报告摘要",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHUANGXIN IND] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 AND CHANGE IN USE OF UNUTILISED NET PROCEEDS OF THE GLOB",
+  "time": "2026-08-17 22:42",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST海华] 青海华鼎2026年半年度报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PKU RESOURCES] FORM OF PROXY FOR ANNUAL GENERAL MEETING",
+  "time": "2026-08-17 22:41",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST网达] 网达软件2026年半年度报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[V&V TECH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-17 22:41",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST网达] 2026年半年度募集资金存放、管理与实际使用情况的专项报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CONGYU INTE AGR] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-08-17 22:39",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[恒逸石化] 浙江天册律师事务所关于恒逸石化股份有限公司提前赎回可转换公司债券的法律意见书",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PKU RESOURCES] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
+  "time": "2026-08-17 22:38",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[恒逸石化] 中信证券股份有限公司关于恒逸石化股份有限公司提前赎回“恒逸转2”的核查意见",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANGHAI FUDAN] INSIDE INFORMATION - ESTABLISHMENT OF AN INDUSTRIAL FUND AND RELATED PARTY TRANSACTION (Inside Information)",
+  "time": "2026-08-17 22:36",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[恒逸石化] 关于提前赎回“恒逸转2”的公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-17 22:36",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[聚和材料] 关于股票交易风险提示公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANGHAI FUDAN] CONNECTED TRANSACTION - FORMATION OF A JOINT VENTURE (Connected Transaction)",
+  "time": "2026-08-17 22:33",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰凌微] 首次公开发行部分限售股上市流通公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-17 22:33",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 2026年半年度报告摘要",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] DELAY IN DESPATCH OF CIRCULAR IN RELATION TO A MAJOR TRANSACTION (Delay in Dispatch of Circular or other Document / Major Tran",
+  "time": "2026-08-17 22:32",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰凌微] 简式权益变动报告书",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-17 22:32",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰凌微] 关于原一致行动协议到期解除、部分股东续签一致行动协议暨权益变动的提示性公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRCB] RESIGNATION OF THE PRESIDENT AND PROPOSED APPOINTMENT OF THE EXECUTIVE DIRECTOR AND PROPOSED APPOINTMENT OF THE NON-EXECUTIVE DIRECTO",
+  "time": "2026-08-17 22:32",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 关于2026年度“提质增效重回报”行动方案的半年度评估报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PINE TECH] ANNOUNCEMENT OF ANNUAL RESULTS FOR THE YEAR ENDED 30 JUNE 2026 (Final Results)",
+  "time": "2026-08-17 22:32",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 第三届董事会第十四次会议决议公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-17 22:31",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰凌微] 国投证券股份有限公司关于泰凌微电子（上海）股份有限公司首次公开发行部分限售股上市流通的核查意见",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP ASIA TECH A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3133,3121,3537 NE",
+  "time": "2026-08-17 22:31",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 2026年半年度募集资金存放、管理与使用情况专项报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANGHAI FUDAN] RESULTS ANNOUNCEMENT FOR THE HALF-YEAR ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-17 22:31",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰凌微] 国投证券股份有限公司关于泰凌微电子（上海）股份有限公司实际控制人一致行动协议续签情况的核查意见",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] CHANGE OF PRESIDENT AND APPOINTMENT OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsi",
+  "time": "2026-08-17 22:31",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 关于召开2026年半年度业绩说明会的公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CA CULTURAL] APPOINTMENT OF EXECUTIVE DIRECTORS (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-08-17 22:30",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[芯原股份] 2026年半年度报告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EMPEROR CAPITAL] Discloseable Transaction in relation to Disposal of Entire Equity Interest in Target Company (Discloseable Transaction)",
+  "time": "2026-08-17 22:30",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[曲江文旅] 西安曲江文化旅游股份有限公司第十届董事会第四十七次（临时）会议决议公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-17 22:29",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[曲江文旅] 西安曲江文化旅游股份有限公司关于会计政策变更的公告",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
+  "time": "2026-08-17 22:27",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[曲江文旅] 西安曲江文化旅游股份有限公司防范控股股东、实际控制人及其他关联方资金占用专项制度",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-17 22:26",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[曲江文旅] 西安曲江文化旅游股份有限公司关于控股股东所持部分股份拍卖进展公告",
-  "time": "2026-08-18 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中信海直] 2025年度社会责任报告（中文版）",
-  "time": "2026-08-18 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中信海直] 《内部控制管理办法》（2026年8月）",
-  "time": "2026-08-18 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CANBRIDGE-B] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-17 22:25",
   "level": "🟢"
  }
 ]
