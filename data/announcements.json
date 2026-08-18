@@ -1,282 +1,142 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSC] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-18 21:36",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOARDWARE INTEL] PROFIT ALERT (Profit Warning / Inside Information)",
-  "time": "2026-08-18 21:32",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSC] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution)",
-  "time": "2026-08-18 21:30",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHAW BROTHERS] PROFIT WARNING FOR THE SIX MONTHS ENDED 30 JUNE 2026 AND ANNOUNCEMENT IN RELATION TO RULE 10 OF THE TAKEOVERS CODE (Profit W",
-  "time": "2026-08-18 21:26",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT] Interim Dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-18 21:22",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Books or ",
-  "time": "2026-08-18 21:21",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[COOLPAD GROUP] PROFIT WARNING - REDUCTION IN LOSS (Profit Warning / Inside Information)",
-  "time": "2026-08-18 21:21",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TSAKER NE] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-18 21:18",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TECHNOVATOR] PROFIT ALERT (Profit Warning / Inside Information)",
-  "time": "2026-08-18 21:08",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-18 21:35",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Dallas — 2.03",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIASHILI GP] RESIGNATION OF EXECUTIVE DIRECTOR AND APPOINTMENT OF SENIOR CONSULTANT (Change in Directors or of Important Executive Function",
-  "time": "2026-08-18 21:35",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Safe Pro Group Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ORANGE SKY G H] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-18 21:34",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Pittsburgh — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SYNTRUST GK] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-18 21:31",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WRAP TECHNOLOGIES, INC. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[STARGLORY HLDGS] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE (Other - Business Update)",
-  "time": "2026-08-18 21:27",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Rexford Industrial Realty, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='fancy-note-",
-  "time": "2026-08-18 21:24",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Curaleaf Holdings, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT] INTERIM REPORT ON THE IMPLEMENTATION OF THE 2026 CORPORATE VALUE AND RETURN ENHANCEMENT ACTION PLAN (Other - Business Update)",
-  "time": "2026-08-18 21:23",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AIxCrypto Holdings, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF WEALTH MANAGEMENT PRODUCT (Discloseable Transaction)",
-  "time": "2026-08-18 21:23",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UNIVERSAL TECHNICAL INSTITUTE INC — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-18 21:20",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DYNARESOURCE, INC. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-18 21:19",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Super League Enterprise, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-18 21:18",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Virgin Galactic Holdings, Inc — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MAJESTIC DRAGON] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
-  "time": "2026-08-18 21:18",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Inspired Entertainment, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MAJESTIC DRAGON] ANNOUNCEMENT - APPOINTMENT OF EXECUTIVE DIRECTORS; CHANGE OF CHAIRMAN OF THE BOARD; RESIGNATION OF DIRECTOR (Change in Dir",
-  "time": "2026-08-18 21:17",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Amylyx Pharmaceuticals, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-18 21:17",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Xylem Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-18 21:15",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Privia Health Group, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SDITC] ELECTION OF AN EMPLOYEE REPRESENTATIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-08-18 21:13",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ONCOLYTICS BIOTECH INC — 其他重大事件",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-18 21:13",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GE HealthCare Technologies Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAICHANG HLDG] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
-  "time": "2026-08-18 21:13",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Weave Communications, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-18 21:13",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Dream Finders Homes, Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUXING INFOTECH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-18 21:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA GRAPHITE] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-18 21:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-18 21:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-18 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DEKON AGR] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-18 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-18 21:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-18 21:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAICHANG HLDG] (1) CHANGE OF BOARD COMPOSITION AND BOARD COMMITTEES (2) APPOINTMENT OF SENIOR MANAGEMENT AND (3) CHANGE OF AUTHORISED REPRE",
-  "time": "2026-08-18 21:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-18 21:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update)",
-  "time": "2026-08-18 21:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters / Overseas...<div class='fancy-note-t",
-  "time": "2026-08-18 21:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CICC USD A CICC USD-U] Stock Code : 9011, 3011 Information",
-  "time": "2026-08-18 21:06",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OneMeta Inc. — 8-K",
+  "time": "2026-08-18",
   "level": "🟢"
  }
 ]
