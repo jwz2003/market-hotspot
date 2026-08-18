@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25469.36,
-  "pct": 1.4
+  "price": 25497.51,
+  "pct": 1.52
  },
  {
   "cat": "index",
@@ -52,98 +52,98 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.82,
-  "pct": 11.02
+  "price": 15.91,
+  "pct": 11.65
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4457.6,
-  "pct": 0.9
+  "price": 4452.1,
+  "pct": 0.78
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 65.38,
-  "pct": -1.12
+  "price": 65.12,
+  "pct": -1.51
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 84.89,
-  "pct": 0.46
+  "price": 84.38,
+  "pct": -0.14
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.57,
-  "pct": -0.51
+  "price": 6.55,
+  "pct": -0.84
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.7,
-  "pct": 0.3
+  "pct": 0.45
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
   "price": 99.64,
-  "pct": -0.03
+  "pct": -0.04
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.73,
-  "pct": 0.32
+  "price": 159.72,
+  "pct": 0.31
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": 0.04
+  "pct": 0.01
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 64244.59,
-  "pct": 1.1
+  "price": 64114.74,
+  "pct": 1.02
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1900.25,
-  "pct": -0.13
+  "price": 1894.47,
+  "pct": -0.1
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 76.06,
-  "pct": 0.22
+  "price": 75.9,
+  "pct": 0.37
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 603.69,
-  "pct": -0.28
+  "price": 602.3,
+  "pct": -0.41
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.0,
-  "pct": -0.77
+  "price": 0.99,
+  "pct": -0.85
  }
 ]
