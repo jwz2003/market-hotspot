@@ -24,22 +24,22 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25489.43,
-  "pct": 0.07
+  "price": 25481.13,
+  "pct": 0.04
  },
  {
   "cat": "index",
   "symbol": "000001.SS",
   "name": "上证指数",
-  "price": 3927.25,
-  "pct": -1.58
+  "price": 3912.8,
+  "pct": -1.94
  },
  {
   "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
-  "price": 14168.02,
-  "pct": -3.11
+  "price": 14041.97,
+  "pct": -3.97
  },
  {
   "cat": "index",
@@ -59,8 +59,8 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4407.6,
-  "pct": 0.95
+  "price": 4410.8,
+  "pct": 1.03
  },
  {
   "cat": "commodity",
@@ -73,36 +73,36 @@
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 84.72,
-  "pct": -0.26
+  "price": 84.84,
+  "pct": -0.12
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.46,
-  "pct": -0.29
+  "price": 6.47,
+  "pct": -0.2
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.78,
-  "pct": 0.11
+  "pct": 0.14
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 99.58,
-  "pct": -0.07
+  "price": 99.56,
+  "pct": -0.09
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.38,
-  "pct": 0.03
+  "price": 159.42,
+  "pct": 0.05
  },
  {
   "cat": "forex",
@@ -115,28 +115,28 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 64294.0,
-  "pct": 0.27
+  "price": 64340.01,
+  "pct": 0.36
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1907.21,
-  "pct": 0.71
+  "price": 1910.92,
+  "pct": 1.03
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 76.75,
-  "pct": 1.82
+  "price": 76.98,
+  "pct": 2.0
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 601.78,
+  "price": 601.98,
   "pct": -0.24
  },
  {
@@ -144,6 +144,6 @@
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.0,
-  "pct": 0.61
+  "pct": 1.02
  }
 ]
