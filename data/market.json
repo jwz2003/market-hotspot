@@ -24,22 +24,22 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25346.9,
-  "pct": 0.07
+  "price": 25361.28,
+  "pct": -0.43
  },
  {
   "cat": "index",
   "symbol": "000001.SS",
   "name": "上证指数",
-  "price": 3990.3,
-  "pct": 0.19
+  "price": 3943.25,
+  "pct": -1.18
  },
  {
   "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
-  "price": 14622.5,
-  "pct": -0.56
+  "price": 14283.36,
+  "pct": -2.32
  },
  {
   "cat": "index",
@@ -59,63 +59,84 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4391.6,
-  "pct": -0.59
+  "price": 4407.3,
+  "pct": -0.24
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 62.93,
-  "pct": -4.83
+  "price": 63.18,
+  "pct": -4.45
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 85.01,
-  "pct": 0.6
+  "price": 84.97,
+  "pct": 0.56
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.45,
-  "pct": -2.29
+  "price": 6.46,
+  "pct": -2.23
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.78,
-  "pct": 3.46
+  "pct": 3.49
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 99.67,
-  "pct": 0.02
+  "price": 99.63,
+  "pct": -0.02
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.47,
-  "pct": 0.08
+  "price": 159.43,
+  "pct": 0.06
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": -0.03
+  "pct": -0.01
  },
  {
   "cat": "crypto",
-  "symbol": "BTCUSDT",
-  "name": "BTC",
-  "price": 64460.39,
-  "pct": 0.21
+  "symbol": "ETHUSDT",
+  "name": "ETH",
+  "price": 1911.79,
+  "pct": 0.48
+ },
+ {
+  "cat": "crypto",
+  "symbol": "SOLUSDT",
+  "name": "SOL",
+  "price": 76.72,
+  "pct": 1.44
+ },
+ {
+  "cat": "crypto",
+  "symbol": "BNBUSDT",
+  "name": "BNB",
+  "price": 603.07,
+  "pct": -0.13
+ },
+ {
+  "cat": "crypto",
+  "symbol": "XRPUSDT",
+  "name": "XRP",
+  "price": 1.0,
+  "pct": 0.14
  }
 ]
