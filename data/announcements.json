@@ -1,359 +1,310 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "COLLECTIVE ACQUISITION CORP. — 8-K",
-  "time": "2026-08-18",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIRST CAP GP] SUPPLEMENTAL ANNOUNCEMENT TO UPDATE IN RELATION TO THE DISCLAIMER OF OPINION ON GOING CONCERN SET OUT IN THE ANNUAL REPORT FO",
+  "time": "2026-08-19 18:29",
+  "level": "🔴"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SMIC] Notification of Approval of the Publication of 2026 Interim Results by the Board (Date of Board Meeting)",
+  "time": "2026-08-19 18:33",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINYUAN HCHEM] POSITIVE PROFIT ALERT (Profit Warning / Inside Information)",
+  "title": "[QINGDA ORIENTAL] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-19 18:25",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UNITED LAB] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-19 18:25",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUEXIUTRANSPORT] INTERIM DIVIDEND FOR THE HALF-YEAR PERIOD ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-19 18:24",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇瞳光学] 关于部分回购专户库存股注销完成后调整向特定对象发行股票发行数量上限的公告",
+  "time": "2026-08-19 18:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇瞳光学] 关于部分回购专户库存股注销完成暨股份变动的公告",
+  "time": "2026-08-19 18:26",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRADEGO] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-19 18:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA TANGSHANG] NOTIFICATION LETTER AND CHANGE REQUEST FORM FOR REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-08-19 18:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH TIANBAO GP] UNAUDITED INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-19 18:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIMES ELECTRIC] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-19 18:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINGSOFT] ANNOUNCEMENT OF THE RESULTS FOR THE THREE AND SIX MONTHS ENDED 30 JUNE 2026 (Inside Information / Interim Results)",
+  "time": "2026-08-19 18:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XXF] MAJOR TRANSACTION SALE AND LEASEBACK ARRANGEMENTS (Major Transaction)",
+  "time": "2026-08-19 18:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-19 18:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHERISH SUN] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-08-19 18:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHERISH SUN] APPOINTMENT OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-08-19 18:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZIJIN MINING] Announcement in relation to Convening of 2026 Interim Results Briefing (Other - Miscellaneous)",
+  "time": "2026-08-19 18:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH XINHUA EDU] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-19 18:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA TANGSHANG] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-08-19 18:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COWELL] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-08-19 18:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WISE SSE50ETF] WISE SSE50 ETF <03024> INFORMATION",
+  "time": "2026-08-19 18:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUEXIUTRANSPORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-19 18:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XD INC] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-19 18:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ASIA ALLIED INF] Next Day Disclosure Return (Others)",
+  "time": "2026-08-19 18:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUEXIUTRANSPORT] Nomination Committee - Terms of Reference (Terms of Reference of the Nomination Committee)",
+  "time": "2026-08-19 18:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-19 18:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINKONG INT CAP] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-08-19 18:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HX BLDG MAT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-19 18:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA TANGSHANG] Form of proxy for annual general meeting (or any adjournment thereof)",
+  "time": "2026-08-19 18:23",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[天禄科技] 关于持股5%以上股东所持公司股份被轮候冻结的公告",
+  "time": "2026-08-19 18:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[诚迈科技] 股票交易异常波动公告",
+  "time": "2026-08-19 18:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[安达维尔] 关于注销公司分公司及第二分公司的公告",
+  "time": "2026-08-19 18:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[安达维尔] 第四届董事会第十次会议决议公告",
+  "time": "2026-08-19 18:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[安达维尔] 关于公司组织机构调整的公告",
+  "time": "2026-08-19 18:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中汽股份] 关于预计触发转股价格向下修正条件的提示性公告",
+  "time": "2026-08-19 18:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迪安诊断] 关于控股股东股份质押续期的公告",
+  "time": "2026-08-19 18:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[三元生物] 关于对外投资的提示性公告",
+  "time": "2026-08-19 18:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[采纳股份] 关于股东协议转让股份的进展暨签署补充协议的公告",
+  "time": "2026-08-19 18:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇隆新材] 北京国枫律师事务所关于浙江汇隆新材料股份有限公司2026年第一次临时股东会的法律意见书",
+  "time": "2026-08-19 18:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇隆新材] 2026年第一次临时股东会决议公告",
+  "time": "2026-08-19 18:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇隆新材] 第五届董事会第一次会议决议公告",
+  "time": "2026-08-19 18:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇隆新材] 关于公司董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
+  "time": "2026-08-19 18:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇隆新材] 关于选举第五届董事会职工代表董事的公告",
+  "time": "2026-08-19 18:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[和晶科技] 无锡和晶科技股份有限公司关于公司与合并报表范围内的下属公司之间担保事项的进展公告",
   "time": "2026-08-19 18:06",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHENROPPT SPCS ZHENRO PPT] INSIDE INFORMATION - PROFIT WARNING (Inside Information / Profit Warning)",
-  "time": "2026-08-19 18:00",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHENRO SERVICES] INSIDE INFORMATION - PROFIT WARNING (Inside Information / Profit Warning)",
-  "time": "2026-08-19 18:00",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[K2 F&B] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-08-19 17:58",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHANJET] (1) PROPOSED RE-ELECTION OF DIRECTORS (2) PROPOSED RE-ELECTION OF SUPERVISORS AND (3) CLOSURE OF REGISTER OF MEMBERS (Change in Di",
-  "time": "2026-08-19 17:57",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHAMPION REIT CHAMP MTN N3006] INTERIM DISTRIBUTION FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-19 17:57",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华康洁净] 关于项目中标的提示性公告",
-  "time": "2026-08-19 17:48",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[罗博特科] 关于签订日常经营重大合同的公告",
-  "time": "2026-08-19 17:44",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Datavault AI Inc. — 8-K",
-  "time": "2026-08-19",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CXApp Inc. — 8-K",
-  "time": "2026-08-19",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EDAP TMS SA — 8-K",
-  "time": "2026-08-19",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Duolingo, Inc. — RegFD披露",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "JBS N.V. — 8-K",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NEWS CORP — 8-K",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Skye Bioscience, Inc. — 3.01",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Twist Bioscience Corp — RegFD披露",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Backblaze, Inc. — 8-K",
-  "time": "2026-08-18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] Documents on Display",
-  "time": "2026-08-19 18:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TERN PROPERTIES] ANNOUNCEMENT RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 19 AUGUST 2026 (Results of AGM)",
-  "time": "2026-08-19 18:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A VP RMB MM A VP RMB MM-R] Stock Code: 3420 Information",
-  "time": "2026-08-19 18:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A VP USD MM A VP USD MM-U] Stock Code: 3480 Information",
-  "time": "2026-08-19 18:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ES SERVICES] VOLUNTARY ANNOUNCEMENT - CANCELLATION OF THE REPURCHASED SHARES (Other - Miscellaneous)",
-  "time": "2026-08-19 18:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZENSUN ENT] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-19 18:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GOLDEN THROAT] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-19 18:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREEN FRESH BIO] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-19 18:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-19 18:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA SANDI] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-19 17:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MBC BTC MBC BTC-U] 3430&9430 News",
-  "time": "2026-08-19 17:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS (Other)",
-  "time": "2026-08-19 17:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MBC ETH MBC ETH-U] 3425&9425 News",
-  "time": "2026-08-19 17:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MACAU LEGEND] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-19 17:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] NOTIFICATION LETTER AND CHANGE REQUEST FORM TO REGISTERED SHAREHOLDERS (Other)",
-  "time": "2026-08-19 17:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DATANG RENEW] ANNOUNCEMENT - COMPLETION OF ISSUANCE OF 2026 SIXTH TRANCHE OF ULTRA-SHORT-TERM DEBENTURES (Overseas Regulatory Announcement ",
-  "time": "2026-08-19 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-08-19 17:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] FORM OF PROXY FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON 8 SEPTEMBER 2026 (OR AT ANY ADJOURNMENT THEREOF)",
-  "time": "2026-08-19 17:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIME INTERCON] NEXT DAY DISCLOSURE RETURN (Others)",
-  "time": "2026-08-19 17:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[C FIN SERVICES] DISCLOSEABLE TRANSACTION PROVISION OF FINANCIAL ASSISTANCE (Discloseable Transaction)",
-  "time": "2026-08-19 17:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WANTIAN] DISCLOSEABLE AND CONNECTED TRANSACTIONS IN RELATION TO (1) EARLY TERMINATION OF CATERING TENANCY AND OFFICE TENANCY; AND (2)",
-  "time": "2026-08-19 17:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YOUZAN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-19 17:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIMES ELECTRIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-19 17:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] Next Day Disclosure Return (Others)",
-  "time": "2026-08-19 17:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ORIENTAL M G] Poll Results of the 2026 Annual General Meeting held on 19 August 2026 (Results of AGM)",
-  "time": "2026-08-19 17:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PARKSON GROUP] UPDATES ON DIRECTOR'S INFORMATION (Change in a Director's or Supervisor's Biographical Details)",
-  "time": "2026-08-19 17:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[迦南智能] 关于全资子公司与专业投资机构共同投资的进展暨注销登记完成公告",
-  "time": "2026-08-19 17:56",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科源制药] 关于控股股东部分股份解除质押及再质押的公告",
-  "time": "2026-08-19 17:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[碧水源] 关于选举董事完成的公告",
-  "time": "2026-08-19 17:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[碧水源] 关于北京碧水源科技股份有限公司2026年第二次临时股东会的法律意见书",
-  "time": "2026-08-19 17:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[碧水源] 2026年第二次临时股东会决议公告",
-  "time": "2026-08-19 17:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 关于为子公司提供担保的进展公告",
-  "time": "2026-08-19 17:44",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[西部证券] 关于延长西部证券股份有限公司2026年面向专业投资者公开发行公司债券（第五期）簿记建档时间的公告",
-  "time": "2026-08-19 17:36",
   "level": "🟢"
  }
 ]
