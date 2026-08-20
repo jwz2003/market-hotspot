@@ -1,44 +1,65 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VP DIV LO VOL] Stock Code: 3488 Information",
-  "time": "2026-08-20 10:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM MSCIINDIA CAM MSCIINDIA-U CAM MSCIINDIA-R] Summary Information (3404,9404,83404)",
-  "time": "2026-08-20 10:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM 20 UST CAM 20 UST-U CAM 20 UST A-U CAM 20 UST-R] Summary Information (9146,3146,83146,9446)",
-  "time": "2026-08-20 09:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FL2CAMNDQ100 FI2CAMNDQ100] Summary Information (7261,7522)",
-  "time": "2026-08-20 09:57",
-  "level": "🟢"
- },
- {
   "src": "巨潮",
   "market": "A股",
-  "title": "[合康新能] 北京市中伦律师事务所关于北京合康新能科技股份有限公司向特定对象发行股票的法律意见书",
-  "time": "2026-08-20 07:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华邦健康] 关于召开2026年第二次临时股东会的通知",
+  "title": "[东方雨虹] 关于债务重组的公告",
   "time": "2026-08-20 00:00",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A GXS&P500CC GX CL HK-US A GXNASDAQCC AGX HSDIV ENH A GXS&P500CC-U GX CL HK-US-U A GXNASDAQCC-U AGX HSDIV ENH-U GX CL HK-US-R AGX HSDIV ENH",
+  "time": "2026-08-20 10:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SILKWAVE INC] TRADING HALT (Trading Halt)",
+  "time": "2026-08-20 10:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX CN LIL GIANT GX CN MEDTECH GX APAC GX ASUSD BOND A GX INDIA A GX EM ASIA GX JP GL LEADER GX KPOP CULTURE GX INDIA TOP 10 GX AI INFRA GX ",
+  "time": "2026-08-20 10:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX CN CONSUME GX CN ROBO&AI GX CN CLN EN GX CN BIOTECH GX CN CLOUD GX HS TECH GX CN EV BATT A GX AI TECH GX HS ESG GX MSCI CHINA GX CN GL L",
+  "time": "2026-08-20 10:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XL2 BOS CHINEXT] Stock Code: 7234 Information",
+  "time": "2026-08-20 10:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PHILLIP HKNEWEQ] Summary Information",
+  "time": "2026-08-20 10:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SAMSUNG REITS SAMSUNG REITS-U] 3187 information",
+  "time": "2026-08-20 10:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SAMSUNGCDGN SAMSUNGCDGN-U] 2812 information",
+  "time": "2026-08-20 10:19",
   "level": "🟢"
  }
 ]
