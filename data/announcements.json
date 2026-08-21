@@ -1,219 +1,415 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IRC] POSITIVE PROFIT ALERT (Profit Warning / Inside Information)",
-  "time": "2026-08-21 21:02",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Meridian3 Industrials Acquisition Corp — 8-K",
+  "time": "2026-08-21",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHONGLIANG HLDG] INSIDE INFORMATION - PROFIT WARNING (Inside Information / Profit Warning)",
-  "time": "2026-08-21 21:00",
+  "title": "[XINJI SHAXI] POSITIVE PROFIT ALERT (Profit Warning / Inside Information)",
+  "time": "2026-08-21 21:37",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DETAI NEWENERGY] VOLUNTARY ANNOUNCEMENT MEMORANDUM OF UNDERSTANDING IN RELATION TO PROPOSED ACQUISITION AND CONTINUED SUSPENSION OF TRADING",
-  "time": "2026-08-21 20:55",
+  "title": "[YOFC] Interim Dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-21 21:36",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZACD] POSITIVE PROFIT ALERT (Profit Warning)",
-  "time": "2026-08-21 20:44",
+  "title": "[YOFC] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution)",
+  "time": "2026-08-21 21:32",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SPRING REIT] NEXT DAY DISCLOSURE RETURN (Others / Share Buyback)",
-  "time": "2026-08-21 20:40",
+  "title": "[GANGYU SERVICES] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-21 21:31",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MICROTECH MED-B] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-21 21:07",
+  "title": "[HAOHAI BIOTEC] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX-MONTH PERIOD ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-21 21:29",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAOHAI BIOTEC] DISTRIBUTION AND PAYMENT OF 2026 INTERIM DIVIDEND AND CLOSURE OF REGISTER OF MEMBERS (Dividend or Distribution / Closure of ",
+  "time": "2026-08-21 21:18",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MODINE MANUFACTURING CO — 5.07",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CDT Equity Inc. — 附件",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WATERS CORP /DE/ — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FIRST INTERSTATE BANCSYSTEM INC — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Sky Quarry Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Werewolf Therapeutics, Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Direct Digital Holdings, Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AMC Robotics Corp — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Odysight.ai Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SPLASH BEVERAGE GROUP, INC. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ALLIANT ENERGY CORP — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "INTERSTATE POWER & LIGHT CO — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Latham Group, Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Wheeler Real Estate Investment Trust, Inc. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BOSTON OMAHA Corp — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "reAlpha Tech Corp. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Synergy CHC Corp. — 8-K",
+  "time": "2026-08-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lyntris Inc. — 8-K",
+  "time": "2026-08-21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EAST BUY] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-08-21 21:05",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-21 21:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOGAN GROUP LOGAN GRP N2612 LOGAN GRP N2801] PROGRESS OF HOLISTIC RESTRUCTURING (Other - Miscellaneous)",
-  "time": "2026-08-21 21:04",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-08-21 21:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] Documents on Display",
-  "time": "2026-08-21 21:04",
+  "title": "[TYCOON GROUP] FORM OF PROXY FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON FRIDAY, 11 SEPTEMBER 2026 OR ANY ADJOURNMENT OR POSTPONEMEN",
+  "time": "2026-08-21 21:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] Notification Letter to Non-registered Shareholders and Request Form (Other)",
-  "time": "2026-08-21 21:03",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-21 21:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] Notification Letter to Registered Shareholders and Change Request Form (Other)",
-  "time": "2026-08-21 21:03",
+  "title": "[EDA GROUP HLDGS] MAJOR TRANSACTION IN RELATION TO THE LEASE AGREEMENT (Major Transaction)",
+  "time": "2026-08-21 21:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ITC PROPERTIES] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-08-21 21:03",
+  "title": "[ICBCCSOP CGPB] 3199 NEWS",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] PROXY FORM",
-  "time": "2026-08-21 21:02",
+  "title": "[HANVEY GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[REPUBLIC HC] MAJOR TRANSACTION: DISPOSAL OF ENTIRE EQUITY INTEREST IN A SUBSIDIARY - DELAY IN DESPATCH OF CIRCULAR AND GRANT OF WAIVER FROM",
-  "time": "2026-08-21 21:01",
+  "title": "[XL2 BOS CHINEXT] Stock Code: 7234 Information",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-08-21 21:01",
+  "title": "[KPM HOLDING] POLL RESULTS OF EXTRAORDINARY GENERAL MEETING HELD ON 21 AUGUST 2026 (Results of EGM/SGM)",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TAIZHOU WATER] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-21 21:00",
+  "title": "[TYCOON GROUP] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAPITAL IND FIN] (I) PROPOSED SHARE CONSOLIDATION; (II) PROPOSED RIGHTS ISSUE ON THE BASIS OF ONE (1) RIGHTS SHARE FOR EVERY ONE (1) CONSOL",
-  "time": "2026-08-21 21:00",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update / Overseas Regulatory Announcement -...<div class='fancy-no",
+  "time": "2026-08-21 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DATANG POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-21 21:00",
+  "title": "[ESTUN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-21 21:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ITC PROPERTIES] (1) POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 21 AUGUST 2026; (2) RETIREMENT OF AUDITOR; (3) CHANGE OF DIRECTORS; ",
-  "time": "2026-08-21 20:59",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update / Overseas Regulatory Announcement -...<div class='fancy-no",
+  "time": "2026-08-21 21:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EAST BUY] RESIGNATION OF NON-EXECUTIVE DIRECTOR AND CHANGE OF COMPOSITION OF THE REMUNERATION COMMITTEE (Change in Directors or of Importan",
-  "time": "2026-08-21 20:58",
+  "title": "[A CSOP RMB MM] 3122 NEWS",
+  "time": "2026-08-21 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DATANG POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-21 20:55",
+  "title": "[TYCOON GROUP] (1) PROPOSED REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS WITH JBM GROUP; (2) CONTINUING CONNECTED TRANSACTI",
+  "time": "2026-08-21 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PHARMARON] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-21 20:53",
+  "title": "[VODATEL NETWORK] BUSINESS AND FINANCIAL HIGHLIGHTS FOR THE SIX-MONTH PERIOD (Interim Results)",
+  "time": "2026-08-21 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CH GENERAL EDU] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-08-21 20:50",
+  "title": "[A CSOP USD MM] 3096 NEWS",
+  "time": "2026-08-21 21:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MINIMAX-W] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-08-21 20:50",
+  "title": "[BE FRIENDS HLDG] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LEADWAY TECH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-21 20:48",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-08-21 21:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHONGTAIFUTURES] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-21 20:46",
+  "title": "[WING LEE PPT] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MINIMAX-W] (1) RESIGNATION AND APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTORS; AND (2) CHANGES IN THE COMPOSITION OF BOARD COMMITTEES (",
-  "time": "2026-08-21 20:45",
+  "title": "[TYCOON GROUP] Documents on Display",
+  "time": "2026-08-21 21:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EG LEASING] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-21 20:44",
+  "title": "[ESTUN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-21 21:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[QUNABOX GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-21 20:43",
+  "title": "[MAXICITY] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SPRING REIT] PAYMENT OF BASE FEE AND VARIABLE FEE TO SPRING ASSET MANAGEMENT LIMITED BY WAY OF UNITS IN SPRING REAL ESTATE INVESTMENT TRUST",
-  "time": "2026-08-21 20:39",
+  "title": "[FIN STREET SEC] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[REF HOLDINGS] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-21 20:38",
+  "title": "[ESTUN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-21 21:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TYCOON GROUP] FORM OF PROXY FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON FRIDAY, 11 SEPTEMBER 2026 OR ANY ADJOURNMENT OR POSTPONEMEN",
+  "time": "2026-08-21 21:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINTE ENERGY] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIBOCOM] OVERSEAS REGULATORY ANNOUNCEMENT - Fibocom Wireless Inc. ANNOUNCEMENT ON THE PROGRESS OF THE MAJOR ASSET REORGANISATION (Overseas ",
+  "time": "2026-08-21 21:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAOHAI BIOTEC] CHANGE OF AUTHORIZED REPRESENTATIVE (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-08-21 21:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIRST CAP GP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TYCOON GROUP] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-08-21 21:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LINGBAO GOLD] (1) RE-DESIGNATION OF THE PRESIDENT AS HONORARY PRESIDENT AND CONTINUATION OF HIS SERVICE AS AN EXECUTIVE DIRECTOR; AND (2) A",
+  "time": "2026-08-21 21:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CRYPTO FLOW] SUPPLEMENTAL ANNOUNCEMENT EXTENSION OF PLACING AGREEMENT (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-08-21 21:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PROSPEROUS IND] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-21 21:20",
   "level": "🟢"
  }
 ]
