@@ -73,7 +73,7 @@
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 86.64,
+  "price": 87.06,
   "pct": -0.88
  },
  {
@@ -87,7 +87,7 @@
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 2.8,
+  "price": 2.81,
   "pct": 1.46
  },
  {
@@ -115,35 +115,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 78270.87,
-  "pct": 4.71
+  "price": 78734.99,
+  "pct": 5.03
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2515.98,
-  "pct": 7.3
+  "price": 2524.35,
+  "pct": 7.46
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 96.76,
-  "pct": 8.46
+  "price": 100.22,
+  "pct": 12.43
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 717.67,
-  "pct": 8.51
+  "price": 719.66,
+  "pct": 8.89
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.57,
-  "pct": 19.65
+  "price": 1.65,
+  "pct": 25.95
  }
 ]
