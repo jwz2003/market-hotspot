@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25516.48,
-  "pct": -1.9
+  "price": 25502.82,
+  "pct": -1.95
  },
  {
   "cat": "index",
@@ -52,98 +52,98 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.91,
-  "pct": 5.16
+  "price": 15.95,
+  "pct": 5.42
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4701.3,
-  "pct": 1.67
+  "price": 4696.6,
+  "pct": 1.57
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 69.08,
-  "pct": -0.56
+  "price": 68.92,
+  "pct": -0.79
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 85.22,
-  "pct": -2.11
+  "price": 85.62,
+  "pct": -1.65
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.59,
-  "pct": 0.11
+  "price": 6.58,
+  "pct": 0.04
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.8,
-  "pct": 0.87
+  "pct": 1.05
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 98.92,
-  "pct": 0.12
+  "price": 98.96,
+  "pct": 0.16
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.1,
-  "pct": 0.14
+  "price": 159.19,
+  "pct": 0.19
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.17,
-  "pct": -0.08
+  "pct": -0.15
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 77460.0,
-  "pct": 1.78
+  "price": 77343.4,
+  "pct": 1.61
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2455.65,
-  "pct": 2.77
+  "price": 2455.31,
+  "pct": 2.51
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 94.14,
-  "pct": 1.81
+  "price": 94.28,
+  "pct": 1.8
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 699.54,
-  "pct": 1.91
+  "price": 698.14,
+  "pct": 1.88
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.48,
-  "pct": 2.39
+  "price": 1.47,
+  "pct": 0.89
  }
 ]
