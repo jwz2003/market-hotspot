@@ -2,57 +2,162 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHIHU-W] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-08-24 07:30",
+  "title": "[HIGH FASHION] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-24 08:01",
   "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ADIAL PHARMACEUTICALS, INC. — 3.01",
-  "time": "2026-08-21",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HIGH FASHION] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Closure of Books or Change of Book Closure Period / ",
+  "time": "2026-08-24 07:59",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HIGH FASHION] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-24 07:55",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES A50 ISHARES A50-R] 2823, 82823 NEWS",
+  "time": "2026-08-24 08:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SDHS NEW ENERGY] NOTIFICATION LETTER AND REPLY FORM TO REGISTERED SHAREHOLDER (Other)",
-  "time": "2026-08-24 07:37",
+  "title": "[ISHARESCSI300 ISHARESHSI ISHARESHSI-U ISHARESCSI300-U ISHARESCSI300-R ISHARESHSI-R] 2846, 9846, 82846, 3115, 9115, 83115 NEWS",
+  "time": "2026-08-24 08:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[IMPACT THERAP-B] VOLUNTARY ANNOUNCEMENT - INCLUSION AS A CONSTITUENT OF HANG SENG COMPOSITE INDEX (Other - Business Update)",
-  "time": "2026-08-24 07:35",
+  "title": "[ABF PAIF] ABF PAN ASIA BOND INDEX FUND (STOCK CODE : 2821) INFORMATION",
+  "time": "2026-08-24 08:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SDHS NEW ENERGY] DOCUMENTS ON DISPLAY",
-  "time": "2026-08-24 07:35",
+  "title": "[TIANJUDIHE] DISCLOSEABLE AND CONNECTED TRANSACTION IN RELATION TO DISPOSAL OF NOTES (Discloseable Transaction / Connected Transaction)",
+  "time": "2026-08-24 08:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SDHS NEW ENERGY] MAJOR TRANSACTIONS IN RELATION TO THE EPC CONTRACT (Major Transaction)",
-  "time": "2026-08-24 07:32",
+  "title": "[DIAGENS-B] VOLUNTARY ANNOUNCEMENT - SELECTION AS A CONSTITUENT OF CERTAIN INDEXES OF HANG SENG INDEXES COMPANY LIMITED (Other - Miscellaneo",
+  "time": "2026-08-24 08:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-24 07:16",
+  "title": "[ZTO EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-24 08:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHEIN-W] Documents on Display",
-  "time": "2026-08-24 07:10",
+  "title": "[AIM VACCINE] VOLUNTARY ANNOUNCEMENT SUBMISSION OF THE APPLICATION FOR MARKETING REGISTRATION OF THE ITERATIVE PROCESS HIGH-POTENCY HUMAN DI",
+  "time": "2026-08-24 08:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR XI2CSOPCOIN-U XI2CSOPTSLA-U XI2",
+  "time": "2026-08-24 07:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SDHG] DOCUMENTS ON DISPLAY",
+  "time": "2026-08-24 07:44",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SDHG] PROXY FORM",
+  "time": "2026-08-24 07:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SDHG] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-08-24 07:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SDHG] MAJOR TRANSACTIONS IN RELATION TO THE EPC CONTRACT AND NOTICE OF SPECIAL GENERAL MEETING (Major Transaction)",
+  "time": "2026-08-24 07:40",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SDHS NEW ENERGY] NOTIFICATION LETTER AND REPLY FORM TO NON-REGISTERED SHAREHOLDER (Other)",
+  "time": "2026-08-24 07:38",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TOP EDUCATION] INSIDE INFORMATION ANNOUNCEMENT - UPDATE ON DATA SECURITY INCIDENT (Inside Information)",
+  "time": "2026-08-24 07:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 上海市锦天城律师事务所关于金富科技股份有限公司2026年度以简易程序向特定对象发行股票的法律意见书",
+  "time": "2026-08-24 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 金富科技股份有限公司最近一年的财务报告及其审计报告以及最近一期的财务报告",
+  "time": "2026-08-24 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 光大证券股份有限公司关于金富科技股份有限公司2026年度以简易程序向特定对象发行股票之上市保荐书",
+  "time": "2026-08-24 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 光大证券股份有限公司 关于金富科技股份有限公司2026年度以简易程序向特定对象发行股票之发行保荐书",
+  "time": "2026-08-24 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 金富科技股份有限公司2026年度以简易程序向特定对象发行股票募集说明书(申报稿)",
+  "time": "2026-08-24 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金富科技] 关于以简易程序向特定对象发行股票申请获得深圳证券交易所受理的公告",
+  "time": "2026-08-24 07:54",
   "level": "🟢"
  }
 ]
