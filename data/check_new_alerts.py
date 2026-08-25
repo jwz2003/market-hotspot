@@ -1,5 +1,4 @@
-import json, os, sys
-
+import json, os
 lp = os.path.expanduser('~/market-hotspot/data/last_pushed.txt')
 last = open(lp).read().strip() if os.path.exists(lp) else ''
 items = json.load(open(os.path.expanduser('~/market-hotspot/data/alerts_pending.json')))
