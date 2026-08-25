@@ -2,29 +2,50 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[QFIN-S] Dividend Announcement for the First Half of 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-26 07:07",
+  "title": "[INDIGO STAR] VERY SUBSTANTIAL ACQUISITION IN RELATION TO THE ACQUISITION OF PROPERTY IN SINGAPORE AND NOTICE OF EXTRAORDINARY GENERAL MEETI",
+  "time": "2026-08-26 07:31",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BRETON] PROFIT ALERT - REDUCTION IN LOSS (Profit Warning / Inside Information)",
-  "time": "2026-08-26 07:07",
+  "title": "[MANULIFE-S] Manulife declares common share dividend (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-26 07:10",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[QFIN-S] ANNOUNCEMENT OF THE SECOND QUARTER AND INTERIM 2026 FINANCIAL RESULTS AND SEMI-ANNUAL DIVIDEND (Interim/Half-Year Report)",
-  "time": "2026-08-26 07:00",
-  "level": "🟡"
+  "title": "[INDIGO STAR] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-08-26 07:35",
+  "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AKESO] VOLUNTARY ANNOUNCEMENT - AK112-309/HARMONI-GI1 MET PRIMARY ENDPOINT OF OS IVONESCIMAB PLUS CHEMO DEMONSTRATES STATISTICALLY SIGNIFIC",
-  "time": "2026-08-26 07:00",
+  "title": "[INDIGO STAR] FORM OF PROXY",
+  "time": "2026-08-26 07:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QUAM PLUS FIN] DISCLOSEABLE TRANSACTION IN RELATION TO THE SUBSCRIPTION OF LISTED SECURITIES (Discloseable Transaction)",
+  "time": "2026-08-26 07:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-26 07:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Notification of Transactions by Persons Discharging Managerial Responsibilities (Overseas Regulatory Announcement - Corporat",
+  "time": "2026-08-26 07:15",
   "level": "🟢"
  }
 ]
