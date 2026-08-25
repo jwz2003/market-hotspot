@@ -1,289 +1,37 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VEDAN INT'L] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-25 22:57",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RENZE HARVEST] POSITIVE PROFIT ALERT (Profit Warning / Inside Information)",
-  "time": "2026-08-25 22:54",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] Cash Dividend Announcement for Equity Issuer (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-25 22:53",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] ANNOUNCEMENT ON THE INTERIM DIVIDEND DISTRIBUTION PLAN FOR 2026 (Dividend or Distribution)",
-  "time": "2026-08-25 22:50",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KUNLUN ENERGY] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-25 22:49",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VEDAN INT'L] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Bo",
-  "time": "2026-08-25 22:45",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KUNLUN ENERGY] ANNOUNCEMENT OF RESULTS (Interim Results / Closure of Books or Change of Book Closure Period / Dividend or Distribution)",
-  "time": "2026-08-25 22:44",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BFB HEALTH] POSITIVE PROFIT ALERT (Profit Warning / Inside Information)",
-  "time": "2026-08-25 22:40",
-  "level": "🟡"
- },
- {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "Endovia Health Sciences, Inc. — 8-K",
+  "title": "ExchangeRight Income Fund — 其他重大事件",
   "time": "2026-08-25",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] ANNOUNCEMENT IN RELATION TO THE RECOGNITION OF THE FAIR VALUE CHANGES FOR THE FIRST HALF OF 2026 (Inside Information)",
-  "time": "2026-08-25 22:58",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OSR Health, Inc. — 其他重大事件",
+  "time": "2026-08-25",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SAIMO] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:58",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TWO HARBORS INVESTMENT CORP. — 8-K",
+  "time": "2026-08-25",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DEXIN SER GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:58",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Zymeworks Inc. — 8-K",
+  "time": "2026-08-25",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CMGE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Modified Report by Auditors)",
-  "time": "2026-08-25 22:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RIMAG GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-25 22:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-25 22:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] GRANTS UNDER THE 2026 A SHARE SCHEME (Share Scheme)",
-  "time": "2026-08-25 22:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-25 22:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BAOGAI] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP ASIA TECH A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3133,3121,3537 NE",
-  "time": "2026-08-25 22:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WAI CHUN BIOTEC] VOLUNTARY ANNOUNCEMENT - ENTERING INTO A MEMORANDUM OF UNDERSTANDING ON STRATEGIC COOPERATION FOR ULTRA-LARGE-SCALE AI DAT",
-  "time": "2026-08-25 22:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CH MODERN D] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CC NEW LIFE] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-25 22:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-25 22:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LAEKNA-B] INTERIM RESULTS ANNOUNCEMENT FOR SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-25 22:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-08-25 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-25 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HONY MEDIA] VOLUNTARY ANNOUNCEMENT: BUSINESS UPDATE - ROBOTICS PLATFORM OPERATION BUSINESS - CO-ORGANIZATION OF ROBOTICS AND EMBODIED INTEL",
-  "time": "2026-08-25 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIRST TRACTOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-25 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHONGQING M&E] VOLUNTARY ANNOUNCEMENT 2026 INTERIM RESULTS ROADSHOW - INVESTOR ENGAGEMENT ACTIVITIES (Other - Miscellaneous)",
-  "time": "2026-08-25 22:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-25 22:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-25 22:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-08-25 22:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-25 22:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-25 22:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-25 22:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KAISA HEALTH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-25 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WEIGAO GROUP] ANNOUNCEMENT OF SHANDONG WEIGAO ORTHOPAEDIC DEVICE COMPANY LIMITED ON 2026 INTERIM PROFIT DISTRIBUTION PROPOSAL OF THE COMPAN",
-  "time": "2026-08-25 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-25 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BAOGAI] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-25 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-25 22:39",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PURE CYCLE CORP — 8-K",
+  "time": "2026-08-25",
   "level": "🟢"
  }
 ]
