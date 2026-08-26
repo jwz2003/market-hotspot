@@ -2,274 +2,421 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHOW SANG SANG] First Interim Dividend for the year ending 31 December 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-26 20:06",
+  "title": "[EVA HOLDINGS] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-26 20:36",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA SANJIANG] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-26 20:04",
+  "title": "[WEBX HOLDING] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-26 20:31",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SINOTRUK] Interim Dividend for the six months ended 30 June 2026 and Book Closure Dates and Record Date (Dividend or Distribution (Announce",
-  "time": "2026-08-26 20:04",
+  "title": "[XINHUA WINSHARE] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-26 20:28",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XINHUA WINSHARE] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results / Dividend or Distribution / Closure of Books or Change of Book Closure",
-  "time": "2026-08-26 20:03",
+  "title": "[EVA HOLDINGS] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Books or Chang",
+  "time": "2026-08-26 20:28",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CITIC BANK] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-26 20:01",
+  "title": "[AINNOVATION] SUPPLEMENTAL ANNOUNCEMENT - DISCLOSEABLE TRANSACTION IN RELATION TO THE ACQUISITION OF 51% EQUITY INTEREST IN TARGET COMPANY I",
+  "time": "2026-08-26 20:27",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CR BEVERAGE] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-26 20:00",
+  "title": "[EB GRAND CHINA] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-26 20:23",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CR BEVERAGE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results / Dividend or Distribution / Closure of B",
-  "time": "2026-08-26 20:00",
+  "title": "[EB GRAND CHINA] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of",
+  "time": "2026-08-26 20:17",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHOW SANG SANG] Interim Results Announcement for the six months ended 30 June 2026 (Interim Results / Dividend or Distribution / Closure of",
-  "time": "2026-08-26 19:57",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[大普微] 国泰海通证券股份有限公司关于深圳大普微电子股份有限公司日常经营重大合同交易各方履约能力事项的核查意见",
+  "time": "2026-08-26 20:30",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KEEP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-26 20:06",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[大普微] 北京市金杜律师事务所上海分所关于深圳大普微电子股份有限公司签署重大合同之法律意见书",
+  "time": "2026-08-26 20:30",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[大普微] 关于签订日常经营重大合同的公告",
+  "time": "2026-08-26 20:30",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[蒙草生态] 关于公司为第一中标候选人公示的提示性公告",
+  "time": "2026-08-26 20:24",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WASTE MANAGEMENT INC — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Celcuity Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Borealis Foods Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MICRON TECHNOLOGY INC — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CPI Card Group Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Kraft Heinz Co — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WILLIAMS SONOMA INC — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NextTrip, Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Synergy CHC Corp. — 2.04",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cerence Inc. — 其他重大事件",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ABERCROMBIE & FITCH CO /DE/ — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Enhanced Group Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Priority Technology Holdings, Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Bath & Body Works, Inc. — 8-K",
+  "time": "2026-08-26",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PHOTRONICS INC — 8-K",
+  "time": "2026-08-26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOEN HOLDINGS] Notification letter to Non-Registered Holder and Request Form - Notification of publication of the Prospectus (the ''Curren",
-  "time": "2026-08-26 20:06",
+  "title": "[ELIFE HLDGS] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-26 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FIBOCOM] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-26 20:06",
+  "title": "[CFMEE] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-08-26 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CH GOLD CLASSIC] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-26 20:06",
+  "title": "[CHI MER LAND] ANNOUNCEMENT ON PROGRESS OF DISCLOSEABLE AND CONNECTED TRANSACTION AND ANNOUNCEMENT ON MAJOR AND CONNECTED TRANSACTION IN REL",
+  "time": "2026-08-26 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
-  "time": "2026-08-26 20:05",
+  "title": "[BIOHEART-B] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-26 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-26 20:05",
+  "title": "[ELIFE HLDGS] (1) APPOINTMENT OF CHAIRMAN; AND (2) APPOINTMENT OF CHIEF EXECUTIVE OFFICER AND CESSATION AS ACTING CHAIRMAN (Change in Direct",
+  "time": "2026-08-26 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CCIAM FUTURE EN] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-26 20:04",
+  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-08-26 20:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-26 20:04",
+  "title": "[SINOHEALTH TECH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOEN HOLDINGS] Notification letter to Registered Shareholders and Reply Form - Notice of publication of the Prospectus (the ''Current Corp",
-  "time": "2026-08-26 20:04",
+  "title": "[AVICHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-08-26 20:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BEONE MEDICINES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-26 20:04",
+  "title": "[CDB INT'L INV] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[UBTECH ROBOTICS] POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING HELD ON AUGUST 26, 2026 (Results of EGM/SGM / Share Scheme / ",
-  "time": "2026-08-26 20:02",
+  "title": "[LOPAL TECH] ANNOUNCEMENT ON MAJOR OPERATING INFORMATION FOR THE FIRST HALF OF 2026 (Inside Information / Overseas Regulatory Announcement -",
+  "time": "2026-08-26 20:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW VISION CO] AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND ITS APPENDICES AND ABOLISHMENT OF THE SUPERVISORY COMMITTEE (Amendment of Cons",
-  "time": "2026-08-26 20:02",
+  "title": "[LOPAL TECH] ANNOUNCEMENT ON PROVISIONS FOR IMPAIRMENT LOSSES FOR THE FIRST HALF OF 2026 (Inside Information / Overseas Regulatory Announcem",
+  "time": "2026-08-26 20:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-26 20:01",
+  "title": "[WAI KEE HOLD] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30TH JUNE, 2026 (Interim Results / Modified Report by Auditors)",
+  "time": "2026-08-26 20:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BEONE MEDICINES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-26 20:00",
+  "title": "[CFMEE] Notification Letter to Non-registered Holders of H Shares and Request Form - Arrangement of Electronic Dissemination of Corporate Co",
+  "time": "2026-08-26 20:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DYNASTY DIGITAL] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-26 20:00",
+  "title": "[CZBANK] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-08-26 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260826.xlsx",
-  "time": "2026-08-26 19:59",
+  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-26 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-26 19:59",
+  "title": "[CFMEE] Notification Letter to Registered H Shareholders - Arrangement of Electronic Dissemination of Corporate Communications (Other)",
+  "time": "2026-08-26 20:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CFMEE] CHANGE OF JOINT COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND PROCESS AGENT AND WAIVER FROM STRICT COMPLIANCE WITH RULES 3.28 AND",
-  "time": "2026-08-26 19:59",
+  "title": "[CIFI HOLD GP] FURTHER ANNOUNCEMENT - ISSUE OF NEW SHARES UNDER GENERAL MANDATE IN RELATION TO THE ONSHORE BOND RESTRUCTURING (Issue of Shar",
+  "time": "2026-08-26 20:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MULSANNE GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-26 19:57",
+  "title": "[NEW VISION CO] Terms of Reference of the Nomination Committee of the Board (Terms of Reference of the Nomination Committee)",
+  "time": "2026-08-26 20:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CITIC BANK] \"CORPORATE VALUE AND RETURN ENHANCEMENT\" ACTION PLAN FOR 2026 OF CHINA CITIC BANK CORPORATION LIMITED (Other - Miscellaneous)",
-  "time": "2026-08-26 19:56",
+  "title": "[TUHU-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-26 20:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAIRONG AI-W] COMPLETION OF PLACING OF NON-LISTED WARRANTS UNDER SPECIFIC MANDATE (Issue of Warrants / Placing / Issue of Shares under a Sp",
-  "time": "2026-08-26 19:55",
+  "title": "[CFMEE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-26 20:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOEN HOLDINGS] Documents on Display",
-  "time": "2026-08-26 19:55",
+  "title": "[CH GOLD CLASSIC] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-08-26 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NAYUKI] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-26 19:54",
+  "title": "[HUANENG POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-26 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MUYUAN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-26 19:54",
+  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-26 20:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CFMEE] CHANGES IN THE COMPANY'S REGISTERED CAPITAL AND AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
-  "time": "2026-08-26 19:53",
+  "title": "[LOGAN GROUP LOGAN GRP N2612 LOGAN GRP N2801] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Resul",
+  "time": "2026-08-26 20:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SINOTRUK] List of Directors and Their Roles and Functions (List of Directors and their Role and Function)",
-  "time": "2026-08-26 19:52",
+  "title": "[GC CONSTRUCTION] THIRD AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION",
+  "time": "2026-08-26 20:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CITIC BANK] ANNOUNCEMENT CONTINUING CONNECTED TRANSACTIONS DELAY IN DESPATCH OF CIRCULAR (Continuing Connected Transaction / Delay in Dispa",
-  "time": "2026-08-26 19:52",
+  "title": "[JUNSHI BIO] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update / Overseas Regulatory Announcement -...<div class='fancy-note",
+  "time": "2026-08-26 20:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW VISION CO] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-26 19:51",
+  "title": "[AK MEDICAL] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SOLIS HOLDINGS] DELAY IN DESPATCH OF CIRCULAR FOR MAJOR TRANSACTION (Major Transaction / Delay in Dispatch of Circular or other Document)",
-  "time": "2026-08-26 19:50",
+  "title": "[CITIC] Announcement - Interim Results Announcement of China CITIC Bank Corporation Limited for the six months ended 30 June 2026 (Inside In",
+  "time": "2026-08-26 20:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AVICHINA] RENEWAL OF CONTINUING CONNECTED TRANSACTIONS UNDER EXISTING AVIC AIRBORNE MUTUAL PRODUCT AND SERVICE SUPPLY FRAMEWORK AGREEMENT (",
-  "time": "2026-08-26 19:50",
+  "title": "[CROCODILE] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WINOX] 2026 Interim Results (Interim Results)",
-  "time": "2026-08-26 19:50",
+  "title": "[NEW VISION CO] Terms of Reference of the Remuneration Committee of the Board (Terms of Reference of the Remuneration Committee)",
+  "time": "2026-08-26 20:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YAN TAT GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SEAZEN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-26 20:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEIJING AIRPORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-08-26 20:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[星徽股份] 关于“质量回报双提升”行动方案的公告",
+  "time": "2026-08-26 20:08",
   "level": "🟢"
  }
 ]
