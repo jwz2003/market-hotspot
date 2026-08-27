@@ -2,57 +2,57 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PEGASUS INT'L] Interim Dividend for the year ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-27 17:36",
+  "title": "[MAINLAND HOLD] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-27 18:05",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUADIAN POWER] Interim Dividend for 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-27 17:36",
+  "title": "[VISION SYNERGY] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-08-27 18:04",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHU KONG PIPE] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-08-27 17:36",
+  "title": "[BJ DIGITAL] SUPPLEMENTAL ANNOUNCEMENT REGARDING THE PROPOSED APPOINTMENT OF EXTERNAL AUDITOR FOR THE YEAR 2026 IN THE CIRCULAR DATED 11 AUG",
+  "time": "2026-08-27 18:04",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PEGASUS INT'L] ANNOUNCEMENTS OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure",
-  "time": "2026-08-27 17:34",
+  "title": "[ACTIVATION GP] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
+  "time": "2026-08-27 18:03",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FOSUN PHARMA] NEXT DAY DISCLOSURE RETURN - SHARE BUYBACK (Share Buyback)",
-  "time": "2026-08-27 17:34",
+  "title": "[STARJOY W&T] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-27 18:03",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA LIFE] Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-27 17:30",
+  "title": "[MAINLAND HOLD] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure ",
+  "time": "2026-08-27 18:02",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHIHU-W] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-08-27 17:28",
+  "title": "[STARJOY W&T] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of",
+  "time": "2026-08-27 17:59",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUADIAN POWER] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results / Dividend or Distribution)",
-  "time": "2026-08-27 17:28",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[亚康股份] 关于下属公司签订日常经营重大合同的公告",
+  "time": "2026-08-27 17:48",
   "level": "🟡"
  },
  {
@@ -63,220 +63,248 @@
   "level": "🟡"
  },
  {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS HSK BTC BOS HSK BTC-U] 9008 & 3008 News",
+  "time": "2026-08-27 18:07",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WISE SSE50ETF] WISE SSE50 ETF <03024> INFORMATION",
+  "time": "2026-08-27 18:06",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[K. WAH INT'L] CONTINUING CONNECTED TRANSACTIONS - 2026 MASTER LEASE AGREEMENT (Continuing Connected Transaction)",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AUX INTL] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A BOS USD MM A BOS USD MM-U A BOS USD MM-R] 9196 & 3196 & 83196 News",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STANCHART] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RIMAG GROUP] Next Day Disclosure Return (Others)",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WISE NEWECONESG] WISE NEWECONESG ETF <03182> INFORMATION",
+  "time": "2026-08-27 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AUX INTL] (1) POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 27 AUGUST 2026; (2) RETIREMENT OF AN INDEPENDENT NON-EXECUTIVE DIRECTOR; (",
+  "time": "2026-08-27 18:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ALLI INTL ED LE] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-27 18:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KIMOU ENVIRON] Next Day Disclosure Returns - Share Buyback (Share Buyback)",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOCGBACLIMATE BOCGBACLIMATE-R] BOCHK GBA Climate Transition ETF <03129, 83129> Information",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CITIC BANK] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUANGDONG INV] Inside Information - Results of the Issuance of the First Tranche of Corporate Bonds (Inside Information)",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS 20 UST BOS 20 UST A-U BOS 20 UST-U] 9156 & 3156 & 9107 News",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ALLI INTL ED LE] POLL RESULTS OF THE ANNUAL GENERAL MEETING AND EXTRAORDINARY GENERAL MEETING HELD ON 27 AUGUST 2026 RETIREMENT OF DIRECTOR",
+  "time": "2026-08-27 18:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TECHTRONIC IND] Next Day Disclosure Return(Equity issuer - changes in issued share capital and/or share buybacks) (Share Buyback)",
+  "time": "2026-08-27 18:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-27 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIAHUA STORES H] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-27 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CCID CONSULTING] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-27 18:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HYGEIA HEALTH] VOLUNTARY ANNOUNCEMENT - 2026 INTERIM RESULTS PRESENTATION (Other - Miscellaneous)",
+  "time": "2026-08-27 18:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANGHAI FUDAN] NOTICE OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-08-27 18:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAOCAO INC] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-27 18:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[S HARBOURHOLD] VOLUNTARY ANNOUNCEMENT-INCREASE IN SHAREHOLDING BY THE CHAIRMAN AND SUBSTANTIAL SHAREHOLDER (Other - Business Update)",
+  "time": "2026-08-27 17:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[P.B. GROUP] CHANGE OF NAME OF AUDITOR (Other - Miscellaneous)",
+  "time": "2026-08-27 17:58",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TSAKER NE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-27 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KOS TALENT GP] Letter to Non-registered Shareholders - Notification of publication of Corporate Communications on the Company's website and",
+  "time": "2026-08-27 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JW THERAP-B] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-27 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEISEN HOLDING] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-27 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HYGEIA HEALTH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-27 17:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BRONCUS-B] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-27 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONG SUN HOLD] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-27 17:53",
+  "level": "🟢"
+ },
+ {
   "src": "巨潮",
   "market": "A股",
-  "title": "[东南电子] 关于以集中竞价交易方式首次回购公司股份的公告",
-  "time": "2026-08-27 17:26",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[金盾股份] 关于特定股东减持计划期限届满的公告",
-  "time": "2026-08-27 17:24",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[力源信息] 关于以集中竞价交易方式回购股份注销完成暨股份变动公告",
-  "time": "2026-08-27 17:12",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ATLANTIC AMERICAN CORP — 8-K",
-  "time": "2026-08-26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SCE CM] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-27 17:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHEVALIER INT'L] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 27 AUGUST 2026 AND CHANGE OF COMPOSITION OF BOARD COMMITTEE (Results of AGM",
-  "time": "2026-08-27 17:36",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WANT WANT CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-27 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINXIANG ERA] Non-registered Shareholders - Notice of publication of Interim Report 2026 (the \"Current Corporate Communication\") on website",
-  "time": "2026-08-27 17:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUADIAN POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-27 17:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZYY] CHANGE OF DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-08-27 17:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINXIANG ERA] Registered Shareholders - Notice of publication of Interim Report 2026 (the \"Current Corporate Communication\") on website (Ot",
-  "time": "2026-08-27 17:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ONEWO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-27 17:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SA SA INT'L] Poll Results of the Annual General Meeting (Results of AGM)",
-  "time": "2026-08-27 17:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUADIAN POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-27 17:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUADIAN POWER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-27 17:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAOHAI BIOTEC] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-27 17:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CPIC CPIC B3009] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-27 17:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINXIANG ERA] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-27 17:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEKE-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-27 17:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAROTE LTD] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-27 17:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TENFU] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-27 17:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJINPORT DEV] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-08-27 17:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRULY INT'L] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-08-27 17:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA LIFE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-27 17:25",
+  "title": "[宁德时代] 关于2026年度第六期绿色科技创新债券发行完成的公告",
+  "time": "2026-08-27 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[金百泽] 关于全资子公司与专业投资机构共同投资的进展公告",
-  "time": "2026-08-27 17:28",
+  "title": "[ST派瑞] 关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的进展公告",
+  "time": "2026-08-27 17:38",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[海科新源] 关于举行海科新源2026年半年度网上业绩说明会的更正公告",
-  "time": "2026-08-27 17:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[龙磁科技] 董事会薪酬与考核委员会关于公司2026年限制性股票激励计划激励对象名单的核查意见及公示情况说明",
-  "time": "2026-08-27 17:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[海科新源] 关于举行海科新源2026年半年度网上业绩说明会的公告(更正后)",
-  "time": "2026-08-27 17:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[苏交科] 关于第2期员工持股计划公司配资部分股票锁定期届满的提示性公告",
-  "time": "2026-08-27 17:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[石药创新] 关于控股子公司SYH2092注射液获得药物临床试验批准通知书的公告",
-  "time": "2026-08-27 17:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[云汉芯城] 2026年半年度权益分派实施公告",
-  "time": "2026-08-27 17:12",
+  "title": "[回天新材] 关于为子公司提供担保的进展公告",
+  "time": "2026-08-27 17:38",
   "level": "🟢"
  }
 ]
