@@ -1,135 +1,226 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WATER] PROPOSALS RELATING TO (1) GENERAL MANDATES TO ISSUE AND REPURCHASE SHARES OF THE COMPANY; (2) RE-ELECTION OF RETIRING DIRECTOR",
-  "time": "2026-08-28 06:27",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LAM RESEARCH CORP — 高管/董事变动",
+  "time": "2026-08-27",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TruGolf Holdings, Inc. — 重大协议",
+  "time": "2026-08-27",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "K2 Capital Acquisition Corp — 8-K",
+  "time": "2026-08-27",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAO GEPING] INTERIM CASH DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-28 06:16",
+  "title": "[JIANGSU EXPRESS] ANNOUNCEMENT OF RESOLUTIONS OF THE TWENTY-FIFTH MEETING OF THE ELEVENTH SESSION OF THE BOARD (Overseas Regulatory Announce",
+  "time": "2026-08-28 06:57",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAO GEPING] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Final Results / Dividend or Distribution)",
-  "time": "2026-08-28 06:13",
+  "title": "[LIT LIFE] PROPOSALS FOR GENERAL MANDATES TO REPURCHASE SHARES AND TO ISSUE SHARES; RE-ELECTION OF RETIRING DIRECTORS; AND NOTICE OF ANNUAL ",
+  "time": "2026-08-28 06:51",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA WATER] FORM OF PROXY",
-  "time": "2026-08-28 06:33",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WESBANCO INC — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Envoy Medical, Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HEALTHY CHOICE WELLNESS CORP. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alphega Innovations Corp — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PMGC Holdings Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Roivant Sciences Ltd. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KOSS CORP — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Solstice Advanced Materials Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alto Neuroscience, Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Santander Holdings USA, Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of New York — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SharonAI Holdings Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SOBR Safe, Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Greenland Mines Ltd — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Southland Holdings, Inc. — 8-K",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "First Seacoast Bancorp, Inc. — 5.07",
+  "time": "2026-08-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Under Armour, Inc. — 8-K",
+  "time": "2026-08-27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEDCAPTAIN] Documents on Display",
-  "time": "2026-08-28 06:30",
+  "title": "[LIT LIFE] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
+  "time": "2026-08-28 07:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA WATER] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
-  "time": "2026-08-28 06:30",
+  "title": "[LIT LIFE] Notification Letter and Reply Form to Registered Shareholders (Other)",
+  "time": "2026-08-28 07:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINYAN KAOLIN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='fa",
-  "time": "2026-08-28 06:25",
+  "title": "[VOBILE GROUP] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 07:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INSILICO] PRICING OF US$305,000,000 ZERO COUPON CONVERTIBLE BONDS DUE 2027 (Inside Information / Issue of Convertible Securities / Issue of",
-  "time": "2026-08-28 06:23",
+  "title": "[LIT LIFE] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
+  "time": "2026-08-28 06:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-28 06:18",
+  "title": "[BEAUTYFARM MED] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-28 06:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-28 06:17",
+  "title": "[LIT LIFE] PROXY FORM",
+  "time": "2026-08-28 06:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAO GEPING] CHANGE OF JOINT COMPANY SECRETARY, AUTHORIZED REPRESENTATIVE AND PROCESS AGENT; AND WAIVER FROM STRICT COMPLIANCE WITH RULES 3.",
-  "time": "2026-08-28 06:17",
+  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
+  "time": "2026-08-28 06:43",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-28 06:16",
+  "title": "[IDT INT'L] FORM OF ACCEPTANCE AND TRANSFER OF ORDINARY SHARE(S) OF NOMINAL VALUE OF HK$0.6 EACH IN THE ISSUED SHARE CAPITAL OF IDT INTERNAT",
+  "time": "2026-08-28 06:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LI NING LI NING-R] GRANT OF SHARE OPTIONS (Share Scheme)",
-  "time": "2026-08-28 06:15",
+  "title": "[IDT INT'L] COMPOSITE DOCUMENT RELATING TO MANDATORY UNCONDITIONAL CASH OFFER BY LEGO SECURITIES LIMITED FOR AND ON BEHALF OF THE OFFEROR TO",
+  "time": "2026-08-28 06:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-28 06:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[S. DRAGON] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-28 06:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-28 06:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[E-HOUSE ENT] OVERWHELMING SUPPORT BY SCHEME CREDITORS - NOTICE OF RESULT OF SCHEME MEETINGS (Inside Information)",
-  "time": "2026-08-28 06:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEDCAPTAIN] GLOBAL OFFERING (Offer for Subscription)",
-  "time": "2026-08-28 06:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HI SUN TECH] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-28 06:07",
+  "title": "[ANGANG STEEL] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-08-27 22:57",
   "level": "🟢"
  }
 ]
