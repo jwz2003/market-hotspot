@@ -1,422 +1,296 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Allegro Merger Corp. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "UNIFIRST CORP — 高管/董事变动",
-  "time": "2026-08-28",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HYGIEIA GROUP] Interim dividend (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-28 22:02",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LAP KEI ENGRG] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of ",
-  "time": "2026-08-28 21:35",
+  "title": "[LAP KEI ENGRG] Interim Dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-28 22:00",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HIPINE] (1) PROPOSED DISTRIBUTION OF INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 AND (2) NOTICE OF EXTRAORDINARY GENERAL MEETING",
-  "time": "2026-08-28 21:32",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HIPINE] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-28 21:29",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HIPINE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Books o",
-  "time": "2026-08-28 21:27",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CALB] Interim Dividend Proposed for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-28 21:26",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HYGIEIA GROUP] Interim results announcement for the six months ended 30 June 2026 (Interim Results / Dividend or Distribution / Closure of ",
-  "time": "2026-08-28 21:25",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Stone Point Credit Income Fund — 其他重大事件",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CYTOKINETICS INC — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Cycurion, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Lord Abbett Private Credit Fund S — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Lord Abbett Private Credit Fund — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "OFS Capital Corp — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Fidelity Core Real Estate Fund — 附件",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "LABCORP HOLDINGS INC. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "STEELE BANCORP INC — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "iBio, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "INVO Fertility, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Aprea Therapeutics, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States Commodity Index Funds Trust — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States Brent Oil Fund, LP — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States 12 Month Natural Gas Fund, LP — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States Gasoline Fund, LP — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States 12 Month Oil Fund, LP — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "United States Natural Gas Fund, LP — 8-K",
-  "time": "2026-08-28",
+  "title": "[BBMG] Announcement on the 2026 Action Plan for \"Corporate Value and Return Enhancement\" and the Semi-Annual Assessment Report (Overseas Reg",
+  "time": "2026-08-28 22:08",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KIDSLAND INTL] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Modified Report by Auditors)",
-  "time": "2026-08-28 21:36",
+  "title": "[HEVOL SERVICES] ANNOUNCEMENT OF THE INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:07",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HIPINE] PROXY FORM FOR EXTRAORDINARY GENERAL MEETING",
-  "time": "2026-08-28 21:35",
+  "title": "[SINO GAS HLDGS] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FS.COM] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-08-28 21:35",
+  "title": "[ENVISION GREEN] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-28 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GOLDSTONE CAP] REQUISITION FOR CONVENING A SPECIAL GENERAL MEETING (Nomination of Director by Shareholder)",
-  "time": "2026-08-28 21:35",
+  "title": "[MAANSHAN IRON] OVERSEAS REGULATORY ANNOUNCEMENT - ANNOUNCEMENT ON RESOLUTION OF THE BOARD OF DIRECTORS (Overseas Regulatory Announcement - ",
+  "time": "2026-08-28 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SG MICRO] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-28 21:34",
+  "title": "[GF SEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-28 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[3D MEDICINES] CHANGE OF ADDRESS OF REGISTERED OFFICE (Change in Registered Address or Office, Registered Place of Business in HK or Agent f",
-  "time": "2026-08-28 21:34",
+  "title": "[BBMG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-28 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HIPINE] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-08-28 21:34",
+  "title": "[ENVISION GREEN] ESTABLISHMENT OF STRATEGY COMMITTEE (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-08-28 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KINETIX SYSTEMS] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-28 21:34",
+  "title": "[CF PHARMTECH] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-08-28 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TECHNOVATOR] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
-  "time": "2026-08-28 21:34",
+  "title": "[CENTRAL CHINA] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIRC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-28 21:33",
+  "title": "[JIANGXI BANK] CHANGE OF COMPANY SECRETARY AND AUTHORISED REPRESENTATIVE (Change in Company Secretary / Change in Registered Address or Offi",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS AINDTOPETF HS AINDTOPETF-R] HANG SENG CHINA A INDUSTRY TOP INDEX ETF <83128> INFORMATION",
-  "time": "2026-08-28 21:33",
+  "title": "[CHINANEWENERGY] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIPRUN TECH] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:33",
+  "title": "[CSOP VIETNAM30] 3004 NEWS",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-08-28 21:33",
+  "title": "[DATANG POWER] OVERSEAS REGULATORY ANNOUNCEMENT ANNOUNCEMENT ON RESOLUTIONS OF THE BOARD OF DIRECTORS (Overseas Regulatory Announcement - Bo",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TIANNENG POWER] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:33",
+  "title": "[BENG SOON MACH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[S-ENJOY SERVICE] (1) INTERIM RESULTS ANNOUNCEMENTFOR THE SIX MONTHS ENDED 30 JUNE 2026; AND (2) CONTINUED SUSPENSION OF TRADING (Interim Re",
-  "time": "2026-08-28 21:32",
+  "title": "[CSOP MSCI A 50] 3003 NEWS",
+  "time": "2026-08-28 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
-  "time": "2026-08-28 21:32",
+  "title": "[BBMG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update)",
+  "time": "2026-08-28 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-08-28 21:31",
+  "title": "[CSOP HSBIOTECH] 3174 NEWS",
+  "time": "2026-08-28 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
-  "time": "2026-08-28 21:30",
+  "title": "[FW HOLDINGS] ANNOUNCEMENT OF UNAUDITED INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KINETIX SYSTEMS] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
-  "time": "2026-08-28 21:30",
+  "title": "[CSOP CSI PV] 3134 NEWS",
+  "time": "2026-08-28 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[UBOX ONLINE] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-28 21:29",
+  "title": "[BANKOFJIUJIANG] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
+  "time": "2026-08-28 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[RISECOMM GP] ANNOUNCEMENT OF THE INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:29",
+  "title": "[HONG WEI ASIA] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
-  "time": "2026-08-28 21:29",
+  "title": "[CSOP STAR 50] 3109 NEWS",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[UBOX ONLINE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-28 21:29",
+  "title": "[BANKOFJIUJIANG] CHANGE OF COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND SERVICE OF PROCESS AGENT (Change in Company Secretary / Change i",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YESASIA HLDGS] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:29",
+  "title": "[XL2CSOPCSI300] 7233 NEWS",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HARBIN BANK] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:28",
+  "title": "[FDB HOLDINGS] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INSPUR DIGI ENT] HALF-YEAR RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:28",
+  "title": "[LANDSEA LIFE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GAC GROUP] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-08-28 21:27",
+  "title": "[GF SEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GANFENGLITHIUM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='f",
-  "time": "2026-08-28 21:26",
+  "title": "[EFUND HKEX TECH] 3456 NEWS",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FS.COM] PROPOSED ADOPTION OF THE H SHARE AWARD SCHEME PROPOSED MANDATE TO THE BOARD AND/OR THE AUTHORIZED PERSON(S) TO ADMINISTER THE H SHA",
-  "time": "2026-08-28 21:26",
+  "title": "[SINO-OCEAN GP] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Modified Report by Auditors)",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AUTO ITALIA] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:26",
+  "title": "[CBHB] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XINHUA LANDE] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-28 21:25",
+  "title": "[CF PHARMTECH] Articles of Association",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GAC GROUP] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-28 21:25",
+  "title": "[361 DEGREES] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-08-28 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIRC] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-08-28 21:24",
+  "title": "[CHINA AOYUAN] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-28 22:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GANFENGLITHIUM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-28 21:23",
+  "title": "[CBHB] CHANGE OF COMPANY SECRETARY AND AUTHORIZED REPRESENTATIVE (Change in Company Secretary)",
+  "time": "2026-08-28 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIANGXI BANK] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function / Change of Remuneration Commi",
+  "time": "2026-08-28 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EFUND MPF HK] 3579 NEWS",
+  "time": "2026-08-28 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ENVISION GREEN] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 28 AUGUST 2026 (Results of AGM)",
+  "time": "2026-08-28 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[英搏尔] 北京市竞天公诚（深圳）律师事务所关于公司2026年限制性股票激励计划调整激励对象名单、授予数量及授予限制性股票的法律意见书",
+  "time": "2026-08-28 20:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[唯特偶] 关于完成董事补选暨选举董事会专门委员会委员的公告",
+  "time": "2026-08-28 19:09",
   "level": "🟢"
  }
 ]
