@@ -53,7 +53,7 @@
   "symbol": "^VIX",
   "name": "VIX恐慌",
   "price": 14.43,
-  "pct": -0.55
+  "pct": -4.6
  },
  {
   "cat": "commodity",
@@ -115,35 +115,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 77606.83,
-  "pct": -2.59
+  "price": 77661.31,
+  "pct": -2.5
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2439.25,
-  "pct": -1.84
+  "price": 2440.34,
+  "pct": -1.81
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 103.61,
-  "pct": -2.79
+  "price": 104.01,
+  "pct": -2.59
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 689.97,
-  "pct": -2.61
+  "price": 690.65,
+  "pct": -2.54
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.38,
-  "pct": -2.97
+  "price": 1.39,
+  "pct": -2.29
  }
 ]
