@@ -2,64 +2,127 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHENGRONG HLDG] VOLUNTARY DELISTING OF SHARES FROM THE MAIN BOARD OF THE SINGAPORE EXCHANGE SECURITIES TRADING LIMITED (Privatisation/Withd",
-  "time": "2026-08-30 18:07",
-  "level": "🔴"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HILONG] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Book",
-  "time": "2026-08-30 18:28",
+  "title": "[HILONG] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-08-30 18:46",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHOUCHENG] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-30 18:15",
+  "title": "[ZCLOUD TECH CON] (1) PROPOSED GRANTING OF GENERAL MANDATES TO ISSUE AND REPURCHASE SHARES; (2) PROPOSED RE-ELECTION OF RETIRING DIRECTORS; ",
+  "time": "2026-08-30 18:45",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PETROCHINA] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED JUNE 30, 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-08-30 18:13",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHOUCHENG] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Dividend or Distribution / Closure of Books or Change o",
-  "time": "2026-08-30 18:12",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] PROXY FORM FOR THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING TO BE HELD ON THURSDAY, SEPTEMBER 17, 2026",
-  "time": "2026-08-30 18:34",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TPG Twin Brook Capital Income Fund — 8-K",
+  "time": "2026-08-28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WYNN MACAU WYNN MAC N2710 WYNN MAC B2903 WYNN MAC N3402 WYNN MAC N2912 WYNN MAC N2808] Notification Letter and Reply Form to Non-Registered",
-  "time": "2026-08-30 18:33",
+  "title": "[CH ENERGY ENG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-30 19:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CH ENERGY ENG] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-30 18:32",
+  "title": "[AIR CHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-08-30 19:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-30 18:30",
+  "title": "[AIR CHINA] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-30 18:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH ENERGY ENG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-30 18:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PETROCHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-08-30 18:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PETROCHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-30 18:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCLOUD TECH CON] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM (Other)",
+  "time": "2026-08-30 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCLOUD TECH CON] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
+  "time": "2026-08-30 18:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCLOUD TECH CON] Form of Proxy for use at the Annual General Meeting (or its adjourned meeting)",
+  "time": "2026-08-30 18:50",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCLOUD TECH CON] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
+  "time": "2026-08-30 18:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH ENERGY ENG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-08-30 18:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MABWELL-B] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update / Overseas Regulatory Announcement -...<div class='fancy-note-t",
+  "time": "2026-08-30 18:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH ENERGY ENG] ANNOUNCEMENT RENEWAL OF CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction)",
+  "time": "2026-08-30 18:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCLOUD TECH CON] PROPOSED AMENDMENTS TO THE MEMORANDUM AND ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
+  "time": "2026-08-30 18:40",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PETROCHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-08-30 18:39",
   "level": "🟢"
  },
  {
@@ -72,197 +135,15 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZCZL] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-30 18:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PETROCHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update / Overseas Regulatory Announcement -...<div class='fancy-note-",
-  "time": "2026-08-30 18:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WYNN MACAU WYNN MAC N2710 WYNN MAC B2903 WYNN MAC N3402 WYNN MAC N2912 WYNN MAC N2808] Notification Letter and Reply Form to Registered Sha",
-  "time": "2026-08-30 18:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIFENG GOLD] ANNOUNCEMENT IN RELATION TO CONVENING OF 2026 INTERIM RESULTS BRIEFING (Other - Corporate Governance Related Matters / Other ",
-  "time": "2026-08-30 18:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update)",
-  "time": "2026-08-30 18:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIFENG GOLD] UNAUDITED INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-30 18:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FICUS TECH] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-30 18:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] (1) ENTERING INTO THE LICENSE AGREEMENT AND RELATED-PARTY TRANSACTION WITH SYNUSIGHT; (2) JOINT APPLICATION FOR A SCIENCE AND TE",
-  "time": "2026-08-30 18:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-08-30 18:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CQRC BANK] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-30 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FICUS TECH] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
-  "time": "2026-08-30 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIFENG GOLD] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update / Overseas Regulatory Announcement -...<div class='fancy-no",
-  "time": "2026-08-30 18:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
   "title": "[SHOUCHENG] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
   "time": "2026-08-30 18:20",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] PROPOSED CHANGE IN SCOPE OF BUSINESS, PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND REGISTRATION OF INDUSTRIAL AND COMM",
-  "time": "2026-08-30 18:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-30 18:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TONGRENTANGCARE] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-08-30 18:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WYNN MACAU WYNN MAC N2710 WYNN MAC B2903 WYNN MAC N3402 WYNN MAC N2912 WYNN MAC N2808] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-08-30 18:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHOUCHENG] APPOINTMENT OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-08-30 18:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIFENG GOLD] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update / Overseas Regulatory Announcement -...<div class='fancy-no",
-  "time": "2026-08-30 18:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CQRC BANK] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-30 18:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PETROCHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-30 18:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-08-30 18:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIFENG GOLD] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-08-30 18:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS PERIOD ENDED JUNE 30, 2026 (Interim Results)",
-  "time": "2026-08-30 18:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIAONING PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-30 18:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-08-30 18:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINXIN MINING] ANNOUNCEMENT ON INSIDE INFORMATION - UPDATE ON PROPOSED PLANNING OF SIGNIFICANT EVENT BY CONTROLLING SHAREHOLDER (Inside Inf",
-  "time": "2026-08-30 18:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BJ ENT WATER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-08-30 18:07",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华特气体] 广东华特气体股份有限公司关于续聘会计师事务所的公告",
+  "time": "2026-08-29 00:00",
   "level": "🟢"
  }
 ]
