@@ -1,6 +1,13 @@
 [
  {
   "cat": "index",
+  "symbol": "^GSPC",
+  "name": "标普500",
+  "price": 7711.76,
+  "pct": 0.72
+ },
+ {
+  "cat": "index",
   "symbol": "^IXIC",
   "name": "纳斯达克",
   "price": 26402.42,
@@ -106,9 +113,30 @@
  },
  {
   "cat": "crypto",
-  "symbol": "BTCUSDT",
-  "name": "BTC",
-  "price": 78148.07,
-  "pct": 0.6
+  "symbol": "ETHUSDT",
+  "name": "ETH",
+  "price": 2455.4,
+  "pct": 0.68
+ },
+ {
+  "cat": "crypto",
+  "symbol": "SOLUSDT",
+  "name": "SOL",
+  "price": 105.08,
+  "pct": 1.11
+ },
+ {
+  "cat": "crypto",
+  "symbol": "BNBUSDT",
+  "name": "BNB",
+  "price": 694.76,
+  "pct": 0.64
+ },
+ {
+  "cat": "crypto",
+  "symbol": "XRPUSDT",
+  "name": "XRP",
+  "price": 1.39,
+  "pct": 0.74
  }
 ]
