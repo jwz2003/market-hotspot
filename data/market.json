@@ -43,107 +43,100 @@
  },
  {
   "cat": "index",
-  "symbol": "^SOX",
-  "name": "费城半导体",
-  "price": 11469.66,
-  "pct": 2.33
- },
- {
-  "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.27,
-  "pct": 5.24
+  "price": 15.25,
+  "pct": 5.1
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4506.5,
-  "pct": 0.63
+  "price": 4501.6,
+  "pct": 0.52
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 67.98,
-  "pct": 1.48
+  "price": 67.87,
+  "pct": 1.31
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 86.36,
-  "pct": 3.55
+  "price": 86.29,
+  "pct": 3.47
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.69,
-  "pct": 2.0
+  "pct": 1.98
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 2.92,
-  "pct": 1.11
+  "price": 2.88,
+  "pct": -0.14
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 99.54,
-  "pct": 0.38
+  "price": 99.53,
+  "pct": 0.37
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.7,
-  "pct": 0.24
+  "price": 159.82,
+  "pct": 0.31
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": -0.48
+  "pct": -0.5
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 78460.0,
-  "pct": 0.03
+  "price": 78101.99,
+  "pct": -0.64
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2452.5,
-  "pct": -0.59
+  "price": 2455.95,
+  "pct": -0.25
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 103.63,
-  "pct": -1.75
+  "price": 103.1,
+  "pct": -2.13
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 688.82,
-  "pct": -0.81
+  "price": 686.8,
+  "pct": -1.2
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.38,
-  "pct": -1.53
+  "price": 1.37,
+  "pct": -2.07
  }
 ]
