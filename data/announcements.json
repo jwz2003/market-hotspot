@@ -1,65 +1,422 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[迈赫股份] 关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-  "time": "2026-08-31 16:02",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CDV HOLDINGS] (1) PROPOSED GRANTING OF GENERAL MANDATES TO ISSUE NEW SHARES AND TO REPURCHASE SHARES (2) PROPOSED RE-ELECTION OF THE RETIRI",
+  "time": "2026-08-31 16:33",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PHILLIP HKNEWEQ] 2026 Unaudited Semi-Annual Report (Interim/Half-Year Report)",
-  "time": "2026-08-31 16:07",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[回盛生物] 关于调整回购股份价格上限的公告",
+  "time": "2026-08-31 16:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[天纺标] 关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告公告",
+  "time": "2026-08-31 00:00",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Brand Engagement Network Inc. — 8-K",
+  "time": "2026-08-28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PHILLIP HKNEWEQ] 2025 Annual Report (Annual Report)",
-  "time": "2026-08-31 16:01",
+  "title": "[JU FU TANG BIOT] CHANGE OF COMPANY WEBSITE (Change in Company Website)",
+  "time": "2026-08-31 16:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHENMING PAPER] Monthly Return of Equity Issuer on Movements in Securities",
-  "time": "2026-08-31 16:00",
+  "title": "[YUEXIUTRANSPORT] Letter to existing registered shareholders and form of change of preference: Notification of Publication of 2026 Interim R",
+  "time": "2026-08-31 16:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XA GX GOLD CC XA GX GOLD CC-U] Summary Information",
-  "time": "2026-08-31 15:44",
+  "title": "[ANTA SPORTS ANTA SPORTS-R] FORFEITURE OF UNCLAIMED DIVIDENDS (Other - Miscellaneous)",
+  "time": "2026-08-31 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GEOTECH HLDGS] UPDATE ON RESUMPTION PROGRESS AND CONTINUED SUSPENSION OF TRADING (Inside Information / Resumption / Suspension)",
+  "time": "2026-08-31 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA CINDA CINDA 21USDPREF] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-08-31 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SUNSHINE OIL] EXTENSION OF CLOSING DATE FOR THE PROPOSED ISSUE OF CONVERTIBLE BONDS UNDER SPECIFIC MANDATE FOR SETTLEMENT OF DEBTS (Issue o",
+  "time": "2026-08-31 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RADIANCE HLDGS] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-31 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[S-ENJOY SERVICE] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 August 2026",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINETIC DEV] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAPITAL ENV] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUEXIUTRANSPORT] Letter to new registered shareholders and reply form: Election of Means of Receipt and Language of Corporate Communication",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SYNERTONE] CHANGE OF NAME OF AUDITOR (Other - Miscellaneous)",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH RENEW EN INV] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TOWNRAY HLDGS] Monthly Return of Equity Issuer on Movements in Securities",
+  "time": "2026-08-31 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CN CULTURE-2000] CHANGE OF COMPANY WEBSITE (Change in Company Website)",
+  "time": "2026-08-31 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CDV HOLDINGS] PROXY FORM",
+  "time": "2026-08-31 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUEXIUTRANSPORT] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-08-31 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BANK OF TIANJIN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-31 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SITC] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-08-31 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CDV HOLDINGS] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
+  "time": "2026-08-31 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KELFRED] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-31 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REPUBLIC HC] MAJOR TRANSACTION - DISPOSAL OF ENTIRE EQUITY INTEREST IN A SUBSIDIARY (Major Transaction)",
+  "time": "2026-08-31 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HONOR MATRIX] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANDONG XINHUA] Overseas Regulatory Announcement-Announcement on Azithromycin Tablets Having Passed the Generics Consistency Evaluation (O",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAFE DE CORAL H] (Revised) Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 July 2026",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GW TERROIR] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUGANG LANZA] Letter to Registered Shareholders - New Arrangements on Dissemination of Corporate Communications (Other)",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PRU] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-31 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRAGON MINING] LETTER TO NON-REGISTERED SHAREHOLDER(S) - (1) ARRANGEMENT OF ELECTRONIC DISSEMINATION OF CORPORATE COMMUNICATION(S) AND (2) ",
+  "time": "2026-08-31 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAJIN] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-08-31 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRAGON MINING] LETTER TO REGISTERED SHAREHOLDER(S) - NOTICE OF PUBLICATION OF THE COMPANY'S 2026 INTERIM REPORT AND CHANGE REQUEST FORM (Ot",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GW TERROIR] NOTIFICATION LETTER AND REPLY FORM TO REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SWIREPROPERTIES] Notification Letter to Shareholders (Publication of Interim Report 2026 and Arrangement for Dissemination of Corporate Com",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CITIC] Announcement - Unaudited Financial Statements of CITIC Corporation Limited for the six months ended 30 June 2026 (Inside Information",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRAVELSKY TECH] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUGANG LANZA] Letter to Non-registered Shareholders - New Arrangements of Electronic Dissemination of Corporate Communications (Other)",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRAGON MINING] LETTER TO NEW REGISTERED SHAREHOLDER(S) - ELECTIONS AS TO MEANS OF RECEIPT AND LANGUAGE OF CORPORATE COMMUNICATION(S) AND RE",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-31 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MIDEA GROUP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-08-31 16:31",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[洁雅股份] 关于全资子公司完成注销登记的公告",
-  "time": "2026-08-31 15:52",
+  "title": "[强瑞技术] 关于向2026年股票期权激励计划激励对象首次授予股票期权的公告",
+  "time": "2026-08-31 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[天舟文化] 关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
-  "time": "2026-08-31 15:52",
+  "title": "[强瑞技术] 广东华商律师事务所关于深圳市强瑞精密技术股份有限公司2026年股票期权激励计划调整及首次授予相关事项的法律意见书",
+  "time": "2026-08-31 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[恒锋工具] 关于全资子公司完成工商变更登记并换发营业执照的公告",
-  "time": "2026-08-31 15:48",
+  "title": "[强瑞技术] 董事会薪酬与考核委员会关于调整2026年股票期权激励计划相关事项的核查意见",
+  "time": "2026-08-31 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[慧博云通] 关于公司股东部分股份解除质押的公告",
-  "time": "2026-08-31 15:44",
+  "title": "[强瑞技术] 关于调整2026年股票期权激励计划相关事项的公告",
+  "time": "2026-08-31 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[强瑞技术] 董事会薪酬与考核委员会关于2026年股票期权激励计划首次授予激励对象名单（授予日）的核查意见",
+  "time": "2026-08-31 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[强瑞技术] 第三届董事会第十八次（临时）会议决议公告",
+  "time": "2026-08-31 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[回盛生物] 2026年半年度权益分派实施公告",
+  "time": "2026-08-31 16:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[美瑞新材] 关于使用部分闲置募集资金进行现金管理的进展公告",
+  "time": "2026-08-31 16:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[美瑞新材] 关于使用部分闲置自有资金购买理财产品的进展公告",
+  "time": "2026-08-31 16:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[英科医疗] 关于为子公司提供担保事项的进展公告",
+  "time": "2026-08-31 16:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[富临精工] 关于控股股东部分股权解除质押的公告",
+  "time": "2026-08-31 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新产业] 关于控股股东部分质押股份办理延期购回手续的公告",
+  "time": "2026-08-31 16:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[佳禾智能] 关于公司与全资子公司互相担保的进展公告",
+  "time": "2026-08-31 16:06",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华伍股份] 关于举办2026年半年度网上业绩说明会的公告",
+  "time": "2026-08-31 16:06",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科力股份] 关于使用自有资金向控股子公司提供借款的公告",
+  "time": "2026-08-31 00:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广咨国际] 委托理财进展的公告",
+  "time": "2026-08-31 00:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[雅达股份] 东莞证券股份有限公司关于广东雅达电子股份有限公司2026年半年度持续督导跟踪报告",
+  "time": "2026-08-31 00:00",
   "level": "🟢"
  }
 ]
