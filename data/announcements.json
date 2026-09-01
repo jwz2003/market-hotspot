@@ -2,15 +2,50 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
-  "time": "2026-09-02 06:51",
+  "title": "[HYGIEIA GROUP] Interim dividend (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-02 07:17",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KWUNGS AROMA] Monthly return of equity issuer on movements in securities for the month ended 31 August 2026",
+  "time": "2026-09-02 07:37",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华昌化工] 关于权益变动的提示性公告",
-  "time": "2026-09-02 00:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MANULIFE-S] Manulife Financial Corporation Prices U.S. Public Offering of Subordinated Notes (Issue of Debt Securities)",
+  "time": "2026-09-02 07:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-02 07:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Voting Rights and Capital (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-02 07:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Notification of issuance of equity securities under block listing (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-02 07:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SWIRE PACIFIC A SWIRE PACIFIC B] DISCLOSEABLE TRANSACTION - ACCELERATED EXCHANGE TRADE IN RELATION TO THE BONDS (Discloseable Transaction)",
+  "time": "2026-09-02 07:26",
   "level": "🟢"
  }
 ]
