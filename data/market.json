@@ -24,22 +24,22 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25318.33,
-  "pct": -0.97
+  "price": 25375.91,
+  "pct": -0.75
  },
  {
   "cat": "index",
   "symbol": "000001.SS",
   "name": "上证指数",
-  "price": 3981.47,
-  "pct": -0.12
+  "price": 3980.98,
+  "pct": -0.13
  },
  {
   "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
-  "price": 13874.64,
-  "pct": -1.0
+  "price": 13880.01,
+  "pct": -0.96
  },
  {
   "cat": "index",
@@ -59,36 +59,36 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4480.0,
-  "pct": 1.1
+  "price": 4478.6,
+  "pct": 1.07
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 67.25,
-  "pct": 1.56
+  "price": 67.14,
+  "pct": 1.38
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 86.62,
-  "pct": 1.0
+  "price": 86.45,
+  "pct": 0.8
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.71,
-  "pct": 1.8
+  "price": 6.7,
+  "pct": 1.65
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.93,
-  "pct": -0.03
+  "pct": -0.24
  },
  {
   "cat": "forex",
@@ -101,49 +101,49 @@
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.97,
-  "pct": -0.09
+  "price": 159.94,
+  "pct": -0.11
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": 0.13
+  "pct": 0.15
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 78879.91,
-  "pct": 1.13
+  "price": 78763.82,
+  "pct": 0.92
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2475.76,
-  "pct": 1.39
+  "price": 2472.65,
+  "pct": 1.48
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 103.88,
-  "pct": 1.11
+  "price": 103.43,
+  "pct": 0.71
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 690.71,
-  "pct": 0.58
+  "price": 690.51,
+  "pct": 0.56
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.39,
-  "pct": 1.74
+  "pct": 1.61
  }
 ]
