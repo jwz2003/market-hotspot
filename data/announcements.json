@@ -1,198 +1,30 @@
 [
  {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP ASIA TECH A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3133,3121,3537 NE",
+  "time": "2026-09-02 21:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
+  "time": "2026-09-02 21:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOLDWAY EDU] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-02 21:13",
+  "level": "🟢"
+ },
+ {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券审核问询函中有关财务会计问题的专项说明",
-  "time": "2026-09-02 20:23",
-  "level": "🔴"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DRCB] APPROVAL OF QUALIFICATION OF DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities / Change of...<div",
-  "time": "2026-09-02 20:42",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUN KONG HLDGS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO RESUMPTION GUIDANCE AND CONTINUED SUSPENSION OF TRADING (Inside Information / Susp",
-  "time": "2026-09-02 20:41",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CN HEALTH TECH] INSIDE INFORMATION RECEIPT OF REQUISITION FROM A SHAREHOLDER TO CONVENE AN EXTRAORDINARY GENERAL MEETING FOR THE REMOVAL AN",
-  "time": "2026-09-02 21:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAITIAN FLAV] UPDATE ANNOUNCEMENT IN RELATION TO APPOINTMENT OF JOINT COMPANY SECRETARY, AUTHORIZED REPRESENTATIVE AND PROCESS AGENT (Chang",
-  "time": "2026-09-02 21:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-09-02 21:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHONG AO HOME] Monthly Return for Equity Issuer and Hong Kong Depositary Receipts listed under Chapter 19B of the Exchange Listing Rules on",
-  "time": "2026-09-02 21:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KEYMED BIO-B] VOLUNTARY ANNOUNCEMENT - ENTERED INTO A LICENSING AGREEMENT IN RELATION TO THE MARKETING REGISTRATION AND COMMERCIALIZATION O",
-  "time": "2026-09-02 21:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MOMENTUM FIN] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE SHARE TRANSACTION (Share Transaction / Consideration Issue / Issue of Shares und",
-  "time": "2026-09-02 21:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CDAYENONFER] REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction)",
-  "time": "2026-09-02 21:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUEXIU SERVICES] List of Directors and their Role and Function (List of Directors and their Role and Function)",
-  "time": "2026-09-02 20:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUEXIU SERVICES] CHANGE OF NON-EXECUTIVE DIRECTOR AND CHANGE IN COMPOSITION OF BOARD COMMITTEE (Change in Directors or of Important Executi",
-  "time": "2026-09-02 20:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-02 20:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZJ INNOLIGHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-02 20:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-02 20:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KAFELAKU COFFEE] EXTENSION OF LONG STOP DATE AND REVISION OF PLACING PRICE IN RELATION TO PLACING OF NEW SHARES UNDER GENERAL MANDATE (Plac",
-  "time": "2026-09-02 20:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-02 20:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-02 20:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-09-02 20:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-09-02 20:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DRCB] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-02 20:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SIMCERE PHARMA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-02 20:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREEN ECONOMY] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-02 20:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREEN ECONOMY] RETIREMENT AND APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND CHANGE OF COMPOSITION OF COMMITTEES OF THE BOARD (Chang",
-  "time": "2026-09-02 20:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIAN CHENG HLDG] CAPITAL REORGANISATION BECOMING EFFECTIVE; CHANGE IN BOARD LOT SIZE; AND ADJUSTMENTS TO THE OUTSTANDING SHARE OPTIONS (Cap",
-  "time": "2026-09-02 20:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MIDEA GROUP] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-02 20:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XIABUXIABU] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "title": "[金丹科技] 关于持股5%以上股东权益变动触及1%和5%整数倍的提示性公告",
   "time": "2026-09-02 20:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中际旭创] Ｈ股公告（翌日披露报表）",
-  "time": "2026-09-02 20:44",
   "level": "🟢"
  }
 ]
