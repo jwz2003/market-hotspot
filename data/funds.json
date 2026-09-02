@@ -14,5 +14,14 @@
   ]
  },
  "lhb": [],
- "funding": []
+ "funding": [
+  {
+   "symbol": "BTC",
+   "rate": 0.0095
+  },
+  {
+   "symbol": "ETH",
+   "rate": 0.0028
+  }
+ ]
 }
