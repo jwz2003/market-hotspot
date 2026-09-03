@@ -3926,5 +3926,21 @@
   "detail": "现价 6.637，突破波动阈值 2.0%",
   "value": 2.0919882774780074,
   "time": "2026-09-03 17:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "WTI原油 +2.25%",
+  "detail": "现价 93.06，突破波动阈值 2.0%",
+  "value": 2.252494642615981,
+  "time": "2026-09-03 19:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[MSCTECH] INSIDE INFORMATION ESTABLISHMENT OF SPECIAL INVEST",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-03 19:07"
  }
 ]
