@@ -2,183 +2,295 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EVEREST MED] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE ON THE APPROVAL OF NEW DRUG APPLICATION IN CHINA FOR CARDAMYST FOR THE CONVERSION OF AC",
-  "time": "2026-09-03 20:05",
+  "title": "[CH INV FIN GP] PROPOSED GENERAL MANDATES TO REPURCHASE AND ISSUE SHARES, PROPOSED RE-ELECTION OF DIRECTORS, PROPOSED RE-APPOINTMENT OF AUDI",
+  "time": "2026-09-03 20:29",
   "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华立科技] 回购股份报告书",
+  "time": "2026-09-03 20:34",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ANAVEX LIFE SCIENCES CORP. — 8-K",
+  "time": "2026-09-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PMGC Holdings Inc. — 8-K",
+  "time": "2026-09-02",
+  "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA JINMAO] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-09-03 20:05",
-  "level": "🟡"
+  "title": "[CH INV FIN GP] Notification Letter to Non-Registered Shareholders (Other)",
+  "time": "2026-09-03 20:35",
+  "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA JINMAO] ANNOUNCEMENT PAYMENT OF INTERIM DIVIDEND AND CLOSURE OF REGISTER OF MEMBERS (Dividend or Distribution / Closure of Books or C",
-  "time": "2026-09-03 20:00",
-  "level": "🟡"
+  "title": "[CAROTE LTD] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH INV FIN GP] Notification Letter to Registered Shareholders and Reply Form (Other)",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UNITED LAB] CLARIFICATION ANNOUNCEMENT TO 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results / Other - Miscellaneous)",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH INV FIN GP] SHARE OPTION SCHEME",
+  "time": "2026-09-03 20:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHEERWIN GP] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 August 2026",
+  "time": "2026-09-03 20:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH INV FIN GP] FORM OF PROXY",
+  "time": "2026-09-03 20:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH INV FIN GP] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-03 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BDV EDU INTL] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO CHANGE OF AUDITOR (Change in Auditors)",
+  "time": "2026-09-03 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP RMB MM] 3122 NEWS",
+  "time": "2026-09-03 20:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP USD MM] 3096 NEWS",
+  "time": "2026-09-03 20:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-09-03 20:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KUAISHOU-W KUAISHOU-WR] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-09-03 20:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AIDIGONG] INSIDE INFORMATION (1) UPDATE ON LITIGATION CONCERNING THE VALIDITY OF THE RESOLUTIONS; (2) UPDATE ON THE SZA LITIGATION; AND (3)",
+  "time": "2026-09-03 20:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REGINA MIRACLE] CONNECTED TRANSACTIONS RENEWAL OF/ENTERING INTO PROPERTY LEASING AGREEMENTS (Connected Transaction)",
+  "time": "2026-09-03 20:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DUFU LIQUOR GP] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-09-03 20:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HONBRIDGE] (1) CHANGE IN USE OF THE 2024 NET PROCEEDS AND (2) UPDATE ON THE INTENDED USE OF PROCEEDS FROM THE SUBSCRIPTION (Other - Busines",
+  "time": "2026-09-03 20:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SF INTRA-CITY] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-03 20:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REGINA MIRACLE] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 3 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-03 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DIDA INC-PF] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-03 20:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZYLOXTB] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-03 20:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MANYCORE TECH] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-03 20:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VOBILE GROUP] VOLUNTARY ANNOUNCEMENT - STRATEGIC PARTNERSHIP AND COMMERCIAL AGREEMENTS (Other - Business Update)",
+  "time": "2026-09-03 20:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAIZHI TECH GP] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 August 2026",
+  "time": "2026-09-03 20:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MONGOL MINING] Next Day Disclosure Return (Others)",
+  "time": "2026-09-03 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FB SSH HIGH DIV] Summary Information",
+  "time": "2026-09-03 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FB TW SEMICON] Summary Information (3076)",
   "time": "2026-09-03 20:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WUXI LEAD] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 20:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CH INNOVATION] Monthly Return of Equity Issuer on Movements in Securities",
-  "time": "2026-09-03 20:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINDA INV HLDGS] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-03 20:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EDGE MEDICAL-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 20:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RICI HEALTH] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 20:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ITC PROPERTIES] MONTHLY RETURN FOR THE MONTH ENDED 31 AUGUST 2026",
-  "time": "2026-09-03 20:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTINI HLDG] Notification Letter to Non-Registered Shareholders - Notice of Publication of Corporate Communications (Other)",
-  "time": "2026-09-03 20:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MOG DIGITECH] Next Day Disclosure Return (Others)",
-  "time": "2026-09-03 20:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HK FOOD INV] (Revised) Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 20:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BAO PHARMA-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 20:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTINI HLDG] Notification Letter and Reply Form to Registered Shareholders - Notice of Publication of Corporate Communications (Other)",
-  "time": "2026-09-03 19:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONANT OPTICAL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-03 19:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_03092026_EN",
-  "time": "2026-09-03 19:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RECONOVA] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-03 19:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260903.xlsx",
-  "time": "2026-09-03 19:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HONGHUA GROUP] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-03 19:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNSHINE OIL] RECORD DATE FOR THE SPECIAL MEETING TO BE HELD ON OCTOBER 12, 2026 (CALGARY TIME) / OCTOBER 13, 2026 (HONG KONG TIME) (Closur",
-  "time": "2026-09-03 19:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HONGHUA GROUP] (1) Appointment of the Chairman of the Board, Executive Director and changes in the composition of Board committees; (2) Cha",
-  "time": "2026-09-03 19:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DPC DASH] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-03 19:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-03 19:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ALPHAMAB-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-03 19:41",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[宁德时代] H股公告（截至2026年8月31日止股份发行人的证券变动月报表）",
-  "time": "2026-09-03 19:14",
+  "title": "[多瑞医药] 关于转让子公司及参股公司股权暨关联交易的公告",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华立科技] 北京市竞天公诚（广州）律师事务所关于广州华立科技股份有限公司2026年第二次临时股东会的法律意见书",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华立科技] 2026年第二次临时股东会决议公告",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[多瑞医药] 关于聘任副总经理的公告",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[多瑞医药] 第三届董事会第六次会议决议公告",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华立科技] 公司章程（2026年9月）",
+  "time": "2026-09-03 20:34",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[阿莱德] 上海阿莱德实业集团股份有限公司2026年第三次临时股东会决议公告",
+  "time": "2026-09-03 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[阿莱德] 关于2026年限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
+  "time": "2026-09-03 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[阿莱德] 兴业证券股份有限公司关于上海阿莱德实业集团股份有限公司2026年半年度跟踪报告",
+  "time": "2026-09-03 20:30",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[阿莱德] 国浩律师（上海）事务所关于上海阿莱德实业集团股份有限公司2026年第三次临时股东会之法律意见书",
+  "time": "2026-09-03 20:30",
   "level": "🟢"
  }
 ]
