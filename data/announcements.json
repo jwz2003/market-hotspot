@@ -1,296 +1,142 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Constellation Acquisition Corp I — 2.03",
-  "time": "2026-08-28",
-  "level": "🟡"
- },
- {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DAZHONG DENTAL] SUPPLEMENTAL CIRCULAR TO THE CIRCULAR DATED AUGUST 31, 2026 (1) PROPOSED APPOINTMENT OF EXECUTIVE DIRECTOR AND (2) SUPPLEME",
-  "time": "2026-09-04 21:35",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UMP] INSIDE INFORMATION - PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-09-04 21:34",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Spero Therapeutics, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Boundless Bio, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "POWERCOMPUTE, INC. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "RenX Enterprises Corp. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "T1 Energy Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Coherus Oncology, Inc. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "AIRWA INC. — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ORAGENICS INC — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "TPG Twin Brook Capital Income Fund — 8-K",
-  "time": "2026-08-28",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Sezzle Inc. — 其他重大事件",
-  "time": "2026-08-28",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-04 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[B&K CORP-B] POLL RESULTS OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING HELD ON 4 SEPTEMBER 2026 (Results of EGM/SGM)",
-  "time": "2026-09-04 21:35",
+  "title": "[AB BUILDERS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-04 22:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CENTRAL CHINA] RESIGNATION OF CHIEF EXECUTIVE OFFICER (Change in Chief Executive)",
+  "time": "2026-09-04 22:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OCUMENSION-B] Monthly Return of Equity Issuer on Movements in Securities for the Month ended 31 August 2026",
+  "time": "2026-09-04 22:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-04 21:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAZHONG DENTAL] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED AUGUST 31, 2026",
+  "time": "2026-09-04 21:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-09-04 21:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHERY AUTO] H Share Award Scheme",
+  "time": "2026-09-04 21:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FURNIWEB] Monthly Return Of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-04 21:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAZHONG DENTAL] REVISED FORM OF PROXY FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON MONDAY, SEPTEMBER 21, 2026",
+  "time": "2026-09-04 21:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KOS TALENT GP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 AUGUST 2026",
+  "time": "2026-09-04 21:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHERY AUTO] FORM OF PROXY FOR USE AT THE EXTRAORDINARY GENERAL MEETING (THE \"MEETING\") TO BE HELD ON THURSDAY, 24 SEPTEMBER 2026",
+  "time": "2026-09-04 21:44",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KONTA CHINA] FURTHER DELAY IN DESPATCH OF CIRCULAR IN RELATION TO A MAJOR TRANSACTION (Delay in Dispatch of Circular or other Document / Ma",
+  "time": "2026-09-04 21:43",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[B&K CORP-B] Articles of Association",
+  "time": "2026-09-04 21:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-04 21:40",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAZHONG DENTAL] SUPPLEMENTAL NOTICE OF THE EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Material Information after Issue of Circular)",
+  "time": "2026-09-04 21:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
   "title": "[TME-SW] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-04 21:34",
+  "time": "2026-09-04 21:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHERY AUTO] PROPOSED ADOPTION OF THE H SHARE AWARD SCHEME; PROPOSED AMENDMENT TO THE 2024 EQUITY INCENTIVE SCHEME; AND NOTICE OF EGM (Share",
-  "time": "2026-09-04 21:32",
+  "title": "[NEXCHIP] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-04 21:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALEBUND-B] VOLUNTARY ANNOUNCEMENT - INCLUSION IN THE LIST OF ELIGIBLE SECURITIES FOR SOUTHBOUND TRADING UNDER STOCK CONNECT AND IN THE HANG",
-  "time": "2026-09-04 21:31",
+  "title": "[KING INTL INV] POLL RESULTS FOR THE ANNUAL GENERAL MEETING HELD ON 4 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-04 21:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FU SHEK FIN] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 4 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-04 21:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-04 21:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DAZHONG DENTAL] PROPOSED CHANGE OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-09-04 21:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-09-04 21:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-04 21:28",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KONTA CHINA] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM - NOTIFICATION OF PUBLICATION OF 2026 INTERIM REPORT (Othe",
-  "time": "2026-09-04 21:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LINGYI ITECH] BOOK CLOSURE PERIOD FOR EXTRAORDINARY GENERAL MEETING (Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-04 21:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KONTA CHINA] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM - NOTICE OF PUBLICATION OF 2026 INTERIM REPORT (Other)",
-  "time": "2026-09-04 21:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZJ INNOLIGHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-04 21:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JOLIMARK] INSIDE INFORMATION PLACING OF EXISTING SHARES BY A CONTROLLING SHAREHOLDER (Inside Information)",
-  "time": "2026-09-04 21:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KONTA CHINA] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-04 21:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-09-04 21:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VIVA GOODS] MAJOR TRANSACTION IN RESPECT OF FURTHER ACQUISITIONS OF SHARES OF LI NING COMPANY LIMITED (Major Transaction)",
-  "time": "2026-09-04 21:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHEUNG YUE GP] JOINT ANNOUNCEMENT (1) CLOSE OF MANDATORY UNCONDITIONAL CASH OFFER BY CONSTANCE CAPITAL LIMITED FOR AND ON BEHALF OF WISE TR",
-  "time": "2026-09-04 21:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CU VENTURE INV] COMPANY INFORMATION SHEET",
-  "time": "2026-09-04 21:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CU VENTURE INV] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-04 21:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CU VENTURE INV] APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilit",
-  "time": "2026-09-04 21:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CC NEW LIFE] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-04 21:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KIMOU ENVIRON] Next Day Disclosure Returns - Share Buyback (Share Buyback)",
-  "time": "2026-09-04 21:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-04 21:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SERES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-04 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SANAI HEALTH GP] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-04 21:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA RAILWAY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-04 21:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREENTOWN CHINA] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 August 2026",
-  "time": "2026-09-04 21:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KN HOSPITAL] ARTICLES OF ASSOCIATION",
-  "time": "2026-09-04 21:01",
+  "title": "[CHERY AUTO] NOTICE OF EGM (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-04 21:37",
   "level": "🟢"
  }
 ]
