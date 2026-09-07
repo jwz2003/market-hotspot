@@ -24,22 +24,22 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25423.94,
-  "pct": -0.88
+  "price": 25389.93,
+  "pct": -1.02
  },
  {
   "cat": "index",
   "symbol": "000001.SS",
   "name": "上证指数",
-  "price": 3927.51,
+  "price": 3927.56,
   "pct": -0.07
  },
  {
   "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
-  "price": 13683.18,
-  "pct": 1.23
+  "price": 13707.53,
+  "pct": 1.41
  },
  {
   "cat": "index",
@@ -94,56 +94,56 @@
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 99.18,
-  "pct": 0.02
+  "price": 99.2,
+  "pct": 0.04
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 156.13,
-  "pct": 0.3
+  "price": 156.18,
+  "pct": 0.33
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": -0.12
+  "pct": -0.13
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 80170.9,
-  "pct": 0.32
+  "price": 79806.01,
+  "pct": -0.14
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2523.44,
-  "pct": 0.83
+  "price": 2509.77,
+  "pct": 0.28
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 106.38,
-  "pct": 2.07
+  "price": 105.56,
+  "pct": 1.08
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 753.11,
-  "pct": -1.31
+  "price": 749.14,
+  "pct": -1.95
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.42,
-  "pct": 0.0
+  "price": 1.41,
+  "pct": -0.58
  }
 ]
