@@ -24,7 +24,7 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 25650.87,
+  "price": 25652.97,
   "pct": 1.74
  },
  {
@@ -101,49 +101,49 @@
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 155.91,
-  "pct": 0.16
+  "price": 156.07,
+  "pct": 0.26
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": -0.07
+  "pct": -0.08
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 80061.38,
-  "pct": 0.1
+  "price": 79940.0,
+  "pct": -0.07
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2509.12,
-  "pct": 0.49
+  "price": 2505.41,
+  "pct": 0.18
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 105.93,
-  "pct": 2.29
+  "price": 105.47,
+  "pct": 1.63
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 749.43,
-  "pct": -2.37
+  "price": 747.27,
+  "pct": -2.44
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.41,
-  "pct": -0.26
+  "pct": -0.83
  }
 ]
