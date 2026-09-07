@@ -52,8 +52,8 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.21,
-  "pct": 4.68
+  "price": 15.3,
+  "pct": 5.3
  },
  {
   "cat": "commodity",
@@ -94,56 +94,56 @@
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 98.87,
+  "price": 98.88,
   "pct": -0.29
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 154.38,
-  "pct": -0.82
+  "price": 154.33,
+  "pct": -0.85
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.16,
-  "pct": 0.02
+  "pct": 0.04
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 79064.22,
-  "pct": -0.6
+  "price": 78810.98,
+  "pct": -1.08
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2484.38,
-  "pct": 0.25
+  "price": 2472.87,
+  "pct": -0.27
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 104.39,
-  "pct": -1.01
+  "price": 103.57,
+  "pct": -2.09
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 741.59,
-  "pct": -0.23
+  "price": 737.88,
+  "pct": -1.0
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.39,
-  "pct": -1.0
+  "pct": -1.63
  }
 ]
