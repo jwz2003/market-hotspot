@@ -2,8 +2,22 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[STANCHART] Transaction in own shares (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-07 14:32",
+  "title": "[CNOOC CNOOC-R] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-07 15:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] MONTHLY RETURN - July 2026",
+  "time": "2026-09-07 15:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINYI SOLAR] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
+  "time": "2026-09-07 14:42",
   "level": "🟢"
  }
 ]
