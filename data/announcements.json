@@ -1,184 +1,422 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[瑞泰新材] 中信证券股份有限公司关于张家港市产业发展集团有限公司收购江苏瑞泰新能源材料股份有限公司之2026年半年度持续督导意见",
-  "time": "2026-09-07 15:52",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DUFU LIQUOR GP] 1. PROPOSED GRANTING OF GENERAL MANDATES TO REPURCHASE SHARES AND TO ISSUE NEW SHARES OF THE COMPANY; 2. PROPOSED RE-ELECTI",
+  "time": "2026-09-07 16:35",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INVESTECH HLDGS] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-09-07 16:07",
+  "title": "[CHINA PPT INV] PROPOSED GRANTING OF GENERAL MANDATES TO ISSUE NEW SHARES AND TO REPURCHASE SHARES OF THE COMPANY; PROPOSED RE-ELECTION OF T",
+  "time": "2026-09-07 16:35",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEGENDARY EDU] PROPOSALS FOR GENERAL MANDATES TO ISSUE SHARES AND REPURCHASE SHARES; RE-ELECTION OF RETIRING DIRECTORS; PROPOSED RE-APPOINT",
+  "time": "2026-09-07 16:33",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[蒙草生态] 关于收到中标通知书的公告",
+  "time": "2026-09-07 16:34",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[智飞生物] 关于重组轮状病毒亚单位疫苗（大肠杆菌）获得临床试验批准通知书的公告",
+  "time": "2026-09-07 16:34",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[嘉亨家化] 中泰证券股份有限公司关于杭州拼便宜网络科技有限公司要约收购嘉亨家化股份有限公司之2026年第二季度持续督导意见",
+  "time": "2026-09-07 16:32",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[海融科技] 关于对外投资收购股权进展暨完成工商变更登记的公告",
+  "time": "2026-09-07 16:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[绿通科技] 关于收购苏州市诚瑞科技有限公司部分股权并对其增资的进展暨完成工商变更登记的公告",
+  "time": "2026-09-07 16:22",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[港迪技术] 关于签署日常经营重要合同的自愿性信息披露公告",
+  "time": "2026-09-07 16:15",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[赛意信息] 关于参加广东辖区2026年投资者集体接待日暨半年报业绩说明会活动的公告",
+  "time": "2026-09-07 16:15",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX KOSPI 200 GX KOSPI 200-U] PRODUCT KEY FACTS (Authorised Collective Investment Scheme)",
+  "time": "2026-09-07 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INVESTECH HLDGS] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-07 16:05",
+  "title": "[DAOHE GLOBAL] LETTER TO NON-REGISTERED HOLDERS AND REQUEST FORM - NOTICE OF PUBLICATION OF 2026 INTERIM REPORT (Other)",
+  "time": "2026-09-07 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MICROWARE] NEXT DAY DISCLOSURE RETURN (Others)",
-  "time": "2026-09-07 15:43",
+  "title": "[DOMAINE POWER] Notification Letter to Non-registered Holders of Shares and Request Form (Other)",
+  "time": "2026-09-07 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GXCOPPERMINER GXCOPPERMINER-U] PRODUCT KEY FACTS (Authorised Collective Investment Scheme)",
+  "time": "2026-09-07 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HONY MEDIA] PROXY FORM",
+  "time": "2026-09-07 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GXCOPPERMINER GX KOSPI 200 A GXS&P500CC GX CL HK-US GX CHINA TECH A GXNASDAQCC XA GX GOLD CC AGX HSDIV ENH GXCOPPERMINER-U GX KOSPI 200-U A",
+  "time": "2026-09-07 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX CN CONSUME GX CN ROBO&AI GX CN CLN EN GX CN LIL GIANT GX CN MEDTECH GX CN EV BATT GX CN GL LEADER GX APAC GX ASUSD BOND GX ASIA SEMICON ",
+  "time": "2026-09-07 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COURAGE INV] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINO-LIFE GROUP] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANTA SPORTS ANTA SPORTS-R] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CANBRIDGE-B] (Revised) MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 AUGUST 2026",
+  "time": "2026-09-07 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DOMAINE POWER] ANNUAL GENERAL MEETING TO BE HELD ON TUESDAY, 29 SEPTEMBER 2026 FORM OF PROXY",
+  "time": "2026-09-07 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAOHE GLOBAL] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BINHAI INV] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HONY MEDIA] PROPOSED CHANGE OF COMPANY NAME AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Other)",
+  "time": "2026-09-07 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DOMAINE POWER] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
+  "time": "2026-09-07 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENSCRIPT BIO] FIFTH AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SOUTH MANGANESE] COMPLETION OF PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENSCRIPT BIO] CHANGE OF NAME OF PRINCIPAL SHARE REGISTRAR AND TRANSFER OFFICE AND REGISTERED OFFICE IN CAYMAN ISLANDS (Other - Miscellaneo",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HANG LUNG GROUP] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HANHUA HOLDING] NOTICE OF BOARD MEETING AND CONTINUED SUSPENSION OF TRADING (Date of Board Meeting)",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HANG LUNG PPT] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
+  "time": "2026-09-07 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WUXI APPTEC] Next Day Disclosure Return (Others)",
+  "time": "2026-09-07 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PERENNIAL INT'L] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MMG] ANNOUNCEMENT RELATING TO RULE 13.18 OF THE LISTING RULES (Loan Agreement with Specific Performance Covenant)",
+  "time": "2026-09-07 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ORBUSNEICH] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-07 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行可续期公司债券（第四期）在深圳证券交易所上市的公告",
-  "time": "2026-09-07 15:54",
+  "title": "[飞利信] 独立董事候选人声明与承诺（赵同华）",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大叶股份] 关于美国对中国手扶式汽油割草机产品日落复审最终裁定及撤销命令的公告",
-  "time": "2026-09-07 15:52",
+  "title": "[飞利信] 独立董事提名人声明与承诺（赵同华）",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[宁波方正] 关于为子公司提供担保的进展公告",
-  "time": "2026-09-07 15:52",
+  "title": "[飞利信] 第六届董事会第二十三次会议决议",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[涛涛车业] 浙江涛涛车业股份有限公司董事提名政策(草案)（H股发行并上市后适用）",
-  "time": "2026-09-07 15:52",
+  "title": "[奇德新材] 关于调整2024年股票期权与限制性股票激励计划股票期权行权价格及限制性股票授予价格的公告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[涛涛车业] 浙江涛涛车业股份有限公司章程（草案）（H股发行并上市后适用）",
-  "time": "2026-09-07 15:52",
+  "title": "[锐新科技] 国元证券股份有限公司关于天津锐新昌科技股份有限公司详式权益变动报告书之2026年半年度持续督导意见暨持续督导总结报告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[涛涛车业] 关于香港联交所审议公司发行H股的公告",
-  "time": "2026-09-07 15:52",
+  "title": "[长联科技] 东莞证券股份有限公司关于东莞长联新材料科技股份有限公司2026年半年度持续督导跟踪报告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[涛涛车业] 第四届董事会第十七次会议决议公告",
-  "time": "2026-09-07 15:52",
+  "title": "[北陆药业] 中信建投证券股份有限公司关于北京北陆药业股份有限公司2026年半年度跟踪报告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[乖宝宠物] 中泰证券股份有限公司关于乖宝宠物食品集团股份有限公司2026年半年度持续督导跟踪报告",
-  "time": "2026-09-07 15:52",
+  "title": "[飞利信] 关于2026年第一次临时股东会取消部分子议案及增加临时提案暨股东会补充通知的公告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中光防雷] 关于参加举办四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会活动的公告",
-  "time": "2026-09-07 15:52",
+  "title": "[长联科技] 东莞证券股份有限公司关于对东莞长联新材料科技股份有限公司2026年度持续督导培训报告",
+  "time": "2026-09-07 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[安利股份] 关于第4期员工持股计划锁定期届满的提示性公告",
-  "time": "2026-09-07 15:52",
+  "title": "[晓鸣股份] 关于公司董事会延期换届选举的提示性公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[火星人] 中证鹏元关于关注火星人厨具股份有限公司2026年上半年业绩亏损事项的公告",
-  "time": "2026-09-07 15:52",
+  "title": "[嘉亨家化] 关于变更持续督导财务顾问主办人的公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[涛涛车业] 浙江涛涛车业股份有限公司股东提名人选参选董事的程序（草案）（H股发行并上市后适用）",
-  "time": "2026-09-07 15:52",
+  "title": "[汉邦高科] 信达证券股份有限公司关于北京汉邦高科数字技术股份有限公司2026年半年度持续督导跟踪报告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[科翔股份] 中泰证券股份有限公司关于广东科翔电子科技股份有限公司2026年半年度持续督导跟踪报告",
-  "time": "2026-09-07 15:52",
+  "title": "[全通教育] 关于控股股东所持部分股份将被司法拍卖的提示性公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[捷邦科技] 关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会的公告",
-  "time": "2026-09-07 15:50",
+  "title": "[南京聚隆] 江苏世纪同仁律师事务所关于南京聚隆科技股份有限公司2025年第二期限制性股票激励计划调整及首次授予部分第一个归属期归属条件成就的法律意见书",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[五洲医疗] 关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[南京聚隆] 关于调整2025年第二期限制性股票激励计划授予价格的公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国科天成] 关于向不特定对象发行可转换公司债券申请获得中国证券监督管理委员会同意注册批复的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[南京聚隆] 关于2025年第二期限制性股票激励计划首次授予部分第一个归属期符合归属条件的公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[美农生物] 关于参加2026年上海辖区上市公司集体接待日暨中报业绩说明会活动的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[南京聚隆] 第六届董事会第二十九次会议决议公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[漱玉平民] 关于控股股东、实际控制人部分股份解除质押的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[汉邦高科] 关于披露发行股份购买资产并募集配套资金暨关联交易预案后的进展公告",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[康芝药业] 关于公司控股股东部分股份解除质押的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[南京聚隆] 董事会薪酬与考核委员会关于2025年第二期限制性股票激励计划首次授予部分第一个归属期归属名单的核查意见",
+  "time": "2026-09-07 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[江丰电子] 关于部分募集资金专户销户完成的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[民德电子] 关于召开2026年第三次临时股东会的提示性公告",
+  "time": "2026-09-07 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[采纳股份] 关于对子公司担保进展公告",
-  "time": "2026-09-07 15:48",
+  "title": "[英杰电气] 关于参加四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会活动的公告",
+  "time": "2026-09-07 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[鹏辉能源] 关于2025年股票期权激励计划部分股票期权注销完成的公告",
-  "time": "2026-09-07 15:48",
+  "title": "[舒泰神] 关于召开2026年第二次临时股东会的提示性公告",
+  "time": "2026-09-07 16:15",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[四会富仕] 募集说明书（修订稿）（豁免版）",
+  "time": "2026-09-07 16:15",
   "level": "🟢"
  }
 ]
