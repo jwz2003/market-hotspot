@@ -1,429 +1,135 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Offerpad Solutions Inc. — 高管/董事变动",
-  "time": "2026-09-08",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NMP Acquisition Corp. — 8-K",
-  "time": "2026-09-08",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIHONG CO] Interim dividend for the six months ended 30 June 2026 (Updated) (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-08 21:56",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DOMAINE POWER] DISCLOSEABLE AND CONNECTED TRANSACTION PROPOSED VAX ACQUISITION UNDER THE VAX SALE AND PURCHASE AGREEMENT AND VAX SALE AND P",
-  "time": "2026-09-08 21:34",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SMART FISH] DISCLOSEABLE TRANSACTION: ACQUISITION OF PROPERTY (Discloseable Transaction)",
-  "time": "2026-09-08 21:25",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEXAN] PROPOSALS INVOLVING GENERAL MANDATES TO REPURCHASE AND ISSUE SHARES, RE-ELECTION OF RETIRING DIRECTORS, AND NOTICE OF ANNUAL GENERAL",
-  "time": "2026-09-08 21:22",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HANG YICK HLDGS] PROPOSALS FOR (1) GENERAL MANDATES TO ISSUE AND REPURCHASE SHARES; (2) RE-ELECTION OF DIRECTORS; (3) CLOSURE OF REGISTER O",
-  "time": "2026-09-08 20:59",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Orchestra BioMed Holdings, Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "StableCoinX Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ASP Isotopes Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Roivant Sciences Ltd. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SafeSpace Global Corp — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NEWS CORP — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Fidelity Core Real Estate Fund — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "GameStop Corp. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Genpact LTD — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "HCW Biologics Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SIERRA BANCORP — RegFD披露",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "QUALCOMM INC/DE — 3.02",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Veradigm Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EVI INDUSTRIES, INC. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "BITMINE IMMERSION TECHNOLOGIES, INC. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EAGLE FINANCIAL SERVICES INC — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "John Marshall Bancorp, Inc. — 8-K",
-  "time": "2026-09-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "GoPro, Inc. — 8-K",
-  "time": "2026-09-08",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-08 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-09-08 21:32",
+  "title": "[LOTUS HORIZON] (1) COMPLETION OF THE SALE AND PURCHASE OF THE SALE SHARES (2) MANDATORY UNCONDITIONAL CASH OFFER BY RAINBOW CAPITAL (HK) LI",
+  "time": "2026-09-08 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
   "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-08 21:32",
+  "time": "2026-09-08 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DL HOLDINGS GP] Next Day Disclosure Return (Others)",
-  "time": "2026-09-08 21:30",
+  "title": "[JIANGXI COPPER] ANNOUNCEMENT IN RELATION TO THE CONVENING OF THE 2026 INTERIM RESULTS BRIEFING (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 22:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP ASIA TECH A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3133,3121,3537 NE",
-  "time": "2026-09-08 21:30",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-08 22:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-09-08 21:27",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEXAN] Notification of publication of Corporate Communications on the Company's website to Non-Registered Shareholders (Other)",
-  "time": "2026-09-08 21:24",
+  "title": "[JIHONG CO] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:52",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEXAN] Notification of publication of Corporate Communications on the Company's website to Registered Shareholders (Other)",
-  "time": "2026-09-08 21:23",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:51",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-08 21:23",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEXAN] Proxy Form for the Annual General Meeting to be held on 30 September 2026 at 10:30 a.m.",
-  "time": "2026-09-08 21:23",
+  "title": "[JIHONG CO] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEXAN] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
-  "time": "2026-09-08 21:22",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUAJIN INTL] VOLUNTARY ANNOUNCEMENT UNUSUAL PRICE MOVEMENTS (Unusual Price/Turnover Movements - Standard or Super)",
-  "time": "2026-09-08 21:22",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-09-08 21:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TYK MEDICINES-B] VOLUNTARY ANNOUNCEMENT - INCREASE IN SHAREHOLDING IN THE COMPANY BY THE CHAIRMAN, EXECUTIVE DIRECTOR AND CHIEF EXECUTIVE O",
-  "time": "2026-09-08 21:19",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CR BEVERAGE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-08 21:18",
+  "title": "[JIHONG CO] ARTICLES OF ASSOCIATION",
+  "time": "2026-09-08 21:44",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-08 21:13",
+  "title": "[RADIANCE GLO GP] CONNECTED TRANSACTION IN RELATION TO SUBSCRIPTION OF NEW SHARES UNDER SPECIFIC MANDATE (Connected Transaction / Issue of S",
+  "time": "2026-09-08 21:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HANG YICK HLDGS] Notification letter to Registered Shareholders and Reply Form (Other)",
-  "time": "2026-09-08 21:10",
+  "title": "[CATL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 21:41",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HANG YICK HLDGS] Notification letter to Non-Registered Shareholders and Request Form (Other)",
-  "time": "2026-09-08 21:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMAGI INT'L-500] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-08 21:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HANG YICK HLDGS] Proxy Form",
-  "time": "2026-09-08 21:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHIDA TECH] POLL RESULTS OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM)",
-  "time": "2026-09-08 21:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMAGI INT'L-500] APPOINTMENT OF EXECUTIVE DIRECTOR AND VICE PRESIDENT OF CORPORATE COMPLIANCE AND GENERAL COUNSEL OF THE COMPANY (Change in",
-  "time": "2026-09-08 21:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HANG YICK HLDGS] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM)",
-  "time": "2026-09-08 21:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LEADWAY TECH] SUPPLEMENTAL ANNOUNCEMENT TO IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Results)",
-  "time": "2026-09-08 21:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[R&F PROPERTIES] Overseas Regulatory Announcement (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-08 21:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NEWTREND GROUP] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO (1) DISCLOSEABLE TRANSACTION - PURCHASE OF EQUIPMENT; AND (2) DISCLOSEABLE TRANSAC",
-  "time": "2026-09-08 20:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUEXIUTRANSPORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-08 20:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HOME CONTROL] VOLUNTARY ANNOUNCEMENT FURTHER INFORMATION IN RELATION TO RECENT REGULATORY MATTERS (Other - Miscellaneous)",
-  "time": "2026-09-08 20:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BIDU-W BIDU-WR] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-08 20:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP VIETNAM30] 3004 NEWS",
-  "time": "2026-09-08 20:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP MSCI A 50] 3003 NEWS",
-  "time": "2026-09-08 20:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP HSBIOTECH] 3174 NEWS",
-  "time": "2026-09-08 20:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA HONGGUANG] CHANGE OF NAME OF AUDITOR (Other - Miscellaneous)",
-  "time": "2026-09-08 20:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP STAR 50] 3109 NEWS",
-  "time": "2026-09-08 20:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP CSI PV] 3134 NEWS",
-  "time": "2026-09-08 20:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XL2CSOPCSI300] 7233 NEWS",
-  "time": "2026-09-08 20:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUES INTL HLDG] MAJOR TRANSACTION AND CONNECTED TRANSACTION DISPOSAL OF THE REMAINING APPROXIMATELY 70.87% EQUITY INTEREST IN THE TARGET CO",
-  "time": "2026-09-08 20:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA SANDI] Notification Letter to Non-Registered Shareholders (Other)",
-  "time": "2026-09-08 20:46",
+  "title": "[NAYUKI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 21:39",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[东北证券] 东北证券股份有限公司2026年面向专业投资者公开发行永续次级债券（第二期）票面利率公告",
-  "time": "2026-09-08 21:26",
+  "title": "[宁德时代] 关于2022年股票期权与限制性股票激励计划之限制性股票首次及预留授予第四个归属期归属条件成就的公告",
+  "time": "2026-09-08 20:04",
   "level": "🟢"
  }
 ]
