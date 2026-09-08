@@ -2,232 +2,414 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINGCHENG MAC] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-08 16:32",
+  "title": "[INT MEDICAL] (1) PROPOSED APPOINTMENT OF DR. ZHANG PENG AS AN INDEPENDENT NON-EXECUTIVE DIRECTOR (2) PROPOSED APPOINTMENT OF DR. LAI WAN LU",
+  "time": "2026-09-08 17:05",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[三雄极光] 关于参加2026年广东辖区上市公司投资者网上集体接待日暨半年报业绩说明会活动的公告",
+  "time": "2026-09-08 17:00",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[阳普医疗] 关于参加2026广东上市公司投资者集体接待日暨半年报业绩说明会活动的公告",
+  "time": "2026-09-08 16:50",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[蓝思科技] H股公告：联合公告每月更新资料内容有关中信里昂证券有限公司代表蓝思科技股份有限公司就收购巨腾国际控股有限公司全部已发行股份（蓝思科技股份有限公司及其一致行动人士已拥有或同意收购之股份除外）提出具有前置条件之自愿性有条件全面现金要约",
+  "time": "2026-09-08 16:35",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONTEL] (1) GENERAL MANDATES TO ISSUE AND REPURCHASE SHARES; (2) RE-ELECTION OF DIRECTORS; (3) RE-APPOINTMENT OF AUDITOR; AND NOTICE OF ANN",
-  "time": "2026-09-08 16:30",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[STANCHART] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-08 16:37",
+  "title": "[INT MEDICAL] NOTICE OF THE FIRST EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Closure of Books or Change of Book Closure Peri",
+  "time": "2026-09-08 17:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CNOOC CNOOC-R] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-08 16:36",
+  "title": "[LE SAUNDA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 17:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SKYMISSION GP] Next Day Disclosure Return (Others)",
-  "time": "2026-09-08 16:36",
+  "title": "[SUN HUNG KAI CO] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 17:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA RE] NOTICE OF THE THIRD EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period ",
-  "time": "2026-09-08 16:36",
+  "title": "[GUOTAI JUNAN I] Disclosure of Dealings under Rule 22 of the Takeovers Code",
+  "time": "2026-09-08 17:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[STRONG PETRO] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-08 16:36",
+  "title": "[GUOTAI JUNAN I] Disclosure of Dealings under Rule 22 of the Takeovers Code",
+  "time": "2026-09-08 17:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONTEL] Notification Letter and Request Form to Registered Shareholders (Other)",
+  "title": "[SF HOLDING] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 17:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#CATL RC2612J BI#ZAI RC2702A] Notice of Valuation of Mandatory Call Payoff in relation to stock code 60206, 61612 issued by BOCI Asia Lim",
+  "time": "2026-09-08 17:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#HSI RC2809J] Notice of Valuation of Mandatory Call Payoff in relation to stock code 53891 issued by BOCI Asia Limited (Expiry Announceme",
+  "time": "2026-09-08 17:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHIXIN GP HLDG] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-08 17:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UB#TENCTRC27069 UB#ZAI RC2702A UB#XIAMIRC2702G UB#CATL RC2705A] Notice of Valuation of Mandatory Call Payoff issued by UBS AG (Expiry Annou",
+  "time": "2026-09-08 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UB#HSI RC2811B UB#HSI RC2807C UB#HSI RC2807F UB#HSI RP2810J UB#HSI RP28102] Notice of Valuation of Mandatory Call Payoff issued by UBS AG (",
+  "time": "2026-09-08 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOYAA] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-08 17:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BILLION IND] Next Day Disclosure Return - Share Buyback (Share Buyback)",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIANQI LITHIUM] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WKK INTL (HOLD)] Overseas Regulatory Announcement (Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[POWER XINCHEN] REVISION OF ANNUAL CAPS OF CONTINUING CONNECTED TRANSACTIONS UNDER THE BRILLIANCE CHINA PURCHASE AGREEMENT 2025-2027 (Contin",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GLMS SEC] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 16:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHEJIANGEXPRESS] Reply Slip for Extraordinary Shareholders' Meeting (Other)",
+  "time": "2026-09-08 16:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA ECOTOUR] Dismissal of Winding-Up Petition (Inside Information)",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REMT] Next Day Disclosure Returns (Others)",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DS#HSI RC2811A DS#HSI RC2809R DS#HSI RP2901L] Notice of Valuation of Mandatory Call Payoff in relation to stock code 54102, 53227, 54630 is",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CON AERO TECH] Disclosure of Dealings under Rule 22 of the Takeovers Code",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CON AERO TECH] Disclosure of Dealings under Rule 22 of the Takeovers Code",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHEJIANGEXPRESS] Proxy Form for Extraordinary Shareholders' Meeting",
+  "time": "2026-09-08 16:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PRU] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-08 16:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHENYANG PUBLIC] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-08 16:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EVERGREEN PG] NOTIFICATION LETTER FOR NON-REGISTERED HOLDERS AND REQUEST FORM (Other)",
+  "time": "2026-09-08 16:53",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[捷捷微电] 江苏捷捷微电子股份有限公司关于公司为全资子公司提供担保的进展公告",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[南华仪器] 关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[兆丰股份] 关于参与投资设立合伙企业的进展公告",
+  "time": "2026-09-08 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[上海钢联] 董事会薪酬与考核委员会关于公司2026年限制性股票激励计划首次授予激励对象名单的核查意见及公示情况说明",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[智飞生物] 关于司美格鲁肽注射液申请生产注册获得受理的公告",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[上海钢联] 关于2026年限制性股票激励计划内幕信息知情人及激励对象买卖公司股票情况的自查报告",
+  "time": "2026-09-08 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[密封科技] 关于控股股东股权结构拟发生变动的进展公告",
+  "time": "2026-09-08 16:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华人健康] 关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
+  "time": "2026-09-08 16:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 第六届董事会第九次会议决议公告",
+  "time": "2026-09-08 16:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 关于向控股子公司提供财务资助暨关联交易的公告",
+  "time": "2026-09-08 16:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[富乐德] 关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
   "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CARMEN CENTURY] INSIDE INFORMATION (1) DELAY IN PUBLICATION OF 2026 INTERIM RESULTS; (2) DELAY IN DESPATCH OF 2026 INTERIM REPORT; AND (3) ",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[安控科技] 关于参加四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会活动的公告",
   "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONTEL] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
-  "time": "2026-09-08 16:34",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[爱迪特] 中信建投证券股份有限公司关于爱迪特（秦皇岛）科技股份有限公司2026年半年度跟踪报告",
+  "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASIA CEMENT CH] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-08 16:33",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[移为通信] 关于举行2026年半年度业绩说明会的公告",
+  "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BIOSYSEN] Next Day Disclosure Returns -Changes in Issued Share Capital (Others)",
-  "time": "2026-09-08 16:33",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[上海凯宝] 关于参加2026年上海辖区上市公司集体接待日暨中报业绩说明会的公告",
+  "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHK OIL] APPOINTMENT OF COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND PROCESS AGENT, AND CHIEF FINANCIAL OFFICER (Change in Directors or",
-  "time": "2026-09-08 16:33",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华新科技] 董事会薪酬与考核委员会关于公司2026年限制性股票激励计划授予激励对象名单的核查意见及公示情况的说明",
+  "time": "2026-09-08 16:35",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TE HEALTHCARE] Notification Letter to Non-Registered Shareholders (Other)",
-  "time": "2026-09-08 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HKEX HKEX-R] Legal proceedings (Other - Litigation)",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[立高食品] 关于子公司完成工商变更登记并换发营业执照的公告",
   "time": "2026-09-08 16:32",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONTEL] FORM OF PROXY FOR USE AT THE ANNUAL GENERAL MEETING",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[舜禹股份] 关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
   "time": "2026-09-08 16:32",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TE HEALTHCARE] Notification Letter to Registered Shareholders and Reply Form (Other)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[海融科技] 关于使用闲置自有资金进行现金管理的进展公告",
+  "time": "2026-09-08 16:32",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA RE] CIRCULAR OF THE THIRD EXTRAORDINARY GENERAL MEETING OF 2026 (General Mandate / Issue of Shares / Other)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[绿通科技] 关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会的公告",
+  "time": "2026-09-08 16:32",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONTEL] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[北方长龙] 广发证券股份有限公司关于北方长龙新材料技术股份有限公司2026年半年度跟踪报告",
+  "time": "2026-09-08 16:28",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SKYMISSION GP] COMPLETION OF PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[鑫宏业] 关于为全资子公司提供担保的进展公告",
+  "time": "2026-09-08 16:24",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHENGDU EXPWAY] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金信诺] 关于子公司为公司担保的公告",
+  "time": "2026-09-08 16:24",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[山大电力] 兴业证券股份有限公司关于山东山大电力技术股份有限公司2026年半年度跟踪报告",
+  "time": "2026-09-08 16:24",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EMPEROR WATCH&J] Notification Letter to Non-Registered Shareholders (Other)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[军信股份] 关于为子公司提供担保的进展公告",
+  "time": "2026-09-08 16:22",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YANCOAL AUS] Issue of Performance Share Rights (Other - Miscellaneous)",
-  "time": "2026-09-08 16:31",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[电声股份] 关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+  "time": "2026-09-08 16:22",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRMSCIKOREA TR MSCI CHINA A X TRNIFTY50 X TRMSCIUSA TRMSCITAIWAN X TRVIET] ANNOUNCEMENT TO HONG KONG SHAREHOLDERS (Matters relating to Coll",
-  "time": "2026-09-08 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LENS] JOINT ANNOUNCEMENT MONTHLY UPDATE IN RELATION TO THE PRE-CONDITIONAL VOLUNTARY CONDITIONAL GENERAL CASH OFFER BY CLSA LIMITED FOR AND",
-  "time": "2026-09-08 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LENOVO GROUP LENOVO B2908 LENOVO GROUP-R] PARTIAL CONVERSION AND CANCELLATION OF US$675 MILLION 2.50% CONVERTIBLE BONDS DUE 2029 (Conversio",
-  "time": "2026-09-08 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[COCOON HOLDINGS] NET ASSET VALUE (Net Asset Value)",
-  "time": "2026-09-08 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JU TENG INTL] JOINT ANNOUNCEMENT MONTHLY UPDATE IN RELATION TO THE PRE-CONDITIONAL VOLUNTARY CONDITIONAL GENERAL CASH OFFER BY CLSA LIMITED",
-  "time": "2026-09-08 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WUXI APPTEC] Next Day Disclosure Return (Others)",
-  "time": "2026-09-08 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EMPEROR WATCH&J] Notification Letter to Registered Shareholders and Reply Form (Other)",
-  "time": "2026-09-08 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUPERROBOTICS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 August 2026",
-  "time": "2026-09-08 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LI AUTO-W] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-08 16:30",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科锐国际] 关于全资子公司对上市公司银行授信提供担保的公告",
+  "time": "2026-09-08 16:22",
   "level": "🟢"
  }
 ]
