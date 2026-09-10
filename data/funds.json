@@ -175,14 +175,5 @@
    "reason": "1家机构卖出，成功率27.09%"
   }
  ],
- "funding": [
-  {
-   "symbol": "BTC",
-   "rate": 0.01
-  },
-  {
-   "symbol": "ETH",
-   "rate": 0.0091
-  }
- ]
+ "funding": []
 }
