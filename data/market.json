@@ -1,30 +1,114 @@
 [
  {
-  "cat": "crypto",
-  "symbol": "ETHUSDT",
-  "name": "ETH",
-  "price": 2459.49,
-  "pct": -0.74
+  "cat": "index",
+  "symbol": "^GSPC",
+  "name": "标普500",
+  "price": 7591.7,
+  "pct": -0.58
  },
  {
-  "cat": "crypto",
-  "symbol": "SOLUSDT",
-  "name": "SOL",
-  "price": 99.76,
-  "pct": -2.27
+  "cat": "index",
+  "symbol": "^IXIC",
+  "name": "纳斯达克",
+  "price": 26081.72,
+  "pct": -0.65
  },
  {
-  "cat": "crypto",
-  "symbol": "BNBUSDT",
-  "name": "BNB",
-  "price": 715.67,
-  "pct": -0.93
+  "cat": "index",
+  "symbol": "^DJI",
+  "name": "道琼斯",
+  "price": 52064.1,
+  "pct": -0.6
  },
  {
-  "cat": "crypto",
-  "symbol": "XRPUSDT",
-  "name": "XRP",
-  "price": 1.35,
-  "pct": -3.19
+  "cat": "index",
+  "symbol": "^HSI",
+  "name": "恒生指数",
+  "price": 24742.51,
+  "pct": -0.85
+ },
+ {
+  "cat": "index",
+  "symbol": "000001.SS",
+  "name": "上证指数",
+  "price": 3862.73,
+  "pct": -1.82
+ },
+ {
+  "cat": "index",
+  "symbol": "399001.SZ",
+  "name": "深证成指",
+  "price": 13298.77,
+  "pct": -2.34
+ },
+ {
+  "cat": "index",
+  "symbol": "^SOX",
+  "name": "费城半导体",
+  "price": 11614.17,
+  "pct": -2.66
+ },
+ {
+  "cat": "index",
+  "symbol": "^VIX",
+  "name": "VIX恐慌",
+  "price": 17.84,
+  "pct": 8.38
+ },
+ {
+  "cat": "commodity",
+  "symbol": "GC=F",
+  "name": "黄金",
+  "price": 4375.0,
+  "pct": 0.24
+ },
+ {
+  "cat": "commodity",
+  "symbol": "SI=F",
+  "name": "白银",
+  "price": 64.11,
+  "pct": -0.27
+ },
+ {
+  "cat": "commodity",
+  "symbol": "CL=F",
+  "name": "WTI原油",
+  "price": 102.12,
+  "pct": -0.35
+ },
+ {
+  "cat": "commodity",
+  "symbol": "HG=F",
+  "name": "铜",
+  "price": 6.54,
+  "pct": 1.14
+ },
+ {
+  "cat": "commodity",
+  "symbol": "NG=F",
+  "name": "天然气",
+  "price": 2.83,
+  "pct": -0.28
+ },
+ {
+  "cat": "forex",
+  "symbol": "DX-Y.NYB",
+  "name": "美元指数",
+  "price": 99.11,
+  "pct": 0.02
+ },
+ {
+  "cat": "forex",
+  "symbol": "USDJPY=X",
+  "name": "美元日元",
+  "price": 154.28,
+  "pct": 0.46
+ },
+ {
+  "cat": "forex",
+  "symbol": "EURUSD=X",
+  "name": "欧元美元",
+  "price": 1.16,
+  "pct": -0.2
  }
 ]
