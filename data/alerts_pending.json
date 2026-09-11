@@ -5294,5 +5294,45 @@
   "detail": "现价 2620.18，24h 波动超 5.0%",
   "value": 7.693,
   "time": "2026-09-11 22:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "费城半导体 +1.99%",
+  "detail": "现价 11844.783，突破波动阈值 1.5%",
+  "value": 1.9856200038510339,
+  "time": "2026-09-11 23:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "WTI原油 -2.88%",
+  "detail": "现价 99.53，跌破波动阈值 2.0%",
+  "value": -2.8786148331416186,
+  "time": "2026-09-11 23:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[CLARITY MEDICAL] KEY FINDINGS OF FORENSIC INVESTIGATION IN ",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-11 23:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[CLARITY MEDICAL] INSIDE INFORMATION SUPPLEMENTAL ANNOUNCEME",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-11 23:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[TIGERMED] INSIDE INFORMATION - UPDATE ON INVESTIGATION AGAI",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-11 23:07"
  }
 ]
