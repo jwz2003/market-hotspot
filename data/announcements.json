@@ -1,93 +1,268 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 关于广西天山电子股份有限公司申请向不特定对象发行可转换公司债券的审核问询函之回复（修订稿）",
-  "time": "2026-09-11 20:54",
-  "level": "🔴"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ChampionsGate Acquisition Corp — 8-K",
+  "time": "2026-09-11",
+  "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 关于向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-  "time": "2026-09-11 20:54",
-  "level": "🔴"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DAJIN] POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING; AND DISTRIBUTION OF INTERIM DIVIDEND FOR 2026 (Results of EGM/SGM)",
-  "time": "2026-09-11 21:03",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ocean Capital Acquisition Corp — 8-K",
+  "time": "2026-09-11",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CALC] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-09-11 20:37",
+  "title": "[PEIJIA-B] VOLUNTARY ANNOUNCEMENT - NMPA APPROVAL FOR REGISTRATION APPLICATION OF GeminiOne TRANSCATHETER EDGE-TO-EDGE REPAIR SYSTEM (Other ",
+  "time": "2026-09-11 21:30",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 21:06",
+  "title": "[DAJIN] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (UPDATED) (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-11 21:07",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Reliance Global Group, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ExchangeRight Income Fund — 3.02",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BioRestorative Therapies, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Victory Capital Holdings, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HWH International Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "New Fortress Energy Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AtaiBeckley Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Aon plc — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Apimeds Pharmaceuticals US, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY, INC. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "COFFEE HOLDING CO INC — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BUTLER NATIONAL CORP — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cardlytics, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hudson Pacific Properties, L.P. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hudson Pacific Properties, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "bioAffinity Technologies, Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BOSTON OMAHA Corp — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alcoa Corp — 8-K",
+  "time": "2026-09-11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HC TECH GP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-09-11 21:05",
+  "title": "[VOBILE GROUP] VOLUNTARY ANNOUNCEMENT (Other - Business Update)",
+  "time": "2026-09-11 21:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 21:05",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP ASIA TECH A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3133,3121,3537 NE",
+  "time": "2026-09-11 21:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-11 21:04",
+  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
+  "time": "2026-09-11 21:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WEBX HOLDING] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-09-11 21:04",
+  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
+  "time": "2026-09-11 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANGELALIGN] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-09-11 21:04",
+  "title": "[RIBOLIFE-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 21:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 21:04",
+  "title": "[DL HOLDINGS GP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 21:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-11 21:03",
+  "title": "[SHENGLONG INTL] GRANT OF WAIVER FOR DELAY IN DESPATCH OF CIRCULAR UNDER RULE 19.41(a) OF THE GEM LISTING RULES (Major Transaction / Delay i",
+  "time": "2026-09-11 21:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-09-11 21:02",
+  "title": "[ANGELALIGN] Notification Letter to Non-registered Holder and Request Form (Other)",
+  "time": "2026-09-11 21:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAJIN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters / Overseas Regulatory...<div class='fancy-not",
+  "time": "2026-09-11 21:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
+  "time": "2026-09-11 21:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHIHO ENV] SUPPLEMENTAL ANNOUNCEMENT REMOVAL OF THE OFFICE OF AN EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Function",
+  "time": "2026-09-11 21:12",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA CBS INTL] Next Day Disclosure Returns (Others)",
+  "time": "2026-09-11 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HISENSE HA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-09-11 21:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANGELALIGN] FORM OF PROXY FOR USE AT EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-09-11 21:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HISENSE HA] CONNECTED TRANSACTION-DISPOSAL OF LAND (Connected Transaction)",
+  "time": "2026-09-11 21:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LONGHUI INTL] (1) POLL RESULTS OF EXTRAORDINARY GENERAL MEETING HELD ON 11 SEPTEMBER 2026 ; AND (2) COMPLETION OF MAJOR AND CONNECTED TRANS",
+  "time": "2026-09-11 21:08",
   "level": "🟢"
  },
  {
@@ -95,188 +270,6 @@
   "market": "港股",
   "title": "[NEWBORNTOWN] Next Day Disclosure Return (Share Buyback)",
   "time": "2026-09-11 21:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-09-11 21:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 21:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 21:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHONGLIANG HLDG] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-11 21:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEILAN AIRPORT] DELAY IN DESPATCH OF CIRCULAR (Delay in Dispatch of Circular or other Document / Connected Transaction)",
-  "time": "2026-09-11 21:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-11 20:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ANGELALIGN] (1) GRANT OF RSUS TO EXECUTIVE DIRECTORS UNDER THE POST-IPO RSU SCHEME; AND (2) NOTICE OF EXTRAORDINARY GENERAL MEETING (Share ",
-  "time": "2026-09-11 20:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KUAISHOU-W KUAISHOU-WR] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-09-11 20:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHICMAX] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 20:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHONGKE GROUP] CLOSURE OF REGISTER OF MEMBERS (Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-11 20:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 20:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-09-11 20:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-09-11 20:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HXTL] Documents on Display",
-  "time": "2026-09-11 20:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB SSH HIGH DIV] Summary Information",
-  "time": "2026-09-11 20:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB TW SEMICON] Summary Information (3076)",
-  "time": "2026-09-11 20:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
-  "time": "2026-09-11 20:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUNLICAR GROUP] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-11 20:37",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 关于向不特定对象发行可转换公司债券变更签字律师的专项说明",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 北京市天元律师事务所关于广西天山电子股份有限公司创业板向不特定对象发行可转换公司债券项目变更签字律师的承诺函",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 爱建证券有限责任公司关于广西天山电子股份有限公司向不特定对象发行可转债变更签字律师的专项说明",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 爱建证券有限责任公司关于广西天山电子股份有限公司向不特定对象发行可转换公司债券之发行保荐书（修订稿）",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 爱建证券有限责任公司关于广西天山电子股份有限公司向不特定对象发行可转换公司债券之上市保荐书（修订稿）",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 北京市天元律师事务所关于广西天山电子股份有限公司向不特定对象发行可转换公司债券的补充法律意见（三）",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 关于向不特定对象发行可转换公司债券变更签字律师的公告",
-  "time": "2026-09-11 20:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天山电子] 广西天山电子股份有限公司向不特定对象发行可转换公司债券募集说明书（修订稿）",
-  "time": "2026-09-11 20:54",
   "level": "🟢"
  }
 ]
