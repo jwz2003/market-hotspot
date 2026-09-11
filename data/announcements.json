@@ -1,226 +1,345 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SPRING REIT] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-11 17:36",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OceanLight Acquisition Corp — 8-K",
+  "time": "2026-09-10",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FOSUN PHARMA] NEXT DAY DISCLOSURE RETURN - SHARE BUYBACK (Share Buyback)",
-  "time": "2026-09-11 17:34",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Park Hotels & Resorts Inc. — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHOUGANG CENT] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-11 17:33",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HOOKER FURNISHINGS Corp — 8-K",
+  "time": "2026-09-11",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CNQC INT'L] (1) RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR; (2) CHANGE IN COMPOSITION OF THE BOARD COMMITTEES; AND (3) LIST OF DIREC",
-  "time": "2026-09-11 17:35",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "IMPINJ INC — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BANK 2020-BNK26 — 6.02",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Vistagen Therapeutics, Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Joby Aviation, Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NEWS CORP — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FingerMotion, Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GPO Plus, Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ionic Digital Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nutex Health Inc. — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CIRCLE8 GROUP INC — 8-K",
+  "time": "2026-09-10",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nauticus Robotics, Inc. — 8-K",
+  "time": "2026-09-10",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CRTG] POLL RESULTS OF ANNUAL GENERAL MEETING (Results of AGM)",
-  "time": "2026-09-11 17:35",
+  "title": "[F SSIFIRONORE F SSIFIRONORE-U] 9047, 3047 NEWS",
+  "time": "2026-09-11 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SEAZEN] UNAUDITED OPERATING STATISTICS FOR AUGUST 2026 (Other - Trading Update)",
-  "time": "2026-09-11 17:35",
+  "title": "[LENS] Next Day Disclosure Return (Others)",
+  "time": "2026-09-11 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GWMOTOR GWMOTOR-R] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-11 17:35",
+  "title": "[FUJING HOLDINGS] RESIGNATION OF EXECUTIVE DIRECTOR AND CHIEF FINANCIAL OFFICER (Change in Directors or of Important Executive Functions or ",
+  "time": "2026-09-11 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SICHUAN EXPRESS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-11 17:34",
+  "title": "[APAC RESOURCES APAC RES W2712] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-11 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[STANCHART] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:33",
+  "title": "[SLING GROUP] PROPOSED CHANGE OF AUDITOR (Change in Auditors)",
+  "time": "2026-09-11 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LEGENDARY EDU] VOLUNTARY ANNOUNCEMENT INTENTION TO CONDUCT ON-MARKET SHARE REPURCHASE (Other - Miscellaneous)",
-  "time": "2026-09-11 17:33",
+  "title": "[YSB] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[COMBA] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
-  "time": "2026-09-11 17:33",
+  "title": "[ZCZL] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WANG ON GROUP] POLL RESULTS OF THE SPECIAL GENERAL MEETING HELD ON 11 SEPTEMBER 2026 (Results of EGM/SGM)",
-  "time": "2026-09-11 17:32",
+  "title": "[GREENTOWN SER] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[COMBA] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
-  "time": "2026-09-11 17:31",
+  "title": "[EASY SMART GP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-11 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:31",
+  "title": "[DRCB] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-11 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BINHAI INV] Next Day Disclosure Return - Share Buyback (Share Buyback)",
-  "time": "2026-09-11 17:30",
+  "title": "[CPIC] VOLUNTARY ANNOUNCEMENT - PARTICIPATION IN 2026 LISTED COMPANY COLLECTIVE RECEPTION DAY IN SHANGHAI AND INTERIM RESULTS PRESENTATION E",
+  "time": "2026-09-11 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENCENT TENCENT-R] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:30",
+  "title": "[TIME INTERCON] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-09-11 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PRU] Change of principal place of business in Hong Kong (Change in Registered Address or Office, Registered Place of Business in HK or Agen",
-  "time": "2026-09-11 17:30",
+  "title": "[SITOY GROUP] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-11 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHIMAO GROUP] Unaudited Operating Statistics for the eight months ended 31 August 2026 (Other - Trading Update)",
-  "time": "2026-09-11 17:30",
+  "title": "[HAITIAN FLAV] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YEAHKA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:30",
+  "title": "[ABC] DESPATCH OF CIRCULAR (1) PROPOSED ISSUANCE OF A SHARES UNDER GENERAL MANDATE AND RELATED MATTERS (2) APPLICATION FOR WHITEWASH WAIVER ",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[COMBA] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-11 17:30",
+  "title": "[BOAN BIOTECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[METASURFACE] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-11 17:29",
+  "title": "[YEE HOP HLDGS] POLL RESULTS OF THE 2026 ANNUAL GENERAL MEETING HELD ON 11 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALI HEALTH] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-11 17:29",
+  "title": "[A BOS HKD MM] Stock Code: 3152 Information",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA BOTON] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:28",
+  "title": "[HSBC HOLDINGS] ISSUANCE OF SENIOR UNSECURED BONDS (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-11 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALI HEALTH] APPOINTMENT OF EXECUTIVE DIRECTOR; CHANGE OF CHAIRMAN, CHIEF EXECUTIVE OFFICER AND AUTHORIZED REPRESENTATIVE; AND CHANGE IN COM",
-  "time": "2026-09-11 17:28",
+  "title": "[HAIZHI TECH GP] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 11, 2026 (Results of EGM/SGM / Share Scheme)",
+  "time": "2026-09-11 17:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JIADING INTL GP] LATEST BUSINESS UPDATE ON THE PROPOSED BUSINESS COOPERATION (Other - Business Update)",
-  "time": "2026-09-11 17:28",
+  "title": "[A BOS RMB MM A BOS RMB MM-R] Stock Code: 3192 Information",
+  "time": "2026-09-11 17:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GBG HOLDINGS] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 11 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-11 17:27",
+  "title": "[A TK HKD MM] Stock Code: 3457 Information",
+  "time": "2026-09-11 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YUEXIU PROPERTY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-11 17:25",
+  "title": "[A TK USD MM A TK USD MM-U] Stock Code: 3176 9176 Information",
+  "time": "2026-09-11 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BENG SOON MACH] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS (Other)",
-  "time": "2026-09-11 17:25",
+  "title": "[KIMOU ENVIRON] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business in ",
+  "time": "2026-09-11 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BEISEN HOLDING] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-11 17:25",
+  "title": "[CGN NEW ENERGY] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PETRO-KING] Notification Letter to Non-Registered Shareholders - Notice of Publication of 2026 Interim Report (Other)",
-  "time": "2026-09-11 17:24",
+  "title": "[A VP HKD MM] Stock Code: 3421 Information",
+  "time": "2026-09-11 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHUNLI MEDICAL] PASSING AWAY OF COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND PROCESS AGENT (Change in Company Secretary / Change in Reg",
-  "time": "2026-09-11 17:24",
+  "title": "[A VP RMB MM A VP RMB MM-R] Stock Code: 3420 Information",
+  "time": "2026-09-11 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-11 17:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A VP USD MM A VP USD MM-U] Stock Code: 3480 Information",
+  "time": "2026-09-11 17:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BIOCYTOGEN-B] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-11 17:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NETJOY] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON SEPTEMBER 11, 2026 (Results of AGM)",
+  "time": "2026-09-11 17:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LUXXU GROUP] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
+  "time": "2026-09-11 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VENUS MEDTECH-B] BOOK CLOSURE PERIOD FOR EXTRAORDINARY GENERAL MEETING (Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-11 17:53",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[浙江建投] 招商证券股份有限公司关于浙江省建设投资集团股份有限公司三分之一以上董事发生变动的临时受托管理事务报告",
-  "time": "2026-09-11 17:16",
+  "title": "[云南能投] 关于延长云南能源投资股份有限公司2026年面向专业投资者公开发行碳中和绿色乡村振兴公司债券（第一期）簿记建档时间的公告",
+  "time": "2026-09-11 17:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[黔源电力] 关于延长贵州黔源电力股份有限公司2026年面向专业投资者公开发行碳中和绿色科技创新乡村振兴公司债券（第一期）（生物多样性挂钩）（支持生态文明建设先行区）簿记建档时间的公告",
+  "time": "2026-09-11 17:52",
   "level": "🟢"
  }
 ]
