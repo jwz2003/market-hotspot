@@ -5590,5 +5590,21 @@
   "detail": "现价 104.22，突破波动阈值 2.0%",
   "value": 4.167914084708315,
   "time": "2026-09-14 22:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "天然气 +2.23%",
+  "detail": "现价 2.894，突破波动阈值 2.0%",
+  "value": 2.2253607123081167,
+  "time": "2026-09-14 23:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[TIANJUDIHE] ANNOUNCEMENT OF KEY FINDINGS OF (I) INDEPENDENT",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-14 23:07"
  }
 ]
