@@ -2,8 +2,15 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PRU] Holding(s) in Company (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-14 14:46",
+  "title": "[STANCHART] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-14 15:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[F GX OIL] 3097 NEWS",
+  "time": "2026-09-14 15:08",
   "level": "🟢"
  }
 ]
