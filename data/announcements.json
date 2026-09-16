@@ -1,177 +1,338 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CNGR] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (REVISED) (Dividend or Distribution (Announcement Form))",
-  "time": "2026-09-16 21:05",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FIRST COMMUNITY CORP /SC/ — 高管/董事变动",
+  "time": "2026-09-16",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ACP Holdings Acquisition Corp. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Market Technology Acquisition Corp — 8-K",
+  "time": "2026-09-16",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CNGR] POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 16, 2026 (Results of EGM/SGM / Dividend or Distributio",
-  "time": "2026-09-16 21:04",
+  "title": "[ONEWO] FURTHER INFORMATION ON THE PAYMENT OF 2026 INTERIM DIVIDEND (Dividend or Distribution)",
+  "time": "2026-09-16 21:08",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LEFTFIELD PRINT] JOINT ANNOUNCEMENT - (1) COMPLETION OF MAJOR AND CONNECTED TRANSACTION IN RELATION TO THE DISPOSAL OF THE ISSUED SHARES OF",
-  "time": "2026-09-16 20:12",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "My Size, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CNGR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 21:06",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Acumen Pharmaceuticals, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "VISIUM TECHNOLOGIES, INC. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "USBC, Inc. — 2.03",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DeFi Development Corp. — 其他重大事件",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alkermes plc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LITTELFUSE INC /DE — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Reliance Global Group, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ethos Technologies Inc. — RegFD披露",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Schneider National, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Co-Diagnostics, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Autonomix Medical, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ORAGENICS INC — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "La Rosa Holdings Corp. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "JONES LANG LASALLE INC — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MERCURY SYSTEMS INC — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PEDEVCO CORP — 8-K",
+  "time": "2026-09-16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[POLYFAIR HLDGS] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-16 21:05",
+  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
+  "time": "2026-09-16 21:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[RYKADAN CAPITAL] POLL RESULTS OF THE 2026 ANNUAL GENERAL MEETING HELD ON 16 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-16 21:03",
+  "title": "[TIANYU SEMI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 21:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[POLYFAIR HLDGS] CLARIFICATION ANNOUNCEMENT (1) POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 15 SEPTEMBER 2026; (2) RETIREMENT OF INDE",
-  "time": "2026-09-16 21:03",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-16 21:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHI MER LAND] VOLUNTARY ANNOUNCEMENT - LAND RESUMPTION AGREEMENT (Other - Business Update)",
-  "time": "2026-09-16 21:02",
+  "title": "[ICBCCSOP CGPB] 3199 NEWS",
+  "time": "2026-09-16 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LYGEND RESOURCE] INSIDE INFORMATION - DETERMINATION OF THE OFFER SIZE AND OFFER PRICE FOR THE A SHARE OFFERING (Listing on Overseas Exchang",
-  "time": "2026-09-16 21:02",
+  "title": "[TIANYU SEMI] ADOPTION OF THE ALTERNATIVE THRESHOLD FOR THE MINIMUM PRESCRIBED PUBLIC FLOAT (Sufficiency of Public Float)",
+  "time": "2026-09-16 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NUOBIKAN] VOLUNTARY ANNOUNCEMENT APPOINTMENT OF MEMBERS OF SENIOR MANAGEMENT (Other - Corporate Governance Related Matters / Other - Miscel",
-  "time": "2026-09-16 21:01",
+  "title": "[CATL] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-09-16 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW RAY MEDIC] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-16 20:56",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-16 21:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FINELAND LIVING] JOINT ANNOUNCEMENT FOR MONTHLY UPDATE OF THE POSSIBLE UNCONDITIONAL MANDATORY CASH OFFER BY ALTUS INVESTMENTS LIMITED FOR ",
-  "time": "2026-09-16 20:55",
+  "title": "[A CSOP RMB MM] 3122 NEWS",
+  "time": "2026-09-16 21:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LEMO SERVICES] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-16 20:52",
+  "title": "[A CSOP USD MM] 3096 NEWS",
+  "time": "2026-09-16 21:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SAINT BELLA GP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 20:50",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-09-16 21:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-09-16 20:47",
+  "title": "[YZYBIO-B] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-16 21:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-09-16 20:46",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-09-16 21:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FB SSH HIGH DIV] Summary Information",
-  "time": "2026-09-16 20:43",
+  "title": "[EFUND HKEX TECH] 3456 NEWS",
+  "time": "2026-09-16 21:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FB TW SEMICON] Summary Information (3076)",
-  "time": "2026-09-16 20:43",
+  "title": "[EFUND MPF HK] 3579 NEWS",
+  "time": "2026-09-16 21:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
-  "time": "2026-09-16 20:42",
+  "title": "[SR MEDICAL] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-16 21:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GT GOLD] AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION",
-  "time": "2026-09-16 20:40",
+  "title": "[EFUND MPF CN A] 3509 NEWS",
+  "time": "2026-09-16 21:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SANY HEAVY IND] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 20:40",
+  "title": "[HOMELAND ITL] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 21:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INFINITY DEV] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 20:39",
+  "title": "[SR MEDICAL] APPOINTMENT OF DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-09-16 21:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HTSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-16 20:39",
+  "title": "[CSOP VIETNAM30] 3004 NEWS",
+  "time": "2026-09-16 21:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LVJI TECH] ISSUE OF SHARES UNDER GENERAL MANDATE (Issue of Shares under a General Mandate)",
-  "time": "2026-09-16 20:37",
+  "title": "[CSOP MSCI A 50] 3003 NEWS",
+  "time": "2026-09-16 21:15",
   "level": "🟢"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[电投绿能] 国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券（第二期）票面利率公告",
-  "time": "2026-09-16 21:04",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP HSBIOTECH] 3174 NEWS",
+  "time": "2026-09-16 21:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP STAR 50] 3109 NEWS",
+  "time": "2026-09-16 21:12",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-16 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP CSI PV] 3134 NEWS",
+  "time": "2026-09-16 21:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XL2CSOPCSI300] 7233 NEWS",
+  "time": "2026-09-16 21:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XUANWU CLOUD] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-16 21:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-16 21:07",
   "level": "🟢"
  }
 ]
