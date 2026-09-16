@@ -1,429 +1,387 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[云意电气] 关于调整回购公司股份价格上限的公告",
-  "time": "2026-09-16 19:30",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LION ROCK GROUP] JOINT ANNOUNCEMENT - COMPLETION OF DISCLOSEABLE TRANSACTION IN RELATION TO THE ACQUISITION OF THE ISSUED SHARES OF THE TAR",
+  "time": "2026-09-16 19:55",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIAN CHANG GP] DISCLOSEABLE TRANSACTION IN RELATION TO ACQUISITION OF MACHINERY (Discloseable Transaction)",
+  "time": "2026-09-16 19:46",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 国浩律师（成都）事务所关于威马农机股份有限公司控股股东、实际控制人增持股份之法律意见书",
-  "time": "2026-09-16 19:30",
+  "title": "[汇川技术] 关于第六期股权激励计划首次授予第一类限制性股票第四个限售期股份解除限售暨上市流通的公告",
+  "time": "2026-09-16 19:58",
   "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[威马农机] 关于特定股东减持股份计划期限届满暨实施情况的公告",
-  "time": "2026-09-16 19:30",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[威马农机] 关于控股股东、实际控制人增持股份计划实施完成的公告",
-  "time": "2026-09-16 19:28",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[嘉益股份] 关于2026年半年度权益分派实施后调整回购股份价格上限的公告",
-  "time": "2026-09-16 19:25",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[友讯达] 2026年半年度分红派息实施公告",
-  "time": "2026-09-16 19:06",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Brookfield Asset Management Ltd. — 8-K",
-  "time": "2026-09-15",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHONG JIA GX] COMPLETION OF PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-09-16 20:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TSAKER NE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:36",
+  "title": "[MOG DIGITECH] MAJOR TRANSACTION EXTENSION OF LONG STOP DATE (Major Transaction)",
+  "time": "2026-09-16 20:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AINNOVATION] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:35",
+  "title": "[HUITONGDA NET] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-09-16 20:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GT GOLD] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 16 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-16 19:34",
+  "title": "[FORTIOR] ANNOUNCEMENT ON THE FIRST GRANT UNDER THE 2026 A SHARE RESTRICTED SHARE INCENTIVE SCHEME (Share Scheme)",
+  "time": "2026-09-16 20:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GHW INTL] CONNECTED TRANSACTIONS - GRANT OF AWARDS PURSUANT TO SHARE AWARD SCHEME (Share Scheme / Connected Transaction)",
-  "time": "2026-09-16 19:33",
+  "title": "[KINGWORLD] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-16 20:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EDDING GENOR] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:29",
+  "title": "[RIBOLIFE-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 19:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HGI BTC HGI BTC-U] 9439 & 3439 News",
-  "time": "2026-09-16 19:29",
+  "title": "[TUHU-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 19:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HGI ETH HGI ETH-U] 9179 & 3179 News",
-  "time": "2026-09-16 19:28",
+  "title": "[SANBASE CORP] MAJOR TRANSACTION AND CONNECTED TRANSACTION AT SUBSIDIARY LEVEL IN RELATION TO THE DISPOSAL OF A SUBSIDIARY (Major Transactio",
+  "time": "2026-09-16 19:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM ETH CAM ETH-U CAM ETH-R] 9046 & 3046 & 83046 News",
-  "time": "2026-09-16 19:28",
+  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260916.xlsx",
+  "time": "2026-09-16 19:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM BTC CAM BTC-U CAM BTC-R] 9042 & 3042 & 83042 News",
-  "time": "2026-09-16 19:27",
+  "title": "[SENIOR MATERIAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-16 19:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ADWAY] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 August 2026",
-  "time": "2026-09-16 19:26",
+  "title": "[CSOP AI BOTTLNK] Product Key Facts (Authorised Collective Investment Scheme)",
+  "time": "2026-09-16 19:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM SOL CAM SOL-U CAM SOL-R] 9460 & 3460 & 83460 News",
-  "time": "2026-09-16 19:26",
+  "title": "[ANKER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-16 19:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EDA GROUP HLDGS] DISCLOSEABLE TRANSACTION IN RELATION TO THE LEASE AGREEMENT (Discloseable Transaction)",
-  "time": "2026-09-16 19:26",
+  "title": "[CSOP ASIA TECH] Product Key Facts (Authorised Collective Investment Scheme)",
+  "time": "2026-09-16 19:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CR BEVERAGE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:26",
+  "title": "[C FIN INT INV] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-16 19:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A PANDO BLKC] 3112 News",
-  "time": "2026-09-16 19:26",
+  "title": "[DKE] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-16 19:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANGAEA CONNECT] CHANGE OF HEAD OFFICE AND PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Pla",
-  "time": "2026-09-16 19:25",
+  "title": "[C ZENITH CHEM] (1) QUARTERLY UPDATE ON RECENT DEVELOPMENTS; AND (2) CONTINUED SUSPENSION OF TRADING (Inside Information / Winding Up and Li",
+  "time": "2026-09-16 19:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A PANDO INNO] 3056 News",
-  "time": "2026-09-16 19:25",
+  "title": "[CSOP HS TECH] Product Key Facts (Authorised Collective Investment Scheme)",
+  "time": "2026-09-16 19:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-09-16 19:24",
+  "title": "[51WORLD] VOLUNTARY ANNOUNCEMENT - BUSINESS UPDATE (Other - Business Update)",
+  "time": "2026-09-16 19:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANDO ETH] 3085 News",
-  "time": "2026-09-16 19:23",
+  "title": "[FORTIOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-16 19:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AMUNDI HK35 AMUNDI HK35-R] 3012 & 83012 News",
-  "time": "2026-09-16 19:23",
+  "title": "[XINHUA WINSHARE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Business Update)",
+  "time": "2026-09-16 19:52",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAITONG UT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-16 19:22",
+  "title": "[CSOP KOSPI CSOP AI BOTTLNK A CSOP KOSPICC] Prospectus (Authorised Collective Investment Scheme)",
+  "time": "2026-09-16 19:52",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AMUNDI A50 AMUNDI A50-R] 2843 & 82843 News",
-  "time": "2026-09-16 19:22",
+  "title": "[JIUYUAN GENE] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-09-16 19:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CICC HKD] 3071 News",
-  "time": "2026-09-16 19:22",
+  "title": "[FORTIOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-09-16 19:49",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CICC USD A CICC USD-U] 9011 & 3011 News",
-  "time": "2026-09-16 19:21",
+  "title": "[A CSOP HSCEICC CSOP A50 ETF CSOP SAUDI X CSOPCSI500 CSOP HS TECH A CSOP HKD MM FA CSOP BTC FA CSOP ETH A CSOP USD MM CSOP CSI300 X CSOPCHIN",
+  "time": "2026-09-16 19:49",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAITONG UT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-16 19:20",
+  "title": "[DELTON] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-16 19:47",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DIT GROUP] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-16 19:19",
+  "title": "[ZHAOWEI] Next Day Disclosure Return (Others / Share Buyback)",
+  "time": "2026-09-16 19:43",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WUHAN YOUJI] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-16 19:18",
+  "title": "[TAIMEI TECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 19:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[J&T EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:18",
+  "title": "[MIDEA GROUP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-16 19:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DIT GROUP] APPOINTMENT OF DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-09-16 19:17",
+  "title": "[WUHAN YOUJI] NOTIFICATION LETTER TO NON-REGISTERED HOLDERS AND REQUEST FORM (Other)",
+  "time": "2026-09-16 19:41",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ADWAY] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 July 2026",
-  "time": "2026-09-16 19:17",
+  "title": "[WUHAN YOUJI] NOTIFICATION LETTER TO SHAREHOLDERS AND CHANGE REQUEST FORM (Other)",
+  "time": "2026-09-16 19:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VEDAN INT'L] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS (Other)",
-  "time": "2026-09-16 19:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[COWELL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-16 19:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOSERA STAR50 BOSERA STAR50-R] Stock Code : 82832,2832 Information",
-  "time": "2026-09-16 19:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ACESO LIFE SCI] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 16 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-16 19:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VEDAN INT'L] NOTIFICATION LETTER AND REPLY FORM TO REGISTERED SHAREHOLDERS (Other)",
-  "time": "2026-09-16 19:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[INFINITY DEV] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 19:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[] Notice of Listing - The Government of the Hong Kong Special Administrative Region of the People's Republic of China - HK$900,000,000,000 ",
-  "time": "2026-09-16 19:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VEDAN INT'L] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-16 19:07",
+  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
+  "time": "2026-09-16 19:37",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[爱克股份] 关于2025年限制性股票激励计划授予的限制性股票第一个限售期解除限售股份上市流通的提示性公告",
-  "time": "2026-09-16 19:32",
+  "title": "[宁德时代] 关于2022年股票期权与限制性股票激励计划之股票期权首次及预留授予第四个行权期自主行权的提示性公告",
+  "time": "2026-09-16 20:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 长江证券承销保荐有限公司关于威马农机股份有限公司2026年半年度持续督导跟踪报告",
-  "time": "2026-09-16 19:30",
+  "title": "[凌玮科技] 2026年半年度权益分派实施公告",
+  "time": "2026-09-16 19:57",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[云意电气] 2026年半年度权益分派实施公告",
-  "time": "2026-09-16 19:28",
+  "title": "[凌玮科技] 关于股票交易异常波动的公告",
+  "time": "2026-09-16 19:57",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[嘉益股份] 2026年半年度权益分派实施公告",
-  "time": "2026-09-16 19:25",
+  "title": "[严牌股份] 长江证券承销保荐有限公司关于浙江严牌过滤技术股份有限公司不提前赎回严牌转债的核查意见",
+  "time": "2026-09-16 19:56",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[嘉益股份] 关于嘉益转债转股价格调整的公告",
-  "time": "2026-09-16 19:25",
+  "title": "[严牌股份] 关于不提前赎回严牌转债的公告",
+  "time": "2026-09-16 19:56",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[嘉益股份] 关于嘉益转债恢复转股的提示性公告",
-  "time": "2026-09-16 19:25",
+  "title": "[严牌股份] 第五届董事会第五次会议决议公告",
+  "time": "2026-09-16 19:56",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[南网数字] 北京市中伦（广州）律师事务所关于南方电网数字电网研究院股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-09-16 19:25",
+  "title": "[英杰电气] 国浩律师（成都）事务所关于四川英杰电气股份有限公司2026年第二次临时股东会之法律意见书",
+  "time": "2026-09-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[南网数字] 2026年第一次临时股东会决议公告",
-  "time": "2026-09-16 19:25",
+  "title": "[英杰电气] 2026年第二次临时股东会决议公告",
+  "time": "2026-09-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[金百泽] 深圳市金百泽电子科技股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-09-16 19:12",
+  "title": "[可靠股份] 关于公司副总经理、财务总监辞职的公告",
+  "time": "2026-09-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[金百泽] 2026年第一次临时股东会决议公告",
-  "time": "2026-09-16 19:12",
+  "title": "[ST华谊] 第七届董事会第2次会议决议公告",
+  "time": "2026-09-16 19:50",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[乐心股份] 关于认购合伙企业财产份额暨与专业投资机构共同投资的进展公告",
-  "time": "2026-09-16 19:10",
+  "title": "[ST华谊] 关于确定产业投资人并签署《重整投资协议》及《重整投资协议之补充协议》的公告",
+  "time": "2026-09-16 19:50",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[开尔新材] 关于股东拟协议转让部分股份暨权益变动的提示性公告",
-  "time": "2026-09-16 19:10",
+  "title": "[超频三] 国浩律师（深圳）事务所关于公司2026年第一次临时股东会的法律意见书",
+  "time": "2026-09-16 19:50",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[开尔新材] 简式权益变动报告书（受让方）",
-  "time": "2026-09-16 19:10",
+  "title": "[乾照光电] 关于使用闲置募集资金进行现金管理赎回暨使用闲置募集资金进行现金管理的进展公告",
+  "time": "2026-09-16 19:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[开尔新材] 简式权益变动报告书（转让方）",
-  "time": "2026-09-16 19:10",
+  "title": "[超频三] 2026年第一次临时股东会决议公告",
+  "time": "2026-09-16 19:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[ST派瑞] 2026年半年度权益分派实施公告",
-  "time": "2026-09-16 19:08",
+  "title": "[必创科技] 北京市中伦（上海）律师事务所关于中证中小投资者服务中心有限责任公司公开征集必创科技表决权的法律意见书",
+  "time": "2026-09-16 19:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[ST派瑞] 关于签订联合研发中心暨研究生联合培养基地共建合作框架性协议的公告",
-  "time": "2026-09-16 19:08",
+  "title": "[必创科技] 北京市金杜律师事务所关于北京必创科技股份有限公司2026年第二次临时股东会的法律意见书",
+  "time": "2026-09-16 19:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[北方长龙] 股东询价转让定价情况提示性公告",
-  "time": "2026-09-16 19:06",
+  "title": "[必创科技] 第五届董事会第一次会议决议公告",
+  "time": "2026-09-16 19:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[必创科技] 2026年第二次临时股东会决议公告",
+  "time": "2026-09-16 19:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[必创科技] 关于董事会完成换届选举及聘任高级管理人员、证券事务代表、内部审计部门负责人的公告",
+  "time": "2026-09-16 19:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[熵基科技] 2026年第三次临时股东会决议公告",
+  "time": "2026-09-16 19:46",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[熵基科技] 国浩律师（深圳）事务所关于熵基科技股份有限公司2026年第三次临时股东会之法律意见书",
+  "time": "2026-09-16 19:46",
   "level": "🟢"
  }
 ]
