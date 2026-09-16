@@ -1,9 +1,23 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNSHINE OIL] INSIDE INFORMATION LITIGATION PROCEEDINGS (Inside Information)",
-  "time": "2026-09-16 22:12",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DELMARVA POWER & LIGHT CO /DE/ — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Curaleaf Holdings, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ALPHA PRO TECH LTD — 8-K",
+  "time": "2026-09-16",
   "level": "🟢"
  }
 ]
