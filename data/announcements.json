@@ -1,135 +1,37 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 12:05",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Advanced Flower Capital Inc. — RegFD披露",
+  "time": "2026-09-15",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA WEAVING] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-09-16 12:03",
+  "title": "[HKR INT'L] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-09-16 12:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA WEAVING] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-16 12:01",
+  "title": "[NUOBIKAN] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-16 12:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BANK OF E ASIA BEA N3406 BEA N3204 BEA N2807 BEA N3205 BEA N2909-R BEA N3009-R] Publication of Offering Circular and Pricing Supplement - R",
-  "time": "2026-09-16 12:01",
+  "title": "[JZBD B2909-R] Publication of Offering Circular - CNY760,000,000 3.95 per cent. Bonds due 2029 issued by Qingdao Jiaozhou Bay Development Gr",
+  "time": "2026-09-16 12:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[OURGAME] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO QUARTERLY UPDATE ON RESUMPTION PROGRESS AND CONTINUED SUSPENSION OF TRADING (Inside Infor",
-  "time": "2026-09-16 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SZ GOVT B3109-R SZ GOVT B3609-R] Publication of the Offering Circular - Shenzhen Municipal People's Government of Guangdong Province of the",
-  "time": "2026-09-16 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[C HIGHPRECISION] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-09-16 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NISSIN FOODS] VOLUNTARY ANNOUNCEMENT - APPOINTMENT OF SENIOR MANAGEMENT (Other - Miscellaneous)",
-  "time": "2026-09-16 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZTO EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSJPUSINCOME] HANG SENG JPMORGAN US EQUITY PREMIUM INCOME ACTIVE ETF<03476> INFORMATION",
-  "time": "2026-09-16 11:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM NASDAQ100 CAM ASIA IGB CAM ASIA HIGHDV CAM JAPAN HDG CAM EU QLTY HDG CAM NASDAQ100-U CAM ASIA IGB-U] Summary Information (3086,3141,314",
-  "time": "2026-09-16 11:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HKUS AI CAM HKUS AI-U CAM HKUS AI-R] Summary Information (3140, 83140, 9140)",
-  "time": "2026-09-16 11:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM CSI300 CAM CSI300-U CAM CSI300-R] Summary Information (3188, 83188, 9188)",
-  "time": "2026-09-16 11:38",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华康洁净] 国联民生证券承销保荐有限公司关于武汉华康世纪洁净科技股份有限公司2026年上半年持续督导跟踪报告",
-  "time": "2026-09-16 11:40",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[万讯自控] 关于万讯转债即将停止转股暨最后半个可转股交易日的重要提示性公告",
-  "time": "2026-09-16 11:40",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[江特电机] 公司章程（2026年9月修订）",
-  "time": "2026-09-16 11:40",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[凌霄泵业] 关于公司使用闲置自有资金购买理财产品的公告",
-  "time": "2026-09-16 11:39",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[南 京 港] 南京港股份有限公司关于因公开招标形成关联交易的公告",
-  "time": "2026-09-16 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[南 京 港] 南京港股份有限公司第八届董事会2026年第四次会议决议公告",
-  "time": "2026-09-16 00:00",
+  "title": "[CHINA WEAVING] Notification Letter and Reply Form to Non-registered Shareholders (Other)",
+  "time": "2026-09-16 12:07",
   "level": "🟢"
  }
 ]
