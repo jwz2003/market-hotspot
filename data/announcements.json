@@ -1,170 +1,30 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Nuburu, Inc. — 财报重述风险",
-  "time": "2026-09-16",
-  "level": "🔴"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "FG Nexus Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Aperture AC — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Apollo Commercial Real Estate Finance, Inc. — 其他重大事件",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Tenon Medical, Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CID Holdco, Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "BATTALION OIL CORP — 3.01",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ESSENTIAL PROPERTIES REALTY TRUST, INC. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Matinas BioPharma Holdings, Inc. — 其他重大事件",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Clene Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Tevogen Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "DataMeds AI, Inc. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "WOLFSPEED, INC. — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Churchill Capital Corp XIII — 8-K",
-  "time": "2026-09-16",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ADIAL PHARMACEUTICALS, INC. — 8-K",
-  "time": "2026-09-16",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA CBS INTL] JOINT ANNOUNCEMENT DESPATCH OF COMPOSITE DOCUMENT RELATING TO UNCONDITIONAL MANDATORY CASH OFFER BY DL SECURITIES (HK) LIMI",
+  "time": "2026-09-17 07:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA CBS INTL] Notification Letter and Change Request Form to Registered Shareholders in the Hong Kong Branch Register (Other)",
-  "time": "2026-09-17 07:05",
+  "title": "[CHINA CBS INTL] Form of Acceptance to Registered Shareholders in the Bermuda Principal Register (Document issued by Offeror Company under t",
+  "time": "2026-09-17 07:16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-17 07:05",
+  "title": "[CHINA CBS INTL] Form of Acceptance to Registered Shareholders in the Hong Kong Register (Document issued by Offeror Company under the Takeo",
+  "time": "2026-09-17 07:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA CBS INTL] Notification Letter and Change Request Form to Registered Shareholders in the Bermuda Principal Register (Other)",
-  "time": "2026-09-17 06:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA CBS INTL] COMPOSITE DOCUMENT RELATING TO THE UNCONDITIONAL MANDATORY CASH OFFER BY DL SECURITIES (HK) LIMITED FOR AND ON BEHALF OF GR",
-  "time": "2026-09-17 06:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEGAIN] NOTIFICATION LETTER TO REGISTERED HOLDERS AND REPLY FORM (Other)",
-  "time": "2026-09-17 06:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEGAIN] NOTIFICATION LETTER TO NON-REGISTERED HOLDERS AND REQUEST FORM (Other)",
-  "time": "2026-09-17 06:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
-  "time": "2026-09-17 06:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEGAIN] Documents on Display",
-  "time": "2026-09-17 06:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EVERG VEHICLE] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results / Modified Report by Auditors)",
-  "time": "2026-09-17 06:37",
+  "title": "[CHINA CBS INTL] Notification Letter and Change Request Form to Non-registered Holders (Other)",
+  "time": "2026-09-17 07:09",
   "level": "🟢"
  }
 ]
