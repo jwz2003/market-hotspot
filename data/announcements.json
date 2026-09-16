@@ -1,142 +1,65 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EXICURE, INC. — 3.01",
-  "time": "2026-09-16",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINASOFT INT'L] DISCLOSEABLE TRANSACTION - ACQUISITION OF 29.68% SHAREHOLDING IN HANGZHOU GISWAY INFORMATION TECHNOLOGY CO., LTD. (Disclos",
+  "time": "2026-09-16 22:42",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BROCKMAN MINING] Letter and Reply Form to New Registered Shareholders - Election of Means of Receipt and Language of Corporate Communicatio",
+  "time": "2026-09-16 22:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[QUANTGROUP] PLACING OF NEW SHARES UNDER THE GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-09-16 22:34",
+  "title": "[BROCKMAN MINING] Notification Letter and Request Form To Non-Registered Shareholders (Other)",
+  "time": "2026-09-16 22:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEEKPLUS-W] VOLUNTARY ANNOUNCEMENT DISPOSAL OF SHARES BY A SHAREHOLDER (Other - Business Update)",
-  "time": "2026-09-16 22:34",
+  "title": "[BROCKMAN MINING] Notification Letter and Change Request Form To Registered Shareholders (Other)",
+  "time": "2026-09-16 22:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LUXSHARE ICT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 22:33",
+  "title": "[BROCKMAN MINING] ANNUAL REPORT 2026 (Annual Report / Environmental, Social and Governance Information/Report)",
+  "time": "2026-09-16 22:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LUXSHARE ICT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 22:31",
+  "title": "[LUXSHARE ICT] Articles of Association",
+  "time": "2026-09-16 22:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CU VENTURE INV] POSTPONEMENT OF SPECIAL GENERAL MEETING AND CANCELLATION OF BOOK CLOSURE PERIOD (Notice of EGM/SGM / Closure of Books or Ch",
-  "time": "2026-09-16 22:27",
+  "title": "[TRAVEL EXPERT] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF THE WEALTH MANAGEMENT PRODUCT (Discloseable Transaction)",
+  "time": "2026-09-16 22:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
-  "time": "2026-09-16 22:27",
+  "title": "[LUXSHARE ICT] POLL RESULTS OF EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM / Amendment of Constitutional Documents)",
+  "time": "2026-09-16 22:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BLUE RIVER HLDG] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-16 22:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
-  "time": "2026-09-16 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BLUE RIVER HLDG] APPOINTMENT OF EXECUTIVE DIRECTOR, MANAGING DIRECTOR AND CHAIRMAN, AND CLARIFICATION OF RESIGNATION OF A DIRECTOR (Change ",
-  "time": "2026-09-16 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DL HOLDINGS GP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-16 22:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FU SHOU YUAN] QUARTERLY UPDATE ON PROGRESS OF RESUMPTION; AND CONTINUED TRADING SUSPENSION (Inside Information / Suspension)",
-  "time": "2026-09-16 22:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ESPRIT HOLDINGS] Appointment of Executive Director, Managing Director and General Committee Member, Re-Designation of a Director, Resignati",
-  "time": "2026-09-16 22:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ELEPHANT HLDGS] VOLUNTARY ANNOUNCEMENT - BUSINESS UPDATE - OBTAINING LICENCES FOR TYPE 1, TYPE 4 AND TYPE 9 REGULATED ACTIVITIES (INCLUDING",
-  "time": "2026-09-16 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZIJIN MINING] Announcement in relation to Provision of Financial Assistance to an Associate Company (Overseas Regulatory Announcement - Oth",
-  "time": "2026-09-16 22:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZIJIN MINING] Announcement in relation to Provision of Guarantees to Associate Companies (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 22:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZIJIN MINING] Board of Directors Resolutions (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-16 22:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZIJIN MINING] Resolution of the Independent Directors' Special Meeting (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-16 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNSHINE OIL] INSIDE INFORMATION LITIGATION PROCEEDINGS (Inside Information)",
-  "time": "2026-09-16 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BROCKMAN MINING] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 30 JUNE 2026 (Final Results / Modified Report by Auditors)",
-  "time": "2026-09-16 22:08",
+  "title": "[WEB3 META] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-16 22:38",
   "level": "🟢"
  }
 ]
