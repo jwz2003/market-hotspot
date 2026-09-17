@@ -1,408 +1,562 @@
 [
  {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[琏升科技] 关于公司2025年向特定对象发行股票的审核问询函回复更新的提示性公告",
+  "time": "2026-09-17 17:48",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[琏升科技] 华兴会计师事务所关于对《关于琏升科技股份有限公司申请向特定对象发行股票的审核问询函》有关问题的答复",
+  "time": "2026-09-17 17:48",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST迪威迅] 关于公司被债权人申请破产清算的进展公告",
+  "time": "2026-09-17 17:48",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[琏升科技] 关于琏升科技股份有限公司申请向特定对象发行股票的审核问询函之回复报告（修订稿）",
+  "time": "2026-09-17 17:48",
+  "level": "🔴"
+ },
+ {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WEIGAO GROUP] NEXT DAY DISCLOSURE RETURN - SHARE BUYBACK (Share Buyback)",
-  "time": "2026-09-17 17:32",
+  "title": "[GREEN ENERGY GP] PROFIT ALERT (Profit Warning / Inside Information)",
+  "time": "2026-09-17 18:03",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[英唐智控] 关于签订技术许可合作协议的公告",
-  "time": "2026-09-17 17:32",
+  "title": "[超达装备] 关于原持股5%以上股东股份减持计划实施完成的公告",
+  "time": "2026-09-17 18:02",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[真兰仪表] 关于收到董事长、总裁提议回购公司股份的公告",
-  "time": "2026-09-17 17:24",
+  "title": "[网宿科技] 关于首次回购公司股份暨回购股份进展的公告",
+  "time": "2026-09-17 17:58",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[上海艾录] 关于公司高级管理人员减持股份计划届满的公告",
+  "time": "2026-09-17 17:58",
   "level": "🟡"
  },
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "CID Holdco, Inc. — 8-K",
+  "title": "YETI Holdings, Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NEONC TECHNOLOGIES HOLDINGS, INC. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cenntro Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alaunos Therapeutics, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Salesforce, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "D-Wave Quantum Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BEACON TOPCO, INC. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DUOS TECHNOLOGIES GROUP, INC. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NEWS CORP — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Mechanics Bancorp — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Beta Bionics, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Sonoma Pharmaceuticals, Inc. — 5.07",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "IMPACT BIOMEDICAL INC. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HEARTLAND EXPRESS INC — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nordicus Partners Corp — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Brand Engagement Network Inc. — 附件",
   "time": "2026-09-16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[METASURFACE] VOLUNTARY ANNOUNCEMENT - TERMINATION OF THE DEED OF ACTING-IN-CONCERT CONFIRMATION (Other - Miscellaneous)",
-  "time": "2026-09-17 17:36",
+  "title": "[CSPC PHARMA] NOTIFICATION LETTER TO NON-REGISTERED HOLDER AND REQUEST FORM (Other)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAIWANG CO] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-17 17:36",
+  "title": "[TRANSPORT INT'L] Notification Letter to Non-registered Holders and Reply Form - Notice of Publication of 2026 Interim Report and Arrangemen",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:35",
+  "title": "[SHENZHENEXPRESS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KB LAMINATES] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:35",
+  "title": "[7ROAD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAIWANG CO] POLL RESULTS OF EXTRAORDINARY GENERAL MEETING AND APPOINTMENT OF A NON-EXECUTIVE DIRECTOR (Results of EGM/SGM / Change in Direc",
-  "time": "2026-09-17 17:35",
+  "title": "[CSPC PHARMA] NOTIFICATION LETTER TO SHAREHOLDER AND CHANGE REQUEST FORM (Other)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGYUE GROUP] Letter to Existing Registered Shareholders - Notice of Publication of Interim Report 2026 (Other)",
-  "time": "2026-09-17 17:34",
+  "title": "[CHINA RES POWER] August 2026 Update on Power Plant Net Generation Figures (Other - Business Update)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[OMNIVISION] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-17 17:34",
+  "title": "[CHUANGLIAN HOLD] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-17 18:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA FOODS] LETTER TO NON-REGISTERED SHAREHOLDERS - NOTIFICATION OF PUBLICATION OF CORPORATE COMMUNICATION(S) ON THE COMPANY'S WEBSITE AND",
-  "time": "2026-09-17 17:33",
+  "title": "[SHENZHENEXPRESS] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-09-17 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XL2CSOPNVDA] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:33",
+  "title": "[CSPC PHARMA] LETTER TO NEW REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
+  "time": "2026-09-17 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GRAND OCEAN AR] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
-  "time": "2026-09-17 17:33",
+  "title": "[TRANSPORT INT'L] Notification Letter to Shareholders and Reply Form - Notice of Publication of 2026 Interim Report and Arrangement of Elect",
+  "time": "2026-09-17 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KINGBOARD HLDG] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:33",
+  "title": "[MEMESTRATEGY] Notification Letter to Non-Registered Holders and Request From (Other)",
+  "time": "2026-09-17 18:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGYUE GROUP] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:32",
+  "title": "[SHENZHENEXPRESS] Poll results of the First Extraordinary General Meeting 2026; Appointment of Director, Election of Chairman; And Change in",
+  "time": "2026-09-17 18:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WANT WANT CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:31",
+  "title": "[YEE HOP HLDGS] PROXY FORM FOR USE AT THE EXTRAORDINARY GENERAL MEETING (OR AT ANY ADJOURNMENT THEREOF)",
+  "time": "2026-09-17 18:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KING'S STONE] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 17 SEPTEMBER 2026 (Results of AGM)",
-  "time": "2026-09-17 17:31",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN XL2CSOPSMSN-U] ANNOUNCEMENT - Clarification on Investment Strategy (Matters relating to Collective Inv",
+  "time": "2026-09-17 18:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FI CSOP BTC] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:30",
+  "title": "[CSPC PHARMA] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XINYI ENERGY] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:30",
+  "title": "[Y.T. REALTY] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPNVDA] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:30",
+  "title": "[TRANSPORT INT'L] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENCENT TENCENT-R] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:29",
+  "title": "[MEMESTRATEGY] Notification Letter to Registered Shareholders and Reply Form (Other)",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FOUNDER HOLD] Documents on Display - Major Transaction and Continuing Connected Transactions",
-  "time": "2026-09-17 17:29",
+  "title": "[HERALD HOLD] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 17 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-17 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FI CSOP HSI] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:28",
+  "title": "[YEE HOP HLDGS] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GREENTOWN SER] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:28",
+  "title": "[Y.T. REALTY] Notification Letter and Reply Form to Registered Shareholders (Other)",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA FOODS] LETTER TO REGISTERED SHAREHOLDERS - NOTIFICATION OF PUBLICATION OF CORPORATE COMMUNICATION(S) ON THE COMPANY'S WEBSITE AND REP",
-  "time": "2026-09-17 17:27",
+  "title": "[BAOZUN-W] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGJIANG ENV] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-17 17:27",
+  "title": "[CIDI] PROPOSED IMPLEMENTATION OF FULL CIRCULATION AND PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Inside Information / Amendment of",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CG SERVICES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:27",
+  "title": "[LINGYI ITECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GRAND OCEAN AR] INTERIM REPORT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:26",
+  "title": "[MEMESTRATEGY] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-17 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FI2 CSOP HSI] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:26",
+  "title": "[GF SEC] Notification Letter and Reply Form to Non-Registered Shareholders (Other)",
+  "time": "2026-09-17 17:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAOSEN FINTECH] Notification Letter to Non-Registered Shareholder and Request Form (Other)",
-  "time": "2026-09-17 17:26",
+  "title": "[WISECSIHK100ETF] WISE CSIHK100 ETF <02825> INFORMATION",
+  "time": "2026-09-17 17:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XL2CSOPMSTR] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:26",
+  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI XI2CSOPCOIN XI2CSOPTSLA FI CSOP BTC XI2CSOPNVDA XI2CSOPMSTR FI2 CSOP ",
+  "time": "2026-09-17 17:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA LIT] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:25",
+  "title": "[NATIONAL ELEC H] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-17 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BINHAI INV] Next Day Disclosure Return - Share Buyback (Share Buyback)",
-  "time": "2026-09-17 17:25",
+  "title": "[QUAM PLUS FIN] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-17 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAY AREA DEV BAY AREA DEV-R] NOTIFICATION LETTER AND REPLY FORM TO NON-REGISTERED SHAREHOLDERS - PUBLICATION OF THE INTERIM REPORT FOR THE ",
-  "time": "2026-09-17 17:24",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN XL2CSOPSMSN-U] ANNOUNCEMENT - Daily Targeted Leverage Factor (Matters relating to Collective Investmen",
+  "time": "2026-09-17 17:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:24",
+  "title": "[Y.T. REALTY] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-17 17:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MIRAMAR HOTEL] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:24",
+  "title": "[GF SEC] Notification Letter and Reply Form to Registered Shareholders (Other)",
+  "time": "2026-09-17 17:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHAOJU EYE CARE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-17 17:24",
+  "title": "[A MBC BTCGOLD A MBC BTCGOLD-U] 3002&9002 News",
+  "time": "2026-09-17 17:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HAOSEN FINTECH] Notification Letter to Registered Shareholder and Reply Form (Other)",
-  "time": "2026-09-17 17:24",
+  "title": "[WISE CSI300 ETF] WISE CSI300 ETF <02827> INFORMATION",
+  "time": "2026-09-17 17:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GF GL METAL GF GL METAL-U GF GL METAL-R] GF MSCI Global Strategic Metals Select ETF_KFS_20260918 (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XI2CSOPMSTR] Product Key Facts (Authorised Collective Investment Scheme)",
-  "time": "2026-09-17 17:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BAY AREA DEV BAY AREA DEV-R] NOTIFICATION LETTER AND REPLY FORM TO REGISTERED SHAREHOLDERS - PUBLICATION OF THE INTERIM REPORT FOR THE SIX ",
-  "time": "2026-09-17 17:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GLOBAL NEW MAT] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-17 17:23",
+  "title": "[MBC ETH MBC ETH-U] 3425&9425 News",
+  "time": "2026-09-17 17:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[北路智控] 关于与专业投资机构共同投资产业基金的公告",
-  "time": "2026-09-17 17:32",
+  "title": "[广立微] 第二届董事会第三十三次会议决议公告",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[英唐智控] 第六届董事会第二十次会议决议公告",
-  "time": "2026-09-17 17:32",
+  "title": "[广立微] 关于公司拟参与设立泉州冯源宁芯创业投资合伙企业（有限合伙）的公告",
+  "time": "2026-09-17 18:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[凯龙高科] 关于控股股东部分股份解除冻结的公告",
-  "time": "2026-09-17 17:26",
+  "title": "[博世科] 关于签订向特定对象发行股票募集资金三方监管协议的公告",
+  "time": "2026-09-17 17:58",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[江苏雷利] 关于完成工商变更登记的公告",
-  "time": "2026-09-17 17:22",
+  "title": "[上海凯鑫] 长江证券承销保荐有限公司关于上海凯鑫分离技术股份有限公司使用闲置募集资金进行现金管理的核查意见",
+  "time": "2026-09-17 17:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[宏景科技] 2026年中期权益分派实施公告",
-  "time": "2026-09-17 17:18",
+  "title": "[上海凯鑫] 关于使用自有资金及闲置募集资金进行现金管理的公告",
+  "time": "2026-09-17 17:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大地海洋] 2026年中期权益分派实施公告",
-  "time": "2026-09-17 17:18",
+  "title": "[绿控传动] 中国国际金融股份有限公司关于苏州绿控传动科技股份有限公司使用闲置自有资金进行委托理财的核查意见",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[美瑞新材] 关于控股股东、实际控制人部分股份质押及解除质押的公告",
-  "time": "2026-09-17 17:18",
+  "title": "[绿控传动] 关于使用闲置自有资金进行委托理财的公告",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[思泉新材] 董事会薪酬与考核委员会关于2026年限制性股票与股票期权激励计划激励对象名单的公示情况说明及核查意见",
-  "time": "2026-09-17 17:18",
+  "title": "[铭利达] 国泰海通证券股份有限公司关于深圳市铭利达精密技术股份有限公司子公司募集资金账户部分资金被冻结的核查意见",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[联动科技] 2026年半年度权益分派实施公告",
-  "time": "2026-09-17 17:18",
+  "title": "[铭利达] 关于子公司募集资金账户部分资金被冻结的公告",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[杰恩股份] 2026年第三次临时股东会决议公告",
-  "time": "2026-09-17 17:12",
+  "title": "[通裕重工] 通裕重工股份有限公司2026年第二次临时股东会决议公告",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[杰恩股份] 北京市竞天公诚（深圳）律师事务所关于深圳市杰恩创意设计股份有限公司2026年第三次临时股东会的法律意见书",
-  "time": "2026-09-17 17:10",
+  "title": "[绿控传动] 中国国际金融股份有限公司关于苏州绿控传动科技股份有限公司使用部分暂时闲置募集资金进行现金管理的核查意见",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[万达信息] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-09-17 17:06",
+  "title": "[绿控传动] 关于使用部分暂时闲置募集资金进行现金管理的公告",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[耐普矿机] 关于以部分自有资产抵押向银行申请贷款的公告",
-  "time": "2026-09-17 17:06",
+  "title": "[琏升科技] 北京市中伦律师事务所关于琏升科技股份有限公司向特定对象发行股票的补充法律意见书（四）",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[科恒股份] 关于控股子公司涉及重大诉讼及前期诉讼、仲裁事项的进展公告",
-  "time": "2026-09-17 17:06",
+  "title": "[通裕重工] 国浩律师（济南）事务所关于通裕重工股份有限公司2026年第二次临时股东会之法律意见书",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[神农种业] 关于公司及实际控制人为全资孙公司提供担保的进展公告",
-  "time": "2026-09-17 17:04",
+  "title": "[上海钢联] 2026年第二次临时股东会法律意见书",
+  "time": "2026-09-17 17:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[上海钢联] 2026年第二次临时股东会决议公告",
+  "time": "2026-09-17 17:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST朗进] 山东朗进科技股份有限公司关于控股股东所持公司部分股份非交易过户暨权益变动的提示性公告",
+  "time": "2026-09-17 17:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST朗进] 简式权益变动报告书（中时控股）",
+  "time": "2026-09-17 17:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜蓝股份] 关于提前赎回胜蓝转02的第六次提示性公告",
+  "time": "2026-09-17 17:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科源制药] 中信建投证券股份有限公司关于山东科源制药股份有限公司2026年半年度持续督导跟踪报告",
+  "time": "2026-09-17 17:48",
   "level": "🟢"
  }
 ]
