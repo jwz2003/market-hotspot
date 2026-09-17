@@ -2,141 +2,260 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANKER] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED JUNE 30, 2026 (UPDATED) (Dividend or Distribution (Announcement Form))",
-  "time": "2026-09-17 21:36",
+  "title": "[HANHUA HOLDING] (1) KEY FINDINGS OF THE INDEPENDENT FORENSIC INVESTIGATION; (2) KEY FINDINGS OF THE INTERNAL CONTROL REVIEW; AND (3) CONTIN",
+  "time": "2026-09-17 22:05",
+  "level": "🔴"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FBRED-C Feeder REIT Trust — 高管/董事变动",
+  "time": "2026-09-17",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Franklin BSP Real Estate Debt, Inc. — 高管/董事变动",
+  "time": "2026-09-17",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EASY SMART GP] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-09-17 21:22",
+  "title": "[ZYBANK] ANNOUNCEMENT ON APPROVAL OF THE QUALIFICATION AS PRESIDENT, DIRECTOR AND VICE CHAIRMAN BY THE HENAN REGULATORY BUREAU OF THE NATION",
+  "time": "2026-09-17 21:56",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ACTIVATION GP] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-17 21:14",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Indianapolis — 2.03",
+  "time": "2026-09-17",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ANKER] (1) POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING; (2) DISTRIBUTION OF INTERIM DIVIDEND; AND (3) AMENDMENTS TO THE AR",
-  "time": "2026-09-17 21:13",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Pittsburgh — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHEUK NANG HOLD] Change of Directors and Change of Board composition of Board Committees (Change in Directors or of Important Executive Fun",
-  "time": "2026-09-17 21:36",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LISATA THERAPEUTICS, INC. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Evernorth Holdings Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FIRST FINANCIAL CORP /IN/ — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HIVE Digital Technologies Ltd. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Caesars Entertainment, Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PETMED EXPRESS INC — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Surgery Partners, Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TuHURA Biosciences, Inc./NV — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Eightco Holdings Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Franklin BSP Realty Trust, Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DUKE Robotics Corp. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Envista Holdings Corp — RegFD披露",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Telomir Pharmaceuticals, Inc. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MIRA PHARMACEUTICALS, INC. — 8-K",
+  "time": "2026-09-17",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "bioAffinity Technologies, Inc. — 8-K",
+  "time": "2026-09-17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ABBISKO-B] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 17, 2026 (Results of EGM/SGM)",
-  "time": "2026-09-17 21:35",
+  "title": "[CHINA ART FIN] INSIDE INFORMATION (Inside Information)",
+  "time": "2026-09-17 22:07",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-17 21:32",
+  "title": "[LI NING LI NING-R] CONTINUING CONNECTED TRANSACTIONS REVISION OF ANNUAL CAPS (Continuing Connected Transaction)",
+  "time": "2026-09-17 22:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANKER] Articles of Association",
-  "time": "2026-09-17 21:29",
+  "title": "[SHEIN-W] Notification Letter and Reply Form to Non-registered Shareholders - Arrangement of Electronic Dissemination of Corporate Communica",
+  "time": "2026-09-17 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-09-17 21:28",
+  "title": "[ZYBANK] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-17 22:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-09-17 21:23",
+  "title": "[SHEIN-W] Notification Letter and Reply Form to Registered Shareholders - Arrangement of Electronic Dissemination of Corporate Communication",
+  "time": "2026-09-17 21:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA PARTYTIME] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
-  "time": "2026-09-17 21:20",
+  "title": "[R&F PROPERTIES] Overseas Regulatory Announcement (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-17 21:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA PARTYTIME] Notification Letter and Change Request Form to Registered Shareholders (Other)",
-  "time": "2026-09-17 21:18",
+  "title": "[CSOP AI BOTTLNK] 3499 NEWS",
+  "time": "2026-09-17 21:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-09-17 21:15",
+  "title": "[SKB BIO] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-17 21:43",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND MPF HK] 3579 NEWS",
-  "time": "2026-09-17 21:14",
+  "title": "[PALASINO] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-09-17 21:43",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND MPF CN A] 3509 NEWS",
-  "time": "2026-09-17 21:11",
+  "title": "[PALASINO] RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND CHANGE IN COMPOSITION OF AUDIT COMMITTEE (Change in Directors or of Importa",
+  "time": "2026-09-17 21:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BIREN TECH] Articles of Association",
-  "time": "2026-09-17 21:09",
+  "title": "[CHEUK NANG HOLD] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-09-17 21:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GLOBAL NEW MAT] VOLUNTARY ANNOUNCEMENT - PROPOSED ISSUANCE OF RMB DENOMINATED HKD SETTLED CONVERTIBLE BONDS UNDER GENERAL MANDATE AND PROPO",
-  "time": "2026-09-17 21:09",
+  "title": "[ZHAOWEI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-17 21:39",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA PARTYTIME] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-17 21:08",
+  "title": "[ANKER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-17 21:39",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP VIETNAM30] 3004 NEWS",
-  "time": "2026-09-17 21:08",
+  "title": "[ICBCCSOP CGPB] 3199 NEWS",
+  "time": "2026-09-17 21:37",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行可续期公司债券（第五期）票面利率公告",
-  "time": "2026-09-17 19:44",
+  "title": "[君亭酒店] 2026年半年度权益分派实施公告",
+  "time": "2026-09-17 19:00",
   "level": "🟢"
  }
 ]
