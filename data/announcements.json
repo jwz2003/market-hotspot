@@ -2,484 +2,309 @@
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "PEPSICO INC — 高管/董事变动",
-  "time": "2026-09-17",
+  "title": "Market Technology Acquisition Corp — 8-K",
+  "time": "2026-09-16",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FOREST CABIN] POLL RESULTS OF THE EGM HELD ON SEPTEMBER 18, 2026; AND DISTRIBUTION OF INTERIM DIVIDEND (Results of EGM/SGM / Share Scheme)",
-  "time": "2026-09-18 19:07",
+  "title": "[XUNZHONG] POLL RESULTS OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 18, 2026; AND APPOINTMENTS OF DIRECTORS, CHAIRMAN",
+  "time": "2026-09-18 19:12",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A PANDO BLKC] 3112 News",
+  "title": "[FOREST CABIN] (Updated) Interim Dividend for the six months ended June 30, 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-18 19:07",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "My Size, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DeFi Development Corp. — 其他重大事件",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Alkermes plc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LITTELFUSE INC /DE — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Reliance Global Group, Inc. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ORAGENICS INC — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "La Rosa Holdings Corp. — 8-K",
+  "time": "2026-09-16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NOVOSENSE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-09-18 19:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EB SECURITIES] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-18 19:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIUFANG DIGITAL] PROPOSED ISSUE OF CONVERTIBLE BONDS UNDER GENERAL MANDATE (Issue of Convertible Securities / Issue of Shares under a Gener",
+  "time": "2026-09-18 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIANGSU EXPRESS] ANNOUNCEMENT - DELAY IN DESPATCH OF CIRCULAR (Delay in Dispatch of Circular or other Document)",
+  "time": "2026-09-18 19:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EB SECURITIES] ANNOUNCEMENT ON RESIGNATION OF EXECUTIVE DIRECTOR AND PRESIDENT (Change in Directors or of Important Executive Functions or ",
+  "time": "2026-09-18 19:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_18092026_EN",
+  "time": "2026-09-18 19:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MIRICOR] POLL RESULTS OF EXTRAORDINARY GENERAL MEETING HELD ON 18 SEPTEMBER 2026 (Results of EGM/SGM / Share Scheme)",
+  "time": "2026-09-18 19:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SERES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-18 19:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOLDSTREAM INV] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-18 19:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DOMAINE POWER] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO PROPOSED CHANGE OF AUDITOR (Change in Auditors)",
+  "time": "2026-09-18 19:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MIRICOR] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 18 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-18 19:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PROSPEROUSPRINT] INSIDE INFORMATION;ENFORCEMENT OF SECURITY OVER THE SHARES HELD BY A SUBSTANTIAL SHAREHOLDER; AND RESUMPTION OF TRADING (I",
+  "time": "2026-09-18 19:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RONSHINECHINA] UNAUDITED OPERATING STATISTICS FOR AUGUST 2026 (Other - Trading Update)",
+  "time": "2026-09-18 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
+  "time": "2026-09-18 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHONGZI INTL H] SUPPLEMENTAL ANNOUNCEMENT PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
+  "time": "2026-09-18 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QIDIAN GUOFENG] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO CHANGE OF COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND CHANGE OF PRINCIPAL PLA",
+  "time": "2026-09-18 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CR BEVERAGE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-18 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DL HOLDINGS GP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-18 19:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LC HOLDING] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-18 19:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CATL] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-18 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CCIAM FUTURE EN] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT OF THE COMPANY FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Resul",
+  "time": "2026-09-18 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BIDU-W BIDU-WR] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-18 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHENMING PAPER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-18 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANKER] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-18 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREENTOWN SER] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-18 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW CONCEPTS] Next Day Disclosure Return (Others)",
+  "time": "2026-09-18 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM BTC CAM BTC-U CAM BTC-R] 9042 & 3042 & 83042 News",
+  "time": "2026-09-18 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ART GROUP HOLD] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-18 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM SOL CAM SOL-U CAM SOL-R] 9460 & 3460 & 83460 News",
+  "time": "2026-09-18 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM ETH CAM ETH-U CAM ETH-R] 9046 & 3046 & 83046 News",
   "time": "2026-09-18 19:07",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A PANDO INNO] 3056 News",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[透景生命] 关于取得医疗器械注册证的公告",
+  "time": "2026-09-18 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[乐心股份] 关于认购合伙企业财产份额暨与专业投资机构共同投资的进展公告",
   "time": "2026-09-18 19:06",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP VIETNAM30] Announcement - Change of Index Methodology (Matters relating to Collective Investment Schemes)",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[江波龙] H股公告（翌日披露报表）",
   "time": "2026-09-18 19:06",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PAGODA GP] Next Day Disclosure Return (Share Buyback)",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[创世纪] 关于2026年员工持股计划非交易过户完成的公告",
   "time": "2026-09-18 19:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-09-18 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GAUSH MEDITECH] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-18 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO ETH] 3085 News",
-  "time": "2026-09-18 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NEW CONCEPTS] COMPLETION OF SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE (Issue of Shares under a General Mandate)",
-  "time": "2026-09-18 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NEWBORNTOWN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-18 19:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI HK35 AMUNDI HK35-R] 3012 & 83012 News",
-  "time": "2026-09-18 19:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI A50 AMUNDI A50-R] 2843 & 82843 News",
-  "time": "2026-09-18 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EDDING GENOR] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-18 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHAOWEI] Next Day Disclosure Return (Others / Share Buyback)",
-  "time": "2026-09-18 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RS MACALLINE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-18 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI BTC HGI BTC-U] 9439 & 3439 News",
-  "time": "2026-09-18 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RS MACALLINE] POLL RESULTS OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING HELD ON 18 SEPTEMBER 2026 (Results of EGM/SGM)",
-  "time": "2026-09-18 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WING LEE DEV] SECOND AMENDED AND RESTATED ARTICLES OF ASSOCIATION",
-  "time": "2026-09-18 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LUFAX] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-18 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[VIVA GOODS] DELAY IN DESPATCH OF CIRCULAR AND GRANT OF WAIVER FROM STRICT COMPLIANCE WITH RULE 14.41(A) OF THE LISTING RULES (Major Transac",
-  "time": "2026-09-18 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KEEP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-18 18:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREAT CHI HLDGS] CHANGE OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND MEMBER OF BOARD COMMITTEES AND COMPLIANCE WITH THE LISTING RULES (Change ",
-  "time": "2026-09-18 18:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WING LEE DEV] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON SEPTEMBER 18, 2026 (Results of AGM / Amendment of Constitutional Documents",
-  "time": "2026-09-18 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WECON HOLDINGS] MONTHLY UPDATE ANNOUNCEMENT PURSUANT TO RULE 3.7 OF THE TAKEOVERS CODE (Announcement by Offeree Company under the Takeovers",
-  "time": "2026-09-18 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DINGDANG HEALTH] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-18 18:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EXTREME VISION] SUPPLEMENTAL ANNOUNCEMENT DISCLOSEABLE TRANSACTION INVESTMENT MANAGEMENT AGREEMENT (Discloseable Transaction)",
-  "time": "2026-09-18 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IDT INT'L] JOINT ANNOUNCEMENT - (1) CLOSE OF MANDATORY UNCONDITIONAL CASH OFFER BY LEGO SECURITIES LIMITED FOR AND ON BEHALF OF THE OFFEROR",
-  "time": "2026-09-18 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HEPHAESTUS HLDG] POLL RESULTS OF THE ANNUAL GENERAL MEETING (Results of AGM)",
-  "time": "2026-09-18 18:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XL2CSOPCSI300 FL2CSOPNASDAQ FL2CSOPGOLD] Prospectus (Authorised Collective Investment Scheme)",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FS.COM] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HSBIOTECH CAM HSBIOTECH-U CAM HSBIOTECH-R] Summary Information",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CAM RMB MM A CAM RMB MM-R] Summary Information",
-  "time": "2026-09-18 18:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM MSCI A50 CAM HSI ESG CAM HSI ESG-U CAM MSCI A50-U CAM MSCI A50-R CAM HSI ESG-R] Summary Information",
-  "time": "2026-09-18 18:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEIJING AIRPORT] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-18 18:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HS TECH CAM HS TECH-U CAM HS TECH-R] Summary Information",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LINGYI ITECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRANSTHERA-B] VOLUNTARY ANNOUNCEMENT FIRST PATIENT DOSED IN PHASE II CLINICAL TRIAL OF TINENGOTINIB IN COMBINATION WITH NOVEL HORMONAL THER",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI MSCI CN A HGI MSCI CN A-R] HARVEST MSCI CHINA A INDEX ETF <83118> <3118> INFORMATION",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[捷捷微电] 江苏捷捷微电子股份有限公司关于2026年限制性股票激励计划授予登记完成的公告",
-  "time": "2026-09-18 19:04",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[德石股份] 关于独立董事取得独立董事资格证书的公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[固高科技] 董事会薪酬与考核委员会关于2026年限制性股票激励计划激励对象名单的公示情况说明及核查意见",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[康龙化成] H股公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST赛为] 关于与财务投资人签署《预重整财务投资协议》的公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于陈旺及其一致行动人合计持股比例触及5%整数倍的提示性公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于控股股东、实际控制人及其一致行动人合计持股比例被动稀释触及5%整数倍的提示性公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于持股5%以上股东持股比例被动稀释触及1%整数倍的提示性公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 重庆新铝时代科技股份有限公司关于董事和高级管理人员持股情况变动的报告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易实施情况暨新增股份上市公告书的提示性公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 北京市中伦律师事务所关于重庆新铝时代科技股份有限公司发行股份购买资产并募集配套资金暨关联交易之实施情况的法律意见书",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 中信证券股份有限公司关于重庆新铝时代科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易实施情况之独立财务顾问核查意见",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 重庆新铝时代科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易实施情况暨新增股份上市公告书摘要",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 简式权益变动报告书（陈旺等一致行动人）",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[稳健医疗] 2026年半年度报告（英文版）",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[可孚医疗] 公司章程（2026年9月修订）",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[可孚医疗] 湖南启元律师事务所关于可孚医疗科技股份有限公司2026年第三次临时股东会的法律意见书",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[可孚医疗] 2026年第三次临时股东会决议公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易之发行股份购买资产实施情况的公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 关于重庆新铝时代科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易中交易相关方作出的承诺的说明",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新铝时代] 重庆新铝时代科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易实施情况暨新增股份上市公告书",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[厚普股份] 关于解除募集资金账户冻结的公告",
-  "time": "2026-09-18 18:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[飞鹿股份] 飞鹿股份：2026年第四次临时股东会法律意见",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[飞鹿股份] 2026年第四次临时股东会决议公告",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰福泵业] 关于可转换公司债券2026年付息的公告",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰福泵业] 关于披露权益变动报告书的提示性公告",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰福泵业] 关于控股股东、实际控制人签署《股权转让协议》《股份转让协议》暨控制权拟发生变更的进展公告",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰福泵业] 华福证券股份有限公司关于浙江泰福泵业股份有限公司详式权益变动报告书之财务顾问核查意见",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰福泵业] 简式权益变动报告书",
-  "time": "2026-09-18 18:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雪榕生物] 上海雪榕生物科技股份有限公司关于子公司为子公司提供担保暨2026年度担保额度预计的进展公告",
-  "time": "2026-09-18 18:50",
   "level": "🟢"
  }
 ]
