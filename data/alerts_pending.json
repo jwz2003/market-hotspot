@@ -6262,5 +6262,21 @@
   "detail": "现价 26418.299，突破波动阈值 1.5%",
   "value": 1.6932091197053807,
   "time": "2026-09-18 11:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "深证成指 +1.52%",
+  "detail": "现价 13613.479，突破波动阈值 1.5%",
+  "value": 1.5180441703416054,
+  "time": "2026-09-18 12:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[FB MULTIASSET] ANNOUNCEMENT AND NOTICE OF TIMETABLE UPDATE ",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-18 12:07"
  }
 ]
