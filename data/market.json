@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 24988.45,
-  "pct": 0.96
+  "price": 24998.93,
+  "pct": 1.0
  },
  {
   "cat": "index",
@@ -52,57 +52,57 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 14.97,
-  "pct": 1.08
+  "price": 14.93,
+  "pct": 0.81
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4387.9,
-  "pct": -0.84
+  "price": 4383.5,
+  "pct": -0.94
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 66.39,
-  "pct": -0.26
+  "price": 66.47,
+  "pct": -0.12
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 93.86,
-  "pct": -6.42
+  "price": 94.0,
+  "pct": -6.28
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.75,
-  "pct": 2.02
+  "pct": 2.09
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.88,
-  "pct": -1.1
+  "pct": -1.13
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 100.34,
-  "pct": 0.12
+  "price": 100.32,
+  "pct": 0.1
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.25,
-  "pct": 0.72
+  "price": 157.22,
+  "pct": 0.7
  },
  {
   "cat": "forex",
@@ -115,35 +115,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 81566.01,
-  "pct": 1.54
+  "price": 81966.66,
+  "pct": 1.93
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2653.17,
-  "pct": 3.12
+  "price": 2668.92,
+  "pct": 3.4
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 111.66,
-  "pct": 2.87
+  "price": 112.69,
+  "pct": 3.82
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 768.71,
-  "pct": 2.64
+  "price": 770.76,
+  "pct": 2.94
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.44,
-  "pct": 4.25
+  "price": 1.45,
+  "pct": 4.61
  }
 ]
