@@ -2,57 +2,64 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINAHEALTHWISE] EXCHANGE NOTICE - TRADING HALT (Trading Halt)",
-  "time": "2026-09-21 08:49",
+  "title": "[CG BS CNASEAN CG BS CNASEAN-U CG BS CNASEAN-R] 2805 & 9805 & 82805 News",
+  "time": "2026-09-21 09:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PROSPEROUSPRINT] EXCHANGE NOTICE - RESUMPTION OF TRADING (Resumption)",
-  "time": "2026-09-21 08:49",
+  "title": "[EFUND BIOPHAR EFUND A SEMICON] 3186 3486 Information",
+  "time": "2026-09-21 09:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHAW BROTHERS] EXCHANGE NOTICE - RESUMPTION OF TRADING (Resumption)",
-  "time": "2026-09-21 08:49",
+  "title": "[EFUND APAC HD EFUND AI EFUND APAC HD-U EFUND AI-U EFUND APAC HD-R EFUND AI-R] 3483 9483 83483 3489 9489 83489 Information",
+  "time": "2026-09-21 09:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS S&P500 HS S&P500-U] HANG SENG S&P 500 INDEX ETF<09195> INFORMATION",
-  "time": "2026-09-21 08:39",
+  "title": "[EFUND GOLD MI EFUND DIGITAL EFUND DIGITAL-U EFUND GOLD MI-U EFUND GOLD MI-R EFUND DIGITAL-R] 2824 9824 82824 3434 9434 83434 Information",
+  "time": "2026-09-21 09:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP NASDAQ100] 3034 NEWS",
-  "time": "2026-09-21 08:38",
+  "title": "[CAM NASDAQ100 CAM ASIA IGB CAM ASIA HIGHDV CAM JAPAN HDG CAM EU QLTY HDG CAM NASDAQ100-U CAM ASIA IGB-U] Summary Information (3086,3141,314",
+  "time": "2026-09-21 09:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSCMS 1-3Y UST] Hang Seng CMS Bloomberg US Treasury 1-3 Year Index ETF< 03436> INFORMATION",
-  "time": "2026-09-21 08:38",
+  "title": "[CAM HKUS AI CAM HKUS AI-U CAM HKUS AI-R] Summary Information (3140, 83140, 9140)",
+  "time": "2026-09-21 09:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSCMS 7-10Y UST] Hang Seng CMS Bloomberg US Treasury 7-10 Year Index ETF<03435> INFORMATION",
-  "time": "2026-09-21 08:37",
+  "title": "[CAM MSCIINDIA CAM MSCIINDIA-U CAM MSCIINDIA-R] Summary Information (3404,9404,83404)",
+  "time": "2026-09-21 09:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2CSOPNASDAQ] 7266 NEWS",
-  "time": "2026-09-21 08:37",
+  "title": "[CAM CSI300 CAM CSI300-U CAM CSI300-R] Summary Information (3188, 83188, 9188)",
+  "time": "2026-09-21 09:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FL2CAMNDQ100 FI2CAMNDQ100] Summary Information (7261,7522)",
+  "time": "2026-09-21 09:18",
   "level": "🟢"
  }
 ]
