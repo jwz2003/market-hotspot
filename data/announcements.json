@@ -2,239 +2,456 @@
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[风光股份] 关于完成对安徽瑞华新材料有限公司收购的公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟡"
+  "title": "[龙磁科技] 关于安徽龙磁科技股份有限公司申请向特定对象发行股票的审核问询函的回复（豁免版）",
+  "time": "2026-09-21 16:20",
+  "level": "🔴"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[阳普医疗] 关于全资子公司完成医疗器械生产许可证变更的公告",
-  "time": "2026-09-21 15:46",
+  "title": "[龙磁科技] 天健会计师事务所（特殊普通合伙）关于安徽龙磁科技股份有限公司申请向特定对象发行股票审核问询函中有关财务事项的说明（豁免版）",
+  "time": "2026-09-21 16:20",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[龙磁科技] 关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+  "time": "2026-09-21 16:20",
+  "level": "🔴"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CDB LEASING] APPROVAL OF THE QUALIFICATIONS OF EXECUTIVE DIRECTOR AND PRESIDENT (Change in Directors or of Important Executive Functions or",
+  "time": "2026-09-21 16:35",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DREAM INT'L] Letter to the New Registered Shareholders and Reply Form - Election of Means of Receipt and Language of Corporate Communicatio",
-  "time": "2026-09-21 16:07",
+  "title": "[SA SA INT'L] Positive Profit Alert (Profit Warning / Inside Information)",
+  "time": "2026-09-21 16:33",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA RES MIXC] DIVIDEND CURRENCY ELECTION FORM FOR THE INTERIM DIVIDEND FOR THE YEAR ENDING 31 DECEMBER 2026 AND SPECIAL INTERIM DIVIDEND ",
+  "time": "2026-09-21 16:33",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "IT TECH PACKAGING, INC. — 8-K",
+  "time": "2026-09-18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DREAM INT'L] Notification Letter to Non-registered Holders and Request Form (Other)",
-  "time": "2026-09-21 16:07",
+  "title": "[REGENT PACIFIC] Notification Letter to Registered Shareholders and Change Request Form (Other)",
+  "time": "2026-09-21 16:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DREAM INT'L] Notification Letter to Existing Registered Shareholders and Change Request Form (Other)",
+  "title": "[BONNY HLDG] Notification Letter and Request Form to Registered Shareholder (Other)",
+  "time": "2026-09-21 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DAHSING BANKING] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MING YUAN CLOUD] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOARDWARE INTEL] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-09-21 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BONNY HLDG] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GC CONSTRUCTION] (1) REQUISITION BY A SHAREHOLDER IN RELATION TO PROPOSED CHANGE OF COMPANY NAME; (2) PROPOSED AMENDMENTS TO THE MEMORANDUM",
+  "time": "2026-09-21 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REGENT PACIFIC] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW SILKROAD] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ADTIGER CORP] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOARDWARE INTEL] NOTIFICATION LETTER AND REPLY FORM TO REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-09-21 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MABPHARM-B] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREEN TEA GROUP] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINJI SHAXI] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDER (Other)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COUNTRY GARDEN] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEILLEUREHEALTH] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IMPRESSION DHP] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LAUNCH TECH] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Results / Other - Miscel",
+  "time": "2026-09-21 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PA GOODDOCTOR] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-09-21 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEILLEUREHEALTH] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS (Other)",
+  "time": "2026-09-21 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LX TECHNOLOGY] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA NEXT-GEN] CHANGE OF FINANCIAL YEAR END DATE (Change in Financial Year End)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C SMARTERENERGY] QUARTERLY PROGRESS UPDATE ON ACTION PLANS AND MEASURES IN RESOLVING THE DISCLAIMER OF OPINION (Inside Information / Other ",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BE ENVIRONMENT] Notification Letter to Non-Registered Shareholders and Request Form (Other)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[51WORLD] 2026 Interim Report (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINJI SHAXI] NOTIFICATION LETTER TO SHAREHOLDER AND REPLY FORM (Other)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SSY GROUP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOARDWARE INTEL] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUIXIN CREDIT] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RIBOLIFE-B] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HIPINE] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEILLEUREHEALTH] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BE ENVIRONMENT] Notification Letter to Registered Shareholders and Reply Form (Other)",
+  "time": "2026-09-21 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[大烨智能] 关于提供担保的进展公告",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[贝斯美] 关于为控股子公司提供担保的进展公告",
+  "time": "2026-09-21 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江华业] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-09-21 16:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[港迪技术] 公司关于变更办公地址及投资者联系电话的公告",
+  "time": "2026-09-21 16:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[南京聚隆] 长城证券股份有限公司关于南京聚隆科技股份有限公司向不特定对象发行可转换公司债券2026年度第二次临时受托管理事务报告",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[*ST益通] 关于实际控制人部分股份司法冻结的公告",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[龙磁科技] 安徽龙磁科技股份有限公司2026年度向特定对象发行股票并在创业板上市募集说明书（申报稿）",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[欣兴工具] 第二届董事会第十二次会议决议公告",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[龙磁科技] 华泰联合证券有限责任公司关于安徽龙磁科技股份有限公司2026年度向特定对象发行股票并在创业板上市之发行保荐书",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[龙磁科技] 华泰联合证券有限责任公司关于安徽龙磁科技股份有限公司2026年度向特定对象发行股票并在创业板上市之上市保荐书",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[龙磁科技] 国浩律师（上海）事务所关于安徽龙磁科技股份有限公司2026年度向特定对象发行A股股票之补充法律意见书（二）",
+  "time": "2026-09-21 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[达嘉维康] 关于全资子公司变更法定代表人并完成工商登记的公告",
+  "time": "2026-09-21 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[达嘉维康] 关于对外担保的进展公告",
+  "time": "2026-09-21 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[紫建电子] 关于参加重庆辖区2026年投资者网上集体接待日暨半年度业绩说明会活动的公告",
+  "time": "2026-09-21 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[舒泰神] 关于公司向银行申请贷款并提供抵押反担保的进展公告（七）",
+  "time": "2026-09-21 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜蓝股份] 关于提前赎回胜蓝转02的第八次提示性公告",
+  "time": "2026-09-21 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[黔源电力] 贵州黔源电力股份有限公司2026年面向专业投资者公开发行碳中和绿色科技创新乡村振兴公司债券（第一期）（生物多样性挂钩）（支持生态文明建设先行区）在深圳证券交易所上市的公告",
+  "time": "2026-09-21 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[君正股份] 关于稳定价格行动、稳定价格期结束及超额配股权失效的公告",
+  "time": "2026-09-21 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[超越科技] 关于独立董事取得独立董事培训证明的公告",
+  "time": "2026-09-21 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[光大同创] 关于控股股东部分股份解除质押的公告",
+  "time": "2026-09-21 16:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[光大同创] 关于为子公司提供担保的进展公告",
+  "time": "2026-09-21 16:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[*ST亿通] 关于取得发明专利证书的公告",
+  "time": "2026-09-21 16:12",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[协创数据] 关于公司融资租赁业务的进展暨以应收账款追加质押的公告",
   "time": "2026-09-21 16:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DREAM INT'L] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-21 16:05",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[金埔园林] 关于使用部分暂时闲置募集资金进行现金管理到期赎回的公告",
-  "time": "2026-09-21 16:04",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[威马农机] 关于全资子公司业务调整暨更名的公告",
-  "time": "2026-09-21 15:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[威马农机] 第三届董事会第二十二次会议决议公告",
-  "time": "2026-09-21 15:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华兰股份] 关于收到中国银行间市场交易商协会《接受注册通知书》的公告",
-  "time": "2026-09-21 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华兰股份] 关于完成工商变更登记并换发营业执照的公告",
-  "time": "2026-09-21 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[欧陆通] 关于对外担保进展的公告",
-  "time": "2026-09-21 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[安科生物] 关于公司创新药物注射用AK2405临床试验申请获得受理的公告",
-  "time": "2026-09-21 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中粮科工] 关于使用部分暂时闲置募集资金进行现金管理的进展公告",
-  "time": "2026-09-21 15:52",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天银机电] 关于全资子公司取得发明专利证书的公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[朗坤科技] 关于为子公司提供担保事项的进展公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[骏成科技] 关于变更公司注册资本、经营范围并完成工商变更登记的公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[震裕科技] 关于对外担保的进展公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天壕能源] 关于为子公司提供担保的进展公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[海泰科] 关于开立募集资金临时补流专项账户并签署募集资金三方监管协议的公告",
-  "time": "2026-09-21 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科大智能] 期货与衍生品交易管理制度",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科大智能] 关于开展外汇衍生品交易及商品期货套期保值业务的可行性分析报告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[云汉芯城] 关于独立董事离任的公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[严牌股份] 关于公司募集资金账户部分资金解除冻结的公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[致远新能] 关于公司向银行申请授信额度并接受关联方担保暨关联交易的公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[致远新能] 第三届董事会第九次会议决议公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科大智能] 关于开展外汇衍生品交易及商品期货套期保值业务的公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科大智能] 第六届董事会第十六次会议决议公告",
-  "time": "2026-09-21 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 关于为子公司提供担保的进展公告",
-  "time": "2026-09-21 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[菲利华] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-09-21 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[国林科技] 关于子公司停产检修完成暨复产的公告",
-  "time": "2026-09-21 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[海科新源] 关于为全资子公司提供担保并接受关联方提供担保的进展公告",
-  "time": "2026-09-21 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新开源] 关于公司副总经理辞职的公告",
-  "time": "2026-09-21 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[创源股份] 关于为子公司申请授信额度提供担保的进展公告",
-  "time": "2026-09-21 15:46",
   "level": "🟢"
  }
 ]
