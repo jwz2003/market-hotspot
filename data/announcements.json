@@ -1,128 +1,86 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Trio Petroleum Corp — 8-K",
-  "time": "2026-09-21",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIRC] (UPDATED) Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-21 22:56",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIRC] POSTPONEMENT OF THE EGM DELAY IN DESPATCH OF THE CIRCULAR AND CHANGE OF PERIODS OF CLOSURE OF REGISTER OF MEMBERS, RECORD DATE AND PA",
+  "time": "2026-09-21 22:56",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SCIENTECH] DELAY IN DESPATCH OF CIRCULAR IN RELATION TO MAJOR AND CONNECTED TRANSACTION ACQUISITION OF 54.2384% EQUITY INTEREST IN SHANGHAI",
+  "time": "2026-09-21 22:38",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HOMELAND ITL] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 22:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on Passive Increase in Shareholding Percentage of the Controlling Shareholder a",
-  "time": "2026-09-21 22:32",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-21 22:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NETJOY] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-21 22:31",
+  "title": "[CLOUDR] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 22:47",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NETJOY] (1) APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND AUDIT COMMITTEE MEMBER; (2) RE-DESIGNATION OF EXECUTIVE DIRECTOR TO NON-E",
-  "time": "2026-09-21 22:30",
+  "title": "[SICHUAN EN INV] SUPPLEMENTAL ANNOUNCEMENT CONNECTED TRANSACTION SUPPLEMENTAL CONTRACT TO THE EPC CONTRACT (Connected Transaction)",
+  "time": "2026-09-21 22:47",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-21 22:29",
+  "title": "[CF PHARMTECH] VOLUNTARY ANNOUNCEMENT ICF004 COMPLETES ENROLMENT AND DOSING OF FIRST HEALTHY VOLUNTEER IN PHASE I CLINICAL TRIAL (Other - Bu",
+  "time": "2026-09-21 22:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOXIA TECH] PROXY FORM FOR EXTRAORDINARY GENERAL MEETING TO BE HELD ON 12 OCTOBER 2026 (OR ANY ADJOURNMENT THEREOF)",
-  "time": "2026-09-21 22:27",
+  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on Wholly-Owned Subsidiary's Participation in Equity Investment Fund (Overseas ",
+  "time": "2026-09-21 22:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOXIA TECH] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-21 22:27",
+  "title": "[TA YANG GROUP] INSIDE INFORMATION FURTHER ADJOURNMENT OF THE WINDING-UP PETITION HEARING (Inside Information / Winding Up and Liquidation o",
+  "time": "2026-09-21 22:44",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on the Completion of the Cancellation of Repurchased A Shares and Changes in Sh",
-  "time": "2026-09-21 22:26",
+  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on the Adjustment of Members of the Management Committee of the \"Grow Together\"",
+  "time": "2026-09-21 22:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOXIA TECH] (I) PROPOSED ADOPTION OF SHARE AWARD SCHEME (II) PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND (III) NOTICE OF EXTRAO",
-  "time": "2026-09-21 22:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CU VENTURE INV] CHANGE OF DATE OF SPECIAL GENERAL MEETING AND CLOSURE OF REGISTER OF MEMBERS (Notice of EGM/SGM / Closure of Books or Chang",
-  "time": "2026-09-21 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BITSTRAT HLDGS] Notification letter and request form to non-registered shareholders (Other)",
-  "time": "2026-09-21 22:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BITSTRAT HLDGS] Notification letter and reply form to registered shareholders (Other)",
-  "time": "2026-09-21 22:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CU VENTURE INV] PROPOSED SHARE CONSOLIDATION (Capital Reorganisation / Trading Arrangements (other than Change in Board Lot Size) / Closure",
-  "time": "2026-09-21 22:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BITSTRAT HLDGS] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-21 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PINE TECH] FURTHER DELAY IN DESPATCH OF PROSPECTUS DOCUMENTS AND FURTHER REVISED EXPECTED TIMETABLE IN RELATION TO THE PROPOSED RIGHTS ISSU",
-  "time": "2026-09-21 22:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HTSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-21 22:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LEADS BIOLABS-B] VOLUNTARY ANNOUNCEMENT PIVOTAL REGISTRATIONAL PHASE IIB STUDY OF LBL-024 (OPAMTISTOMIG, PD-L1/4-1BB BISPECIFIC ANTIBODY) M",
-  "time": "2026-09-21 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3",
-  "time": "2026-09-21 22:09",
+  "title": "[HANG YICK HLDGS] INSIDE INFORMATION AN ORIGINATING SUMMONS (Inside Information)",
+  "time": "2026-09-21 22:38",
   "level": "🟢"
  }
 ]
