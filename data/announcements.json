@@ -1,282 +1,128 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST元道] 关于公司股票进入退市整理期交易的公告",
-  "time": "2026-09-21 21:58",
-  "level": "🔴"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS HIGH DIV] HANG SENG HIGH DIVIDEND 30 INDEX ETF <03466> INFORMATION",
-  "time": "2026-09-21 21:58",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
-  "time": "2026-09-21 22:06",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Trio Petroleum Corp — 8-K",
+  "time": "2026-09-21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-09-21 22:06",
+  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on Passive Increase in Shareholding Percentage of the Controlling Shareholder a",
+  "time": "2026-09-21 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
-  "time": "2026-09-21 22:05",
+  "title": "[NETJOY] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-21 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-09-21 22:02",
+  "title": "[NETJOY] (1) APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND AUDIT COMMITTEE MEMBER; (2) RE-DESIGNATION OF EXECUTIVE DIRECTOR TO NON-E",
+  "time": "2026-09-21 22:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
-  "time": "2026-09-21 22:01",
+  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 22:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
-  "time": "2026-09-21 22:00",
+  "title": "[GUOXIA TECH] PROXY FORM FOR EXTRAORDINARY GENERAL MEETING TO BE HELD ON 12 OCTOBER 2026 (OR ANY ADJOURNMENT THEREOF)",
+  "time": "2026-09-21 22:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENNOR THERAP-B] (1) FORMULATION OF THE 2026 H SHARE AWARD SCHEME; AND (2) AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Share Scheme / Amendm",
-  "time": "2026-09-21 21:59",
+  "title": "[GUOXIA TECH] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-21 22:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MOMENTUM FIN] NEXT DAY DISCLOSURE RETURN (Others)",
-  "time": "2026-09-21 21:57",
+  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on the Completion of the Cancellation of Repurchased A Shares and Changes in Sh",
+  "time": "2026-09-21 22:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
-  "time": "2026-09-21 21:57",
+  "title": "[GUOXIA TECH] (I) PROPOSED ADOPTION OF SHARE AWARD SCHEME (II) PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND (III) NOTICE OF EXTRAO",
+  "time": "2026-09-21 22:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FG HS HIGHDIV FG ROBOTICS FG HS HIGHDIV-U FG HS HIGHDIV-R] ANNOUNCEMENT TO UNITHOLDERS (Matters relating to Collective Investment Schemes)",
-  "time": "2026-09-21 21:56",
+  "title": "[CU VENTURE INV] CHANGE OF DATE OF SPECIAL GENERAL MEETING AND CLOSURE OF REGISTER OF MEMBERS (Notice of EGM/SGM / Closure of Books or Chang",
+  "time": "2026-09-21 22:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-21 21:56",
+  "title": "[BITSTRAT HLDGS] Notification letter and request form to non-registered shareholders (Other)",
+  "time": "2026-09-21 22:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
-  "time": "2026-09-21 21:55",
+  "title": "[BITSTRAT HLDGS] Notification letter and reply form to registered shareholders (Other)",
+  "time": "2026-09-21 22:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JOLIMARK] PARTIAL COMPLETION ON PLACING OF EXISTING SHARES BY A CONTROLLING SHAREHOLDER (Change in Shareholding / Other - Miscellaneous)",
-  "time": "2026-09-21 21:55",
+  "title": "[CU VENTURE INV] PROPOSED SHARE CONSOLIDATION (Capital Reorganisation / Trading Arrangements (other than Change in Board Lot Size) / Closure",
+  "time": "2026-09-21 22:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF WEALTH MANAGEMENT PRODUCT (Discloseable Transaction)",
-  "time": "2026-09-21 21:54",
+  "title": "[BITSTRAT HLDGS] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-21 22:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CULTURECOM HOLD] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-21 21:53",
+  "title": "[PINE TECH] FURTHER DELAY IN DESPATCH OF PROSPECTUS DOCUMENTS AND FURTHER REVISED EXPECTED TIMETABLE IN RELATION TO THE PROPOSED RIGHTS ISSU",
+  "time": "2026-09-21 22:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS AINDTOPETF HS AINDTOPETF-R] HANG SENG CHINA A INDUSTRY TOP INDEX ETF <83128> INFORMATION",
-  "time": "2026-09-21 21:52",
+  "title": "[HTSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-21 22:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FG ROBOTICS] PRODUCT KEY FACTS (Authorised Collective Investment Scheme)",
-  "time": "2026-09-21 21:49",
+  "title": "[LEADS BIOLABS-B] VOLUNTARY ANNOUNCEMENT PIVOTAL REGISTRATIONAL PHASE IIB STUDY OF LBL-024 (OPAMTISTOMIG, PD-L1/4-1BB BISPECIFIC ANTIBODY) M",
+  "time": "2026-09-21 22:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP VIETNAM30] 3004 NEWS",
-  "time": "2026-09-21 21:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
-  "time": "2026-09-21 21:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP MSCI A 50] 3003 NEWS",
-  "time": "2026-09-21 21:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP HSBIOTECH] 3174 NEWS",
-  "time": "2026-09-21 21:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP CSI PV] 3134 NEWS",
-  "time": "2026-09-21 21:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP STAR 50] 3109 NEWS",
-  "time": "2026-09-21 21:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FG HS HIGHDIV FG ROBOTICS FG HS HIGHDIV-U FG HS HIGHDIV-R] PROSPECTUS (Authorised Collective Investment Scheme)",
-  "time": "2026-09-21 21:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XL2CSOPCSI300] 7233 NEWS",
-  "time": "2026-09-21 21:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-09-21 21:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF HK] 3579 NEWS",
-  "time": "2026-09-21 21:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF CN A] 3509 NEWS",
-  "time": "2026-09-21 21:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[R&F PROPERTIES] Overseas Regulatory Announcement (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-21 21:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-21 21:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-09-21 21:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BRII-B] Next Day Disclosure Return (Others)",
-  "time": "2026-09-21 21:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WEIYE HOLDINGS] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business in",
-  "time": "2026-09-21 21:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-09-21 21:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-09-21 21:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-09-21 21:38",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST元道] 关于收到股票终止上市决定的公告",
-  "time": "2026-09-21 21:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST元道] 关于公司股票被实施其他风险警示的第九次提示性公告",
-  "time": "2026-09-21 21:58",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3",
+  "time": "2026-09-21 22:09",
   "level": "🟢"
  }
 ]
