@@ -1,121 +1,331 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CON AERO TECH] JOINT ANNOUNCEMENT - POLL RESULTS OF THE SPECIAL GENERAL MEETING HELD IN RELATION TO (1) PROPOSED VERY SUBSTANTIAL DISPOSAL;",
-  "time": "2026-09-21 20:51",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "RECURSION PHARMACEUTICALS, INC. — 重大协议",
+  "time": "2026-09-21",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[COCOON HOLDINGS] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-21 21:07",
+  "title": "[CONANT OPTICAL] Interim dividend for the six months ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-21 21:11",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CONANT OPTICAL] POLL RESULTS OF THE FOURTH EXTRAORDINARY GENERAL MEETING HELD ON 21 SEPTEMBER 2026 (Results of EGM/SGM / Dividend or Distri",
+  "time": "2026-09-21 21:10",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DICK'S SPORTING GOODS, INC. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "InspireMD, Inc. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Coursera, Inc. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4 — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "STRATS SM TRUST FOR Goldman Sachs Cap I SEC SERIES 2005-3 — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6 — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "STRATS(SM) Trust For Goldman Sachs Capital I Securities, Series 2005-1 — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AB Private Lending Fund — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DeFi Development Corp. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FB Financial Corp — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AMC Robotics Corp — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Trio Petroleum Corp — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BITMINE IMMERSION TECHNOLOGIES, INC. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AMC ENTERTAINMENT HOLDINGS, INC. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PETMED EXPRESS INC — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Beacon Financial Corp — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Trilogy Metals Inc. — 8-K",
+  "time": "2026-09-21",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Evolution Metals & Technologies Corp. — 8-K",
+  "time": "2026-09-21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHONGYU ENERGY] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-21 21:06",
+  "title": "[CHAOWEI POWER] Notification Letter and Reply Form to Non-registered Holder - Notice of Publication of 2026 Interim Report (Other)",
+  "time": "2026-09-21 21:38",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GBA AI COMP-500] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 21:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SUMMI] INSIDE INFORMATION UPDATE IN RELATION TO WINDING-UP PETITION (Inside Information / Winding Up and Liquidation of Issuer, its Holding",
+  "time": "2026-09-21 21:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EDDING GENOR] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-09-21 21:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHAOWEI POWER] Notification Letter and Reply Form to Registered Holder - Notice of Publication of 2026 Interim Report (Other)",
+  "time": "2026-09-21 21:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHAOWEI POWER] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 21:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NOBLE ENG GP] Next Day Disclosure Return (Others)",
+  "time": "2026-09-21 21:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JLMAG] ANNOUNCEMENT PLEDGE AND RELEASE OF PLEDGE OF CERTAIN SHARES BY CONTROLLING SHAREHOLDERS (Charging or Pledging of Shares by Sharehold",
+  "time": "2026-09-21 21:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NOBLE ENG GP] COMPLETION OF PLACING OF NEW SHARES UNDER GENERAL MANDATE (Issue of Shares under a General Mandate)",
+  "time": "2026-09-21 21:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-21 21:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REACH NEW HLDGS] Notification Letter to Registered Shareholders and Reply Form (Other)",
+  "time": "2026-09-21 21:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REACH NEW HLDGS] Notification Letter to Non-registered Holders and Request Form (Other)",
+  "time": "2026-09-21 21:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREEN BROAD] JOINT ANNOUNCEMENT - (1) CONNECTED TRANSACTION IN RELATION TO ENTERING INTO THE CONVERSION AGREEMENT AND ISSUE OF CONVERSION S",
+  "time": "2026-09-21 21:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-21 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REACH NEW HLDGS] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-21 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EVEREST GOLD] Next Day Disclosure Return (Others)",
+  "time": "2026-09-21 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-21 21:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOST KWAI CHUNG] ANNOUNCEMENT FOURTH SUPPLEMENTAL AGREEMENT IN RELATION TO PLACING OF NEW SHARES UNDER THE GENERAL MANDATE (Placing / Issue",
+  "time": "2026-09-21 21:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LIGENT] ANNOUNCEMENT OF ALLOTMENT RESULTS (Allotment Results)",
+  "time": "2026-09-21 21:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-09-21 21:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SCHOLAR EDU] VOLUNTARY ANNOUNCEMENT - SHARE PURCHASE PURSUANT TO SHARE AWARD SCHEME (Other - Miscellaneous)",
+  "time": "2026-09-21 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EASYHOLD GROUP] FURTHER DELAY IN DESPATCH OF CIRCULAR AND REVISED TIMETABLE IN RELATION TO PROPOSED RIGHTS ISSUE ON THE BASIS OF ONE (1) RI",
+  "time": "2026-09-21 21:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MS GROUP HLDGS] JOINT ANNOUNCEMENT - (1) CLOSE OF MANDATORY UNCONDITIONAL CASH OFFERS BY RAINBOW CAPITAL (HK) LIMITED FOR AND ON BEHALF OF ",
+  "time": "2026-09-21 21:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
   "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-21 21:06",
+  "time": "2026-09-21 21:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CULTURECOM HOLD] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 21 SEPTEMBER 2026 AND RETIREMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR ",
-  "time": "2026-09-21 21:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UNITY ENT] LETTER TO NON-REGISTERED SHAREHOLDERS AND REPLY FORM - NOTIFICATION OF 2026 INTERIM REPORT (Other)",
-  "time": "2026-09-21 21:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UNITY ENT] LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM - NOTIFICATION OF 2026 INTERIM REPORT (Other)",
-  "time": "2026-09-21 21:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CCTC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-21 21:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANJIN CAPITAL] CONTINUING CONNECTED TRANSACTIONS 2026-2029 ENGINEERING TRANSACTIONS FRAMEWORK AGREEMENT (Continuing Connected Transaction",
-  "time": "2026-09-21 21:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UNITY ENT] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-21 20:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CCTC] Articles of Association",
-  "time": "2026-09-21 20:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CCTC] (1) RESULTS OF POLL AT THE EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 21, 2026; AND (2) CHANGE OF REGISTERED CAPITAL AND AMENDME",
-  "time": "2026-09-21 20:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIANLIAN] Next Day Disclosure Return (Others)",
-  "time": "2026-09-21 20:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CZBANK] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-21 20:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CZBANK] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-21 20:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GUOFUHEE] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-21 20:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CZBANK] POLL RESULTS OF 2026 SECOND EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM / Issue of Debt Securities)",
-  "time": "2026-09-21 20:37",
+  "title": "[TAIMEI TECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-21 21:09",
   "level": "🟢"
  }
 ]
