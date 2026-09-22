@@ -1,303 +1,275 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LI AUTO-W] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-22 20:31",
-  "level": "🟡"
- },
- {
   "src": "巨潮",
   "market": "A股",
-  "title": "[艾布鲁] 关于公司特定股东减持计划实施完毕的公告",
-  "time": "2026-09-22 20:26",
-  "level": "🟡"
+  "title": "[奥联电子] 关于筹划控制权变更事项进展暨继续停牌的公告",
+  "time": "2026-09-22 20:44",
+  "level": "🔴"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[海晨股份] 关于控股股东的一致行动人、持股5%以上股东减持股份预披露公告",
-  "time": "2026-09-22 20:12",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[科净源] 关于公司股东减持股份的预披露公告",
-  "time": "2026-09-22 20:10",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Madison Square Garden Sports Corp. — 高管/董事变动",
+  "time": "2026-09-22",
   "level": "🟡"
  },
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "GROUP 1 AUTOMOTIVE INC — 8-K",
+  "title": "VICI Properties L.P. — 高管/董事变动",
+  "time": "2026-09-22",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "VICI PROPERTIES INC. — 高管/董事变动",
+  "time": "2026-09-22",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DRCB] APPROVAL OF QUALIFICATIONS OF DIRECTORS AND RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTORS TAKING EFFECT (Change in Directors or ",
+  "time": "2026-09-22 20:59",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JINXUN RESOURCE] (1) UPDATE TO THE 2026 INTERIM PROFIT DISTRIBUTION PLAN - PROPOSED CAPITALISATION ISSUE AND PROPOSED DISTRIBUTION OF INTER",
+  "time": "2026-09-22 20:56",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lucid Diagnostics Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Beeline Holdings, Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UPBOUND GROUP, INC. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "iPower Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "COLUMBUS MCKINNON CORP — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "bioAffinity Technologies, Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Idaho Copper Corp — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "XFLH Capital Corp — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Compass Therapeutics, Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OPEN TEXT CORP — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Millrose Properties, Inc. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LandBridge Co LLC — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "i-80 Gold Corp. — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GENERAL ELECTRIC CO — 8-K",
+  "time": "2026-09-22",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "RTB Digital, Inc. — 8-K",
   "time": "2026-09-22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:37",
+  "title": "[GROWN UP GROUP] PROPOSED SHARE CONSOLIDATION AND PROPOSED CHANGE IN BOARD LOT SIZE (Capital Reorganisation / Change in Board Lot Size / Tra",
+  "time": "2026-09-22 21:07",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALPHA PRO H-10K] Notification Letter and Request Form to Non-registered Shareholder(s) (Other)",
-  "time": "2026-09-22 20:33",
+  "title": "[JLOGO HLDGS] APPOINTMENT OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-09-22 21:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:33",
+  "title": "[DRCB] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-22 21:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALPHA PRO H-10K] Notification Letter and Change Request Form to Registered Shareholder(s) (Other)",
-  "time": "2026-09-22 20:31",
+  "title": "[SCIENTECH] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-22 20:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:31",
+  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
+  "time": "2026-09-22 20:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:30",
+  "title": "[ALPHA PRO H-10K] Documents on Display",
+  "time": "2026-09-22 20:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF INTRA-CITY] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-22 20:30",
+  "title": "[JINXUN RESOURCE] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-22 20:48",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:29",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
+  "time": "2026-09-22 20:44",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALPHA PRO H-10K] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-22 20:28",
+  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
+  "time": "2026-09-22 20:44",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALPHA PRO H-10K] Form of Proxy for the Special General Meeting to be held on Friday, 9 October 2026",
-  "time": "2026-09-22 20:25",
+  "title": "[LUXSHARE ICT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-22 20:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:25",
+  "title": "[CH ENERGY ENG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-22 20:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ALPHA PRO H-10K] PROPOSED RIGHTS ISSUE ON THE BASIS OF ONE (1) RIGHTS SHARE FOR EVERY ONE (1) EXISTING SHARE HELD AT THE CLOSE OF BUSINESS ",
-  "time": "2026-09-22 20:23",
+  "title": "[VGT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-22 20:41",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-22 20:22",
+  "title": "[FB SSH HIGH DIV] Summary Information",
+  "time": "2026-09-22 20:41",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-22 20:21",
+  "title": "[VGT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-22 20:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHEUK NANG HOLD] List of Directors and their Role and Function (List of Directors and their Role and Function)",
-  "time": "2026-09-22 20:19",
+  "title": "[FB TW SEMICON] Summary Information (3076)",
+  "time": "2026-09-22 20:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YUANHENG GAS] SUPPLEMENTAL ANNOUNCEMENT TO THE AGM CIRCULAR IN RELATION TO THE PROPOSED RE-APPOINTMENT OF AUDITOR (Material Information aft",
-  "time": "2026-09-22 20:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LINMON MEDIA] VOLUNTARY ANNOUNCEMENT CHANGE IN SHAREHOLDING OF CONTROLLING SHAREHOLDERS (Change in Shareholding / Other - Miscellaneous)",
-  "time": "2026-09-22 20:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHENZHEN INVEST] ANNOUNCEMENT PURSUANT TO RULE 13.18 OF THE LISTING RULES (Loan Agreement with Specific Performance Covenant)",
-  "time": "2026-09-22 20:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JINXUN RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-22 20:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHEUK NANG HOLD] Resignation of Independent Non-Executive Director, Chairman of Audit Committee and Member of Remuneration Committee (Chang",
-  "time": "2026-09-22 20:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA 33 GROUP] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Results)",
-  "time": "2026-09-22 20:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI HK35 AMUNDI HK35-R] 3012 & 83012 News",
-  "time": "2026-09-22 20:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AMUNDI A50 AMUNDI A50-R] 2843 & 82843 News",
-  "time": "2026-09-22 20:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WONDERFUL SKY] RE-APPOINTMENT OF AUDITOR SUPPLEMENTAL ANNOUNCEMENT (Material Information after Issue of Circular)",
-  "time": "2026-09-22 20:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CICC HKD] 3071 News",
-  "time": "2026-09-22 20:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CICC USD A CICC USD-U] 9011 & 3011 News",
-  "time": "2026-09-22 20:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A PANDO BLKC] 3112 News",
-  "time": "2026-09-22 20:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A PANDO INNO] 3056 News",
-  "time": "2026-09-22 20:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-09-22 20:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SCHOLAR EDU] VOLUNTARY ANNOUNCEMENT - SHARE PURCHASE PURSUANT TO SHARE AWARD SCHEME (Other - Miscellaneous)",
-  "time": "2026-09-22 20:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO ETH] 3085 News",
-  "time": "2026-09-22 20:07",
+  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "time": "2026-09-22 20:39",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[江波龙] 关于为子公司提供担保的进展公告",
-  "time": "2026-09-22 20:32",
+  "title": "[中塑股份] 关于股票交易风险的提示性公告",
+  "time": "2026-09-22 20:38",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[江波龙] 关于子公司为其子公司提供担保的公告",
-  "time": "2026-09-22 20:30",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[君正股份] 北京市中伦（深圳）律师事务所关于北京君正集成电路股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-09-22 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[君正股份] H股公告-翌日披露报表",
-  "time": "2026-09-22 20:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[君正股份] 2026年第一次临时股东会决议公告",
-  "time": "2026-09-22 20:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[水羊股份] 湖南启元律师事务所关于水羊股份2026年第一次临时股东会的法律意见书",
-  "time": "2026-09-22 20:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[水羊股份] 2026年第一次临时股东会决议公告",
-  "time": "2026-09-22 20:08",
+  "title": "[春晖智控] 浙江春晖智能控制股份有限公司发行股份及支付现金购买资产暨关联交易报告书（草案）（修订稿）",
+  "time": "2026-09-22 19:46",
   "level": "🟢"
  }
 ]
