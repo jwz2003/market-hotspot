@@ -1,219 +1,366 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SKY BLUE 11] INSIDE INFORMATION PROFIT WARNING - REDUCTION OF LOSS (Profit Warning / Inside Information)",
-  "time": "2026-09-23 21:32",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PAYCHEX INC — 经营业绩",
+  "time": "2026-09-23",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHICMAX] POLL RESULTS OF THE 2026 FIRST EGM HELD ON 23 SEPTEMBER 2026; AMENDMENTS TO THE ARTICLES OF ASSOCIATION; AND APPOINTMENT OF EXECUT",
-  "time": "2026-09-23 21:28",
+  "title": "[BYTE META] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 30 JUNE 2026 (Final Results / Dividend or Distribution / Closure of Books or Chan",
+  "time": "2026-09-23 22:07",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
+  "title": "[EASTROC] CIRCULAR OF 2026 THIRD EXTRAORDINARY GENERAL MEETING (Re-election or Appointment of Director subject to Shareholders' Approval / O",
+  "time": "2026-09-23 21:48",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LUFAX] (1) FULFILMENT OF RESUMPTION GUIDANCE; AND (2) RESUMPTION OF TRADING (Inside Information / Resumption / Overseas Regulatory Announce",
+  "time": "2026-09-23 21:44",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cuentas Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Brightline Interactive, Inc./NV — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Greenland Technologies Holding Corp. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Glucotrack, Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PILGRIMS PRIDE CORP — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OPEN TEXT CORP — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Aurora Innovation, Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AMPCO PITTSBURGH CORP — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "PATRIOT NATIONAL BANCORP INC — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Game Your Game Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BioCardia, Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CHEETAH NET SUPPLY CHAIN SERVICE INC. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Caesars Entertainment, Inc. — 5.07",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "reAlpha Tech Corp. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Holley Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nauticus Robotics, Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CINTAS CORP — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Accelerant Holdings — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NOCERA, INC. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIMEI TECH] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-23 22:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BYTE META] (i) PROPOSED CHANGE OF COMPANY NAME; (ii) PROPOSED ADOPTION OF THE NEW AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATI",
+  "time": "2026-09-23 22:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAOGAI] ARTICLES OF ASSOCIATION",
+  "time": "2026-09-23 22:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EASTROC] ELECTION OF EMPLOYEE REPRESENTATIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-09-23 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAOGAI] (1) POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 23, 2026; AND (2) ABOLITION OF THE SUPERVISORY COMMITTEE (R",
+  "time": "2026-09-23 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EACON] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-23 22:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
+  "time": "2026-09-23 21:58",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EASTROC] FORM OF PROXY FOR 2026 THIRD EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-09-23 21:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
+  "time": "2026-09-23 21:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-23 21:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
+  "time": "2026-09-23 21:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-23 21:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3",
+  "time": "2026-09-23 21:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOFINTECH QUANT] CHANGE IN USE OF PROCEEDS FROM THE SUBSCRIPTION (Other - Business Update)",
+  "time": "2026-09-23 21:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-09-23 21:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EASTROC] NOTICE OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-23 21:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA RISUN GP] CONNECTED TRANSACTION AND DISCLOSEABLE TRANSACTION - CAPITAL INJECTION INTO XIANGFU NEW ENERGY (Connected Transaction / Dis",
+  "time": "2026-09-23 21:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
+  "time": "2026-09-23 21:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
+  "time": "2026-09-23 21:48",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEADS BIOLABS-B] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-23 21:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHICMAX] Articles of Association",
+  "time": "2026-09-23 21:43",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SENIOR MATERIAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-23 21:43",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZXZN QI-HOUSE] CHANGE IN BOARD LOT SIZE (Change in Board Lot Size)",
+  "time": "2026-09-23 21:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[Q TECH] VOLUNTARY ANNOUNCEMENT SHARES PURCHASE BY A DIRECTOR (Other - Miscellaneous)",
+  "time": "2026-09-23 21:39",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HOPE LIFE INT] MAJOR TRANSACTION AND CONNECTED TRANSACTION AT SUBSIDIARY LEVEL DELAY IN DESPATCH OF CIRCULAR AND AMENDMENTS OF TERMS IN REL",
+  "time": "2026-09-23 21:38",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SENIOR MATERIAL] POLL RESULTS OF THE 2026 SIXTH EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM)",
+  "time": "2026-09-23 21:38",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
   "title": "[TIGERMED] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-23 21:36",
+  "time": "2026-09-23 21:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LINGYI ITECH] ARTICLES OF ASSOCIATION",
-  "time": "2026-09-23 21:36",
+  "title": "[LINGYI ITECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-23 21:37",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-23 21:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHICMAX] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-23 21:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LINGYI ITECH] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON SEPTEMBER 23, 2026 (Results of EGM/SGM)",
-  "time": "2026-09-23 21:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-23 21:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GREAT WORLD] SUPPLEMENTAL ANNOUNCEMENT TO THE AGM CIRCULAR IN RELATION TO THE PROPOSED RE-APPOINTMENT OF AUDITOR. (Material Information aft",
-  "time": "2026-09-23 21:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-09-23 21:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOSS ZHIPIN-W] Next Day Disclosure Returns (Others)",
-  "time": "2026-09-23 21:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-23 21:28",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-23 21:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-09-23 21:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EASTROC] PROPOSED RE-ELECTION AND ELECTION OF DIRECTORS FOR THE FOURTH SESSION OF THE BOARD OF DIRECTORS (Change in Directors or of Importa",
-  "time": "2026-09-23 21:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KNT HOLDINGS] SUPPLEMENTAL ANNOUNCEMENT REGARDING RE-APPOINTMENT OF AUDITOR TO THE CIRCULAR DATED 30 JULY 2026 (Material Information after ",
-  "time": "2026-09-23 21:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-09-23 21:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-23 21:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DRCB] POLL RESULTS OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING HELD ON 23 SEPTEMBER 2026; APPOINTMENT OF THE EXECUTIVE DIRECTOR; AND A",
-  "time": "2026-09-23 21:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-23 21:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-09-23 21:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JUNSHI BIO] RESERVED GRANT OF A SHARE OPTIONS, FULFILMENT OF THE EXERCISE CONDITIONS FOR THE FIRST EXERCISE PERIOD AND CANCELLATION OF CERT",
-  "time": "2026-09-23 21:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-09-23 21:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB SSH HIGH DIV] Summary Information",
-  "time": "2026-09-23 21:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[V.S. INT'L] Notification Letter and Reply Form to Non-registered Shareholders (Other)",
-  "time": "2026-09-23 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KAFELAKU COFFEE] FURTHER EXTENSION OF LONG STOP DATE AND FURTHER REVISION OF PLACING PRICE IN RELATION TO PLACING OF NEW SHARES UNDER GENER",
-  "time": "2026-09-23 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB TW SEMICON] Summary Information (3076)",
-  "time": "2026-09-23 21:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LYGEND RESOURCE] INSIDE INFORMATION - ANNOUNCEMENT ON THE PROGRESS OF THE A SHARE OFFERING (Listing on Overseas Exchange or Securities Mark",
-  "time": "2026-09-23 21:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
-  "time": "2026-09-23 21:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[V.S. INT'L] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-09-23 21:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[OCEAN STAR TECH] SUPPLEMENTAL ANNOUNCEMENT PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-09-23 21:07",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[光库科技] 珠海光库科技股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金暨关联交易报告书（草案）修订说明的公告",
+  "time": "2026-09-23 20:16",
   "level": "🟢"
  }
 ]
