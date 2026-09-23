@@ -175,5 +175,14 @@
    "reason": "西藏自治区资金买入，成功率36.80%"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "symbol": "BTC",
+   "rate": 0.002
+  },
+  {
+   "symbol": "ETH",
+   "rate": 0.0092
+  }
+ ]
 }

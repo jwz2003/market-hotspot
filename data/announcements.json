@@ -1,170 +1,30 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANYU SEMI] Next Day Disclosure Return (Revised) (Share Buyback)",
-  "time": "2026-09-23 12:28",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Blackstone Inc. — 8-K",
+  "time": "2026-09-22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHERY AUTO] VOLUNTARY ANNOUNCEMENT CHANGE OF EXECUTIVE VICE PRESIDENT (Other - Miscellaneous)",
-  "time": "2026-09-23 12:23",
+  "title": "[FA SAMSUNG BTC] 3135 NEWS",
+  "time": "2026-09-23 13:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZTO EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-23 12:07",
+  "title": "[F SAMSUNG OIL] 3175 NEWS",
+  "time": "2026-09-23 13:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SFGLOB N2909-R SFGLOB N3109-R] Publication of Offering Circular - CNY5,000,000,000 1.75 per cent. Guaranteed Notes due 2029 and CNY5,000,00",
-  "time": "2026-09-23 12:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RUIHE DATA] DISCLOSEABLE TRANSACTION - COMPLETION OF SUBSCRIPTION FOR INTERNATIONAL OFFER SHARES IN THE INTERNATIONAL OFFERING OF LIGENT TE",
-  "time": "2026-09-23 12:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-23 12:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TANWAN] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-23 12:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CLP HOLDINGS] Date of Board Meeting (Date of Board Meeting)",
-  "time": "2026-09-23 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PPKSA G SUKUK PPKSA G SUKUK-U] 9478 , 3478 NEWS",
-  "time": "2026-09-23 11:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GEELY AUTO GEELY AUTO-R] Next Day Disclosure Return (Others)",
-  "time": "2026-09-23 11:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PP CGBOND PP CNUSDPROP PP ASIA IGUSD PP CNUSDPROP-U PP CGBOND HDG-U PP ASIA IGUSD-U PP CGBOND-U PP CGBOND-R PP CNUSDPROP-R] 2817, 9817, 828",
-  "time": "2026-09-23 11:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PREMIA VIET PREMIAEMASEAN PREMIA UST PREMIAASIATEC PREMIA UST-U PREMIA UST A-U PREMIAASIATEC-U PREMIA VIET-U PREMIAEMASEAN-U] 9810, 2810, 9",
-  "time": "2026-09-23 11:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A DOO PAYMENTS] 3412 news",
-  "time": "2026-09-23 11:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A DOO WEB3] 3426 news",
-  "time": "2026-09-23 11:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A DOO AI] 3413 news",
-  "time": "2026-09-23 11:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSJPUSINCOME] HANG SENG JPMORGAN US EQUITY PREMIUM INCOME ACTIVE ETF<03476> INFORMATION",
-  "time": "2026-09-23 11:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A SS BLOCKCHAIN] 3171 NEWS",
-  "time": "2026-09-23 11:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SAMSUNG SEMICON] 3132 NEWS",
-  "time": "2026-09-23 11:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SAMSUNG FANG SAMSUNG FANG-U] 2814, 9814 NEWS",
-  "time": "2026-09-23 11:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GD LAND] Notification Letter to Non-registered Shareholders and Request Form - Notice of Publication of 2026 Interim Report (Other)",
-  "time": "2026-09-23 10:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CG BS CNASEAN CG BS CNASEAN-U CG BS CNASEAN-R] 2805 & 9805 & 82805 News",
-  "time": "2026-09-23 10:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GD LAND] Notification Letter to Registered Shareholders and Reply Form - Notice of Publication of 2026 Interim Report (Other)",
-  "time": "2026-09-23 10:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GD LAND] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-23 10:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PHILLIP HKNEWEQ] Summary Information",
-  "time": "2026-09-23 10:42",
+  "title": "[EFUND GOLD MI EFUND DIGITAL EFUND DIGITAL-U EFUND GOLD MI-U EFUND GOLD MI-R EFUND DIGITAL-R] 2824 9824 82824 3434 9434 83434 Information",
+  "time": "2026-09-23 10:01",
   "level": "🟢"
  }
 ]
