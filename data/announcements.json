@@ -1,205 +1,44 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CENTRALCHINA MT] MAJOR TRANSACTION ACQUISITION OF 25% OF THE ISSUED SHARE CAPITAL OF THE TARGET COMPANY AND ISSUE OF CONSIDERATION SHARES U",
-  "time": "2026-09-23 22:53",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Ondas Inc. — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] (1) MAJOR TRANSACTION IN RELATION TO THE ACQUISITION OF THE 37.16% EQUITY INTERESTS IN SHENZHEN HANGSHENG ELECTRONICS CO., LTD.; (",
-  "time": "2026-09-23 22:51",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CULP INC — 5.07",
+  "time": "2026-09-23",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SAINT BELLA GP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-23 22:59",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Volkswagen Auto Lease Trust 2026-B — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC — 8-K",
+  "time": "2026-09-23",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Quanome Technologies, Inc. — 8-K",
+  "time": "2026-09-23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHIHO ENV] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-23 22:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UNISOUND] 2026 Interim Report (Interim/Half-Year Report)",
-  "time": "2026-09-23 22:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-23 22:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-09-23 22:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NANHUA FUTURES] CONNECTED TRANSACTION SUBSCRIPTION OF PRIVATE FUND UNITS (Connected Transaction)",
-  "time": "2026-09-23 22:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNSHINE OIL] SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE (Issue of Shares under a General Mandate / Placing)",
-  "time": "2026-09-23 22:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHIHO ENV] CHANGE OF EXECUTIVE DIRECTOR AND CHANGE IN COMPOSITION OF BOARD COMMITTEES (Change in Directors or of Important Executive Functi",
-  "time": "2026-09-23 22:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] Documents on Display",
-  "time": "2026-09-23 22:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XTALPI] GRANT OF SHARE OPTIONS AND RESTRICTED SHARE UNITS (Share Scheme)",
-  "time": "2026-09-23 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ST HLDGS] VOLUNTARY ANNOUNCEMENT - INCREASE IN SHAREHOLDING (Change in Shareholding)",
-  "time": "2026-09-23 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] PROXY FORM FOR THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING TO BE HELD ON OCTOBER 14, 2026",
-  "time": "2026-09-23 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARES ASIA] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-23 22:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-09-23 22:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARES ASIA] (1) RETIREMENT OF EXECUTIVE DIRECTOR; (2) REDESIGNATION OF DIRECTORS; (3) CHANGE OF CHAIRMAN, CHIEF EXECUTIVE OFFICER, AUTHORISE",
-  "time": "2026-09-23 22:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EDGE MEDICAL-B] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-23 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF HK] 3579 NEWS",
-  "time": "2026-09-23 22:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF CN A] 3509 NEWS",
-  "time": "2026-09-23 22:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP VIETNAM30] 3004 NEWS",
-  "time": "2026-09-23 22:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUA HONG GRACE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-23 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KAISA HEALTH] CHANGE OF COMPANY NAME, STOCK SHORT NAME, COMPANY WEBSITE AND COMPANY LOGOS (Change of Company Name / Change in Company Websi",
-  "time": "2026-09-23 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP MSCI A 50] 3003 NEWS",
-  "time": "2026-09-23 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BRETON] CHANGE OF JOINT COMPANY SECRETARY, AUTHORIZED REPRESENTATIVE AND PROCESS AGENT AND WAIVER FROM STRICT COMPLIANCE WITH RULES 3.28 AN",
-  "time": "2026-09-23 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIMU GROUP] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-09-23 22:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] ARTICLES OF ASSOCIATION",
-  "time": "2026-09-23 22:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP HSBIOTECH] 3174 NEWS",
-  "time": "2026-09-23 22:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GOFINTECH QUANT] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-23 22:37",
+  "title": "[GOFINTECH QUANT] MANDATE FOR POSSIBLE MAJOR TRANSACTION IN RESPECT OF PROPOSED PROJECT DEVELOPMENT AT HSIT PARK THROUGH PUBLIC TENDER (Majo",
+  "time": "2026-09-23 22:29",
   "level": "🟢"
  }
 ]
