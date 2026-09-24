@@ -1,80 +1,24 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Nutanix, Inc. — 高管/董事变动",
-  "time": "2026-09-24",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ARC Group Securities Acquisition I — 8-K",
-  "time": "2026-09-24",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Columbus Acquisition Corp/Cayman Islands — 8-K",
-  "time": "2026-09-24",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MasterBrand, Inc. — 高管/董事变动",
-  "time": "2026-09-24",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS HIGH DIV] HANG SENG HIGH DIVIDEND 30 INDEX ETF <03466> INFORMATION",
+  "time": "2026-09-24 22:28",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FINET GROUP] DISCLOSEABLE AND CONNECTED TRANSACTION ACQUISITION OF PROPERTY (Discloseable Transaction / Connected Transaction)",
-  "time": "2026-09-24 22:06",
+  "title": "[UMP] Final Dividend for the year ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-09-24 22:15",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[COFCO JOYCOME] PROPOSED MERGER WITH A DIRECT WHOLLY-OWNED SUBSIDIARY (Other - Miscellaneous / Closure of Books or Change of Book Closure Pe",
-  "time": "2026-09-24 21:56",
+  "title": "[UMP] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 30 JUNE 2026 (Final Results / Dividend or Distribution / Closure of Books or Change of ",
+  "time": "2026-09-24 22:12",
   "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[顺灏股份] 关于控股股东减持股份预披露的公告",
-  "time": "2026-09-24 22:00",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Capitol Federal Financial, Inc. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "RELIABILITY INC — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "BayFirst Financial Corp. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "BEACON TOPCO, INC. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
  },
  {
   "src": "SEC 8-K",
@@ -84,353 +28,206 @@
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EOG RESOURCES INC — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Big Digital Energy, Inc. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Infleqtion, Inc. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "RAVE RESTAURANT GROUP, INC. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MEDALLION FINANCIAL CORP — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SkyAI, Inc. — 5.07",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MARKETWISE, INC. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "New ERA Energy & Digital, Inc. — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "FULLER H B CO — 8-K",
-  "time": "2026-09-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Sky Quarry Inc. — 8-K",
-  "time": "2026-09-24",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
+  "time": "2026-09-24 22:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZJ INNOLIGHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-24 22:06",
+  "title": "[DAIDO GROUP] Notification Letter and Reply Form to Registered Shareholders - Notice of Publication of Corporate Communications (Other)",
+  "time": "2026-09-24 22:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZYBANK] DELAY IN DESPATCH OF CIRCULAR (Delay in Dispatch of Circular or other Document / Discloseable Transaction / Connected Transaction)",
-  "time": "2026-09-24 22:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RITAMIX] ANNOUNCEMENT FOR DISCLOSEABLE TRANSACTION IN RELATION TO INVESTMENTS IN THE MONEY MARKET FUND (Discloseable Transaction)",
-  "time": "2026-09-24 22:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEMESTRATEGY] GRANT OF RSUs PURSUANT TO THE 2025 RSU SCHEME (Share Scheme)",
-  "time": "2026-09-24 22:02",
+  "title": "[BOSATECH] ANNUAL RESULTS ANNOUNCEMENTS FOR THE YEAR ENDED 30 JUNE 2026 (Final Results / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-24 22:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
   "title": "[SINOPHARM TECH] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 30 JUNE 2026 (Final Results / Modified Report by Auditors)",
-  "time": "2026-09-24 22:02",
+  "time": "2026-09-24 22:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-09-24 22:02",
+  "title": "[OCEAN STAR TECH] (1) PROPOSED SHARE CONSOLIDATION AND (2) PROPOSED CHANGE IN BOARD LOT SIZE (Capital Reorganisation / Change in Board Lot S",
+  "time": "2026-09-24 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND MPF HK] 3579 NEWS",
-  "time": "2026-09-24 22:01",
+  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
+  "time": "2026-09-24 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DEEPZERO] FORM OF PROXY FOR USE BY SHAREHOLDERS AT THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (OR ANY ADJOURNMENT THEREOF) TO BE HELD AT",
-  "time": "2026-09-24 22:00",
+  "title": "[DAIDO GROUP] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-24 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 3431, 3473, 3469, 3",
-  "time": "2026-09-24 22:00",
+  "title": "[SD GOLD] SHANDONG GOLD MINING CO., LTD. ANNOUNCEMENT ON PROGRESS ON THE CONTROLLING SHAREHOLDER'S PERFORMANCE OF THE UNDERTAKINGS TO AVOID ",
+  "time": "2026-09-24 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GOFINTECH QUANT] CANCELLATION OF GRANT OF SHARE AWARDS AND RE-GRANT OF SHARE AWARDS PURSUANT TO SHARE AWARD SCHEME (Share Scheme)",
-  "time": "2026-09-24 22:00",
+  "title": "[SF INTRA-CITY] CONTINUING CONNECTED TRANSACTION UNDER THE 2026 UNMANNED VEHICLE LEASING FRAMEWORK AGREEMENT (Continuing Connected Transacti",
+  "time": "2026-09-24 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND MPF CN A] 3509 NEWS",
-  "time": "2026-09-24 21:59",
+  "title": "[CLARITY MEDICAL] INTERIM REPORT 2025/2026 (Interim/Half-Year Report)",
+  "time": "2026-09-24 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DEEPZERO] NOTICE OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-24 21:59",
+  "title": "[SD GOLD] INSIDE INFORMATION ANNOUNCEMENT ON ADJUSTMENT TO THE COMPANY'S PRODUCTION AND OPERATION PLAN FOR 2026 (Inside Information)",
+  "time": "2026-09-24 22:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP VIETNAM30] 3004 NEWS",
-  "time": "2026-09-24 21:57",
+  "title": "[CLARITY MEDICAL] Annual Report 2025 (Annual Report / Environmental, Social and Governance Information/Report)",
+  "time": "2026-09-24 22:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP MSCI A 50] 3003 NEWS",
-  "time": "2026-09-24 21:56",
+  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
+  "time": "2026-09-24 22:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP HSBIOTECH] 3174 NEWS",
-  "time": "2026-09-24 21:54",
+  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
+  "time": "2026-09-24 22:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DEEPZERO] PROPOSED SHARE SUBDIVISION AND CONSEQUENTIAL AMENDMENTS TO THE ARTICLES OF ASSOCIATION; AND NOTICE OF THE 2026 SECOND EXTRAORDINA",
-  "time": "2026-09-24 21:53",
+  "title": "[HS AINDTOPETF HS AINDTOPETF-R] HANG SENG CHINA A INDUSTRY TOP INDEX ETF <83128> INFORMATION",
+  "time": "2026-09-24 22:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-24 21:51",
+  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
+  "time": "2026-09-24 22:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-09-24 21:50",
+  "title": "[DRAGON RISE GP] POLL RESULTS OF THE 2026 ANNUAL GENERAL MEETING (Results of AGM)",
+  "time": "2026-09-24 22:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BILIBILI-W] RECORD DATE FOR EXTRAORDINARY GENERAL MEETING OF SHAREHOLDERS (Closure of Books or Change of Book Closure Period)",
-  "time": "2026-09-24 21:48",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-09-24 22:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA CRSC] ANNOUNCEMENT ON BID-WINNING OF IMPORTANT PROJECTS IN THE RAIL TRANSIT MARKET (Inside Information / Overseas Regulatory Announce",
-  "time": "2026-09-24 21:47",
+  "title": "[XIMEI RESOURCES] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-09-24 22:11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-24 21:45",
+  "title": "[PHILLIP HKNEWEQ] Summary Information",
+  "time": "2026-09-24 22:10",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
-  "time": "2026-09-24 21:45",
+  "title": "[HANG YICK HLDGS] ANNOUNCEMENT IN RELATION TO PRE-CONDITIONAL VOLUNTARY CASH PARTIAL OFFER AND RESUMPTION OF TRADING (Announcement by Offero",
+  "time": "2026-09-24 22:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DEEPZERO] Articles of Association",
-  "time": "2026-09-24 21:45",
+  "title": "[FB SSH HIGH DIV] Summary Information",
+  "time": "2026-09-24 22:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-24 21:44",
+  "title": "[FB TW SEMICON] Summary Information (3076)",
+  "time": "2026-09-24 22:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-09-24 21:44",
+  "title": "[XIMEI RESOURCES] CHANGE IN COMPOSITION OF NOMINATION COMMITTEE (Change of Nomination Committee Member / Change in Directors or of Important",
+  "time": "2026-09-24 22:08",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BOSIDENG] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-24 21:44",
+  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "time": "2026-09-24 22:08",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP STAR 50] 3109 NEWS",
-  "time": "2026-09-24 21:44",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-09-24 22:08",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA XLX FERT] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-24 21:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DEEPZERO] (1) PROPOSED SHARE SUBDIVISION; AND (2) AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Capital Reorganisation / Trading Arrangements ",
-  "time": "2026-09-24 21:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-24 21:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-09-24 21:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] ANNOUNCEMENT IN RELATION TO THE INVESTMENT IN THE CONSTRUCTION OF THE GLOBAL HEADQUARTERS AND THE NEW ENERGY, NEW MATERIALS AND",
-  "time": "2026-09-24 21:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEIJING AIRPORT] ANNOUNCEMENT CONTINUING CONNECTED TRANSACTIONS ENTRUSTED ASSETS MANAGEMENT AGREEMENT (Continuing Connected Transaction)",
-  "time": "2026-09-24 21:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-24 21:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PAK TAK INT'L] COMPLETION OF DISCLOSEABLE TRANSACTION IN RELATION TO DISPOSAL OF TARGET GROUP (Discloseable Transaction)",
-  "time": "2026-09-24 21:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUA MEDICINE-B] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM (Other)",
-  "time": "2026-09-24 21:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-09-24 21:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEIJING AIRPORT] ANNOUNCEMENT MATERIAL VARIATION TO THE TERMS OF CONTINUING CONNECTED TRANSACTIONS AND REVISION OF ANNUAL CAPS SUPPLEMENTAL",
-  "time": "2026-09-24 21:37",
+  "title": "[JOLIMARK] COMPLETION OF PLACING BY A CONTROLLING SHAREHOLDER (Change in Shareholding / Other - Miscellaneous)",
+  "time": "2026-09-24 22:07",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华瓷股份] 关于股票交易异常波动的公告",
-  "time": "2026-09-24 21:56",
+  "title": "[超研股份] 关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
+  "time": "2026-09-24 19:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[亿纬锂能] 第七届董事会第十四次会议决议公告",
+  "time": "2026-09-24 19:44",
   "level": "🟢"
  }
 ]
