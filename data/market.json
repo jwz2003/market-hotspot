@@ -66,15 +66,15 @@
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 64.23,
-  "pct": -0.23
+  "price": 64.17,
+  "pct": -0.33
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 94.37,
-  "pct": 2.4
+  "price": 94.1,
+  "pct": 2.11
  },
  {
   "cat": "commodity",
@@ -88,7 +88,7 @@
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.27,
-  "pct": 8.2
+  "pct": 8.24
  },
  {
   "cat": "forex",
@@ -101,8 +101,8 @@
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.77,
-  "pct": 0.32
+  "price": 158.8,
+  "pct": 0.34
  },
  {
   "cat": "forex",
