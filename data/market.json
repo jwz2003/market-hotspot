@@ -3,22 +3,22 @@
   "cat": "index",
   "symbol": "^GSPC",
   "name": "标普500",
-  "price": 7704.33,
-  "pct": -0.02
+  "price": 7706.61,
+  "pct": 0.01
  },
  {
   "cat": "index",
   "symbol": "^IXIC",
   "name": "纳斯达克",
-  "price": 26920.4,
-  "pct": -0.06
+  "price": 26931.28,
+  "pct": -0.02
  },
  {
   "cat": "index",
   "symbol": "^DJI",
   "name": "道琼斯",
-  "price": 51342.82,
-  "pct": -0.33
+  "price": 51374.27,
+  "pct": -0.27
  },
  {
   "cat": "index",
@@ -45,64 +45,64 @@
   "cat": "index",
   "symbol": "^SOX",
   "name": "费城半导体",
-  "price": 12463.61,
-  "pct": -0.56
+  "price": 12482.25,
+  "pct": -0.42
  },
  {
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.5,
-  "pct": 2.11
+  "price": 15.57,
+  "pct": 2.57
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4309.5,
-  "pct": -0.21
+  "price": 4309.6,
+  "pct": -0.2
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 64.29,
-  "pct": -0.14
+  "price": 64.2,
+  "pct": -0.27
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 94.34,
-  "pct": 2.37
+  "price": 95.29,
+  "pct": 3.4
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.79,
-  "pct": 1.68
+  "price": 6.78,
+  "pct": 1.59
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.37,
-  "pct": 11.54
+  "price": 3.38,
+  "pct": 11.97
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.27,
-  "pct": 0.17
+  "price": 101.28,
+  "pct": 0.18
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.86,
-  "pct": 0.89
+  "price": 158.88,
+  "pct": 0.9
  },
  {
   "cat": "forex",
