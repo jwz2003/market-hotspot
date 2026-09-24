@@ -17,29 +17,29 @@
   "cat": "index",
   "symbol": "^DJI",
   "name": "道琼斯",
-  "price": 51511.6,
+  "price": 51511.59,
   "pct": -1.03
  },
  {
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 24718.91,
-  "pct": -0.46
+  "price": 24713.88,
+  "pct": -0.48
  },
  {
   "cat": "index",
   "symbol": "000001.SS",
   "name": "上证指数",
-  "price": 3900.82,
-  "pct": -0.91
+  "price": 3900.0,
+  "pct": -0.93
  },
  {
   "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
-  "price": 13399.85,
-  "pct": -1.73
+  "price": 13399.34,
+  "pct": -1.74
  },
  {
   "cat": "index",
@@ -59,91 +59,91 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4322.2,
-  "pct": 0.09
+  "price": 4319.4,
+  "pct": -1.33
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 64.52,
-  "pct": 0.21
+  "price": 64.62,
+  "pct": -2.35
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 91.32,
-  "pct": -0.91
+  "price": 91.27,
+  "pct": -2.57
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.76,
-  "pct": 1.26
+  "pct": -1.21
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.18,
-  "pct": 5.29
+  "price": 3.19,
+  "pct": 1.96
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.09,
-  "pct": -0.0
+  "price": 101.14,
+  "pct": 0.67
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.09,
-  "pct": 0.4
+  "price": 158.0,
+  "pct": 0.34
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.14,
-  "pct": -0.58
+  "pct": -0.59
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 83978.42,
+  "price": 83892.0,
   "pct": -3.23
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2675.01,
-  "pct": -3.43
+  "price": 2674.86,
+  "pct": -3.46
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 114.69,
-  "pct": -3.78
+  "price": 114.74,
+  "pct": -3.52
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 769.68,
-  "pct": -3.27
+  "price": 767.05,
+  "pct": -3.44
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.49,
-  "pct": -7.36
+  "pct": -7.49
  }
 ]
