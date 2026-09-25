@@ -52,29 +52,29 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 14.79,
-  "pct": -5.62
+  "price": 14.87,
+  "pct": -5.11
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4326.4,
-  "pct": 0.66
+  "price": 4323.6,
+  "pct": 0.6
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 64.77,
-  "pct": 2.07
+  "price": 64.72,
+  "pct": 1.99
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 92.29,
-  "pct": -2.45
+  "price": 92.74,
+  "pct": -1.98
  },
  {
   "cat": "commodity",
@@ -87,21 +87,21 @@
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.23,
-  "pct": -1.97
+  "price": 3.24,
+  "pct": -1.82
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 100.99,
-  "pct": -0.29
+  "price": 101.02,
+  "pct": -0.26
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.25,
+  "price": 157.26,
   "pct": -0.98
  },
  {
