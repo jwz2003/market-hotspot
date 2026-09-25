@@ -2,8 +2,43 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
-  "time": "2026-09-25 07:17",
+  "title": "[ISHARES AXJ ISHARES AXJ-U ISHARES AXJ-R] 3010, 9010, 83010 NEWS",
+  "time": "2026-09-25 08:06",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES A50 ISHARES A50-R] 2823, 82823 NEWS",
+  "time": "2026-09-25 08:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARESCSI300 ISHARESHSI ISHARESHSI-U ISHARESCSI300-U ISHARESCSI300-R ISHARESHSI-R] 2846, 9846, 82846, 3115, 9115, 83115 NEWS",
+  "time": "2026-09-25 08:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] ANNOUNCEMENT - Daily Targeted ",
+  "time": "2026-09-25 07:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MAXWIN INT HLDG] Notice of publication to non-registered holders (Other)",
+  "time": "2026-09-25 07:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MAXWIN INT HLDG] Notice of publication to registered holders (Other)",
+  "time": "2026-09-25 07:46",
   "level": "🟢"
  }
 ]
