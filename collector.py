@@ -90,6 +90,11 @@ for cat, symbols in WATCH.items():
             # VIX 只在飙升时报警（下跌=风险偏好回升，非风险事件）
             if sym == "^VIX" and pct <= 0:
                 continue
+            # 行情已过期（休市/停更超 5h，如周末·长假）不再报警：
+            # 避免同一收盘数值每 6h 去重到期后重复触发（假期刷屏）
+            rmt = res["meta"].get("regularMarketTime")
+            if rmt and time.time() - rmt > 5 * 3600:
+                continue
             if abs(pct) >= THRESH[cat]:
                 lv = "🔴" if abs(pct) >= THRESH[cat] * 1.7 else "🟡"
                 add_alert(lv, "行情", f"{name} {'+' if pct>0 else ''}{pct:.2f}%",
