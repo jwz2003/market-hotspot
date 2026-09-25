@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 24523.5,
-  "pct": -0.29
+  "price": 24354.47,
+  "pct": -1.64
  },
  {
   "cat": "index",
@@ -59,56 +59,56 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4328.1,
-  "pct": 0.7
+  "price": 4323.1,
+  "pct": 0.58
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 64.45,
-  "pct": 0.11
+  "price": 64.22,
+  "pct": 1.19
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 93.29,
-  "pct": -1.4
+  "price": 93.2,
+  "pct": -1.49
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.76,
-  "pct": 0.67
+  "price": 6.75,
+  "pct": 0.42
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.27,
-  "pct": 8.07
+  "pct": -0.94
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.23,
-  "pct": -0.06
+  "price": 101.27,
+  "pct": -0.02
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.68,
-  "pct": 0.26
+  "price": 158.41,
+  "pct": 0.09
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.14,
-  "pct": -0.01
+  "pct": -0.0
  }
 ]
