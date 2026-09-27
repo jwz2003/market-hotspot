@@ -1,16 +1,9 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TESSON HOLDINGS] MAJOR TRANSACTION (1) THE ACQUISITION OF AND SUBSCRIPTION FOR SHARES OF THE HK TARGET COMPANY INVOLVING THE ALLOTMENT AND ",
-  "time": "2026-09-27 19:46",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RAFFLESINTERIOR] RESIGNATION OF AUDITOR AND CONTINUED SUSPENSION OF TRADING (Change in Auditors / Suspension)",
-  "time": "2026-09-27 19:58",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "METHODE ELECTRONICS INC — 8-K",
+  "time": "2026-09-25",
   "level": "🟢"
  }
 ]
