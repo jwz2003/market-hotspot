@@ -67,7 +67,7 @@
   "symbol": "SI=F",
   "name": "白银",
   "price": 64.8,
-  "pct": 1.24
+  "pct": 2.12
  },
  {
   "cat": "commodity",
@@ -81,14 +81,14 @@
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.77,
-  "pct": -0.34
+  "pct": 0.71
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.23,
-  "pct": -3.06
+  "pct": -2.18
  },
  {
   "cat": "forex",
