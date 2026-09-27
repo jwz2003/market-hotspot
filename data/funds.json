@@ -177,8 +177,12 @@
  ],
  "funding": [
   {
+   "symbol": "BTC",
+   "rate": 0.0021
+  },
+  {
    "symbol": "ETH",
-   "rate": 0.0
+   "rate": 0.01
   }
  ]
 }
