@@ -8030,5 +8030,29 @@
   "detail": "高危关键词命中",
   "value": null,
   "time": "2026-09-28 17:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "上证指数 -1.67%",
+  "detail": "现价 3823.6206，跌破波动阈值 1.5%",
+  "value": -1.6653083674163893,
+  "time": "2026-09-28 17:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "黄金 -3.28%",
+  "detail": "现价 4179.3，跌破波动阈值 2.0%",
+  "value": -3.2838189440732,
+  "time": "2026-09-28 17:37"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[HS ALOWCARBON HS ALOWCARBON-R] Announcement and Notice of T",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-28 17:37"
  }
 ]
