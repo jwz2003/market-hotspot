@@ -7950,5 +7950,21 @@
   "detail": "现价 4229.7，跌破波动阈值 2.0%",
   "value": -2.1174672744682432,
   "time": "2026-09-28 11:07"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "WTI原油 -2.33%",
+  "detail": "现价 93.9，跌破波动阈值 2.0%",
+  "value": -2.3253323475842778,
+  "time": "2026-09-28 12:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[YIDU TECH] VOLUNTARY ANNOUNCEMENT- SUCCESSFUL BIDDING FOR T",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-09-28 12:07"
  }
 ]
