@@ -2,8 +2,29 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[F GX OIL] 3097 NEWS",
-  "time": "2026-09-28 14:54",
+  "title": "[PRU] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-28 15:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREAT CHI HLDGS] Notification Letter and Request Form to Non-registered Shareholders (Other)",
+  "time": "2026-09-28 15:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREAT CHI HLDGS] Notification Letter and Change Request Form to Registered Shareholders (Other)",
+  "time": "2026-09-28 15:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREAT CHI HLDGS] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-28 15:12",
   "level": "🟢"
  }
 ]
