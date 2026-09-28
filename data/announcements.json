@@ -1,289 +1,373 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Teladoc Health, Inc. — 高管/董事变动",
-  "time": "2026-09-25",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PW MEDTECH] INSIDE INFORMATION - THE BANKRUPTCY LIQUIDATION PROCEEDINGS AND ASSET REALISATION PLAN OF A SUBSIDIARY (Inside Information / Ot",
+  "time": "2026-09-28 20:18",
+  "level": "🔴"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHEUK NANG HOLD] Positive Profit Alert (Profit Warning)",
+  "time": "2026-09-28 20:33",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CF PHARMTECH] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-09-28 19:57",
+  "title": "[5100 XIZANG] COMPLETION OF DISCLOSEABLE TRANSACTION - ACQUISITION OF THE TARGET COMPANY INVOLVING ISSUE OF CONSIDERATION SHARES UNDER GENER",
+  "time": "2026-09-28 20:09",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ACCEL GROUP] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 28 SEPTEMBER 2026 (Results of AGM / Dividend or Distribution)",
-  "time": "2026-09-28 19:46",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Equitable Holdings, Inc. — 8-K",
-  "time": "2026-09-25",
+  "title": "[CENTURY EN INTL] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 28 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-28 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AUSTASIA GROUP] PROXY FORM FOR EXTRAORDINARY GENERAL MEETING TO BE HELD ON 4 NOVEMBER 2026",
-  "time": "2026-09-28 20:04",
+  "title": "[HTPCG HKKRSEMI] 3569 NEWS",
+  "time": "2026-09-28 20:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SY HOLDINGS] GRANT OF SHARE OPTIONS AND RESTRICTED SHARE AWARDS (Share Scheme)",
-  "time": "2026-09-28 20:02",
+  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-28 20:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KAISA PROSPER] Notification Letter and Reply Form to Non-registered Shareholders - Notice of Publication of Interim Report 2026 (Other)",
-  "time": "2026-09-28 20:01",
+  "title": "[POLYFAIR HLDGS] INSIDE INFORMATION UPDATE ON THE WINDING-UP PETITION (Inside Information / Winding Up and Liquidation of Issuer, its Holdin",
+  "time": "2026-09-28 20:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HEPHAESTUS HLDG] COMPANY INFORMATION SHEET",
-  "time": "2026-09-28 20:01",
+  "title": "[CNBM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-09-28 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KAISA PROSPER] Notification Letter and Reply Form to Registered Shareholders - Notice of Publication of Interim Report 2026 (Other)",
-  "time": "2026-09-28 20:00",
+  "title": "[RICI HEALTH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-09-28 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KAISA PROSPER] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-28 20:00",
+  "title": "[ASYMCHEM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-09-28 20:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HEPHAESTUS HLDG] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-28 20:00",
+  "title": "[SISRAM MED] CONTINUING CONNECTED TRANSACTIONS EXTENSION OF THE NEW SUBLICENSE AGREEMENT AND THE NEW PROMOTIONAL SERVICES AGREEMENTS (Contin",
+  "time": "2026-09-28 20:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HEPHAESTUS HLDG] (1) RESIGNATION OF EXECUTIVE DIRECTOR; (2) REDESIGNATION OF DIRECTOR AND CHANGE OF AUTHORISED REPRESENTATIVE; (3) APPOINTM",
-  "time": "2026-09-28 19:58",
+  "title": "[KANGQIAO SER] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-28 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[1957 & CO.] DISCLOSEABLE TRANSACTION IN RELATION TO RENEWAL OF TENANCY AGREEMENT FOR AN EXISTING JAPANESE CUISINE RESTAURANT IN ONE PEKING ",
-  "time": "2026-09-28 19:57",
+  "title": "[LEAPMOTOR] CONTINUING CONNECTED TRANSACTIONS VEHICLE SALES AND SERVICES FRAMEWORK AGREEMENT (Continuing Connected Transaction)",
+  "time": "2026-09-28 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM DIGI GOLD CAM DIGI GOLD-U CAM DIGI GOLD-R] E_SCB_summ_CAMCDGFETF_20260928.xlsx",
-  "time": "2026-09-28 19:57",
+  "title": "[CHINA HK POWER] FURTHER EXTENSION OF COMPLETION DATE IN RELATION TO SUBSCRIPTION OF NEW SHARES UNDER GENERAL MANDATE (Issue of Shares under",
+  "time": "2026-09-28 20:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AUSTASIA GROUP] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-09-28 19:57",
+  "title": "[GIGADEVICE] PROXY FORM FOR THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-09-28 20:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AUSTASIA GROUP] (1) DISCLOSEABLE TRANSACTION AND CONNECTED TRANSACTION; AND (2) NOTICE OF EXTRAORDINARY GENERAL MEETING (Connected Transact",
-  "time": "2026-09-28 19:54",
+  "title": "[DONGFANG ELEC] 2026 INTERIM REPORT (Interim/Half-Year Report)",
+  "time": "2026-09-28 20:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DUALITYBIO-B] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-28 19:52",
+  "title": "[ASYMCHEM] Form of Proxy for the Fourth Extraordinary General Meeting of 2026 (Applicable to H Shareholders)",
+  "time": "2026-09-28 20:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NTES] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-09-28 19:52",
+  "title": "[GIGADEVICE] NOTICE OF THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-09-28 20:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[E-HOUSE ENT] NOTICE OF RESULT OF THE HK SCHEME SANCTION HEARING AND THE HK SCHEME EFFECTIVE DATE (Inside Information)",
-  "time": "2026-09-28 19:50",
+  "title": "[AUSTASIA GROUP] Notification Letter and Reply Form to Non-registered Holders of Securities (Other)",
+  "time": "2026-09-28 20:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AUSTASIA GROUP] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-28 19:48",
+  "title": "[GIGADEVICE] CIRCULAR OF THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING (Amendment of Constitutional Documents / Other)",
+  "time": "2026-09-28 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FRONTIER SER] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
-  "time": "2026-09-28 19:48",
+  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_28092026_EN",
+  "time": "2026-09-28 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[K2 F&B] Notification Letter and Request Form to Non-Registered Shareholders (Other)",
-  "time": "2026-09-28 19:48",
+  "title": "[ASYMCHEM] NOTICE OF THE FOURTH EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period",
+  "time": "2026-09-28 20:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SINO GAS HLDGS] NOTIFICATION LETTER AND REQUEST FORM TO NON-REGISTERED SHAREHOLDERS - NOTICE OF PUBLICATION OF 2026 INTERIM REPORT ON WEBSI",
-  "time": "2026-09-28 19:47",
+  "title": "[GUOTAI JUNAN I] JOINT ANNOUNCEMENT MONTHLY UPDATE IN RELATION TO (1) PRE-CONDITIONAL PROPOSAL FOR THE PRIVATISATION OF GUOTAI JUNAN INTERNA",
+  "time": "2026-09-28 20:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
-  "time": "2026-09-28 19:46",
+  "title": "[ARTINI HLDG] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 28 SEPTEMBER 2026 (Results of AGM)",
+  "time": "2026-09-28 20:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FRONTIER SER] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-09-28 19:46",
+  "title": "[AUSTASIA GROUP] Notification Letter and Reply Form to Registered Holders of Securities (Other)",
+  "time": "2026-09-28 20:19",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SINO GAS HLDGS] NOTIFICATION LETTER AND CHANGE REQUEST FORM TO REGISTERED SHAREHOLDERS - NOTICE OF PUBLICATION OF 2026 INTERIM REPORT ON WE",
-  "time": "2026-09-28 19:46",
+  "title": "[BOS HKKRSEMI] Stock Code : 3516 Information",
+  "time": "2026-09-28 20:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WELLCELL HOLD] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-09-28 19:45",
+  "title": "[ASYMCHEM] CIRCULAR FOR THE FOURTH EXTRAORDINARY GENERAL MEETING OF 2026 (Amendment of Constitutional Documents / Other)",
+  "time": "2026-09-28 20:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[K2 F&B] Notification Letter and Request Form to Registered Shareholders (Other)",
-  "time": "2026-09-28 19:45",
+  "title": "[ZJ INNOLIGHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-28 20:16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUAQIN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-28 19:44",
+  "title": "[INTELLIMARK AI] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 30 JUNE 2026 (Final Results)",
+  "time": "2026-09-28 20:16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WELLCELL HOLD] RESIGNATION OF DIRECTORS; APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR; CHANGE IN COMPOSITION OF BOARD COMMITTEES; AND ",
-  "time": "2026-09-28 19:43",
+  "title": "[AUSTASIA GROUP] Documents on Display",
+  "time": "2026-09-28 20:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SINO GAS HLDGS] 2026 INTERIM REPORT (Interim/Half-Year Report)",
-  "time": "2026-09-28 19:43",
+  "title": "[PA GOODDOCTOR] RENEWAL OF CONTINUING CONNECTED TRANSACTIONS, MAJOR TRANSACTION (Continuing Connected Transaction / Major Transaction)",
+  "time": "2026-09-28 20:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[K2 F&B] INTERIM REPORT 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-28 19:42",
+  "title": "[XIN POINT HOLD] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-28 20:11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FRONTIER SER] Interim Report 2026 (Interim/Half-Year Report)",
-  "time": "2026-09-28 19:40",
+  "title": "[5100 XIZANG] Next Day Disclosure Return (Others)",
+  "time": "2026-09-28 20:10",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JF SMARTINVEST] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-28 19:40",
+  "title": "[ASYMCHEM] PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
+  "time": "2026-09-28 20:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KEEP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-09-28 19:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUAQIN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-28 19:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA RISUN GP] REVISION OF ANNUAL CAPS FOR THE CONTINUING CONNECTED TRANSACTIONS UNDER THE PROJECT SERVICES FRAMEWORK AGREEMENT AND THE IN",
-  "time": "2026-09-28 19:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAIER SMARTHOME] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-09-28 19:39",
+  "title": "[GIGADEVICE] CHANGE IN REGISTERED CAPITAL OF THE COMPANY AND PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Amendment of Constitutional",
+  "time": "2026-09-28 20:09",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[君正股份] H股公告-2026中期报告",
-  "time": "2026-09-28 20:00",
+  "title": "[数字认证] 2026年第二次临时股东会决议公告",
+  "time": "2026-09-28 20:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中一科技] 关于为子公司提供担保的进展公告",
-  "time": "2026-09-28 19:52",
+  "title": "[数字认证] 关于聘任公司高级管理人员及证券事务代表的公告",
+  "time": "2026-09-28 20:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[四方达] 北京德恒（郑州）律师事务所关于河南四方达超硬材料股份有限公司2026年第二次临时股东会的法律意见",
-  "time": "2026-09-28 19:32",
+  "title": "[数字认证] 关于聘任公司高级管理人员及证券事务代表的公告",
+  "time": "2026-09-28 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[数字认证] 关于完成董事会换届选举的公告",
+  "time": "2026-09-28 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[数字认证] 第六届董事会第一次会议决议公告",
+  "time": "2026-09-28 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[数字认证] 2026年第二次临时股东会法律意见书",
+  "time": "2026-09-28 20:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[因赛集团] 广发证券关于因赛集团归还闲置募集资金及继续使用部分闲置募集资金暂时补充流动资金的核查意见",
+  "time": "2026-09-28 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[因赛集团] 第四届董事会第十二次会议决议公告",
+  "time": "2026-09-28 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[因赛集团] 关于向银行等金融机构申请综合授信额度的公告",
+  "time": "2026-09-28 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[因赛集团] 关于归还闲置募集资金及继续使用部分闲置募集资金暂时补充流动资金的公告",
+  "time": "2026-09-28 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[因赛集团] 关于使用部分闲置自有资金进行委托理财的公告",
+  "time": "2026-09-28 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 广东信达律师事务所关于广和通2026年A股限制性股票激励计划调整及授予事项的法律意见书",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 关于公司2026年A股限制性股票激励计划调整事项及授予激励对象名单（授予日）的核查意见",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 关于调整2026年A股限制性股票激励计划激励对象名单、授予数量并向激励对象授予限制性股票的公告",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 广东信达律师事务所关于深圳市广和通无线股份有限公司2026年第三次临时股东会法律意见书",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 2026年第三次临时股东会决议公告",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 第四届董事会第三十二次会议决议公告",
+  "time": "2026-09-28 20:07",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 关于2026年A股限制性股票激励计划内幕信息知情人及激励对象买卖公司股票的自查报告",
+  "time": "2026-09-28 20:07",
   "level": "🟢"
  }
 ]
