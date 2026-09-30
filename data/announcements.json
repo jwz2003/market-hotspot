@@ -1,317 +1,79 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 东洲评估关于公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复",
-  "time": "2026-09-30 08:11",
-  "level": "🔴"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 关于深圳证券交易所《关于深圳市英唐智能控制股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》的回复",
-  "time": "2026-09-30 08:11",
-  "level": "🔴"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 浙商证券关于深圳证券交易所《关于深圳市英唐智能控制股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》的回复之核查意见",
-  "time": "2026-09-30 08:11",
-  "level": "🔴"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 北方亚事《关于深圳市英唐智能控制股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》资产评估相关问题回复之核查意见",
-  "time": "2026-09-30 08:11",
-  "level": "🔴"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CITIC] Dividend Currency Election Form for the Interim Dividend for the year ending 31 December 2026 (Other)",
-  "time": "2026-09-30 08:28",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 拟发行股份及支付现金收购深圳欧创芯半导体有限公司股权所涉及的深圳欧创芯半导体有限公司股东全部权益价值资产评估报告",
-  "time": "2026-09-30 08:12",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP NASDAQ100] 3034 NEWS",
-  "time": "2026-09-30 08:34",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TruGolf Holdings, Inc. — 8-K",
+  "time": "2026-09-29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2CSOPNASDAQ] 7266 NEWS",
-  "time": "2026-09-30 08:33",
+  "title": "[SOMERLEY CAP] EXCHANGE NOTICE - TRADING HALT (Trading Halt)",
+  "time": "2026-09-30 08:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2CSOPGOLD] 7299 NEWS",
-  "time": "2026-09-30 08:33",
+  "title": "[CSOP HKJPCF] 3535 NEWS",
+  "time": "2026-09-30 08:51",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS S&P500 HS S&P500-U] HANG SENG S&P 500 INDEX ETF<09195> INFORMATION",
-  "time": "2026-09-30 08:30",
+  "title": "[CSOP UST20] 3433 NEWS",
+  "time": "2026-09-30 08:49",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSCMS 1-3Y UST] Hang Seng CMS Bloomberg US Treasury 1-3 Year Index ETF< 03436> INFORMATION",
-  "time": "2026-09-30 08:29",
+  "title": "[CSOP SAUDI FA CSOP BTC FA CSOP ETH ICBCCSOPCHINA CSOP EWSELECT CSOP HKUSTECH CSOP MAG7] 3167, 3066, 3068, 3454,2830, 3442, 3441 NEWS",
+  "time": "2026-09-30 08:48",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSCMS 7-10Y UST] Hang Seng CMS Bloomberg US Treasury 7-10 Year Index ETF<03435> INFORMATION",
-  "time": "2026-09-30 08:28",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] 7788, 7388, 7766, 7366,7777, 7",
+  "time": "2026-09-30 08:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS AINDTOPETF HS S&P500 HS JAPAN TPX100 HSCMS 7-10Y UST HSCMS 1-3Y UST HSAI ETF HS HK EQUITY A HSJPUSINCOME A HSCEICC A HSTECHCC HS S&P500-",
-  "time": "2026-09-30 08:27",
+  "title": "[FI CSOP BTC FI2CSOPNASDAQ] 7568, 7376 NEWS",
+  "time": "2026-09-30 08:43",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ISHARESCGB ISHARESCGB-U ISHARESCGB-R] 82829, 9829, 2829 NEWS",
-  "time": "2026-09-30 08:25",
+  "title": "[ABF HK IDX ETF] ABF HONG KONG BOND INDEX FUND (STOCK CODE : 2819) INFORMATION",
+  "time": "2026-09-30 08:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ISHARES CHINA ISHARESHSTECH ISHARESHSTECH-U ISHARES CHINA-U] 3067, 9067, 2801, 9801 NEWS",
-  "time": "2026-09-30 08:23",
+  "title": "[TRIO IND ELEC] EXCHANGE NOTICE - TRADING HALT (Trading Halt)",
+  "time": "2026-09-30 08:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] ANNOUNCEMENT - Daily Targeted ",
-  "time": "2026-09-30 08:22",
+  "title": "[JINCHUAN INTL] EXCHANGE NOTICE - RESUMPTION OF TRADING (Resumption)",
+  "time": "2026-09-30 08:42",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JY GAS] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-09-30 08:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ISHARESND100 ISHARES INDIA ISHARESMSCITW ISHARESMSCITW-U ISHARESND100-U ISHARES INDIA-U] 9074, 3074, 9834, 2834, 2836, 9836 NEWS",
-  "time": "2026-09-30 08:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JY GAS] RESIGNATION OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ISHARES AXJ ISHARES AXJ-U ISHARES AXJ-R] 3010, 9010, 83010 NEWS",
-  "time": "2026-09-30 08:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 国信证券关于上海雅创电子集团股份有限公司发行股份及支付现金购买资产并募集配套资金项目之变更签字评估师之核查意见",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 关于发行股份及支付现金购买资产并募集配套资金项目变更签字评估师的公告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 雅创电子发行股份及支付现金购买资产并募集配套资金报告书（草案）修订情况的说明",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 国信证券关于雅创电子发行股份及支付现金购买资产并募集配套资金之独立财务顾问报告（修订稿）",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 深圳市怡海能达有限公司股东全部权益价值资产评估报告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 深圳市怡海能达有限公司审计报告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 上海雅创电子集团股份有限公司  审阅报告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 上海市广发律师事务所关于上海雅创电子集团股份有限公司发行股份及支付现金购买资产并募集配套资金的补充法律意见（三）",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 深圳欧创芯半导体有限公司审计报告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 雅创电子发行股份及支付现金购买资产并募集配套资金报告书（草案）（修订稿）",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 雅创电子发行股份及支付现金购买资产并募集配套资金报告书（草案）摘要（修订稿）",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[雅创电子] 第三届董事会第十二次会议决议的公告",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[广合科技] H股公告-建议采纳A股激励计划及H股激励计划",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[先导智能] H股公告-翌日披露报表",
-  "time": "2026-09-30 08:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 发行股份及支付现金购买资产并募集配套资金暨关联交易报告书(草案)修订说明的公告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 关于本次交易所涉评估报告加期的公告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）摘要（修订稿）",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）（修订稿）",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 浙商证券关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告（修订稿）",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 上海奥简微评估报告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 光隆集成评估报告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 北京国枫关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易的补充法律意见书之四",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 上海奥简微审计报告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 审阅报告",
-  "time": "2026-09-30 08:11",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英唐智控] 光隆集成审计报告",
-  "time": "2026-09-30 08:11",
+  "title": "[MAOYE INT'L] EXCHANGE NOTICE - RESUMPTION OF TRADING (Resumption)",
+  "time": "2026-09-30 08:42",
   "level": "🟢"
  }
 ]
