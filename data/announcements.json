@@ -1,9 +1,275 @@
 [
  {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科信技术] 关于全资子公司拟签署租赁合同的公告",
+  "time": "2026-09-30 15:55",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇川技术] 关于第七期股权激励计划首次授予部分股票期权注销完成的公告",
+  "time": "2026-09-30 15:52",
+  "level": "🟡"
+ },
+ {
   "src": "HKEX",
   "market": "港股",
-  "title": "[F GX OIL] 3097 NEWS",
-  "time": "2026-09-30 15:28",
+  "title": "[NCI] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-09-30 16:07",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA 33 GROUP] INTERIM REPORT 2026 (Interim/Half-Year Report)",
+  "time": "2026-09-30 16:07",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EB SECURITIES] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-09-30 16:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM HKUS CF CAM HKUS CF-U CAM HKUS CF-R] Stock Code: 3520, 41520, 83520 Information",
+  "time": "2026-09-30 16:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA AEROSPACE] Monthly Return of Equity Issuer on Movements in Securities",
+  "time": "2026-09-30 16:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GF SEC] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-09-30 16:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CC SECURITIES] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-09-30 15:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOER POWER] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[国安达] 关于向金融机构申请综合授信额度及担保事项的进展公告",
+  "time": "2026-09-30 16:04",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[超捷股份] 超捷紧固系统（上海）股份有限公司关于成都新月业绩补偿暨重大诉讼的进展公告",
+  "time": "2026-09-30 16:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[佳讯飞鸿] 关于控股股东、实际控制人增加一致行动人及一致行动人之间内部转让股份计划完成的公告",
+  "time": "2026-09-30 16:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华伍股份] 关于子公司芜湖市金贸流体科技股份有限公司为孙公司芜湖市金诚阀门管件有限公司提供担保的进展公告",
+  "time": "2026-09-30 16:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[致尚科技] 关于签订合作备忘录的公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇信科技] 关于选举董事长、聘任总经理的公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇信科技] 关于公司董事长兼总经理洪卫东先生逝世的公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[电连技术] 关于合伙企业变更经营期限暨重新签订合伙协议的进展公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[舒泰神] 关于完成工商变更登记的公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇信科技] 第四届董事会第十六次会议决议公告",
+  "time": "2026-09-30 15:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科信技术] 关于变更公司财务总监的公告",
+  "time": "2026-09-30 15:55",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科信技术] 第五届董事会2026年第四次会议决议公告",
+  "time": "2026-09-30 15:55",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[鑫磊股份] 中泰证券股份有限公司关于鑫磊压缩机股份有限公司调整部分募集资金投资项目内部结构的核查意见",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[鑫磊股份] 第三届董事会第三十二次会议决议公告",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[朗科科技] 关于使用部分闲置募集资金及超募资金进行现金管理的进展公告",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[润禾材料] 润禾材料关于变更持续督导保荐代表人的公告",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[国投智能] 关于减资退出参股公司工商变更登记完成的公告",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[鑫磊股份] 关于调整部分募集资金投资项目内部结构的公告",
+  "time": "2026-09-30 15:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[君逸数码] 关于新增募集资金专户并签订募集资金三方监管协议的公告",
+  "time": "2026-09-30 15:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[嘉戎技术] 关于因申报文件财务资料更新向深圳证券交易所申请中止审核发行股份购买资产并募集配套资金暨关联交易事项的公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广和通] 关于注销2026年A股限制性股票激励计划剩余库存股份及减少注册资本通知债权人的公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[恒帅股份] 关于使用部分闲置募集资金进行现金管理到期赎回的进展公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[贝仕达克] 关于公司高级管理人员辞职的公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[卡倍亿] 关于为全资子公司银行授信提供担保的进展公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[蓝盾光电] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[海泰科] 关于设立全资子公司并完成工商注册登记的公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[启迪设计] 关于累计诉讼、仲裁情况的公告",
+  "time": "2026-09-30 15:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[蠡湖股份] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-09-30 15:48",
   "level": "🟢"
  }
 ]
