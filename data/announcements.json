@@ -1,212 +1,135 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Flutter Entertainment plc — 高管/董事变动",
-  "time": "2026-10-01",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Creatd, Inc. — 重大协议",
-  "time": "2026-09-30",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHEUK NANG HOLD] Cash Dividend Announcement for Equity Issuer (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-01 18:35",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHEUK NANG HOLD] 2026 Final Results Announcement for the year ended 30 June 2026 (Dividend or Distribution / Final Results / Closure of Boo",
-  "time": "2026-10-01 18:08",
+  "title": "[CHEUK NANG HOLD] Positive Profit Alert (Profit Warning / Inside Information)",
+  "time": "2026-10-01 18:12",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YANKUANG ENERGY] DISCLOSEABLE TRANSACTION YANCOAL AUSTRALIA SUCCESSFULLY COMPLETED ACQUISITION OF 80% INTEREST IN THE KESTREL COAL MINE (Di",
-  "time": "2026-10-01 18:03",
+  "title": "[YANCOAL AUS] Yancoal successfully completes the acquisition of an 80% interest in the Kestrel Coal Mine (Other - Business Update)",
+  "time": "2026-10-01 18:10",
   "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Magnolia Oil & Gas Corp — 8-K",
-  "time": "2026-10-01",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Lyft, Inc. — RegFD披露",
-  "time": "2026-10-01",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "INSEEGO CORP. — 8-K",
-  "time": "2026-10-01",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Vivos Therapeutics, Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Zoned Properties, Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SHF Holdings, Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Brookfield Asset Management Ltd. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Clear Channel Outdoor Holdings, Inc. — RegFD披露",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Sanara MedTech Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NEWS CORP — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "OPEN TEXT CORP — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "LFTD PARTNERS INC. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Sagimet Biosciences Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SunCoke Energy, Inc. — 8-K",
-  "time": "2026-09-30",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Neptune Insurance Holdings Inc. — 8-K",
-  "time": "2026-09-30",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SKYFAME REALTY SKYFAME B3311 SKYFAME B3311B SKYFAME B3111B SKYFAME B3211 SKYFAME B3111] (1)QUARTERLY UPDATE ON RESUMPTION PROGRESS; (2)INSI",
+  "time": "2026-10-01 18:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHENGYE INT'L] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-01 18:08",
+  "title": "[CHIHO ENV] FURTHER POSTPONEMENT OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-01 18:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-01 18:07",
+  "title": "[CENTURY GP-NEW] Next Day Disclosure Return (Others)",
+  "time": "2026-10-01 18:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VOYAH AUTO] VOLUNTARY ANNOUNCEMENT SEPTEMBER 2026 DELIVERY UPDATE (Other - Business Update)",
-  "time": "2026-10-01 18:07",
+  "title": "[BYD COMPANY BYD COMPANY-R] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-01 18:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
-  "time": "2026-10-01 18:07",
+  "title": "[SILVER GRANT] UPDATE IN RELATION TO DISCLAIMER OF OPINION IN THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Other - Miscellaneous)",
+  "time": "2026-10-01 18:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TAIHE M-FIN] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2024 (Final Results / Modified Report by Auditors)",
-  "time": "2026-10-01 18:06",
+  "title": "[TAIHE M-FIN] INSIDE INFORMATION SIXTH QUARTERLY UPDATE ON RESUMPTION PROGRESS (Inside Information / Suspension)",
+  "time": "2026-10-01 18:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YANKUANG ENERGY] Monthly Return",
-  "time": "2026-10-01 18:05",
+  "title": "[BYD COMPANY BYD COMPANY-R] VOLUNTARY ANNOUNCEMENT PRODUCTION AND SALES VOLUME FOR SEPTEMBER 2026 (Other - Business Update)",
+  "time": "2026-10-01 18:16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PHANCY] VOLUNTARY ANNOUNCEMENT TERMINATION OF SUBSCRIPTION FOR NEW SHARES OF HUANXI MEDIA (Other - Business Update)",
-  "time": "2026-10-01 18:05",
+  "title": "[QINGDA ORI-500] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-01 18:15",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SING LEE] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-10-01 18:04",
+  "title": "[TAIHE M-FIN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Interim Results)",
+  "time": "2026-10-01 18:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEELY AUTO GEELY AUTO-R] Monthly return for the month ended 30/9/2026",
-  "time": "2026-10-01 18:03",
+  "title": "[SILVER GRANT] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-01 18:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEELY AUTO GEELY AUTO-R] UNAUDITED SALES VOLUME IN SEPTEMBER 2026 (Other - Trading Update)",
-  "time": "2026-10-01 18:02",
+  "title": "[GWMOTOR GWMOTOR-R] Monthly Returns",
+  "time": "2026-10-01 18:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CZBANK] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-01 18:01",
+  "title": "[LI AUTO-W] VOLUNTARY ANNOUNCEMENT SEPTEMBER 2026 DELIVERY UPDATE (Other - Business Update)",
+  "time": "2026-10-01 18:12",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VALA] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE (Other - Business Update)",
+  "time": "2026-10-01 18:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIHE M-FIN] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Results / Modified Report by Auditors)",
+  "time": "2026-10-01 18:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIHE M-FIN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 JUNE 2025 (Interim Results)",
+  "time": "2026-10-01 18:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GWMOTOR GWMOTOR-R] PRODUCTION AND SALES VOLUME FOR SEPTEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-01 18:09",
   "level": "🟢"
  }
 ]
