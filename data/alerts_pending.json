@@ -8462,5 +8462,21 @@
   "detail": "现价 2.959，跌破波动阈值 2.0%",
   "value": -2.2141411683802446,
   "time": "2026-10-01 16:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "白银 +2.03%",
+  "detail": "现价 61.315，突破波动阈值 2.0%",
+  "value": 2.025024231433517,
+  "time": "2026-10-01 19:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[CHIHO ENV] INSIDE INFORMATION KEY FINDINGS OF THE FORENSIC ",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-10-01 19:07"
  }
 ]
