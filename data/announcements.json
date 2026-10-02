@@ -1,86 +1,373 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ISP GLOBAL] DISCLOSEABLE TRANSACTION IN RELATION TO THE ACQUISITION OF 60% OF ISSUED SHARE CAPITAL OF THE TARGET COMPANY (Discloseable Tran",
-  "time": "2026-10-02 21:38",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hall Chadwick Acquisition Corp — 8-K",
+  "time": "2026-10-02",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FIRST COMMUNITY CORP /SC/ — 高管/董事变动",
+  "time": "2026-10-02",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HOMELAND ITL] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-02 22:06",
+  "title": "[HS HIGH DIV] HANG SENG HIGH DIVIDEND 30 INDEX ETF <03466> INFORMATION",
+  "time": "2026-10-02 22:32",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZYBANK] Absorption and Merger Agreement",
+  "time": "2026-10-02 22:11",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lafayette Square USA, Inc. — RegFD披露",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Paramount Skydance Corp — RegFD披露",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hepion Pharmaceuticals, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "MERCER INTERNATIONAL INC. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FORD MOTOR CO — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cable One, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UMH PROPERTIES, INC. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cycurion, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Tesla, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SouthState Bank Corp — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TIAA REAL ESTATE ACCOUNT — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Muzinich Corporate Lending Income Fund, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hub Group, Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GORMAN RUPP CO — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Trilogy Metals Inc. — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ALPHA MODUS HOLDINGS, INC. — 其他重大事件",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FREEPORT-MCMORAN INC — 8-K",
+  "time": "2026-10-02",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SCIENTIFIC INDUSTRIES INC — 8-K",
+  "time": "2026-10-02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DIWANG IND H] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-02 22:06",
+  "title": "[HSAI ETF] Hang Seng AI Advancement ETF <03438> INFORMATION",
+  "time": "2026-10-02 22:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZYBANK] CIRCULAR OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (Connected Transaction / Amendment of Constitutional Documents / Other)",
-  "time": "2026-10-02 22:03",
+  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
+  "time": "2026-10-02 22:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WENLING MCT] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
-  "time": "2026-10-02 22:01",
+  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
+  "time": "2026-10-02 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HOSPITAL CORP] Monthly Return of Equity Issuer on Movements in Securities",
-  "time": "2026-10-02 22:00",
+  "title": "[CHINA SANDI] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 2 OCTOBER 2026 (Results of AGM / Capital Reorganisation)",
+  "time": "2026-10-02 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZYBANK] FORM OF PROXY FOR THE 2026 SECOND EXTRAORDINARY GENERAL MEETING TO BE HELD ON OCTOBER 23, 2026 (FRIDAY) (OR ANYADJOURNMENT THEREOF)",
-  "time": "2026-10-02 21:57",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-10-02 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZYBANK] NOTICE OF THE SECOND EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Discloseable Transaction / Connected Transaction / ",
-  "time": "2026-10-02 21:52",
+  "title": "[CHINASILVER TEC] (1) QUARTERLY UPDATE; (2) DELAY IN THE PUBLICATION OF THE 2025-26 INTERIM RESULTS AND THE DISPATCH OF THE 2025-26 INTERIM ",
+  "time": "2026-10-02 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DL HOLDINGS GP] Next Day Disclosure Return (Others)",
-  "time": "2026-10-02 21:50",
+  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
+  "time": "2026-10-02 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[STRONG PETRO] JOINT ANNOUNCEMENT MONTHLY UPDATE PURSUANT TO RULE 3.7 OF THE TAKEOVERS CODE (Announcement by Offeree Company under the Takeo",
-  "time": "2026-10-02 21:47",
+  "title": "[LUK HING ENT] FURTHER DELAY IN DESPATCH OF CIRCULAR FOR MAJOR TRANSACTION (Major Transaction / Delay in Dispatch of Circular or other Docum",
+  "time": "2026-10-02 22:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-10-02 21:39",
+  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
+  "time": "2026-10-02 22:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-10-02 21:38",
+  "title": "[CSOP STAR 50] 3109 NEWS",
+  "time": "2026-10-02 22:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEXAN] DISCLOSEABLE TRANSACTION ACQUISITIONS OF LISTED SECURITIES (Discloseable Transaction)",
+  "time": "2026-10-02 22:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS AINDTOPETF HS AINDTOPETF-R] HANG SENG CHINA A INDUSTRY TOP INDEX ETF <83128> INFORMATION",
+  "time": "2026-10-02 22:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PROSP INV HOLD] FURTHER EXTENSION OF LONG STOP DATE IN RELATION TO PLACING OF NEW SHARES UNDER SPECIFIC MANDATE (Issue of Shares under a Sp",
+  "time": "2026-10-02 22:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
+  "time": "2026-10-02 22:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP VIETNAM30] 3004 NEWS",
+  "time": "2026-10-02 22:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS FCI50 ETF] HS FCI50 ETF <02838> INFORMATION",
+  "time": "2026-10-02 22:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCEI ETF HSCEI ETF-R] HANG SENG CHINA ENTERPRISES INDEX ETF <02828> INFORMATION",
+  "time": "2026-10-02 22:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP MSCI A 50] 3003 NEWS",
+  "time": "2026-10-02 22:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-02 22:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP HSBIOTECH] 3174 NEWS",
+  "time": "2026-10-02 22:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-10-02 22:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP CSI PV] 3134 NEWS",
+  "time": "2026-10-02 22:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH FRONTIER TEC] Monthly Return of Equity Issuer on Movement in Security - for the month ended 30 September 2026",
+  "time": "2026-10-02 22:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOON INC] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-02 22:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRIO IND ELEC] ANNOUNCEMENT PURSUANT TO RULE 3.7 OF THE TAKEOVERS CODE, RULE 13.09 OF THE LISTING RULES AND INSIDE INFORMATION PROVISIONS U",
+  "time": "2026-10-02 22:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BBMG] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-02 22:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XL2CSOPCSI300] 7233 NEWS",
+  "time": "2026-10-02 22:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOON INC] CHANGE OF INDEPENDENT NON-EXECUTIVE DIRECTOR; AND CHANGE IN COMPOSITION OF BOARD COMMITTEE (Change in Directors or of Important E",
+  "time": "2026-10-02 22:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TUHU-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-02 22:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HXTL] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-02 22:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIMEI TECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-02 22:10",
   "level": "🟢"
  }
 ]
