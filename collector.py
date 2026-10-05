@@ -79,13 +79,24 @@ for cat, symbols in WATCH.items():
         try:
             txt = curl(f"https://query1.finance.yahoo.com/v8/finance/chart/{sym.replace('^','%5E')}?interval=1d&range=5d")
             res = json.loads(txt)["chart"]["result"][0]
-            price = res["meta"].get("regularMarketPrice")
-            closes = [c for c in res["indicators"]["quote"][0]["close"] if c]
-            if not price or len(closes) < 2:
+            meta = res["meta"]
+            price = meta.get("regularMarketPrice")
+            if not price:
                 continue
-            pct = (closes[-1] - closes[-2]) / closes[-2] * 100
+            # 涨跌幅优先用 meta.regularMarketChangePercent（与 regularMarketPrice 同源同口径）。
+            # 修复 2026-10-05：旧口径取末两根日K close，开盘瞬间最新K线 close 为 null 被过滤后
+            # 会退算成前一交易日涨跌幅并误报（恒指 10-05 09:37 假报 -2.60%，实为 10-02 的跌幅）。
+            pct = meta.get("regularMarketChangePercent")
+            if pct is None:
+                raw_closes = res["indicators"]["quote"][0]["close"]
+                if not raw_closes or raw_closes[-1] is None:
+                    continue  # 最新K线尚未生成，回退口径不可靠
+                closes = [c for c in raw_closes if c]
+                if len(closes) < 2:
+                    continue
+                pct = (closes[-1] - closes[-2]) / closes[-2] * 100
             row = {"cat": cat, "symbol": sym, "name": name, "price": round(price, 2),
-                   "pct": round(pct, 2)}
+                   "pct": round(float(pct), 2)}
             market_rows.append(row)
             # VIX 只在飙升时报警（下跌=风险偏好回升，非风险事件）
             if sym == "^VIX" and pct <= 0:
