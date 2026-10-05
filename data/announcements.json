@@ -1,310 +1,261 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Spark I Acquisition Corp — 其他重大事件",
-  "time": "2026-10-05",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Curaleaf Holdings, Inc. — 高管/董事变动",
-  "time": "2026-10-02",
-  "level": "🟡"
- },
- {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FIH] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
-  "time": "2026-10-05 18:03",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP AP REITS] ANNOUNCEMENT - DISTRIBUTION ANNOUNCEMENT (Dividend or Distribution (Announcement Form))",
-  "time": "2026-10-05 17:59",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP UST20] ANNOUNCEMENT - DISTRIBUTION ANNOUNCEMENT (Dividend or Distribution (Announcement Form))",
-  "time": "2026-10-05 17:57",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Sino Green Land Corp. — 8-K",
-  "time": "2026-10-05",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "New Fortress Energy Inc. — 8-K",
-  "time": "2026-10-05",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "OMEGA HEALTHCARE INVESTORS INC — 8-K",
-  "time": "2026-10-05",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "VERRA MOBILITY Corp — 8-K",
-  "time": "2026-10-05",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Artificial Intelligence Technology Solutions Inc. — 8-K",
-  "time": "2026-10-05",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "EQUITY BANCSHARES INC — 8-K",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Vistra Corp. — 8-K",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Co-Diagnostics, Inc. — 5.07",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MOBIX LABS, INC — 5.07",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Jasper Therapeutics, Inc. — 附件",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "AIBOTICS, INC. — 8-K",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "WAFD INC — 8-K",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Awaysis Capital, Inc. — 8-K",
-  "time": "2026-10-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "PUBLIC CO MANAGEMENT CORP — 8-K",
-  "time": "2026-10-02",
+  "title": "[NOIZ GROUP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-05 18:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHAOJU EYE CARE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-05 18:06",
+  "title": "[EFUND AI EFUND AI-U EFUND AI-R] E Fund (HK) FTSE AI Select Index ETF Monthly Returns",
+  "time": "2026-10-05 18:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NANSHAN AL INTL] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:05",
+  "title": "[EFUNDMSCIA50 EFUNDMSCIA50-R] E Fund (HK) MSCI China A50 Connect ETF Monthly Returns",
+  "time": "2026-10-05 18:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KONTA CHINA] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30th September, 2026",
-  "time": "2026-10-05 18:05",
+  "title": "[BRAINAURORA-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GILSTON GROUP] Monthly Return of Equity Issuer on Movements in Securities",
-  "time": "2026-10-05 18:05",
+  "title": "[BBSB INTL] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
+  "time": "2026-10-05 18:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A MBC BTCGOLD A MBC BTCGOLD-U] 03002&09002 News",
-  "time": "2026-10-05 18:05",
+  "title": "[BAIRONG AI-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-05 18:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WAN KEI GROUP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:04",
+  "title": "[ANTENGENE-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-05 18:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DALIPAL HLDG] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
-  "time": "2026-10-05 18:03",
+  "title": "[GF HKUS TECH GF HKUS TECH-U GF HKUS TECH-R] 03599,41599,83599 NEWS",
+  "time": "2026-10-05 18:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PARKSON GROUP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:03",
+  "title": "[VTECH HOLDINGS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GLOBAL CHI BC] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:02",
+  "title": "[OKG TECH] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KAISA PROSPER] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-05 18:02",
+  "title": "[ZERO2IPO] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHOUGANG RES] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30/09/2026",
-  "time": "2026-10-05 18:02",
+  "title": "[AEC GROUP] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW CONCEPTS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-05 18:02",
+  "title": "[GF HKUS TECH GF HKUS TECH-U GF HKUS TECH-R] 03599,41599,83599 NEWS",
+  "time": "2026-10-05 18:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHOU HEI YA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-05 18:02",
+  "title": "[J&T EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-05 18:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NATIONAL ELEC H] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-05 18:00",
+  "title": "[SUNDY SERVICE] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFT SOLUTIONS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-05 18:00",
+  "title": "[A BOS RMB MM A BOS RMB MM-R] Monthly Returns",
+  "time": "2026-10-05 18:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WING CHI HLDGS] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:00",
+  "title": "[MAOYAN ENT] VOLUNTARY ANNOUNCEMENT - PROPOSED ON-MARKET SHARE REPURCHASE PLAN (Other - Miscellaneous)",
+  "time": "2026-10-05 18:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[UNI-BIO GROUP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 18:00",
+  "title": "[BENQ HOLDING] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CNQC INT'L] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 17:58",
+  "title": "[GF HKUS TECH GF HKUS TECH-U GF HKUS TECH-R] 03599,41599,83599 NEWS",
+  "time": "2026-10-05 18:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TECHTRONIC-100] Next Day Disclosure Return(Equity issuer - changes in issued share capital and/or share buybacks) (Share Buyback)",
-  "time": "2026-10-05 17:57",
+  "title": "[A BOS HKD MM] Monthly Returns",
+  "time": "2026-10-05 18:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GREENLAND HK] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 17:56",
+  "title": "[KEEP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-05 18:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEWBORNTOWN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-05 17:56",
+  "title": "[GF HKUS TECH GF HKUS TECH-U GF HKUS TECH-R] 03599,41599,83599 NEWS",
+  "time": "2026-10-05 18:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MANYCORE TECH] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-05 17:56",
+  "title": "[A BOS RMB MM A BOS RMB MM-R] Stock Code: 3192 Information",
+  "time": "2026-10-05 18:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HKET HOLDINGS] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
-  "time": "2026-10-05 17:55",
+  "title": "[FIH] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-05 18:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[K & P INT'L] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-05 17:55",
+  "title": "[A BOS HKD MM] Stock Code: 3152 Information",
+  "time": "2026-10-05 18:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BOSIDENG] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-05 17:54",
+  "title": "[A VP USD MM A VP USD MM-U] Stock Code: 3480 Information",
+  "time": "2026-10-05 18:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GF GL METAL GF GL METAL-U GF GL METAL-R] 03566,41566,83566 NEWS",
+  "time": "2026-10-05 18:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A VP HKD MM] Stock Code: 3421 Information",
+  "time": "2026-10-05 18:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A VP RMB MM A VP RMB MM-R] Stock Code: 3420 Information",
+  "time": "2026-10-05 18:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GF GL METAL GF GL METAL-U GF GL METAL-R] 03566,41566,83566 NEWS",
+  "time": "2026-10-05 18:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISDN HOLDINGS] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-05 18:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A TK USD MM A TK USD MM-U] Stock Code: 3176 9176 Information",
+  "time": "2026-10-05 18:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DMALL] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-10-05 18:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A TK HKD MM] Stock Code: 3457 Information",
+  "time": "2026-10-05 18:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUGANG LANZA] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-05 18:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VIEWTRIX TECH] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September2026",
+  "time": "2026-10-05 18:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GF GL METAL GF GL METAL-U GF GL METAL-R] 03566,41566,83566 NEWS",
+  "time": "2026-10-05 18:21",
   "level": "🟢"
  }
 ]
