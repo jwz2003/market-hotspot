@@ -74,11 +74,11 @@
  "funding": [
   {
    "symbol": "BTC",
-   "rate": 0.0002
+   "rate": -0.0006
   },
   {
    "symbol": "ETH",
-   "rate": -0.0029
+   "rate": -0.0023
   }
  ]
 }
