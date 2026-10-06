@@ -1,79 +1,254 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SFSY ENERGY] PROPOSED CHANGE OF AUDITOR (Change in Auditors subject to Shareholders' Approval)",
-  "time": "2026-10-06 21:35",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "APOGEE ENTERPRISES, INC. — 经营业绩",
+  "time": "2026-10-06",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Pyrophyte Acquisition Corp. — 其他重大事件",
+  "time": "2026-10-06",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW WORLD DEV] 2026 ANNUAL REPORT (Annual Report / Environmental, Social and Governance Information/Report)",
-  "time": "2026-10-06 21:33",
+  "title": "[SFSY NEW MAT] (1) PROPOSED CHANGE OF AUDITOR AND (2) NOTICE OF SPECIAL GENERAL MEETING (Change in Auditors subject to Shareholders' Approva",
+  "time": "2026-10-06 21:58",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY NEW MAT] PROPOSED CHANGE OF AUDITOR (Change in Auditors subject to Shareholders' Approval)",
+  "time": "2026-10-06 21:55",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY ENERGY] (1) PROPOSED CHANGE OF AUDITOR AND (2) NOTICE OF SPECIAL GENERAL MEETING (Change in Auditors subject to Shareholders' Approval",
+  "time": "2026-10-06 21:37",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Indianapolis — 2.03",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Warner Bros. Discovery, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ExchangeRight Income Fund — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nexentis Technologies Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Contango Silver & Gold Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HomeTrust Bancshares, Inc. — 其他重大事件",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "REPLIGEN CORP — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BIOLIFE SOLUTIONS INC — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Paramount Skydance Corp — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Tenable Holdings, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Bluejay Diagnostics, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Clean Energy Fuels Corp. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BION ENVIRONMENTAL TECHNOLOGIES INC — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GULF RESOURCES, INC. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Wheeler Real Estate Investment Trust, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Blue Bird Corp — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Curaleaf Holdings, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TPG RE Finance Trust, Inc. — 8-K",
+  "time": "2026-10-06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAN WAH HLDGS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-06 21:25",
+  "title": "[SFSY NEW MAT] Notification Letter and Request Form to Non-Registered Holders (Other)",
+  "time": "2026-10-06 22:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-10-06 21:24",
+  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-06 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WUXI LIFE] KEY FINDINGS AND RESULTS OF INTERNAL CONTROL REVIEW (Inside Information / Other - Miscellaneous)",
-  "time": "2026-10-06 21:24",
+  "title": "[SFSY NEW MAT] Notification Letter and Reply Form to Registered Shareholders (Other)",
+  "time": "2026-10-06 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TUHU-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-06 21:23",
+  "title": "[RUSAL] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-06 22:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[OCUMENSION-B] Monthly Return of Equity Issuer on Movements in Securities for the Month ended 30 September 2026",
-  "time": "2026-10-06 21:17",
+  "title": "[SFSY NEW MAT] FORM OF PROXY FOR THE SPECIAL GENERAL MEETING TO BE HELD ON TUESDAY, 27 OCTOBER 2026",
+  "time": "2026-10-06 22:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONANT OPTICAL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-06 21:15",
+  "title": "[SFSY NEW MAT] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-06 22:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] 03081, 83081, 9081 Information",
-  "time": "2026-10-06 21:12",
+  "title": "[HK ROBOTICS] (1) RESULTS OF THE RIGHTS ISSUE ON THE BASIS OF ONE (1) RIGHTS SHARE FOR EVERY TWO (2) EXISTING SHARES HELD ON THE RECORD DATE",
+  "time": "2026-10-06 22:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-10-06 21:12",
+  "title": "[TRACKER FUND TRACKER FUND-R] Summary Information",
+  "time": "2026-10-06 21:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ETHK LABS INC.] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE NEW BUSINESS INITIATIVES (Other - Business Update / Interim Results / Other - ",
-  "time": "2026-10-06 21:09",
+  "title": "[GREEN INTL HLDG] MONTHLY RETURN OF EQUITY ISSUERS ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-06 21:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY ENERGY] Notification Letter and Request Form to Non-Registered Holders (Other)",
+  "time": "2026-10-06 21:46",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY ENERGY] Notification Letter and Reply Form to Registered Shareholders (Other)",
+  "time": "2026-10-06 21:44",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY ENERGY] FORM OF PROXY FOR THE SPECIAL GENERAL MEETING TO BE HELD ON 27 OCTOBER 2026",
+  "time": "2026-10-06 21:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SFSY ENERGY] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-06 21:40",
   "level": "🟢"
  }
 ]
