@@ -2,29 +2,218 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[OURGAME] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-07 14:56",
+  "title": "[ISHARESCGB ISHARESCGB-U ISHARESCGB-R] 82829, 9829, 2829 Monthly Return",
+  "time": "2026-10-07 15:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VALUEGOLD ETF VALUEGOLD ETF-U VALUEGOLD ETF-R] Monthly Return on Movement of Open-ended Collective Investment Scheme",
-  "time": "2026-10-07 14:42",
+  "title": "[ISHARESHSI ISHARESHSI-U ISHARESHSI-R] 3115, 83115, 9115 Monthly Return",
+  "time": "2026-10-07 15:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUA HONG GRACE] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-07 14:39",
+  "title": "[ISHARESMSCITW ISHARESMSCITW-U] 3074, 9074 Monthly Return",
+  "time": "2026-10-07 15:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EDIANYUN] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 14:37",
+  "title": "[ISHARESHSTECH ISHARESHSTECH-U] 3067, 9067 Monthly Return",
+  "time": "2026-10-07 15:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES AXJ ISHARES AXJ-U ISHARES AXJ-R] 3010, 83010, 9010 Monthly Return",
+  "time": "2026-10-07 15:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRACKER FUND TRACKER FUND-R] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARESCSI300 ISHARESCSI300-U ISHARESCSI300-R] 2846, 82846, 9846 Monthly Return",
+  "time": "2026-10-07 15:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES INDIA ISHARES INDIA-U] 2836, 9836 Monthly Return",
+  "time": "2026-10-07 15:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSCEICC] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS GOLD ETF] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARESND100 ISHARESND100-U] 2834, 9834 Monthly Return",
+  "time": "2026-10-07 15:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSJPUSINCOME] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A BOS USD MM A BOS USD MM-U A BOS USD MM-R] Monthly Returns",
+  "time": "2026-10-07 15:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS HK EQUITY] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSTECHCC] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES A50 ISHARES A50-R] 2823, 82823 Monthly Return",
+  "time": "2026-10-07 15:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCMS 7-10Y UST] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISHARES CHINA ISHARES CHINA-U] 2801, 9801 Monthly Return",
+  "time": "2026-10-07 15:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCMS 1-3Y UST] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS JAPAN TPX100] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS S&P500 HS S&P500-U] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YTO INTL EXP] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-07 15:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SUNDART HLDGS] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-07 15:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSTECH ETF] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JOINN] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-07 15:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS AINDTOPETF HS AINDTOPETF-R] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS FCI50 ETF] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS HIGH DIV] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSI ESG ETF] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[F GX OIL] 3097 NEWS",
+  "time": "2026-10-07 15:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSCEI ETF HSCEI ETF-R] Monthly Return on Movement of Open-ended Collective Investment Scheme",
+  "time": "2026-10-07 15:12",
   "level": "🟢"
  }
 ]
