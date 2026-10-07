@@ -1,282 +1,338 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PRU] New shares to be issued in connection with the scrip dividend alternative (Overseas Regulatory Announcement - Issue of Securities and ",
-  "time": "2026-10-07 18:54",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Pine Tree Acquisition Corp. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TE Connectivity plc — 高管/董事变动",
+  "time": "2026-10-07",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CSLM Digital Asset Acquisition Corp III, Ltd — 8-K",
+  "time": "2026-10-06",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM SOL CAM SOL-U CAM SOL-R] 9460 & 3460 & 83460 News",
+  "title": "[MEIDONG AUTO] Final Dividend for the Year Ended 31 December 2025 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-07 19:14",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEIDONG AUTO] EXCHANGE RATE FOR PAYMENT OF 2025 FINAL DIVIDEND (Dividend or Distribution)",
+  "time": "2026-10-07 19:11",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Crane NXT, Co. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Aperture AC — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BKV Corp — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Beam Global — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "VAALCO ENERGY INC /DE/ — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Third Coast Bancshares, Inc. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Worthington Steel, Inc. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BOSTON SCIENTIFIC CORP — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lipocine Inc. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Venture Global, Inc. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Artificial Intelligence Technology Solutions Inc. — 8-K",
+  "time": "2026-10-07",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Nuvve Holding Corp. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Star Gold Corp. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Morgan Stanley Solana Trust — 其他重大事件",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Morgan Stanley Bitcoin Trust — 其他重大事件",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Morgan Stanley Ethereum Trust — 其他重大事件",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Figure Technology Solutions, Inc. — 8-K",
+  "time": "2026-10-06",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UBOX ONLINE] Monthly Return of Equity Issuers on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-07 19:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XUANZHUBIO-B] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
+  "time": "2026-10-07 19:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM HKHIDIV CAM HKHIDIV A CAM HKHIDIV-U CAM HKHIDIV A-U CAM HKHIDIV-R CAM HKHIDIV A-R] Stock Code: 3592 3590 41590 41592 83590 83592 Inform",
+  "time": "2026-10-07 19:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM HKGROWTH CAM HKGROWTH-U CAM HKGROWTH-R] Stock Code: 3459 9459 83459 Information",
+  "time": "2026-10-07 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SCIENTECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-07 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOODBABY INTL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-07 19:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SYNAGISTICS W29 SYNAGISTICS] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
+  "time": "2026-10-07 19:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STAR SPORTS MED] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-07 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HORIZONROBOT-W] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-07 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AIRDOC-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-07 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EACON] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
+  "time": "2026-10-07 19:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHAOWEI] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
+  "time": "2026-10-07 19:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAROTE LTD] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
+  "time": "2026-10-07 19:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FUTURE DATA] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
+  "time": "2026-10-07 19:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_20261007_EN",
+  "time": "2026-10-07 19:16",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VEDAN INT'L] CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction)",
+  "time": "2026-10-07 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIMEI TECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-07 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRAVEL EXPERT] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF THE WEALTH MANAGEMENT PRODUCT (Discloseable Transaction)",
+  "time": "2026-10-07 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AMUNDI HK35 AMUNDI HK35-R] 3012 & 83012 News",
+  "time": "2026-10-07 19:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AMUNDI A50 AMUNDI A50-R] 2843 & 82843 News",
+  "time": "2026-10-07 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A PANDO BLKC] 3112 News",
+  "time": "2026-10-07 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A PANDO INNO] 3056 News",
+  "time": "2026-10-07 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CICC HKD] 3071 News",
+  "time": "2026-10-07 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CICC USD-U] 9011 News",
+  "time": "2026-10-07 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM ETH CAM ETH-U CAM ETH-R] 9046 & 3046 & 83046 News",
+  "time": "2026-10-07 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM BTC CAM BTC-U CAM BTC-R] 9042 & 3042 & 83042 News",
   "time": "2026-10-07 19:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NEW CITY DEV] CHANGE OF COMPANY SECRETARY AND AUTHORISED REPRESENTATIVE (Change in Company Secretary)",
-  "time": "2026-10-07 19:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB SSH HIGH DIV] Summary Information",
-  "time": "2026-10-07 19:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIUYUAN GENE] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-10-07 19:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAOCAO INC] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-07 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HARBIN BANK] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOS CSOE HIDV BOS CSOE HIDV-U BOS CSOE HIDV-R] 03437 & 09437 & 83437 news",
-  "time": "2026-10-07 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LIFE CONCEPTS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE CIRCULAR DATED 4 SEPTEMBER 2026 (Material Information after Issue of Circular)",
-  "time": "2026-10-07 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WEIHAI BANK] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:05",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MINTH GROUP] Monthly Return for Equity Issuer on Movements in Securities",
-  "time": "2026-10-07 19:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDHSIESG] 3039 Information",
-  "time": "2026-10-07 19:04",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DMALL] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GEEKPLUS-W] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 30 September 2026",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB TW SEMICON] Summary Information (3076)",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PACIFIC LEGEND] VOLUNTARY ANNOUNCEMENT MEMORANDUM OF UNDERSTANDING IN RELATION TO POSSIBLE ISSUE OF CONVERTIBLE BONDS (Other - Miscellaneou",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUASHI GROUP] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ST HLDGS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUN HUNG KAI CO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-07 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PANDO ETH] 3085 News",
-  "time": "2026-10-07 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI BTC HGI BTC-U] 9439 & 3439 News",
-  "time": "2026-10-07 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINANEWENERGY] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-10-07 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TENFU] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-07 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZONQING LTD] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEIDONG AUTO] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI ETH HGI ETH-U] 9179 & 3179 News",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZA ONLINE] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DRCB] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YONGDA AUTO] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YIHAI INTL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MABWELL-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CLARITY MEDICAL] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-07 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINANEWENERGY] RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR; AND NON-COMPLIANCE WITH THE LISTING RULES AND CORPORATE GOVERNANCE CODE ",
-  "time": "2026-10-07 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[B&K CORP-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 September 2026",
-  "time": "2026-10-07 18:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINTE ENERGY] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Final Results / Other - Misce",
-  "time": "2026-10-07 18:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
-  "time": "2026-10-07 18:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[COCOON HOLDINGS] NET ASSET VALUE (Net Asset Value)",
-  "time": "2026-10-07 18:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CMS HS TECH] 3423 NEWS",
-  "time": "2026-10-07 18:50",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SA SA INT'L] Unaudited Sales Update of Offline Business in Hong Kong and Macao during The National Day Golden Week Holiday in 2026 (Other -",
-  "time": "2026-10-07 18:49",
   "level": "🟢"
  }
 ]
