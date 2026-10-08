@@ -1,177 +1,23 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Charlton Aria Acquisition Corp — 8-K",
-  "time": "2026-10-08",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "RCI HOSPITALITY HOLDINGS, INC. — 8-K",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CENTENE CORP — 其他重大事件",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "JLL Income Property Trust, Inc. — 8-K",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Federal Home Loan Bank of Dallas — 2.03",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MSC INCOME FUND, INC. — 8-K",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Main Street Capital CORP — 8-K",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Pacira BioSciences, Inc. — 8-K",
-  "time": "2026-10-08",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Blue Star Foods Corp. — 8-K",
-  "time": "2026-10-08",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-08 22:49",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-10-08 22:34",
+  "title": "[PRU] Publication of Supplementary Prospectus (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-08 22:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP PIONR TECH CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 343",
-  "time": "2026-10-08 22:32",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-08 22:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3447,3101,3030 NEWS",
-  "time": "2026-10-08 22:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
-  "time": "2026-10-08 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LYGEND RESOURCE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-08 22:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 2822, 3147, 3005, 3033, 3153, 3432, 3193 NEWS",
-  "time": "2026-10-08 22:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CNBM] CONNECTED TRANSACTION AND DISCLOSEABLE TRANSACTION SUBSCRIPTION OF SHARES IN AND DEEMED DISPOSAL OF EQUITY INTEREST IN SINOMA SCIENCE",
-  "time": "2026-10-08 22:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
-  "time": "2026-10-08 22:21",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-08 22:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSAI ETF] Hang Seng AI Advancement ETF <03438> INFORMATION",
-  "time": "2026-10-08 22:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF HK] 3579 NEWS",
-  "time": "2026-10-08 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
-  "time": "2026-10-08 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND MPF CN A] 3509 NEWS",
-  "time": "2026-10-08 22:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
-  "time": "2026-10-08 22:07",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[凯旺科技] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-10-08 20:34",
+  "title": "[ESWIN COMPUTING] Announcement of Final Offer Price and Allotment Results (Allotment Results)",
+  "time": "2026-10-08 22:44",
   "level": "🟢"
  }
 ]
