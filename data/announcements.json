@@ -2,15 +2,85 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SAMSUNGCDGN SAMSUNGCDGN-U] 2812 Information",
-  "time": "2026-10-09 11:34",
+  "title": "[SITC] NOTICE OF BOARD MEETING AND PROPOSED DECLARATION OF A SPECIAL DIVIDEND (Date of Board Meeting)",
+  "time": "2026-10-09 12:02",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS HSK ETH BOS HSK ETH-U] Monthly Returns",
+  "time": "2026-10-09 12:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VP DIV LO VOL] Stock Code: 3488 Information",
-  "time": "2026-10-09 11:16",
+  "title": "[JUTAL OIL SER] SUPPLEMENTARY ANNOUNCEMENT IN RELATION TO THE 2025 ANNUAL REPORT OF THE COMPANY (Revision of Published Financial Statements ",
+  "time": "2026-10-09 12:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZTO EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-09 12:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX AGREENBOND GX AGREENBOND-R] 3059, 83059 NEWS",
+  "time": "2026-10-09 11:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX CN PB BOND] 3041 NEWS",
+  "time": "2026-10-09 11:56",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX AP HIGH DIV] 3116 NEWS",
+  "time": "2026-10-09 11:55",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜蓝股份] 关于胜蓝转02即将停止转股暨赎回前最后半个交易日的重要提示性公告",
+  "time": "2026-10-09 11:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[凌霄泵业] 关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
+  "time": "2026-10-09 11:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新乡化纤] 关于公司国有建设用地使用权被收回暨部分生产线停产事项的公告",
+  "time": "2026-10-09 11:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新乡化纤] 第十二届董事会第四次会议决议公告",
+  "time": "2026-10-09 11:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[维峰电子] 关于完成补选第三届董事会独立董事的公告",
+  "time": "2026-10-09 11:38",
   "level": "🟢"
  }
 ]
