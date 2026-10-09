@@ -1,219 +1,450 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[ST金鸿] 渤海证券股份有限公司关于中油金鸿能源投资股份有限公司2015年公司债券违约处置进展的受托管理事务报告",
-  "time": "2026-10-09 15:56",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FB MULTIASSET] ANNOUNCEMENT AND NOTICE OF TERMINATION, DEAUTHORISATION AND DELISTING (Matters relating to Collective Investment Schemes)",
+  "time": "2026-10-09 16:31",
   "level": "🔴"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[双一科技] 关于回购公司股份的进展公告",
-  "time": "2026-10-09 16:00",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOKINGRAN] PROPOSED CHANGE OF AUDITORS (Change in Auditors subject to Shareholders' Approval)",
+  "time": "2026-10-09 16:36",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[智飞生物] 关于回购公司股份的进展公告",
-  "time": "2026-10-09 15:54",
+  "title": "[怡合达] 关于回购股份进展的公告",
+  "time": "2026-10-09 16:30",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[惠通科技] 关于收到中标通知书的公告",
-  "time": "2026-10-09 15:52",
+  "title": "[高伟达] 关于回购公司股份进展的公告",
+  "time": "2026-10-09 16:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科拓生物] 关于回购公司股份的进展公告",
+  "time": "2026-10-09 16:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[久吾高科] 关于回购公司股份的进展公告",
+  "time": "2026-10-09 16:26",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[朗坤科技] 关于回购公司股份的进展公告",
+  "time": "2026-10-09 16:16",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[国瓷材料] 关于回购公司股份的进展公告",
+  "time": "2026-10-09 16:14",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAIYUE TECH] (REVISED) MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 30 SEPTEMBER 2026",
-  "time": "2026-10-09 15:45",
+  "title": "[GUOTAI JUNAN I] Disclosure of Dealings under Rule 22 of the Takeovers Code",
+  "time": "2026-10-09 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM 20 UST CAM 20 UST-U CAM 20 UST A-U CAM 20 UST-R] Summary Information (9146,3146,83146,9446)",
-  "time": "2026-10-09 09:51",
+  "title": "[ZHIHUI MINING] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-09 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PPS INT'L] PROPOSED AMENDMENTS TO THE EXISTING MEMORANDUM AND ARTICLES OF ASSOCIATION AND PROPOSED ADOPTION OF THE NEW MEMORANDUM AND ARTIC",
+  "time": "2026-10-09 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DETAI NEWENERGY] QUARTERLY UPDATES ON RESUMPTION PROGRESS AND CONTINUED SUSPENSION OF TRADING (Inside Information / Other - Business Update",
+  "time": "2026-10-09 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C&D PROPERTY] DELAY IN DESPATCH OF CIRCULAR (Connected Transaction / Delay in Dispatch of Circular or other Document)",
+  "time": "2026-10-09 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COUNTRY GARDEN] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-10-09 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMON] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Discloseable Transaction / Major Tran",
+  "time": "2026-10-09 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EAGLE NICE] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FORTUNE REIT] Next Day Disclosure Return (Others)",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GREENLAND HK] UNAUDITED OPERATING STATISTICS FOR JANUARY TO SEPTEMBER 2026 (Other - Business Update)",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GEMDALE PPT] UNAUDITED OPERATING STATISTICS FOR SEPTEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#HSI RC28097] Notice of Valuation of Mandatory Call Payoff in relation to stock code 66265 issued by BOCI Asia Limited (Expiry Announceme",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#HUAHORC2612H] Notice of Valuation of Mandatory Call Payoff in relation to stock code 61650 issued by BOCI Asia Limited (Expiry Announcem",
+  "time": "2026-10-09 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SAMSONITE] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-09 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FORTUNE REIT] PAYMENT OF MANAGER'S BASE FEE TO ESR ASSET MANAGEMENT (FORTUNE) LIMITED BY WAY OF CASH AND UNITS IN FORTUNE REAL ESTATE INVES",
+  "time": "2026-10-09 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PRU] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-09 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GRACEWINE] PROPOSED CHANGE OF COMPANY NAME (Change of Company Name / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA TELECOM] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ASYMCHEM] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OOIL] Unaudited Quarterly Operational Update For The Third Quarter Ended 30th September 2026 (Other - Trading Update)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PRU] Change of Company Secretary (Change in Company Secretary)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OTPBANK N3612 OTPBANK N3109 OTPBANK N2908-R] Extraordinary announcement (Other - Debt Securities)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW AMANTE] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 9 OCTOBER 2026 (Results of AGM)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANG ON PPT] VOLUNTARY ANNOUNCEMENT - UNAUDITED CONTRACTED SALES DATA FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-09 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QINGLING MOTORS] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business i",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UNIVERSE ENT] PROPOSED AMENDMENTS TO THE EXISTING BYE-LAWS AND ADOPTION OF THE NEW BYE-LAWS (Amendment of Constitutional Documents)",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIANJIN CAPITAL] DATE OF MEETING OF THE BOARD OF DIRECTORS (Date of Board Meeting)",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSSC SHIPPING] Notice of Listing on The Stock Exchange of Hong Kong Limited - U.S.$3,000,000,000 Guaranteed Medium Term Note Programme by C",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AUNTEA JENNY] PROPOSED ELECTION OF NEW SESSION OF THE BOARD OF DIRECTORS AND ELECTION OF EMPLOYEE REPRESENTATIVE DIRECTOR (Change in Direct",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CGN POWER] DISCLOSEABLE TRANSACTION - SUPPLEMENT TO AND PROGRESS OF ESTABLISHMENT OF JOINT VENTURE (Discloseable Transaction)",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SENIOR MATERIAL] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-09 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[F SAMSUNG OIL] 3175 NEWS",
+  "time": "2026-10-09 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[绿通科技] 关于2025年限制性股票激励计划预留授予部分第一个归属期归属结果暨股份上市的公告",
-  "time": "2026-10-09 16:02",
+  "title": "[晨光生物] 关于子公司归还银行借款暨为子公司提供担保的进展公告",
+  "time": "2026-10-09 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[万邦达] 关于为控股子公司惠州伊斯科提供信贷担保的进展公告",
-  "time": "2026-10-09 16:00",
+  "title": "[深信服] 上海君澜律师事务所关于深信服科技股份有限公司调整2026年度限制性股票激励计划及首次授予相关事项之法律意见书",
+  "time": "2026-10-09 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国联水产] 关于控股股东关联方部分股份质押的公告",
-  "time": "2026-10-09 16:00",
+  "title": "[深信服] 深信服科技股份有限公司2026年度限制性股票激励计划首次授予激励对象名单（授予日）",
+  "time": "2026-10-09 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[冰川网络] 关于使用闲置自有资金购买理财产品赎回的公告",
-  "time": "2026-10-09 16:00",
+  "title": "[深信服] 深信服科技股份有限公司董事会薪酬与考核委员会关于2026年限制性股票激励计划调整事项及首次授予激励对象名单（授予日）的核查意见",
+  "time": "2026-10-09 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[旗天科技] 关于变更公司财务总监的公告",
-  "time": "2026-10-09 16:00",
+  "title": "[深信服] 深信服科技股份有限公司关于调整2026年度激励计划相关事项并向激励对象首次授予限制性股票的公告",
+  "time": "2026-10-09 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[旗天科技] 第七届董事会第四次会议决议公告",
-  "time": "2026-10-09 16:00",
+  "title": "[深信服] 深信服科技股份有限公司第四届董事会第六次会议决议公告",
+  "time": "2026-10-09 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[金丹科技] 关于股份协议转让交易方追加承诺的公告",
-  "time": "2026-10-09 16:00",
+  "title": "[英力股份] 关于重新签订募集资金三方监管协议的公告",
+  "time": "2026-10-09 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[全通教育] 关于控股股东所持部分股份被司法拍卖的进展公告",
-  "time": "2026-10-09 16:00",
+  "title": "[佳讯飞鸿] 关于独立董事取得独立董事资格证书的公告",
+  "time": "2026-10-09 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华如科技] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-10-09 15:56",
+  "title": "[纳百川] 关于与专业投资机构共同投资的进展暨完成私募投资基金备案的公告",
+  "time": "2026-10-09 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威尔高] 董事会薪酬与考核委员会关于公司2026年限制性股票激励计划预留授予激励对象名单的核查意见",
-  "time": "2026-10-09 15:54",
+  "title": "[普联软件] 关于独立董事取得独立董事资格证书的公告",
+  "time": "2026-10-09 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威尔高] 上海君澜律师事务所关于江西威尔高电子股份有限公司2026年限制性股票激励计划向激励对象预留授予限制性股票相关事项之法律意见书",
-  "time": "2026-10-09 15:54",
+  "title": "[光库科技] 关于使用部分暂时闲置募集资金进行现金管理的进展公告",
+  "time": "2026-10-09 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威尔高] 关于选举董事会审计委员会委员的公告",
-  "time": "2026-10-09 15:54",
+  "title": "[琏升科技] 关于控股子公司为其下属子公司提供担保的公告",
+  "time": "2026-10-09 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威尔高] 关于向2026年限制性股票激励计划激励对象授予预留部分限制性股票的公告",
-  "time": "2026-10-09 15:54",
+  "title": "[嘉亨家化] 关于变更持续督导财务顾问主办人的公告",
+  "time": "2026-10-09 16:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威尔高] 第二届董事会第十七次会议决议公告",
-  "time": "2026-10-09 15:54",
+  "title": "[万隆光电] 关于独立董事取得独立董事培训证明的公告",
+  "time": "2026-10-09 16:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[晓鸣股份] 2026年9月鸡产品销售情况简报",
-  "time": "2026-10-09 15:52",
+  "title": "[美硕科技] 财通证券股份有限公司关于浙江美硕电气科技股份有限公司开展商品期货及衍生品套期保值业务的核查意见",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[晓鸣股份] 关于使用自有资金进行委托理财的进展公告",
-  "time": "2026-10-09 15:52",
+  "title": "[美硕科技] 商品期货及衍生品套期保值业务管理制度",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[北方长龙] 关于控股子公司取得计算机软件著作权登记证书的公告",
-  "time": "2026-10-09 15:52",
+  "title": "[汉威科技] 关于发行境外上市股份（H股）备案申请材料获中国证监会接收的公告",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[金马游乐] 关于召开2026年第三次临时股东会的提示性公告",
-  "time": "2026-10-09 15:52",
+  "title": "[万集科技] 关于控股股东、实际控制人部分股份解除质押的公告",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[逸豪新材] 国信证券股份有限公司关于赣州逸豪新材料股份有限公司使用部分闲置募集资金暂时补充流动资金的核查意见",
-  "time": "2026-10-09 15:48",
+  "title": "[美硕科技] 关于开展商品期货及衍生品套期保值业务的可行性分析报告",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[逸豪新材] 关于使用部分闲置募集资金暂时补充流动资金的公告",
-  "time": "2026-10-09 15:48",
+  "title": "[美硕科技] 关于开展商品期货及衍生品套期保值业务的公告",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[逸豪新材] 关于归还用于暂时补充流动资金的闲置募集资金的公告",
-  "time": "2026-10-09 15:48",
+  "title": "[美硕科技] 第四届董事会第八次会议决议公告",
+  "time": "2026-10-09 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[逸豪新材] 赣州逸豪新材料股份有限公司第三届董事会第十四次会议决议公告",
-  "time": "2026-10-09 15:48",
+  "title": "[华仁药业] 关于子公司涉及重大诉讼的公告",
+  "time": "2026-10-09 16:14",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[泰恩康] 关于全资子公司收到地夸磷索钠滴眼液药品注册证书的公告",
-  "time": "2026-10-09 15:48",
+  "title": "[中兰环保] 关于公司使用闲置募集资金进行现金管理的进展公告",
+  "time": "2026-10-09 16:12",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[日科化学] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告",
-  "time": "2026-10-09 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[健帆生物] 关于2026年第三季度健帆转债转股情况的公告",
-  "time": "2026-10-09 15:48",
+  "title": "[云汉芯城] 董事会薪酬与考核委员会关于2026年限制性股票激励计划首次授予激励对象名单的核查意见及公示情况说明",
+  "time": "2026-10-09 16:12",
   "level": "🟢"
  }
 ]
