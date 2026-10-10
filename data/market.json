@@ -95,7 +95,7 @@
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
   "price": 102.23,
-  "pct": 0.09
+  "pct": 0.02
  },
  {
   "cat": "forex",
@@ -122,35 +122,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 82621.65,
-  "pct": 1.07
+  "price": 82686.0,
+  "pct": 0.69
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2490.74,
-  "pct": 0.56
+  "price": 2494.53,
+  "pct": 0.34
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 109.54,
-  "pct": 0.37
+  "price": 109.92,
+  "pct": 0.04
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 744.35,
-  "pct": 1.39
+  "price": 745.63,
+  "pct": 1.04
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.4,
-  "pct": 1.01
+  "price": 1.41,
+  "pct": 1.14
  }
 ]
