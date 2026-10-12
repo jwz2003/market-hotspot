@@ -1,58 +1,121 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-10-12 20:33",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Vistagen Therapeutics, Inc. — 8-K",
+  "time": "2026-10-09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DMALL] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-12 20:28",
+  "title": "[BETTERLIFE HLDG] MAJOR AND CONNECTED TRANSACTIONS IN RELATION TO THE PROPERTY LEASE AGREEMENTS AND CONTINUING CONNECTED TRANSACTIONS IN REL",
+  "time": "2026-10-12 21:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GHPC] CONTINUING CONNECTED TRANSACTIONS 2026 RAW MATERIALS SALES AND COMPREHENSIVE SERVICES FRAMEWORK AGREEMENT AND 2026 PRODUCTS AND SERVI",
-  "time": "2026-10-12 20:27",
+  "title": "[BEIJING N STAR] BEIJING NORTH STAR COMPANY LIMITED THE RULES OF PROCEDURES FOR MEETINGS OF THE BOARD OF DIRECTORS",
+  "time": "2026-10-12 21:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-10-12 20:27",
+  "title": "[GROWN UP GROUP] CHANGE OF COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND PROCESS AGENT (Change in Company Secretary / Change in Registere",
+  "time": "2026-10-12 21:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-10-12 20:25",
+  "title": "[HUAQIN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-12 21:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SERES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-12 20:22",
+  "title": "[BEIJING N STAR] ARTICLES OF ASSOCIATION",
+  "time": "2026-10-12 21:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CLARITY MEDICAL] (1) QUARTERLY UPDATE ON RESUMPTION STATUS; AND (2) CONTINUED SUSPENSION OF TRADING (Inside Information / Other - Business ",
-  "time": "2026-10-12 20:19",
+  "title": "[BEIJING N STAR] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-12 20:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF INTRA-CITY] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-12 20:19",
+  "title": "[NEW RAY MEDIC] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-10-12 20:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GON TECHNOLOGY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='f",
+  "time": "2026-10-12 20:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JSMART TECH] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR (Change in Directors or of Importan",
+  "time": "2026-10-12 20:51",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAIMEI TECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-12 20:49",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIANYU SEMI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-12 20:48",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEIJING N STAR] POLL RESULTS OF THE 2026 SECOND EGM, RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND APPOINTMENT OF EXECUTIVE DIRECTO",
+  "time": "2026-10-12 20:46",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SAINT BELLA GP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-12 20:46",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TA YANG GROUP] SUPPLEMENTAL ANNOUNCEMENT TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Other - Miscellaneous)",
+  "time": "2026-10-12 20:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IWS GROUP] INSIDE INFORMATION AND UPDATE ON DISCLOSEABLE AND CONNECTED TRANSACTION DISPOSAL OF EQUITY INTEREST IN THE TARGET COMPANY AND TH",
+  "time": "2026-10-12 20:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW RAY MEDIC] RESIGNATION OF EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-10-12 20:37",
   "level": "🟢"
  },
  {
@@ -63,115 +126,10 @@
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PW MEDTECH] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-12 20:11",
-  "level": "🟢"
- },
- {
   "src": "巨潮",
   "market": "A股",
-  "title": "[众捷股份] 众捷股份2026年第二次临时股东会决议公告",
-  "time": "2026-10-12 20:20",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[众捷股份] 北京康达律师事务所关于苏州众捷汽车零部件股份有限公司2026年第二次临时股东会法律意见书",
-  "time": "2026-10-12 20:20",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[众捷股份] 关于2026年限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
-  "time": "2026-10-12 20:20",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[利和兴] 2026年第一次临时股东会决议公告",
-  "time": "2026-10-12 20:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[利和兴] 广东信达律师事务所关于深圳市利和兴股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-10-12 20:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[汇金科技] 简式权益变动报告书（出让方）",
-  "time": "2026-10-12 20:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[汇金科技] 简式权益变动报告书（受让方）",
-  "time": "2026-10-12 20:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[汇金科技] 关于控股股东、实际控制人及其一致行动人协议转让部分公司股份暨权益变动的提示性公告",
-  "time": "2026-10-12 20:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[金银河] 关于公司控股股东、实际控制人及其一致行动人权益变动触及1%整数倍的公告",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 关于向特定对象发行股票发行完毕暨控股股东、实际控制人拟发生变更的公告",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 简式权益变动报告书",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 中信建投证券股份有限公司关于北京辰安科技股份有限公司向特定对象发行股票之上市保荐书",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 北京辰安科技股份有限公司向特定对象发行股票上市公告书",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 关于向特定对象发行股票上市公告书披露的提示性公告",
-  "time": "2026-10-12 20:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[辰安科技] 关于原控股股东及其一致行动人与持股5%以上股东持股比例被动稀释触及5%整数倍、5%以上股东持股比例被动稀释至5%以下的提示性公告",
-  "time": "2026-10-12 20:10",
+  "title": "[粤芯半导体] 北京市康达律师事务所关于公司首次公开发行股票并在创业板上市的法律意见书（更新后）",
+  "time": "2026-10-12 19:59",
   "level": "🟢"
  }
 ]
