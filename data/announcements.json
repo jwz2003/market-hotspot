@@ -2,99 +2,421 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[STANCHART] Transaction in own shares (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-12 15:48",
+  "title": "[XA GX GOLD CC XA GX GOLD CC-U] Dividend Announcement (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-12 16:35",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHIHUI MINING] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-12 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C&D INTL GROUP] UNAUDITED OPERATING FIGURES FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-12 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[POU SHENG INT'L] MONTHLY REVENUE ANNOUNCEMENT FOR SEPTEMBER 2026 (Overseas Regulatory Announcement - Trading Update / Inside Information)",
+  "time": "2026-10-12 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA COAL] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAI CORP] Notification Letter to Non-Registered Shareholders - Notice of Publication of Corporate Communication (Other)",
+  "time": "2026-10-12 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHEJIANG SHIBAO] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HKBN] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REFIRE] POLL RESULTS OF 2026 SECOND EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHIFENG GOLD] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIMC ENRIC] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA XLX FERT] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAI CORP] Notification Letter and Reply Form to Registered Shareholders - Notice of Publication of Corporate Communications (Other)",
+  "time": "2026-10-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WUXI APPTEC] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-12 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIMC ENRIC] REVISION OF ANNUAL CAPS FOR EXISTING CONTINUING CONNECTED TRANSACTIONS UNDER THE MASTER PROCUREMENT AGREEMENT (2025) AND NOTICE",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CITIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LENS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUE YUEN IND] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA UNICOM] Notification of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEE KEE] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOSUN PHARMA] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XA GX GOLD CC XA GX GOLD CC-U] Distribution Announcement (Listed Class of Shares only) (Matters relating to Collective Investment Schemes)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AGX HSDIV ENH AGX HSDIV ENH-U AGX HSDIV ENH-R] Distribution Announcement (Listed Class of Shares only) (Matters relating to Collective Inve",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A GX HSTCC A GX HSICC] Distribution Announcement (Listed Class of Shares only) (Matters relating to Collective Investment Schemes)",
+  "time": "2026-10-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#ZAI RC2702L] Notice of Valuation of Mandatory Call Payoff in relation to stock code 66678 issued by BOCI Asia Limited (Expiry Announceme",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BI#HSI RP2904L BI#HSI RP2904O] Notice of Valuation of Mandatory Call Payoff in relation to stock code 66268, 65120 issued by BOCI Asia Limi",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MANPOWER GRC] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business in H",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DYNAGREEN ENV] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMOC] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANJOY FOOD] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAOHAI BIOTEC] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SIM TECH] ANNOUNCEMENT (Inside Information)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LX TECHNOLOGY] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAIYUNSHAN PH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-12 16:27",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[贝斯美] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-10-12 16:04",
+  "title": "[力诺药包] 关于控股股东部分股份解除质押的公告",
+  "time": "2026-10-12 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[太龙股份] 关于2026年度为子公司提供担保的进展公告",
-  "time": "2026-10-12 16:00",
+  "title": "[康泰生物] 关于吸附无细胞百白破（组分）联合疫苗（成人青少年及儿童用）开启Ⅰ期临床试验的公告",
+  "time": "2026-10-12 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中瑞股份] 第三届董事会第十六次会议决议公告",
-  "time": "2026-10-12 15:52",
+  "title": "[震裕科技] 关于使用闲置募集资金进行现金管理的进展公告",
+  "time": "2026-10-12 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中瑞股份] 华泰联合证券有限责任公司关于常州武进中瑞电子科技股份有限公司增加2026年度日常关联交易预计的核查意见",
-  "time": "2026-10-12 15:52",
+  "title": "[福安药业] 关于子公司收到化学原料药上市申请批准通知书的公告",
+  "time": "2026-10-12 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中瑞股份] 关于增加2026年度日常关联交易预计的公告",
-  "time": "2026-10-12 15:52",
+  "title": "[运达股份] 关于新能源项目公司股权在产权交易机构产权转让预披露信息的提示性公告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[采纳股份] 关于使用部分闲置自有资金进行现金管理的公告",
-  "time": "2026-10-12 15:52",
+  "title": "[兴齐眼药] 关于向银行申请授信的公告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[苏交科] 关于为子公司提供担保的进展公告",
-  "time": "2026-10-12 15:50",
+  "title": "[兴齐眼药] 关于公司2021年限制性股票激励计划第五个归属期归属条件成就的公告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华利集团] 关于部分闲置募集资金现金管理到期赎回并继续进行现金管理的公告",
-  "time": "2026-10-12 15:46",
+  "title": "[中科环保] 关于投资建设侯马市垃圾焚烧发电项目的进展公告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[宏景科技] 关于完成工商变更登记的公告",
-  "time": "2026-10-12 15:46",
+  "title": "[中青宝] 关于2026年限制性股票与股票期权激励计划内幕信息知情人买卖公司股票的自查报告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熵基科技] 关于注销闲置募集资金现金管理部分专用结算账户的公告",
-  "time": "2026-10-12 15:46",
+  "title": "[兴齐眼药] 北京市竞天公诚律师事务所关于沈阳兴齐眼药股份有限公司2021年限制性股票激励计划授予价格及授予数量调整、第五个归属期归属条件成就及部分限制性股票作废相关事项的法律意见书",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[恒光股份] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-10-12 15:44",
+  "title": "[兴齐眼药] 董事会薪酬与考核委员会关于公司2021年限制性股票激励计划第五个归属期归属名单的核查意见",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[光大同创] 关于独立董事任期届满离任的公告",
-  "time": "2026-10-12 15:44",
+  "title": "[兴齐眼药] 关于调整公司2021年限制性股票激励计划授予价格及授予数量的公告",
+  "time": "2026-10-12 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[开润股份] 关于对外担保的进展公告",
-  "time": "2026-10-12 15:44",
+  "title": "[兴齐眼药] 关于作废部分2021年限制性股票激励计划已授予尚未归属限制性股票的公告",
+  "time": "2026-10-12 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[兴齐眼药] 第五届董事会第二十次会议决议公告",
+  "time": "2026-10-12 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深圳能源] 2025年度深圳能源集团股份有限公司信用评级报告",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迈瑞医疗] 关于控股股东部分股份质押的公告",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券（第一期）信用评级报告",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券（第一期）发行公告",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券（第一期）更名公告",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券（第一期）募集说明书",
+  "time": "2026-10-12 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[正丹股份] 关于变更签字注册会计师及项目质量复核人员的公告",
+  "time": "2026-10-12 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迈克生物] 关于召开2026年第二次临时股东会的提示性公告",
+  "time": "2026-10-12 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[共同药业] 关于开展外汇衍生品交易业务的公告",
+  "time": "2026-10-12 16:06",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[共同药业] 外汇衍生品交易业务管理制度",
+  "time": "2026-10-12 16:06",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[共同药业] 关于开展外汇衍生品交易业务的可行性分析报告",
+  "time": "2026-10-12 16:06",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[共同药业] 第三届董事会第十六次会议决议公告",
+  "time": "2026-10-12 16:06",
   "level": "🟢"
  }
 ]
