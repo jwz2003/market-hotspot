@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 15.46,
-  "pct": 1.64
+  "price": 15.42,
+  "pct": 1.38
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4207.9,
-  "pct": 0.41
+  "price": 4209.3,
+  "pct": 0.45
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 60.6,
-  "pct": 0.15
+  "price": 60.66,
+  "pct": 0.23
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 92.07,
-  "pct": -1.78
+  "price": 92.51,
+  "pct": -1.31
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.76,
-  "pct": 0.17
+  "pct": 0.18
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.12,
-  "pct": -1.52
+  "price": 3.13,
+  "pct": -1.23
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 102.28,
-  "pct": -0.3
+  "price": 102.26,
+  "pct": -0.32
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.69,
-  "pct": -0.02
+  "pct": -0.03
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.14,
-  "pct": -0.28
+  "price": 158.15,
+  "pct": -0.27
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.28
+  "pct": 0.27
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 83502.01,
-  "pct": 0.1
+  "price": 83311.2,
+  "pct": -0.01
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2506.33,
-  "pct": -1.61
+  "price": 2500.59,
+  "pct": -1.65
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 106.77,
-  "pct": -3.92
+  "price": 106.23,
+  "pct": -4.19
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 739.69,
-  "pct": -1.35
+  "price": 739.3,
+  "pct": -1.37
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.36,
-  "pct": -2.84
+  "pct": -2.89
  }
 ]
