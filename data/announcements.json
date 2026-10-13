@@ -1,275 +1,289 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Volato Group, Inc. — 8-K",
-  "time": "2026-10-09",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新巨丰] 关于下属子公司纷美包装复牌进展事项的公告",
+  "time": "2026-10-13 17:02",
+  "level": "🔴"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HELENS] DATE OF BOARD MEETING AND PROPOSED DECLARATION OF SPECIAL DIVIDEND (Date of Board Meeting)",
+  "time": "2026-10-13 17:00",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SBP GROUP] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
+  "time": "2026-10-13 16:55",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAPITAL ESTATE] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-10-13 16:54",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[震裕科技] 2026年前三季度业绩预告",
+  "time": "2026-10-13 17:04",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华康洁净] 关于收到中标通知书的公告",
+  "time": "2026-10-13 17:02",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金力永磁] 2026年前三季度业绩预告",
+  "time": "2026-10-13 16:50",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[海特生物] 关于与Visara签署HT006.2.2滴眼液项目授权许可协议的公告",
+  "time": "2026-10-13 16:42",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MMG] CONTINUING CONNECTED TRANSACTION - REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS IN RELATION TO THE CMN FRAMEWORK OFFT",
+  "time": "2026-10-13 17:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LONGCHEER] Next Day Disclosure Return (Share Buyback)",
+  "title": "[TRULY INT'L] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-13 17:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RMH HOLDINGS] Exchange's Disciplinary Action against RMH Holdings Limited (Stock Code: 8437) and Six Former Directors",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STANCHART] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PLAYMATES TOYS] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WING ON CO] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-13 17:01",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DEEPZERO] FURTHER ANNOUNCEMENT IN RELATION TO THE PROPOSED SHARE SUBDIVISION (Capital Reorganisation / Trading Arrangements (other than Cha",
+  "time": "2026-10-13 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAOZUN-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-13 17:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEIG] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-13 16:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA SUNTIEN] KEY OPERATING DATA OF 2026 THIRD QUARTER (Other - Business Update)",
+  "time": "2026-10-13 16:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PATEO] VOLUNTARY ANNOUNCEMENT - VOLUNTARY TWELVE-MONTH LOCK-UP UNDERTAKING BY DIRECTORS AND SENIOR MANAGEMENT (Other - Miscellaneous)",
+  "time": "2026-10-13 16:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FUTONG TECH] Next Day Disclosure Return (Others)",
+  "time": "2026-10-13 16:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZTE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-13 16:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA GLASS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE 2025 ANNUAL REPORT (Final Results / Other - Miscellaneous)",
+  "time": "2026-10-13 16:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA OILFIELD] 2026 THIRD QUARTERLY RESULTS PRESENTATION (Other - Corporate Governance Related Matters / Other - Miscellaneous)",
+  "time": "2026-10-13 16:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PATEO] VOLUNTARY ANNOUNCEMENT - VOLUNTARY EXTENSION OF LOCK-UP PERIOD BY SHAREHOLDERS (Other - Miscellaneous)",
+  "time": "2026-10-13 16:50",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HENGRUI PHARMA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-13 16:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[*ST动力] 关于公司股票可能被终止上市的第六次风险提示公告",
+  "time": "2026-10-13 17:04",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[长芯博创] 长芯博创科技股份有限公司2026年第三次临时股东会决议公告",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[长芯博创] 长芯博创科技股份有限公司关于2026年限制性股票激励计划内幕信息知情人买卖公司股票情况的自查报告",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[长芯博创] 北京市中伦律师事务所关于长芯博创科技股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-10-13 17:02",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[家联科技] 关于注销募集资金账户的公告",
+  "time": "2026-10-13 16:56",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[仁信新材] 关于全资子公司变更注册资本并换发营业执照的公告",
+  "time": "2026-10-13 16:54",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[格林生物] 关于董事长提议制定2026年三季度及滚存未分配利润分配方案的提示性公告",
+  "time": "2026-10-13 16:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[赢合科技] 关于持股5%以上股东部分股份质押的公告",
+  "time": "2026-10-13 16:52",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[天和防务] 关于对外担保的进展公告",
+  "time": "2026-10-13 16:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[申昊科技] 关于全资子公司收到中选通知书的提示性公告",
+  "time": "2026-10-13 16:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[风光股份] 营口风光新材料股份有限公司2026年第二次临时股东会决议公告_20261013_152019",
+  "time": "2026-10-13 16:42",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[风光股份] 辽宁青联昆晟律师事务所关于营口风光新材料股份有限公司2026年第二次临时股东会之法律意见书",
+  "time": "2026-10-13 16:42",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宇信科技] 关于完成法人变更登记并换发营业执照的公告",
+  "time": "2026-10-13 16:42",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[海特生物] 第九届董事会第十一次会议决议公告",
+  "time": "2026-10-13 16:42",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[钧崴电子] 关于子公司为子公司提供担保的公告",
   "time": "2026-10-13 16:36",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[INGENIC] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[震裕科技] 关于“震裕转02”可能触发转股价格修正条件的提示性公告",
   "time": "2026-10-13 16:36",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIAN CHANG GP] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM (Other)",
-  "time": "2026-10-13 16:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GF SEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-10-13 16:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIAN CHANG GP] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
-  "time": "2026-10-13 16:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BANK OF E ASIA BEA N3406 BEA N3204 BEA N2807 BEA N3205 BEA N2909-R BEA N3009-R] Next Day Disclosure Return - Changes in Issued Shares (Othe",
-  "time": "2026-10-13 16:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BAIYUNSHAN PH] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIAN CHANG GP] SUPPLEMENTAL CIRCULAR TO THE CIRCULAR TO THE SHAREHOLDERS DATED 25 AUGUST 2026 - MAJOR TRANSACTION - CONSTRUCTION AGREEMENT ",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GAPACK] INSIDE INFORMATION (1) SUBMISSION OF REQUEST TO REVIEW THE LISTING COMMITTEE DECISION BY THE LISTING REVIEW COMMITTEE; AND (2) CONT",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BI#HUAHORC2612F BI#KB LHRC2703A BI#ZAI RC2702K] Notice of Valuation of Mandatory Call Payoff in relation to stock code 60564, 56471, 61510 ",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BI#HSI RC2809O BI#HSI RP2904Q] Notice of Valuation of Mandatory Call Payoff in relation to stock code 66990, 66664 issued by BOCI Asia Limi",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRMSCIKOREA TR MSCI CHINA A X TRNIFTY50 X TRMSCIUSA TRMSCITAIWAN X TRVIET] ANNOUNCEMENT TO HONG KONG SHAREHOLDERS (Matters relating to Coll",
-  "time": "2026-10-13 16:33",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NOVOSENSE] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GEOTECH HLDGS] INSIDE INFORMATION SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO PRESENTATION OF LIQUIDATION APPLICATION AGAINST A SUBSIDIARY OF ",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RA MATERIALS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SMARTONE TELE] Resignation of Executive Director and Chief Executive Officer and Change of Authorized Representative and Process Agent (Cha",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONCH CEMENT] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SINOTRANS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WYNN MACAU] Next Day Disclosure Return (Others)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA TRAVEL HK] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MIDEA GROUP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GON TECHNOLOGY] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PHARMARON] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KONG SUN HOLD] SUMMARY OF ELECTRICITY GENERATION VOLUME OF SOLAR POWER PLANTS FROM JANUARY TO SEPTEMBER 2026 (Other - Business Update)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CGN POWER] INSIDE INFORMATION - OPERATION BRIEFINGS FOR THE THIRD QUARTER OF 2026 (Inside Information)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEFAR GROUP] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-10-13 16:30",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[顶固集创] 关于第一期员工持股计划锁定期届满的提示性公告",
-  "time": "2026-10-13 16:18",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[顶固集创] 关于解除为参股公司提供担保的公告",
-  "time": "2026-10-13 16:18",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[广发证券] 广发证券股份有限公司2025年面向专业投资者公开发行公司债券（第五期）（品种一）2026年付息公告",
-  "time": "2026-10-13 16:16",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[日科化学] 关于公司为子公司提供担保的进展公告",
-  "time": "2026-10-13 16:16",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英科医疗] 英科医疗科技股份有限公司关于控股股东部分股份质押的公告",
-  "time": "2026-10-13 16:12",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[信胜科技] 关于开立募集资金现金管理产品专用结算账户的公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 董事会专门委员会换届公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 2026年第一次临时股东会决议公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 第五届董事会第一次会议决议公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 委托理财进展的公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 董事长、高级管理人员、内审部负责人及证券事务代表换届公告",
-  "time": "2026-10-13 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[浙江大农] 浙江天册律师事务所关于浙江大农实业股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-10-13 00:00",
   "level": "🟢"
  }
 ]
