@@ -2,8 +2,29 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ABF PAIF] ABF PAN ASIA BOND INDEX FUND (STOCK CODE: 2821) INFORMATION",
-  "time": "2026-10-13 07:37",
+  "title": "[MAN WAH HLDGS] INSIDE INFORMATION PROFIT WARNING (Inside Information / Profit Warning)",
+  "time": "2026-10-13 08:00",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[天阳科技] 关于签订日常经营合同的公告",
+  "time": "2026-10-13 07:56",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CARSGEN-B] VOLUNTARY ANNOUNCEMENT - FIRST PATIENT DOSE OF CT0596 IN CHINA PHASE I REGISTRATIONAL TRIAL (Other - Business Update)",
+  "time": "2026-10-13 08:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] ANNOUNCEMENT - Daily Targeted ",
+  "time": "2026-10-13 07:52",
   "level": "🟢"
  }
 ]
