@@ -1,30 +1,562 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[值得买] 关于持股5%以上股东、董事、高级管理人员减持完成并触及1%整数倍的公告",
-  "time": "2026-10-14 18:38",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "RANGE RESOURCES CORP — 经营业绩",
+  "time": "2026-10-14",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JIANGXI BANK] POLL RESULTS OF 2026 FIRST EXTRAORDINARY GENERAL MEETING, 2026 FIRST DOMESTIC SHAREHOLDERS CLASS MEETING AND 2026 FIRST H SHA",
+  "time": "2026-10-14 19:29",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[奕帆传动] 关于终止与专业机构共同投资的公告",
-  "time": "2026-10-14 18:46",
+  "title": "[仁信新材] 关于董事减持股份预披露公告",
+  "time": "2026-10-14 19:26",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[申昊科技] 关于2026年员工持股计划非交易过户完成暨回购股份处理完成的公告",
+  "time": "2026-10-14 19:24",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[深水规院] 关于持股5%以上股东减持股份的预披露公告",
+  "time": "2026-10-14 19:24",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[德福科技] 2026-090 2026年前三季度业绩预告",
+  "time": "2026-10-14 19:22",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[普蕊斯] 关于公司股东减持计划实施完成的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[东岳硅材] 关于持股5%以上股东权益变动触及1%整数倍暨减持计划实施完成的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FF EAI Robotics Ecosystem Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "STATE STREET CORP — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Karyopharm Therapeutics Inc. — 其他重大事件",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Aquestive Therapeutics, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Eton Pharmaceuticals, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SONO TEK CORP — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Xeris Biopharma Holdings, Inc. — 其他重大事件",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ENTEGRIS INC — 其他重大事件",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Compass, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "XTI Aerospace, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UNITED THERAPEUTICS Corp — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BANK OF AMERICA CORP /DE/ — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Accenture plc — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NATIONAL FUEL GAS CO — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BlackRock, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Quoin Pharmaceuticals Ltd. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Verastem, Inc. — 8-K",
+  "time": "2026-10-14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GTHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-14 19:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KAFELAKU COFFEE] FURTHER EXTENSION OF LONG STOP DATE AND FURTHER REVISION OF PLACING PRICE IN RELATION TO PLACING OF NEW SHARES UNDER GENER",
+  "time": "2026-10-14 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KEEP] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
+  "time": "2026-10-14 19:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IMMUNEONCO-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 19:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-14 19:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-14 19:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WUXI LEAD] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 19:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AIRDOC-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[7ROAD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIANYU SEMI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CPIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS CSOE HIDV BOS CSOE HIDV-U BOS CSOE HIDV-R] 03437 & 09437 & 83437 news",
+  "time": "2026-10-14 19:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ABBISKO-B] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-14 19:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EFUNDHSIESG] 3039 Information",
+  "time": "2026-10-14 19:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA EB LTD] ANNOUNCEMENT-UPDATES ON THE STATUS OF LEGAL PROCEEDINGS (Inside Information)",
+  "time": "2026-10-14 19:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-14 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMS HS TECH] 3423 NEWS",
+  "time": "2026-10-14 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] PROXY FORM FOR THE 2026 SECOND EXTRAORDINARY GENERAL MEETING TO BE HELD ON WEDNESDAY, NOVEMBER 4, 2026 OR ANY ADJOURNMENT T",
+  "time": "2026-10-14 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] NOTICE OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Per",
+  "time": "2026-10-14 19:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RA MATERIALS] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 19:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LUFAX] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 19:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NANHUA FUTURES] (1) CHANGE OF REGISTERED CAPITAL AND PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND (2) NOTICE OF THE 2026 SECOND E",
+  "time": "2026-10-14 19:00",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINXIN MINING] List of Directors and Their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-10-14 18:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HBM HOLDINGS-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 18:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YEAHKA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 18:55",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HGI TECH 50] 3169 News",
+  "time": "2026-10-14 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QUNABOX GROUP] SUPPLEMENTAL ANNOUNCEMENT TO THE 2025 ANNUAL REPORT (Final Results / Other - Miscellaneous)",
+  "time": "2026-10-14 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS 20 UST BOS 20 UST A-U BOS 20 UST-U] 9156 & 3156 & 9107 News",
+  "time": "2026-10-14 18:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A BOS USD MM A BOS USD MM-U A BOS USD MM-R] 9196 & 3196 & 83196 News",
+  "time": "2026-10-14 18:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DUALITYBIO-B] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-10-14 18:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINXIN MINING] ANNOUNCEMENT - APPOINTMENT OF CHAIRMAN AND VICE-CHAIRMAN OF THE EIGHTH SESSION OF THE BOARD AND CHANGES OF MEMBERS OF THE ST",
+  "time": "2026-10-14 18:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS HSK ETH BOS HSK ETH-U] 9009 & 3009 News",
+  "time": "2026-10-14 18:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BHN2 N4410S BHN2 N4410A BHN2 N4410B BHN2 N4410C BHN2 N4410D] Sep 2026 Payment Date Report (Financial Report - Debt Securities)",
+  "time": "2026-10-14 18:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOS HSK BTC BOS HSK BTC-U] 9008 & 3008 News",
+  "time": "2026-10-14 18:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HTPCG HKKRSEMI] 3569 NEWS",
+  "time": "2026-10-14 18:51",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[奕帆传动] 关于2024年限制性股票激励计划第二个解除限售期解除限售股份上市流通的提示性公告",
-  "time": "2026-10-14 18:46",
+  "title": "[蜂助手] 蜂助手股份有限公司2026年第三次临时股东会决议公告",
+  "time": "2026-10-14 19:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹网壹创] 杭州壹网壹创科技股份有限公司关于完成工商变更登记并换发营业执照的公告",
-  "time": "2026-10-14 18:36",
+  "title": "[蜂助手] 北京大成（广州）律师事务所关于蜂助手股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-10-14 19:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[申昊科技] 关于全资子公司收到客户合作意向确认通知的公告",
+  "time": "2026-10-14 19:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[软通动力] 关于控股股东部分股份质押的公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[博俊科技] 关于江苏博俊工业科技股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迈为股份] 关于变更投资者联系电话号码及传真号码的公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迈为股份] 关于与专业投资机构共同投资暨与关联方共同投资的公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迈为股份] 第四届董事会第四次会议决议公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[博俊科技] 2026年第三次临时股东会决议公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[兴源环境] 关于公司及子公司涉及重大诉讼的进展公告",
+  "time": "2026-10-14 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[百川畅银] 第四届董事会第二十次会议决议公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[壹连科技] 关于调整2025年限制性股票激励计划授予数量及价格的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[壹连科技] 2026-068关于向2025年限制性股票激励计划激励对象预留授予限制性股票的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[壹连科技] 董事会薪酬与考核委员会关于公司2025年限制性股票激励计划相关事项的核查意见",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[信息发展] 关于股东解除《股份转让协议》及其补充协议的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[壹连科技] 上海市锦天城（深圳）律师事务所关于深圳壹连科技股份有限公司2025年限制性股票激励计划调整及预留授予相关事项的法律意见书",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[联检科技] 关于向2026年股票期权激励计划激励对象预留授予股票期权登记完成的公告",
+  "time": "2026-10-14 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[百川畅银] 关于不向下修正“百畅转债”转股价格的公告",
+  "time": "2026-10-14 19:20",
   "level": "🟢"
  }
 ]
