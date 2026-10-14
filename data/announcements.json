@@ -1,93 +1,275 @@
 [
  {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[田中精机] 关于原子公司破产清算程序终结的公告",
+  "time": "2026-10-14 16:06",
+  "level": "🔴"
+ },
+ {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JUTAL OIL SER] PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Amendment of Constitutional ",
-  "time": "2026-10-14 16:00",
+  "title": "[KUNLUN ENERGY] DIVIDEND CURRENCY ELECTION FORM FOR INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 JUNE 2026 (Other)",
+  "time": "2026-10-14 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HOLLY FUTURES] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PAGODA GP] NOTICE OF 2026 SECOND EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-14 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUAIBEI GD CO] VOLUNTARY ANNOUNCEMENT - INTENTION FOR BUSINESS COOPERATION (Other - Business Update)",
+  "time": "2026-10-14 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EASYHOLD GROUP] (1) PROPOSED RIGHTS ISSUE ON THE BASIS OF ONE (1) RIGHTS SHARE FOR EVERY ONE (1) SHARE HELD AT THE CLOSE OF BUSINESS ON THE",
+  "time": "2026-10-14 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MMG] REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS IN RELATION TO THE CMN FRAMEWORK OFFTAKE AGREEMENT AND NOTICE OF EXTRAOR",
+  "time": "2026-10-14 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAMBOOSHEALTH] PROPOSED AMENDMENTS TO THE MEMORANDUM AND ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
+  "time": "2026-10-14 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SANHUA] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINOPEC CORP] Change of Company Secretary and Authorised Representative (Change in Company Secretary)",
+  "time": "2026-10-14 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA OVERSEAS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-14 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHANDONG XINHUA] Announcement Notice of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINOPEC SSC] Announcement on the Issuance Results of Corporate Bonds (Issue of Debt Securities)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A GX HSCEICC A GX HSCEICC-U A GX HSCEICC-R] Distribution Announcement (Listed Class of Shares only) (Matters relating to Collective Investm",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SH ELECTRIC] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEADER EDU] SFC ANNOUNCEMENT - HIGH CONCENTRATION OF SHAREHOLDING (Concentration of Shareholdings)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SH ELECTRIC] ANNOUNCEMENT ON THE PROGRESS OF MATERIAL LITIGATION BY A SUBSIDIARY (Other - Litigation)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JUTAL OIL SER] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JUTAL OIL SER] PROPOSED ADOPTION OF THE AMENDED AND RESTATED ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C ZENITH CHEM] CANCELLATION OF LISTING (Inside Information / Privatisation/Withdrawal or Cancellation of Listing of Securities)",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DIFFER GP AUTO] (1) DECISION OF THE LISTING COMMITTEE; (2) CANCELLATION OF LISTING; AND (3) CONTINUED SUSPENSION OF TRADING (Inside Informa",
+  "time": "2026-10-14 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PAGODA GP] (1) PROPOSED CONNECTED TRANSACTION IN RELATION TO PROVISION OF FINANCIAL ASSISTANCE TO A CONNECTED SUBSIDIARY (2) PROPOSED AMEND",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CANSINOBIO] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIAN TU CAPITAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BYD COMPANY BYD COMPANY-R] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WOER] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MMG MMG B3010] THIRD QUARTER PRODUCTION REPORT FOR THE THREE MONTHS ENDED 30 SEPTEMBER 2026 (Mining Activities Undertaken by Listed Issuers",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUAQIN] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HENGRUI PHARMA] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SWHY] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ROBOTECHNIK] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DELTON] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-14 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中颖电子] 中颖电子股份有限公司向特定对象发行股票并在创业板上市发行情况报告书",
-  "time": "2026-10-14 16:02",
+  "title": "[东杰智能] 关于在新加坡设立全资孙公司的公告",
+  "time": "2026-10-14 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中颖电子] 上海市通力律师事务所关于中颖电子股份有限公司向特定对象发行股票发行过程和认购对象合规性的法律意见书",
-  "time": "2026-10-14 16:02",
+  "title": "[开立医疗] 关于控股股东部分股份质押的公告",
+  "time": "2026-10-14 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中颖电子] 华泰联合证券有限责任公司关于中颖电子股份有限公司向特定对象发行股票并在创业板上市之发行过程和认购对象合规性的报告",
-  "time": "2026-10-14 16:02",
+  "title": "[宝莱特] 关于公司获得医疗器械注册证的公告",
+  "time": "2026-10-14 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中颖电子] 关于向特定对象发行股票发行情况报告书披露的提示性公告",
-  "time": "2026-10-14 16:02",
+  "title": "[鼎泰高科] H股公告-董事会会议通告",
+  "time": "2026-10-14 16:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[新宁物流] 关于重大诉讼事项进展的公告",
-  "time": "2026-10-14 16:00",
+  "title": "[利和兴] 关于2026年度向金融机构申请融资额度提供担保暨关联交易的进展公告",
+  "time": "2026-10-14 16:16",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[海融科技] 关于使用闲置自有资金进行现金管理的进展公告",
-  "time": "2026-10-14 15:56",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[威马农机] 关于使用部分暂时闲置自有资金进行现金管理到期赎回并继续进行现金管理的公告",
-  "time": "2026-10-14 15:50",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[豪江智能] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-10-14 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[帝尔激光] 关于2026年员工持股计划证券账户开户完成的公告",
-  "time": "2026-10-14 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[漱玉平民] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-10-14 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[何氏眼科] 关于变更部分募集资金专项账户后重新签订募集资金三方监管协议的公告",
-  "time": "2026-10-14 15:44",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[彩讯股份] 关于公司2026年第三季度取得发明专利证书的公告",
-  "time": "2026-10-14 15:44",
+  "title": "[致尚科技] 关于使用部分闲置募集资金（含超募资金）进行现金管理的进展公告",
+  "time": "2026-10-14 16:14",
   "level": "🟢"
  }
 ]
