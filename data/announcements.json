@@ -2,127 +2,281 @@
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[东利机械] 关于董事长提议变更回购股份用途为注销并减少注册资本的公告",
-  "time": "2026-10-15 15:44",
+  "title": "[光库科技] 2026年前三季度业绩预告",
+  "time": "2026-10-15 16:14",
   "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[强力新材] 第六届董事会第二次会议决议公告",
-  "time": "2026-10-15 16:04",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA RISUN GP] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-15 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GWMOTOR GWMOTOR-R] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PRU] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-15 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHIHUI MINING] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-15 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BOQI ENV] RESIGNATION OF JOINT COMPANY SECRETARY AND BOARD SECRETARY (Change in Company Secretary)",
+  "time": "2026-10-15 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STAR GROUP ASIA] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-10-15 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REALWAY CAPITAL] FURTHER DELAY IN DESPATCH OF CIRCULAR IN RELATION TO (1) DISCLOSEABLE AND CONNECTED TRANSACTIONS ACQUISITIONS OF LIMITED P",
+  "time": "2026-10-15 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GRCB] PROPOSED MANDATE IN RELATION TO A POTENTIAL MAJOR TRANSACTION AND NOTICE OF 2026 FIRST EGM (Major Transaction)",
+  "time": "2026-10-15 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHERY AUTO] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH AGRI-PROD EX] CHANGE OF COMPANY WEBSITE (Change in Company Website)",
+  "time": "2026-10-15 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BQD] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QHD PORT] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DATANG RENEW] ANNOUNCEMENT ON PAYMENT OF 2026 INTEREST FOR RENEWABLE CORPORATE BONDS OF 2024 (Overseas Regulatory Announcement - Issue of S",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XINHUA WINSHARE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUHUI GROUP] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZUOLI KECHUANG] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAPITAL VC] NET ASSET VALUE (Net Asset Value)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] POLL RESULTS OF THE SPECIAL GENERAL MEETING HELD ON 15 OCTOBER 2026 (Results of EGM/SGM)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SSY GROUP] VOLUNTARY ANNOUNCEMENT - UPDATE ON PRODUCT DEVELOPMENT (Other - Business Update)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[STAR GROUP ASIA] CONVERSION OF CONVERTIBLE BONDS (Conversion of Securities)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX ASUSD BOND GX ASUSD BOND-U] Distribution Announcement (Listed Class of Shares only) (Matters relating to Collective Investment Schemes)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GX AP HIGH DIV] Distribution Announcement (Listed Class of Units only) (Matters relating to Collective Investment Schemes)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUANGSHEN RAIL] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH CASTSON 81] NET ASSET VALUE FOR SEPTEMBER 2026 (Net Asset Value)",
+  "time": "2026-10-15 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUHUI GROUP] APPOINTMENT OF A NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HOPSON DEV HOLD] NOTIFICATION OF BOARD MEETING AND CONTINUED SUSPENSION OF TRADING (Date of Board Meeting / Suspension)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZCZL] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CNGR] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHIFANG HLDG] VOLUNTARY ANNOUNCEMENT (Other - Miscellaneous)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OMNIVISION] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-15 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA RES POWER] September 2026 Update on Power Plant Net Generation Figures (Other - Business Update)",
+  "time": "2026-10-15 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[强力新材] 关于2025年员工持股计划锁定期届满暨解锁条件成就的公告",
-  "time": "2026-10-15 16:04",
+  "title": "[光韵达] 关于公司股东部分股份质押及解除质押的公告",
+  "time": "2026-10-15 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[阳光电源] 关于控股股东部分股份解除质押的公告",
-  "time": "2026-10-15 16:00",
+  "title": "[石药创新] 关于控股子公司SYS6062获得药物临床试验批准通知书的公告",
+  "time": "2026-10-15 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[远信工业] 关于2026年度买方信贷对外担保的进展公告",
-  "time": "2026-10-15 15:56",
+  "title": "[泰恩康] 关于控股股东、实际控制人部分股份解除质押的公告",
+  "time": "2026-10-15 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[纳百川] 关于为全资子公司担保的进展公告",
-  "time": "2026-10-15 15:54",
+  "title": "[石药创新] 关于控股子公司SYS6088注射液获得药物临床试验批准通知书的公告",
+  "time": "2026-10-15 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熊猫乳品] 中信证券股份有限公司关于熊猫乳品集团股份有限公司部分募投项目增加实施主体的核查意见",
-  "time": "2026-10-15 15:54",
+  "title": "[常友科技] 关于控股股东股份解除质押的公告",
+  "time": "2026-10-15 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熊猫乳品] 关于部分募投项目增加实施主体的公告",
-  "time": "2026-10-15 15:54",
+  "title": "[佳讯飞鸿] 关于为全资子公司提供担保的进展公告",
+  "time": "2026-10-15 16:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熊猫乳品] 委托理财制度",
-  "time": "2026-10-15 15:54",
+  "title": "[晨光生物] 关于为子公司银行借款提供担保的进展公告",
+  "time": "2026-10-15 16:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[熊猫乳品] 第五届董事会第三次会议决议公告",
-  "time": "2026-10-15 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[熊猫乳品] 重大信息内部报告制度",
-  "time": "2026-10-15 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中光防雷] 取得专利证书的公告",
-  "time": "2026-10-15 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[富祥股份] 第五届董事会第十二次会议决议公告",
-  "time": "2026-10-15 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[百洋医药] 关于控股股东部分股份解除质押的公告",
-  "time": "2026-10-15 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[双乐股份] 关于债券持有人可转债持有比例变动达 10%的公告",
-  "time": "2026-10-15 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[富祥股份] 关于推举并授权董事代行董事长职责的公告",
-  "time": "2026-10-15 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[森霸传感] 关于使用暂时闲置自有资金进行现金管理的进展公告",
-  "time": "2026-10-15 15:44",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[回盛生物] 关于控股股东部分股份解除质押的公告",
-  "time": "2026-10-15 15:44",
+  "title": "[富恒新材] 关于公司及全资子公司银行账户解除冻结的公告",
+  "time": "2026-10-15 00:00",
   "level": "🟢"
  }
 ]
