@@ -17,7 +17,7 @@
   "cat": "index",
   "symbol": "^DJI",
   "name": "道琼斯",
-  "price": 52002.4,
+  "price": 52002.41,
   "pct": -0.34
  },
  {
@@ -122,35 +122,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 81592.04,
-  "pct": -0.26
+  "price": 81544.25,
+  "pct": -0.67
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2427.53,
-  "pct": -0.04
+  "price": 2426.46,
+  "pct": -0.57
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 105.02,
-  "pct": 0.23
+  "price": 104.77,
+  "pct": -0.47
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 722.37,
-  "pct": -0.57
+  "price": 722.8,
+  "pct": -0.86
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.31,
-  "pct": -1.39
+  "pct": -1.95
  }
 ]
