@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 17.44,
-  "pct": -5.42
+  "price": 17.31,
+  "pct": -6.13
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4138.8,
-  "pct": -0.51
+  "price": 4141.2,
+  "pct": -0.45
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 57.9,
-  "pct": 1.09
+  "price": 57.98,
+  "pct": 1.24
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 98.2,
-  "pct": -0.34
+  "price": 98.07,
+  "pct": -0.48
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.61,
-  "pct": 0.53
+  "pct": 0.57
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.01,
-  "pct": -1.67
+  "price": 3.0,
+  "pct": -2.0
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.73,
-  "pct": -0.25
+  "price": 101.71,
+  "pct": -0.27
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.1
+  "pct": -0.11
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.23,
-  "pct": -0.15
+  "price": 158.18,
+  "pct": -0.18
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.19
+  "pct": 0.2
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 82608.01,
-  "pct": 0.87
+  "price": 82754.12,
+  "pct": 0.9
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2439.0,
-  "pct": 1.75
+  "price": 2444.18,
+  "pct": 1.72
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 106.15,
-  "pct": 1.83
+  "price": 106.65,
+  "pct": 1.95
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 739.32,
-  "pct": 1.68
+  "price": 740.28,
+  "pct": 1.61
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.33,
-  "pct": 2.23
+  "pct": 2.33
  }
 ]
