@@ -2,106 +2,344 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUANGSHEN RAIL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-20 16:04",
+  "title": "[JIANGXI BANK] APPROVAL ON THE QUALIFICATION OF CHIEF COMPLIANCE OFFICER BY THE REGULATORY AUTHORITY (Change in Directors or of Important Ex",
+  "time": "2026-10-20 16:32",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSTECHCC] October 2026 Dividend Distribution (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-20 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSCEICC] October 2026 Dividend Distribution (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-20 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSJPUSINCOME] October 2026 Dividend Distribution (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-20 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HS HIGH DIV] October 2026 Dividend Distribution (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-20 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[奥雅股份] 关于拟签署《执行和解协议》暨实施债务重组的公告",
+  "time": "2026-10-20 16:06",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CEB BANK] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PA TECHSELECT PA EW SELECT PA HEALTHCARE PA AI SELECT PA TECHSELECT-U PA EW SELECT-U PA HEALTHCARE-U PA AI SELECT-U] 3477, 9477, 3406, 9406",
-  "time": "2026-10-20 15:52",
+  "title": "[YANCOAL AUS] Quarterly Report for the Quarter ending 31 September 2026 (Other - Business Update)",
+  "time": "2026-10-20 16:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GTHT GLSR ETF GTHT GLSR ETF-U GTHT GLSR ETF-R] 3197 & 9197 & 83197 News",
-  "time": "2026-10-20 15:41",
+  "title": "[FLAT GLASS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GTHT FTEC ETF GTHT FTEC ETF-U GTHT FTEC ETF-R] 3585 & 41585 & 83585 News",
-  "time": "2026-10-20 15:38",
+  "title": "[TRANSSION] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-20 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA OVERSEAS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-20 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LYGEND RESOURCE] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAIXI PHARMA] VOLUNTARY ANNOUNCEMENT - PROGRESS UPDATE ON PURCHASES OF H SHARES PURSUANT TO THE SHARE INCENTIVE SCHEME (Other - Miscellaneo",
+  "time": "2026-10-20 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TESSON HOLDINGS] DELAY IN DESPATCH OF CIRCULAR (Major Transaction / Consideration Issue / Issue of Shares under a Specific Mandate / Change",
+  "time": "2026-10-20 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PICC GROUP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[INNOCARE] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-20 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HESAI-W] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TRMSCIKOREA TR MSCI CHINA A X TRNIFTY50 X TRMSCIUSA TRMSCITAIWAN X TRVIET] ANNOUNCEMENT TO HONG KONG SHAREHOLDERS (Matters relating to Coll",
+  "time": "2026-10-20 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NCI] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIG] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CZBANK] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA LIFE] Notice of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CICC] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ICBC] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RS MACALLINE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PSBC] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-20 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[严牌股份] 关于为子公司提供担保的进展公告",
-  "time": "2026-10-20 16:04",
+  "title": "[英力股份] 关于重新签订募集资金三方监管协议的公告",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[鑫宏业] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-10-20 16:00",
+  "title": "[金道科技] 浙江金道科技股份有限公司2026年度向不特定对象发行可转换公司债券募集说明书（注册稿）",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券（第一期）在深圳证券交易所上市的公告",
-  "time": "2026-10-20 15:56",
+  "title": "[金道科技] 北京市君泽君律师事务所关于浙江金道科技股份有限公司向不特定对象发行可转换公司债券的法律意见书",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[盛帮股份] 关于更换持续督导保荐代表人的公告",
-  "time": "2026-10-20 15:52",
+  "title": "[英力股份] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国能日新] 关于完成工商变更登记的公告",
-  "time": "2026-10-20 15:46",
+  "title": "[中科环保] 关于董事兼总经理离任的公告",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国能日新] 关于为子公司提供担保的进展公告",
-  "time": "2026-10-20 15:46",
+  "title": "[金道科技] 国泰海通证券股份有限公司关于浙江金道科技股份有限公司2026年度向不特定对象发行可转换公司债券之发行保荐书",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[贝特利] 关于完成工商变更登记并换发营业执照的公告",
-  "time": "2026-10-20 15:46",
+  "title": "[金道科技] 国泰海通证券股份有限公司关于浙江金道科技股份有限公司2026年度向不特定对象发行可转换公司债券之上市保荐书",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[致欧科技] 关于2025年员工持股计划锁定期届满的提示性公告",
-  "time": "2026-10-20 15:44",
+  "title": "[金道科技] 关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）等申请文件的提示性公告",
+  "time": "2026-10-20 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[方直科技] 关于2026年第三季度取得商标注册证、发明专利证书及计算机软件著作权登记证书的公告",
-  "time": "2026-10-20 15:42",
+  "title": "[三环集团] H股公告-翌日披露报表",
+  "time": "2026-10-20 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[腾信精密] 东莞市腾信精密制造股份有限公司超额配售选择权实施结果公告",
-  "time": "2026-10-20 00:00",
+  "title": "[ST佳缘] 关于业绩承诺补偿事项涉及诉讼的公告",
+  "time": "2026-10-20 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[科大讯飞] 2026年三季度报告",
-  "time": "2026-10-20 00:00",
+  "title": "[中一科技] 关于为子公司提供担保的进展公告",
+  "time": "2026-10-20 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新开普] 关于控股子公司完成工商变更登记的公告",
+  "time": "2026-10-20 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[标榜股份] 关于与专业投资机构共同投资的进展公告",
+  "time": "2026-10-20 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[安克创新] 关于公司完成工商变更登记并换发营业执照的公告",
+  "time": "2026-10-20 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华康洁净] 关于归还暂时补充流动资金的闲置募集资金的公告",
+  "time": "2026-10-20 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST合纵] 关于招募重整投资人的进展公告",
+  "time": "2026-10-20 16:16",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST雪浪] 关于公司向控股股东申请的借款到期未清偿暨关联交易的进展公告",
+  "time": "2026-10-20 16:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[泰和科技] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-10-20 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宝莱特] 关于完成工商变更登记的公告",
+  "time": "2026-10-20 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[震裕科技] 关于使用闲置募集资金进行现金管理的进展公告",
+  "time": "2026-10-20 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中捷精工] 关于财务总监离职的公告",
+  "time": "2026-10-20 16:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[奥雅股份] 第四届董事会第二十三次会议决议公告",
+  "time": "2026-10-20 16:06",
   "level": "🟢"
  }
 ]
