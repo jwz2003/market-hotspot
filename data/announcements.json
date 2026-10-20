@@ -2,134 +2,78 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FAIRWOOD HOLD] Positive Profit Alert (Profit Warning / Inside Information)",
-  "time": "2026-10-20 12:05",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CTF SERVICES] (1) PROPOSALS FOR RE-ELECTION OF RETIRING DIRECTORS, RE-APPOINTMENT OF AUDITOR, GENERAL MANDATES TO ISSUE SHARES AND TO REPUR",
-  "time": "2026-10-20 12:03",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-20 12:05",
+  "title": "[TRANSCENTA-B] VOLUNTARY ANNOUNCEMENT-RECEIPT OF THE FIRST PAYMENT IN RELATION TO THE DISPOSAL OF CDMO ASSETS (Other - Business Update)",
+  "time": "2026-10-20 12:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM (Other)",
-  "time": "2026-10-20 12:04",
+  "title": "[CHINA LILANG] OPERATIONAL UPDATE FOR THE THIRD QUARTER OF 2026 (Other - Business Update)",
+  "time": "2026-10-20 12:18",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM (Other)",
-  "time": "2026-10-20 12:04",
+  "title": "[FINELAND LIVING] CHANGE OF COMPANY SECRETARY AND AUTHORISED REPRESENTATIVE (Change in Company Secretary / Change in Registered Address or O",
+  "time": "2026-10-20 12:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] PROXY FORM",
-  "time": "2026-10-20 12:04",
+  "title": "[VIRTUAL MIND] VOLUNTARY ANNOUNCEMENT RELATING TO THE LATEST BUSINESS DEVELOPMENT OF THE GROUP'S DOLPHINONE ARTIFICIAL INTELLIGENCE PLATFORM",
+  "time": "2026-10-20 12:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZHENROPPT SPCS ZHENRO PPT] INSIDE INFORMATION - ADJOURNMENT OF WINDING-UP PETITION HEARING AGAINST A SUBSIDIARY (Inside Information)",
-  "time": "2026-10-20 12:03",
+  "title": "[QUNABOX GROUP] VOLUNTARY ANNOUNCEMENT VOLUNTARY LOCK-UP BY DIRECTORS AND CONCERT PARTIES (Other - Miscellaneous)",
+  "time": "2026-10-20 12:12",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-10-20 12:03",
+  "title": "[MIN XIN HOLD] POTENTIAL DISCLOSEABLE TRANSACTION - DISPOSAL OF EQUITY INTEREST THROUGH PUBLIC TENDER (Inside Information)",
+  "time": "2026-10-20 12:11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2026 (Environmental, Social and Governance Information/Report)",
-  "time": "2026-10-20 12:02",
+  "title": "[A DOO PAYMENTS] 3412 news",
+  "time": "2026-10-20 12:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] ANNUAL REPORT 2026 (Annual Report / Environmental, Social and Governance Information/Report)",
-  "time": "2026-10-20 12:01",
+  "title": "[A DOO WEB3] 3426 news",
+  "time": "2026-10-20 12:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA EAST AIR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-10-20 12:01",
+  "title": "[A DOO AI] 3413 news",
+  "time": "2026-10-20 12:08",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SWIRE PACIFIC A SWIRE PACIFIC B] Publication of the Offering Circular - Swire Pacific MTN Financing (HK) Limited - U.S.$5,000,000,000 Mediu",
-  "time": "2026-10-20 12:00",
+  "title": "[TSAKER NE] EXERCISE OF REPURCHASE RIGHT (Discloseable Transaction)",
+  "time": "2026-10-20 12:07",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CTF SERVICES] PROPOSED ADOPTION OF NEW BYE-LAWS (Amendment of Constitutional Documents)",
-  "time": "2026-10-20 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA EAST AIR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-10-20 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSJPUSINCOME] HANG SENG JPMORGAN US EQUITY PREMIUM INCOME ACTIVE ETF<03476> INFORMATION",
-  "time": "2026-10-20 11:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PPKSA G SUKUK PPKSA G SUKUK-U] 9478 , 3478 NEWS",
-  "time": "2026-10-20 11:37",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[九强生物] 关于公司获得发明专利证书的公告",
-  "time": "2026-10-20 11:42",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天地在线] 关于部分募投项目增加实施主体后签订《募集资金三方监管协议》的公告",
-  "time": "2026-10-20 11:40",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中原内配] 关于收到国际客户定点的公告",
-  "time": "2026-10-20 11:38",
+  "title": "[PREMIA VIET PREMIAEMASEAN PREMIA UST PREMIAASIATEC PREMIA UST-U PREMIA UST A-U PREMIAASIATEC-U PREMIA VIET-U PREMIAEMASEAN-U] 9810, 2810, 9",
+  "time": "2026-10-20 11:32",
   "level": "🟢"
  }
 ]
