@@ -2,64 +2,141 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NT PHARMA] APPOINTMENT OF AUDITOR AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Change in Auditors subject to Shareholders' Approval)",
-  "time": "2026-10-21 07:22",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ABC] DIVIDEND CURRENCY ELECTION FORM FOR 2026 INTERIM DIVIDEND (Other)",
-  "time": "2026-10-21 07:07",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NT PHARMA] Notification Letter and Request Form to Non-Registered Holder (Other)",
-  "time": "2026-10-21 07:35",
+  "title": "[ISHARES AXJ ISHARES AXJ-U ISHARES AXJ-R] 3010, 9010, 83010 NEWS",
+  "time": "2026-10-21 08:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[QINGDAO PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-21 07:34",
+  "title": "[HUTCHMED] VOLUNTARY ANNOUNCEMENT - HUTCHMED Announces Closing of KRAS-EGFR-Antibody Conjugate Therapy License to GSK Outside China (Oversea",
+  "time": "2026-10-21 08:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
-  "time": "2026-10-21 07:34",
+  "title": "[ISHARES A50 ISHARES A50-R] 2823, 82823 NEWS",
+  "time": "2026-10-21 08:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NT PHARMA] Notification Letter and Reply Form to Registered Shareholder (Other)",
-  "time": "2026-10-21 07:32",
+  "title": "[ISHARESCSI300 ISHARESHSI ISHARESHSI-U ISHARESCSI300-U ISHARESCSI300-R ISHARESHSI-R] 2846, 9846, 82846, 3115, 9115, 83115 NEWS",
+  "time": "2026-10-21 07:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VOBILE GROUP] PROPOSED ISSUE OF HK$530,000,000 3.75 PER CENT. CONVERTIBLE BONDS DUE 2027 UNDER GENERAL MANDATE (Issue of Convertible Securi",
-  "time": "2026-10-21 07:30",
+  "title": "[SBP GROUP] VOLUNTARY ANNOUNCEMENT - COMPLETION OF ALL PARTICIPANTS ENROLLMENT IN THE PHASE III REGISTRATIONAL CLINICAL TRIAL OF TQC2731 INJ",
+  "time": "2026-10-21 07:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NT PHARMA] FORM OF PROXY FOR USE AT EXTRAORDINARY GENERAL MEETING",
-  "time": "2026-10-21 07:28",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] ANNOUNCEMENT - Daily Targeted ",
+  "time": "2026-10-21 07:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NT PHARMA] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-10-21 07:25",
+  "title": "[ICBC UBS AI ICBC UBS AI-U ICBC UBS AI-R] Stock Code : 3587, 83587, 41587 Information",
+  "time": "2026-10-21 07:38",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 关于向不特定对象发行可转换公司债券申请获得深圳证券交易所受理的公告",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 广东信达律师事务所关于深圳市艾比森光电股份有限公司向不特定对象发行可转换公司债券的法律意见书",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 深圳市艾比森光电股份有限公司向不特定对象发行可转换公司债券的财务报告及审计报告",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 深圳市艾比森光电股份有限公司向不特定对象发行可转换公司债券募集说明书（申报稿）",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 中信证券股份有限公司关于深圳市艾比森光电股份有限公司向不特定对象发行可转换公司债券之发行保荐书",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[艾比森] 中信证券股份有限公司关于深圳市艾比森光电股份有限公司向不特定对象发行可转换公司债券之上市保荐书",
+  "time": "2026-10-21 08:01",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[力勤资源] H股公告（董事会会议召开日期）",
+  "time": "2026-10-21 07:53",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事候选人声明与承诺-齐银良",
+  "time": "2026-10-21 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事提名人声明与承诺-郭飞",
+  "time": "2026-10-21 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事提名人声明与承诺-胡宁峰",
+  "time": "2026-10-21 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事提名人声明与承诺-齐银良",
+  "time": "2026-10-21 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事候选人声明与承诺-郭飞",
+  "time": "2026-10-21 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[浙江美大] 独立董事候选人声明与承诺-胡宁峰",
+  "time": "2026-10-21 07:50",
   "level": "🟢"
  }
 ]
