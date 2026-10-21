@@ -1,114 +1,51 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIRC] (UPDATED) Interim Dividend for the Six Months Ended 30 June 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-10-21 22:09",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Global Vision Holdings, Inc. — 高管/董事变动",
+  "time": "2026-10-21",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ROBOSENSE] CONNECTED TRANSACTIONS THE LOAN AGREEMENTS (Connected Transaction)",
+  "title": "[JIANGSU EXPRESS] PROGRESS ANNOUNCEMENT - DISCLOSEABLE AND CONNECTED TRANSACTION - CASH ACQUISITION OF 100% EQUITY INTERESTS IN SUXICHANG SO",
+  "time": "2026-10-21 22:58",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XJ INTL HLDGS] DISCLOSEABLE TRANSACTION ACQUISITION OF LAND USE RIGHT (Discloseable Transaction)",
+  "time": "2026-10-21 22:44",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UWHARRIE CAPITAL CORP — 8-K",
+  "time": "2026-10-21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
+  "time": "2026-10-21 22:39",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RAFFLESINTERIOR] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-21 22:38",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
   "time": "2026-10-21 22:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RAFFLESINTERIOR] (1) SUPPLEMENTAL INFORMATION ON RESIGNATION OF AUDITOR; (2) APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR; (3) RE-DESI",
-  "time": "2026-10-21 22:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DRINDA] INSIDE INFORMATION/OVERSEAS REGULATORY ANNOUNCEMENT 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information / Overseas ",
-  "time": "2026-10-21 22:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TOPSTANDARDCORP] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO DISCLOSEABLE TRANSACTION IN RELATION TO THE SUBSCRIPTION OF ADDITIONAL EQUITY INT",
-  "time": "2026-10-21 22:30",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SFQ GLOBAL] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-10-21 22:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EXTRAWELL PHAR] GRANT OF SHARE OPTIONS TO DIRECTORS AND CONNECTED TRANSACTION AT SUBSIDIARY LEVEL IN RELATION TO THE GRANT OF SHARE OPTIONS",
-  "time": "2026-10-21 22:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-21 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HUA LIEN INT'L] ANNOUNCEMENT IN RELATION TO PUBLIC FLOAT (Sufficiency of Public Float)",
-  "time": "2026-10-21 22:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LOPAL TECH] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF WEALTH MANAGEMENT PRODUCTS (Discloseable Transaction)",
-  "time": "2026-10-21 22:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-21 22:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHONGZHENG INTL] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-10-21 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIRC] INSIDE INFORMATION - PROGRESS OF THE POTENTIAL CAPITAL INCREASE OF CNGT THROUGH PUBLIC TENDER (Inside Information)",
-  "time": "2026-10-21 22:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZHONGZHENG INTL] (1) RESIGNATION AND APPOINTMENT OF EXECUTIVE DIRECTORS; (2) APPOINTMENT OF CHAIRMAN OF THE BOARD (3) CHANGE OF AUTHORISED ",
-  "time": "2026-10-21 22:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FIBOCOM] OVERSEAS REGULATORY ANNOUNCEMENT - IMPLEMENTATION REPORT OF FIBOCOM WIRELESS INC. ON MAJOR ASSET PURCHASE (Overseas Regulatory Ann",
-  "time": "2026-10-21 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-10-21 22:07",
   "level": "🟢"
  }
 ]
