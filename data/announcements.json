@@ -1,93 +1,72 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泰格医药] 关于控股子公司停牌的提示性公告",
-  "time": "2026-10-22 11:42",
-  "level": "🔴"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SITC] DECLARATION OF A SPECIAL DIVIDEND (Dividend or Distribution (Announcement Form))",
+  "time": "2026-10-22 12:20",
+  "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SUCCESSUNIVERSE] NOTIFICATION LETTER TO NON-REGISTERED SHAREHOLDERS AND REQUEST FORM - NOTICE OF PUBLICATION OF CORPORATE COMMUNICATION (Ot",
-  "time": "2026-10-22 12:07",
+  "title": "[SITC] (1) UNAUDITED OPERATING STATISTICS FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026 (2) DECLARATION OF A SPECIAL DIVIDEND AND (3) CLOSURE ",
+  "time": "2026-10-22 12:17",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WEALTHFRONT CORP — 其他重大事件",
+  "time": "2026-10-21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZTO EXPRESS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-22 12:06",
+  "title": "[A DOO PAYMENTS] 3412 news",
+  "time": "2026-10-22 12:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SUCCESSUNIVERSE] NOTIFICATION LETTER TO REGISTERED SHAREHOLDERS AND REPLY FORM - NOTICE OF PUBLICATION OF CORPORATE COMMUNICATION (Other)",
-  "time": "2026-10-22 12:05",
+  "title": "[A DOO WEB3] 3426 news",
+  "time": "2026-10-22 12:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUALU B2910-R] Publication of Offering Circular - CNY2,018,000,000 1.74 per cent. Guaranteed Bonds due 2029 issued by Hualu International F",
-  "time": "2026-10-22 12:05",
+  "title": "[A DOO AI] 3413 news",
+  "time": "2026-10-22 12:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MNSO] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-22 12:05",
+  "title": "[GX AGREENBOND GX AGREENBOND-R] 3059, 83059 NEWS",
+  "time": "2026-10-22 12:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHK PPT SHK PPT-R] Publication of the Information Memorandum - U.S.$10,000,000,000 Programme of Sun Hung Kai Properties (Capital Market) Li",
-  "time": "2026-10-22 12:04",
+  "title": "[GX CN PB BOND] 3041 NEWS",
+  "time": "2026-10-22 12:11",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SUCCESSUNIVERSE] MAJOR TRANSACTION IN RELATION TO THE PROVISION OF FINANCIAL ASSISTANCE TO PIER 16 - PROPERTY DEVELOPMENT LIMITED",
-  "time": "2026-10-22 12:03",
+  "title": "[HCG N2910-R] PUBLICATION OF THE OFFERING CIRCULAR - ISSUE OF CNY1,211,000,000 1.99 PER CENT. NOTES DUE 2029 BY HUZHOU CITY INVESTMENT DEVEL",
+  "time": "2026-10-22 12:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENCENT TENCENT N2801 TENCENT N3801 TENCENT N3507 TENCENT N2904 TENCENT N4904 TENCENT N3006 TENCENT N5006 TENCENT N6006 TENCENT N3606 TENCE",
-  "time": "2026-10-22 12:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA ALUMCAN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-22 12:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SSY GROUP] VOLUNTARY ANNOUNCEMENT - UPDATE ON PRODUCT DEVELOPMENT (Other - Business Update)",
-  "time": "2026-10-22 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIAHUA STORES H] MAJOR TRANSACTION IN RELATION TO DISPOSAL OF LEASEHOLD IMPROVEMENTS AND EQUIPMENT",
-  "time": "2026-10-22 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MANULIFE-S] Manulife Financial Corporation Notice of Board of Directors Meeting (Date of Board Meeting)",
-  "time": "2026-10-22 12:01",
+  "title": "[HZCIH N2910-R] Offering Circular - HEZE CITY INVESTMENT HOLDINGS GROUP CO., LTD. - CNY 667,000,000 3.70 per cent. Notes due 2029 (Offering ",
+  "time": "2026-10-22 12:08",
   "level": "🟢"
  },
  {
@@ -95,83 +74,6 @@
   "market": "港股",
   "title": "[HCG N2910-R] NOTICE OF LISTING ON THE STOCK EXCHANGE OF HONG KONG LIMITED - ISSUE OF CNY1,211,000,000 1.99 PER CENT. NOTES DUE 2029 BY HUZH",
   "time": "2026-10-22 12:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ABC AGRBK N2910 AGRBK N3110] Publication of the Supplemental Offering Circular, the Pricing Supplements and the Offering Circular -U.S.$500",
-  "time": "2026-10-22 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UNITEDENERGY GP] SUPPLEMENTAL ANNOUNCEMENT FOR 2025 ANNUAL REPORT (Revision of Published Financial Statements and Reports)",
-  "time": "2026-10-22 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TRANSTHERA-B] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE ON COMMERCIALISATION OF CORE PRODUCT YOCHANRA (Other - Business Update)",
-  "time": "2026-10-22 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUCCESSUNIVERSE] MAJOR TRANSACTION IN RELATION TO THE PROVISION OF FINANCIAL ASSISTANCE TO PIER 16 - PROPERTY DEVELOPMENT LIMITED (Major Tr",
-  "time": "2026-10-22 12:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT FTEC ETF GTHT FTEC ETF-U GTHT FTEC ETF-R] 3585 & 41585 & 83585 News",
-  "time": "2026-10-22 11:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GTHT GLSR ETF GTHT GLSR ETF-U GTHT GLSR ETF-R] 3197 & 9197 & 83197 News",
-  "time": "2026-10-22 11:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CG BS CNASEAN CG BS CNASEAN-U CG BS CNASEAN-R] 2805 & 9805 & 82805 News",
-  "time": "2026-10-22 11:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GX AP HIGH DIV] 3116 NEWS",
-  "time": "2026-10-22 11:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A SS BLOCKCHAIN] 3171 NEWS",
-  "time": "2026-10-22 11:42",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[鑫铂股份] 关于公司为子公司向银行申请授信额度提供最高额担保的公告",
-  "time": "2026-10-22 11:42",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[双林股份] 2026年三季度报告",
-  "time": "2026-10-22 00:00",
   "level": "🟢"
  }
 ]
