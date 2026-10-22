@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 18.45,
-  "pct": 10.61
+  "price": 18.38,
+  "pct": 10.2
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4110.0,
-  "pct": -0.96
+  "price": 4100.4,
+  "pct": -1.2
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 56.16,
-  "pct": -2.69
+  "price": 56.01,
+  "pct": -2.95
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 99.75,
-  "pct": 2.68
+  "price": 99.85,
+  "pct": 2.78
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
   "price": 6.43,
-  "pct": -2.34
+  "pct": -2.29
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 2.78,
-  "pct": -0.5
+  "price": 2.77,
+  "pct": -0.61
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.49,
-  "pct": -0.28
+  "price": 101.54,
+  "pct": -0.24
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.02
+  "pct": -0.01
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.05,
-  "pct": -0.64
+  "price": 156.99,
+  "pct": -0.68
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.06
+  "pct": 0.03
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 81901.05,
-  "pct": -1.51
+  "price": 81855.45,
+  "pct": -1.76
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2407.02,
-  "pct": -1.8
+  "price": 2407.32,
+  "pct": -1.99
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 103.74,
-  "pct": -2.65
+  "price": 103.79,
+  "pct": -2.71
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 733.01,
-  "pct": -1.81
+  "price": 731.91,
+  "pct": -2.06
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.33,
-  "pct": -1.25
+  "pct": -1.62
  }
 ]
