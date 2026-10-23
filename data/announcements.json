@@ -1,120 +1,8 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PEGBIO CO-B] (1) PROPOSED REMOVAL OF AUDITOR (2) PROPOSED APPOINTMENT OF AUDITOR (3) PROPOSED CHANGE IN USE OF PROCEEDS FROM THE GLOBAL OFF",
-  "time": "2026-10-23 19:58",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[K W NELSON GP] PROPOSED DECLARATION AND PAYMENT OF SPECIAL DIVIDEND OUT OF THE SHARE PREMIUM ACCOUNT AND CLOSURE OF REGISTER OF MEMBERS (Di",
-  "time": "2026-10-23 19:42",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[K W NELSON GP] PROPOSED DECLARATION AND PAYMENT OF SPECIAL DIVIDEND OUT OF THE SHARE PREMIUM ACCOUNT AND CLOSURE OF REGISTER OF MEMBERS (Di",
-  "time": "2026-10-23 19:41",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GBA HOLDINGS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO PROPOSED CHANGE OF AUDITORS (Change in Auditors subject to Shareholders' Approval)",
-  "time": "2026-10-23 19:40",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "LKQ CORP — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Alpha Metallurgical Resources, Inc. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "FIRST HAWAIIAN, INC. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "TPG Private Equity Opportunities, L.P. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NEW JERSEY RESOURCES CORP — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "60 DEGREES PHARMACEUTICALS, INC. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Oric Pharmaceuticals, Inc. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Neuphoria Therapeutics Inc. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "REPUBLIC BANCORP INC /KY/ — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "GENTEX CORP — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "WORLD ACCEPTANCE CORP — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
   "src": "SEC 8-K",
   "market": "美股",
   "title": "INTELLIGENT PROTECTION MANAGEMENT CORP. — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Rithm Capital Corp. — 8-K",
   "time": "2026-10-23",
   "level": "🟢"
  },
@@ -126,227 +14,248 @@
   "level": "🟢"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SLB LIMITED/NV — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "JAKKS PACIFIC INC — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "AMERICAN EXPRESS CO — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Booz Allen Hamilton Holding Corp — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "GRAFTECH INTERNATIONAL LTD — 8-K",
-  "time": "2026-10-23",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Tango Therapeutics, Inc. — 8-K",
-  "time": "2026-10-23",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JXR] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-23 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SAINT BELLA GP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-23 20:06",
+  "title": "[ZIJIN MINING] Third Quarterly Report 2026 (Quarterly Results)",
+  "time": "2026-10-23 20:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PEGBIO CO-B] FORM OF PROXY FOR USE AT THE 2026 FIRST EXTRAORDINARY GENERAL MEETING TO BE HELD ON THURSDAY, NOVEMBER 12, 2026",
-  "time": "2026-10-23 20:06",
+  "title": "[CMS HS TECH] 3423 NEWS",
+  "time": "2026-10-23 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VICTORY SEC] COMPANY INFORMATION SHEET",
-  "time": "2026-10-23 20:04",
+  "title": "[ANTON OILFIELD] VOLUNTARY ANNOUNCEMENT - ADOPTION OF EMPLOYEE SHARE PURCHASE PLAN (Other - Business Update)",
+  "time": "2026-10-23 20:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JIMU GROUP] Next Day Disclosure Return (Others)",
-  "time": "2026-10-23 20:03",
+  "title": "[MOBVOI] SUPPLEMENTAL ANNOUNCEMENT (Final Results / Other - Miscellaneous)",
+  "time": "2026-10-23 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VICTORY SEC] Next Day Disclosure Return (Others)",
-  "time": "2026-10-23 20:03",
+  "title": "[MOBVISTA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-23 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PEGBIO CO-B] NOTICE OF THE 2026 FIRST EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-10-23 20:03",
+  "title": "[HAOHAI BIOTEC] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information / Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-10-23 20:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SCHOLAR EDU] VOLUNTARY ANNOUNCEMENT - SHARE PURCHASE PURSUANT TO SHARE AWARD SCHEME (Other - Miscellaneous)",
-  "time": "2026-10-23 20:02",
+  "title": "[TIANYU SEMI] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-23 20:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KUNLUN ENERGY] POLL RESULTS OF SPECIAL GENERAL MEETING HELD ON 23 OCTOBER 2026 (Results of EGM/SGM)",
-  "time": "2026-10-23 20:02",
+  "title": "[GEOTECH HLDGS] INSIDE INFORMATION REGULATING ACTIONS IMPOSED BY THE DEVELOPMENT BUREAU ON A SUBSIDIARY OF THE COMPANY (Inside Information)",
+  "time": "2026-10-23 20:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANTON OILFIELD] ANNOUNCEMENT - Operational Update on the Third Quarter of 2026 and Outlook for the Fourth Quarter of 2026 (Other - Business",
-  "time": "2026-10-23 19:55",
+  "title": "[ZIJIN MINING] Announcement in relation to the Donation to the Earthquake-Affected Area in Baqen County, Nagqu City, Tibet (Other - Miscella",
+  "time": "2026-10-23 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JIMU GROUP] COMPLETION OF PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a General Mandate)",
-  "time": "2026-10-23 19:52",
+  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "time": "2026-10-23 20:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANHUIEXPRESSWAY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other / Overseas Regulatory Announcement - Business Update)",
-  "time": "2026-10-23 19:49",
+  "title": "[XUNFEIHEALTH] CHANGE OF USE OF PROCEEDS FROM THE H SHARE GLOBAL OFFERING (Other - Business Update)",
+  "time": "2026-10-23 20:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XIAO NOODLES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-23 19:49",
+  "title": "[CHINA SHENHUA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update / Overseas Regulatory Announcement -...<div class='fancy-no",
+  "time": "2026-10-23 20:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LINK HOLDINGS] CHANGE OF AUDITOR (Change in Auditors)",
-  "time": "2026-10-23 19:47",
+  "title": "[CHINA SHENHUA] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-10-23 20:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EDGE MEDICAL-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-23 19:46",
+  "title": "[CHINA SHENHUA] THIRD QUARTERLY REPORT FOR THE YEAR 2026 (Quarterly Results / Inside Information / Overseas Regulatory Announcement - Tradin",
+  "time": "2026-10-23 20:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YUM CHINA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-23 19:45",
+  "title": "[GOLDWAY EDU] COMPANY INFORMATION SHEET",
+  "time": "2026-10-23 20:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ANHUIEXPRESSWAY] POTENTIAL CONNECTED TRANSACTION - PROPOSED JOINT FORMATION OF A JOINT VENTURE COMPANY WITH OTHER MEMBERS OF THE S24 CONSOR",
-  "time": "2026-10-23 19:44",
+  "title": "[DELTON] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-23 20:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CNBM] THIRD QUARTERLY REPORT OF 2026 (Quarterly Results / Inside Information)",
-  "time": "2026-10-23 19:44",
+  "title": "[XUNFEIHEALTH] CONNECTED TRANSACTIONS FURTHER DEEMED DISPOSAL OF A SUBSIDIARY (Connected Transaction)",
+  "time": "2026-10-23 20:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENNOR THERAP-B] Articles of Association",
-  "time": "2026-10-23 19:44",
+  "title": "[GOLDWAY EDU] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-10-23 20:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-10-23 19:44",
+  "title": "[ZIJIN MINING] Change in Board Lot Size of H Shares (Change in Board Lot Size)",
+  "time": "2026-10-23 20:17",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF INTRA-CITY] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-23 19:43",
+  "title": "[JIMU GROUP] Company Information Sheet",
+  "time": "2026-10-23 20:16",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-10-23 19:43",
+  "title": "[XUNFEIHEALTH] CONTINUING CONNECTED TRANSACTIONS WITH IFLYTEK; AND CONTINUING CONNECTED TRANSACTIONS WITH XUNFEI IMAGING UNION (Continuing C",
+  "time": "2026-10-23 20:15",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-10-23 19:42",
+  "title": "[YESASIA HLDGS] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE FOR THE THIRD QUARTER OF 2026 (Other - Business Update)",
+  "time": "2026-10-23 20:15",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FIRST CAP GP] INSIDE INFORMATION - UPDATE ON WINDING UP PETITION AND PROPOSED DEBT RESTRUCTURING (Inside Information / Winding Up and Liqui",
-  "time": "2026-10-23 19:42",
+  "title": "[ZIJIN MINING] Announcement in relation to Resignation of a Joint Company Secretary (Hong Kong) (Change in Company Secretary)",
+  "time": "2026-10-23 20:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM HSBIOTECH CAM HSBIOTECH-U CAM HSBIOTECH-R] Summary Information",
-  "time": "2026-10-23 19:40",
+  "title": "[GOLDWAY EDU] RESIGNATION OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-10-23 20:14",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CAM RMB MM A CAM RMB MM-R] Summary Information",
-  "time": "2026-10-23 19:39",
+  "title": "[ZIJIN MINING] Board of Directors Resolutions (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-10-23 20:13",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CAM MSCI A50 CAM HSI ESG CAM HSI ESG-U CAM MSCI A50-U CAM MSCI A50-R CAM HSI ESG-R] Summary Information",
-  "time": "2026-10-23 19:39",
+  "title": "[CHENGDU EXPWAY] DISCLOSEABLE TRANSACTION IN RELATION TO THE CHENGWENQIONG EXPRESSWAY EXPANSION PROJECT STEEL STRUCTURE CONSTRUCTION CONTRAC",
+  "time": "2026-10-23 20:12",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OCEAN STAR TECH] PROXY FORM FOR USE AT THE EXTRAORDINARY GENERAL MEETING (THE \"EGM\") TO BE HELD AT 10:30 A.M. ON THURSDAY, 12 NOVEMBER 2026",
+  "time": "2026-10-23 20:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEAUTYFARM MED] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-23 20:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUA XIA WATER] FURTHER DELAY IN DESPATCH OF CIRCULAR IN RELATION TO CONTINUING CONNECTED TRANSACTIONS UNDER THE PRODUCT SUPPLY FRAMEWORK AG",
+  "time": "2026-10-23 20:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KUNLUN ENERGY] Nomination Committee Terms of Reference (Terms of Reference of the Nomination Committee)",
+  "time": "2026-10-23 20:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OCEAN STAR TECH] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-23 20:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DINGDANG HEALTH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-23 20:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[OCEAN STAR TECH] (1) PROPOSED SHARE CONSOLIDATION AND (2) PROPOSED CHANGE IN BOARD LOT SIZE AND (3) NOTICE OF EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-10-23 20:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[金力永磁] H股公告-翌日披露报表",
+  "time": "2026-10-23 20:18",
   "level": "🟢"
  }
 ]
