@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 19.66,
-  "pct": 3.31
+  "price": 20.17,
+  "pct": 5.99
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4041.3,
-  "pct": -0.47
+  "price": 4042.8,
+  "pct": -0.43
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 53.89,
-  "pct": -2.03
+  "price": 53.84,
+  "pct": -2.12
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 101.3,
-  "pct": 1.84
+  "price": 101.27,
+  "pct": 1.81
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.48,
-  "pct": 1.26
+  "price": 6.47,
+  "pct": 1.2
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.12,
-  "pct": -1.24
+  "price": 3.11,
+  "pct": -1.46
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.75,
-  "pct": 0.14
+  "price": 101.62,
+  "pct": 0.01
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.05
+  "pct": -0.06
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 156.59,
-  "pct": -0.12
+  "price": 156.46,
+  "pct": -0.2
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": -0.18
+  "pct": -0.15
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 81724.6,
+  "price": 81678.49,
   "pct": -0.01
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2400.74,
-  "pct": -0.04
+  "price": 2399.83,
+  "pct": -0.0
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 104.52,
-  "pct": 0.13
+  "price": 104.32,
+  "pct": -0.06
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 746.99,
-  "pct": 1.9
+  "price": 745.75,
+  "pct": 1.8
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.32,
-  "pct": -0.66
+  "pct": -0.55
  }
 ]
