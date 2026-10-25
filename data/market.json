@@ -108,8 +108,8 @@
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 156.81,
-  "pct": 0.02
+  "price": 156.83,
+  "pct": 0.04
  },
  {
   "cat": "forex",
@@ -122,35 +122,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 80622.82,
-  "pct": 0.1
+  "price": 80569.5,
+  "pct": 0.01
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2353.27,
-  "pct": 0.53
+  "price": 2350.34,
+  "pct": 0.23
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 101.83,
-  "pct": 0.67
+  "price": 101.77,
+  "pct": 0.27
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 743.21,
-  "pct": 1.74
+  "price": 742.39,
+  "pct": 1.46
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.3,
-  "pct": 0.9
+  "pct": 0.63
  }
 ]
