@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 19.48,
-  "pct": 0.15
+  "price": 19.59,
+  "pct": 0.72
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4028.9,
-  "pct": 0.52
+  "price": 4029.0,
+  "pct": 0.53
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 54.0,
-  "pct": 0.1
+  "price": 53.99,
+  "pct": 0.08
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 101.3,
-  "pct": -1.91
+  "price": 100.9,
+  "pct": -2.29
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.53,
-  "pct": 0.28
+  "price": 6.52,
+  "pct": 0.17
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.01,
-  "pct": -1.44
+  "price": 3.0,
+  "pct": -1.48
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.83,
-  "pct": 0.02
+  "price": 101.86,
+  "pct": 0.05
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.0
+  "pct": -0.01
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.32,
-  "pct": 0.32
+  "price": 157.37,
+  "pct": 0.35
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.01
+  "pct": -0.01
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 80444.0,
-  "pct": 0.15
+  "price": 80308.0,
+  "pct": -0.01
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2333.0,
-  "pct": 0.26
+  "price": 2326.31,
+  "pct": -0.08
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 101.64,
-  "pct": 0.89
+  "price": 101.19,
+  "pct": 0.44
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 739.03,
-  "pct": 0.09
+  "price": 739.2,
+  "pct": -0.1
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.29,
-  "pct": -0.1
+  "pct": -0.46
  }
 ]
