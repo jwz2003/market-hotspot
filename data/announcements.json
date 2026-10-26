@@ -1,71 +1,232 @@
 [
  {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIME WATCH] GRANT OF GENERAL MANDATES TO ISSUE AND TO REPURCHASE SHARES, PROPOSED RE-ELECTION OF DIRECTORS, RE-APPOINTMENT OF AUDITORS, AME",
+  "time": "2026-10-26 16:36",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUE YUEN IND] INSIDE INFORMATION PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-10-26 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HEARTCARE-B] PROPOSED RE-ELECTION AND APPOINTMENT OF DIRECTORS OF THE THIRD SESSION OF THE BOARD; AND CLOSURE OF H SHARE REGISTER OF MEMBER",
+  "time": "2026-10-26 16:31",
+  "level": "🟡"
+ },
+ {
   "src": "巨潮",
   "market": "A股",
-  "title": "[迪安诊断] 关于控股股东部分股份解除质押的公告",
-  "time": "2026-10-26 16:00",
+  "title": "[光智科技] 关于部分董事、高级管理人员及核心人员增持公司股份计划实施完成的公告",
+  "time": "2026-10-26 16:20",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COUNTRY GARDEN] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-10-26 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DS#HSI RC2809Z DS#HSI RC2809D DS#HSI RC2809Q DS#HSI RC28093] Notice of Valuation of Mandatory Call Payoff in relation to stock code 54535, ",
+  "time": "2026-10-26 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-26 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TEDA BIOMEDICAL] The Articles of Association",
+  "time": "2026-10-26 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANKA ONLINE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LI NING LI NING-R] LATEST OPERATIONAL UPDATE FOR THE THIRD QUARTER OF 2026 (Other - Trading Update)",
+  "time": "2026-10-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIME WATCH] 2026 Environmental, Social and Governance Report (Environmental, Social and Governance Information/Report)",
+  "time": "2026-10-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CIMC ENRIC] VOLUNTARY ANNOUNCEMENT - UNAUDITED KEY DATA FOR THE THIRD QUARTER OF 2026 AND THE NINE MONTHS ENDED 30 SEPTEMBER 2026 (Other - ",
+  "time": "2026-10-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TEDA BIOMEDICAL] Clarification Announcement Grant of Award Shares under the Share Award Scheme (Share Scheme)",
+  "time": "2026-10-26 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUES INTL HLDG] MAJOR TRANSACTION AND CONNECTED TRANSACTION DISPOSAL OF THE REMAINING APPROXIMATELY 70.87% EQUITY INTEREST IN A SUBSIDIARY ",
+  "time": "2026-10-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[QYUNS-B] ANNOUNCEMENT BOOK CLOSURE PERIOD FOR EXTRAORDINARY GENERAL MEETING (Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIME WATCH] Annual Report 2026 (Annual Report)",
+  "time": "2026-10-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BAIYUNSHAN PH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A MBC BTCGOLD MBC ETH MBC BTC A MBC BTCGOLD-U MBC ETH-U MBC BTC-U] Notice to Shareholders - Change in directors of the Company (Change in D",
+  "time": "2026-10-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW GONOW RV] SFC ANNOUNCEMENT - HIGH CONCENTRATION OF SHAREHOLDING (Concentration of Shareholdings)",
+  "time": "2026-10-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SJM HOLDINGS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-10-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VIEWTRIX TECH] (1) PROPOSED GRANT OF GENERAL MANDATE TO ISSUE SHARES; (2) PROPOSED GRANT OF GENERAL MANDATE TO REPURCHASE H SHARES; AND (3)",
+  "time": "2026-10-26 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUTCHMED] VOLUNTARY ANNOUNCEMENT - HUTCHMED Highlights SANOVO Phase III Data for ORPATHYS plus TAGRISSO in First-Line EGFR-Mutated Lung Can",
+  "time": "2026-10-26 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SSY GROUP] VOLUNTARY ANNOUNCEMENT - UNAUDITED OPERATING RESULTS FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-26 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LUZHU BIOTECH-B] CHANGE OF AGENT FOR SERVICE OF PROCESS AND NOTICES IN HONG KONG (Change in Registered Address or Office, Registered Place ",
+  "time": "2026-10-26 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEPU BIO] VOLUNTARY ANNOUNCEMENT CMG901 (AZD0901) CLINICAL RESULTS PRESENTED AS LBA PROFFERED PAPER AT PRESIDENTIAL SYMPOSIUM, MRG007 CLINI",
+  "time": "2026-10-26 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[优博讯] 关于业绩承诺补偿事项的进展公告",
-  "time": "2026-10-26 15:58",
+  "title": "[亚华电子] 关于公司获得发明专利证书的公告",
+  "time": "2026-10-26 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[通灵股份] 关于变更持续督导保荐代表人的公告",
-  "time": "2026-10-26 15:54",
+  "title": "[上海钢联] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-10-26 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[西菱动力] 关于业绩承诺司法判决股权完成过户的公告",
-  "time": "2026-10-26 15:48",
+  "title": "[创源股份] 关于解除为全资子公司提供担保的公告",
+  "time": "2026-10-26 16:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中富通] 关于控股股东、实际控制人进行股份解除质押的公告",
-  "time": "2026-10-26 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[震裕科技] 关于使用闲置募集资金进行现金管理的进展公告",
-  "time": "2026-10-26 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[飞沃科技] 关于公司控股股东部分股份解除质押的公告",
-  "time": "2026-10-26 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[凯旺科技] 关于变更保荐机构后重新签订募集资金三方监管协议的公告",
-  "time": "2026-10-26 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[瑞尔竞达] 关于变更投资者关系联系地址及电话的公告",
+  "title": "[同心传动] 2026年三季度报告",
   "time": "2026-10-26 00:00",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[通领科技] 关于使用闲置募集资金进行现金管理的进展公告",
+  "title": "[莱赛激光] 2026年三季度报告",
+  "time": "2026-10-26 00:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[世昌股份] 2026年第二次临时股东会决议公告",
+  "time": "2026-10-26 00:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[灿能电力] 关于使用闲置自有资金购买理财产品的进展公告",
+  "time": "2026-10-26 00:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科创新材] 关于闲置募集资金暂时补充流动资金归还的公告",
   "time": "2026-10-26 00:00",
   "level": "🟢"
  }
