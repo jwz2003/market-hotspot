@@ -2,260 +2,435 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LOTUS HORIZON] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-10-28 17:16",
+  "title": "[TEXWINCA HOLD] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-10-28 18:05",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SUNAC SERVICES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:37",
+  "title": "[GON TECHNOLOGY] SUPPLEMENTAL ANNOUNCEMENT DISCLOSABLE TRANSACTION IN RELATION TO ACQUISITION OF 80% EQUITY INTEREST IN THE TARGET COMPANY (",
+  "time": "2026-10-28 17:59",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[联合动力] 关于取得金融机构股票回购专项贷款承诺函的公告",
+  "time": "2026-10-28 17:56",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LCI INDUSTRIES — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Otis Worldwide Corp — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SiteOne Landscape Supply, Inc. — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "V F CORP — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "DEL MONTE CORP — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Vertiv Holdings Co — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TTM TECHNOLOGIES INC — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "GENERAC HOLDINGS INC. — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Mitesco, Inc. — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TERADYNE, INC — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KIMBERLY CLARK CORP — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ENERPAC TOOL GROUP CORP — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SMITH A O CORP — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Robinhood Markets, Inc. — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LAS VEGAS SANDS CORP — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "BREAD FINANCIAL HOLDINGS, INC. — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "OppFi Inc. — 8-K",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TXNM ENERGY INC — RegFD披露",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Seagate Technology Holdings plc — 5.07",
+  "time": "2026-10-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "NEWS CORP — 8-K",
+  "time": "2026-10-27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AVICHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-10-28 17:36",
+  "title": "[PING AN HKDIV PING AN HKDIV-U] 3070, 9070 NEWS",
+  "time": "2026-10-28 18:07",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NANHUA FUTURES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:35",
+  "title": "[F SSIFIRONORE F SSIFIRONORE-U] 9047, 3047 NEWS",
+  "time": "2026-10-28 18:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[C FIN SERVICES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:33",
+  "title": "[YAN PALACE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 18:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONTINENTAL H] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE CIRCULAR FOR RE-APPOINTMENT OF AUDITOR (Material Information after Issue of Cir",
-  "time": "2026-10-28 17:31",
+  "title": "[SMARTONE TELE] Vote Results at Annual General Meeting held on 28 October 2026 (Results of AGM)",
+  "time": "2026-10-28 18:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JF SMARTINVEST] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:30",
+  "title": "[BOSERA STAR50 BOSERA STAR50-R] Stock Code : 82832,2832 Information",
+  "time": "2026-10-28 18:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ES SERVICES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:30",
+  "title": "[SHANGHAI IND H] CONNECTED TRANSACTION - DISPOSAL OF 100% EQUITY INTEREST IN SHANGHAI URBAN DEVELOPMENT JINGXIANG PROPERTY CO., LTD. (Connec",
+  "time": "2026-10-28 18:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YSB] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:29",
+  "title": "[RIGOL] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information / Overseas Regulatory Announcement - Trading Update)",
+  "time": "2026-10-28 18:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LINMON MEDIA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:29",
+  "title": "[TIME INTERCON] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-10-28 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CAM RMBTMMF A CAM HKDTMMF A CAM USDTMMF A CAM USDTMMF-U A CAM RMBTMMF-R] E_SCB_summ_CAMCDMMFETF_20261028.xlsx",
-  "time": "2026-10-28 17:29",
+  "title": "[TECHTRONIC IND] Next Day Disclosure Return(Equity issuer - changes in issued share capital and/or share buybacks) (Share Buyback)",
+  "time": "2026-10-28 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TSAKER NE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:28",
+  "title": "[STAR SPORTS MED] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 18:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FLAT GLASS] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
-  "time": "2026-10-28 17:28",
+  "title": "[HENGAN INT'L] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-10-28 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] ANNOUNCEMENT - Daily Targeted Leverage Factor (Matters relating to Collective Investment Schemes)",
-  "time": "2026-10-28 17:28",
+  "title": "[COWELL] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-28 18:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KLN] Continuing Connected Transactions",
-  "time": "2026-10-28 17:27",
+  "title": "[HENGAN INT'L] APPOINTMENT OF CHAIRMAN AND VICE CHAIRMAN OF THE BOARD AND CHANGE IN COMPOSITION OF BOARD COMMITTEE (Change in Directors or o",
+  "time": "2026-10-28 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AVICHINA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-10-28 17:26",
+  "title": "[GBA HOLDINGS] POSTPONEMENT OF SPECIAL GENERAL MEETING, CHANGE OF CLOSURE OF REGISTER OF MEMBERS AND CHANGE OF VENUE OF SPECIAL GENERAL MEET",
+  "time": "2026-10-28 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[NEW ORIENTAL-S] UNAUDITED FINANCIAL RESULTS FOR THE FIRST QUARTER ENDED AUGUST 31, 2026 (Quarterly Results)",
-  "time": "2026-10-28 17:25",
+  "title": "[CPIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-10-28 18:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEDLIVE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:24",
+  "title": "[HGI BTC HGI BTC-U] 9439 & 3439 News",
+  "time": "2026-10-28 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[RSUN PPT] INSIDE INFORMATION - UPDATE ON THE PROPOSED RESTRUCTURING OF OFFSHORE DEBTS (Inside Information)",
-  "time": "2026-10-28 17:24",
+  "title": "[ZHEJIANGEXPRESS] Key Financial Information of Zheshang Securities Co., Ltd. for the Third Quarter Ended September 30, 2026 (Results of a Su",
+  "time": "2026-10-28 17:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TBKS HLDGS] 2026 Environmental, Social and Governance Report (Environmental, Social and Governance Information/Report)",
-  "time": "2026-10-28 17:22",
+  "title": "[CPIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-10-28 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TENFU] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:22",
+  "title": "[UBOX ONLINE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[UB#HSI RP2903X UB#HSI RP29032 UB#HSI RC28106] Notice of Valuation of Mandatory Call Payoff issued by UBS AG (Expiry Announcement - CBBC / R",
-  "time": "2026-10-28 17:20",
+  "title": "[CAM HKHIDIV CAM HKHIDIV A CAM HKHIDIV-U CAM HKHIDIV A-U CAM HKHIDIV-R CAM HKHIDIV A-R] Stock Code: 3592 3590 41590 41592 83590 83592 Inform",
+  "time": "2026-10-28 17:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TBKS HLDGS] 2026 ANNUAL REPORT (Annual Report)",
-  "time": "2026-10-28 17:18",
+  "title": "[CAM HKGROWTH CAM HKGROWTH-U CAM HKGROWTH-R] Stock Code: 3459 9459 83459 Information",
+  "time": "2026-10-28 17:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BESTSTUDY EDU] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-28 17:17",
+  "title": "[A BOS RMB MM A BOS RMB MM-R] Stock Code: 3192 Information",
+  "time": "2026-10-28 17:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[KWAN YONG] NOTIFICATION LETTER WITH REQUEST FORM TO NON-REGISTERED SHAREHOLDERS - NOTIFICATION OF PUBLICATION OF (i) ANNUAL REPORT 2026; (i",
-  "time": "2026-10-28 17:17",
+  "title": "[YEAHKA] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 17:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FSE LIFESTYLE] Notice of Annual General Meeting (Notice of AGM)",
-  "time": "2026-10-28 17:15",
+  "title": "[CPIC] OVERSEAS REGULATORY ANNOUNCEMENT - Summary of Quarterly Solvency Report (Excerpts) (China Pacific Property Insurance Co., Ltd.) (3rd ",
+  "time": "2026-10-28 17:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUANGNAN (HOLD)] UNAUDITED QUARTERLY RESULTS ANNOUNCEMENT FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2026 (Quarterly Results)",
-  "time": "2026-10-28 17:15",
+  "title": "[A VP USD MM A VP USD MM-U] Stock Code: 3480 Information",
+  "time": "2026-10-28 17:54",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FSE LIFESTYLE] Proxy Form",
-  "time": "2026-10-28 17:15",
+  "title": "[HGI STAR CHIP HGI STAR CHIP-U] Product Key Facts (Authorised Collective Investment Scheme)",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DALIPAL HLDG] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENFLEET-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUITONGDA NET] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A VP HKD MM] Stock Code: 3421 Information",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HGI STAR CHIP HGI STAR CHIP-U] Prospectus (Authorised Collective Investment Scheme)",
+  "time": "2026-10-28 17:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HGI ETH HGI ETH-U] 9179 & 3179 News",
+  "time": "2026-10-28 17:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A VP RMB MM A VP RMB MM-R] Stock Code: 3420 Information",
+  "time": "2026-10-28 17:53",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[东方日升] 关于延期披露2026年第三季度报告的公告",
-  "time": "2026-10-28 17:30",
+  "title": "[港迪技术] 北京市通商（深圳）律师事务所关于武汉港迪技术股份有限公司2026年第一次临时股东会的法律意见书",
+  "time": "2026-10-28 17:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[ST凯利] 关于申请撤销其他风险警示的进展公告",
-  "time": "2026-10-28 17:28",
+  "title": "[港迪技术] 2026年第一次临时股东会决议公告",
+  "time": "2026-10-28 17:54",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中兰环保] 关于公司实际控制人及其一致行动人内部拟协议转让公司股份的进展暨签署补充协议的公告",
-  "time": "2026-10-28 17:26",
+  "title": "[苏州天脉] 北京国枫律师事务所关于苏州天脉导热科技股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-10-28 17:42",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[奥克股份] 关于公司民事诉讼事项进展暨收到执行裁定书的公告",
-  "time": "2026-10-28 17:22",
+  "title": "[苏州天脉] 2026年第三次临时股东会决议公告",
+  "time": "2026-10-28 17:42",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[瑞晨环保] 第三届董事会第十七次会议决议公告",
-  "time": "2026-10-28 17:18",
+  "title": "[金埔园林] 2026年第三季度经营情况简报",
+  "time": "2026-10-28 17:38",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[瑞晨环保] 关于对外投资设立合资公司暨关联交易的公告",
-  "time": "2026-10-28 17:18",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[安诺其] 关于部分募集资金专户注销完成的公告",
-  "time": "2026-10-28 17:09",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华灿光电] 关于2026年度第一期中期票据（科技创新债券）发行结果的公告",
-  "time": "2026-10-28 17:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[钧崴电子] 2026年前三季度权益分派实施公告",
-  "time": "2026-10-28 17:08",
+  "title": "[通光线缆] 关于提供担保的进展公告",
+  "time": "2026-10-28 17:38",
   "level": "🟢"
  }
 ]
