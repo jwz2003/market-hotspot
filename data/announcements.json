@@ -1,184 +1,44 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMMUNEONCO-B] PROPOSED CHANGE OF AUDITOR (Change in Auditors subject to Shareholders' Approval)",
-  "time": "2026-10-28 22:38",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FirstCash Holdings, Inc. — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
  },
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "MetaVia Inc. — 8-K",
+  "title": "CITIZENS & NORTHERN CORP — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "E.W. SCRIPPS Co — 8-K",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Strategy Inc — 其他重大事件",
+  "time": "2026-10-28",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Fidelity Core Real Estate Fund — 8-K",
   "time": "2026-10-28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:56",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:53",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZAI LAB] Next Day Disclosure Return (Others)",
-  "time": "2026-10-28 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:52",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:51",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:49",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIANGXI COPPER] ANNOUNCEMENT IN RELATION TO THE CONVENING OF THE 2026 THIRD QUARTERLY RESULTS BRIEFING (Overseas Regulatory Announcement - ",
-  "time": "2026-10-28 22:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[REPT BATTERO] INSIDE INFORMATION - COMPLETION OF FILING OF THE APPLICATION FOR THE COMPANY'S H SHARE FULL CIRCULATION WITH THE CSRC (Inside",
-  "time": "2026-10-28 22:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIANGXI COPPER] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Overseas Regulatory Announcement - Trading Update / Inside Information)",
-  "time": "2026-10-28 22:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:44",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SD GOLD] CONTINUING CONNECTED TRANSACTIONS NEW COMPREHENSIVE SERVICE FRAMEWORK AGREEMENT (Continuing Connected Transaction)",
-  "time": "2026-10-28 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GPIXEL] (1) CHANGE OF JOINT COMPANY SECRETARIES, AUTHORISED REPRESENTATIVES AND PROCESS AGENT AND (2) WAIVER FROM STRICT COMPLIANCE WITH RU",
-  "time": "2026-10-28 22:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUND HKEX TECH] 3456 NEWS",
-  "time": "2026-10-28 22:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SD GOLD] REVISION OF THE ANNUAL CAPS OF CONTINUING CONNECTED TRANSACTIONS UNDER THE NEW COMPREHENSIVE SERVICE FRAMEWORK AGREEMENT (Continui",
-  "time": "2026-10-28 22:37",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[节能铁汉] 中国银河证券股份有限公司关于担任中节能铁汉生态环境股份有限公司重大资产出售及重大资产购买暨关联交易独立财务顾问的承诺函",
-  "time": "2026-10-28 20:28",
+  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
+  "time": "2026-10-28 22:36",
   "level": "🟢"
  }
 ]
