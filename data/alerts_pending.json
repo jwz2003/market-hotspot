@@ -10886,5 +10886,21 @@
   "detail": "现价 11473.181，突破波动阈值 1.5%",
   "value": 2.023,
   "time": "2026-10-28 17:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "天然气 +2.46%",
+  "detail": "现价 3.078，突破波动阈值 2.0%",
+  "value": 2.463,
+  "time": "2026-10-28 22:07"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[GOLDSTONE CAP] THE SPECIAL INVESTIGATION COMMITTEE REPORT A",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-10-28 22:07"
  }
 ]
