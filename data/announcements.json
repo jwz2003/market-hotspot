@@ -1,282 +1,422 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JIANGSU EXPRESS] ANNOUNCEMENT - CHANGES IN THE BOOK CLOSE FOR REGISTRATION OF TRANSFERS OF H SHARES AND THE PAYMENT DATE FOR THE 2026 INTER",
-  "time": "2026-10-29 22:06",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Rising Dragon Acquisition Corp. — 8-K",
+  "time": "2026-10-29",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Hancock Park Corporate Income, Inc. — 经营业绩",
+  "time": "2026-10-29",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Inflection Point Acquisition Corp. VI — 8-K",
+  "time": "2026-10-29",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[YUNKANG GROUP] DISCLOSEABLE TRANSACTION IN RELATION TO THE ACQUISITION OF 24.0508% EQUITY INTEREST IN CHONGQING LIANXIN (Discloseable Trans",
-  "time": "2026-10-29 21:50",
+  "title": "[LING YUE SER GP] DISCLOSEABLE TRANSACTION ACQUISITION OF THE LAND IN SICHUAN THROUGH PUBLIC TENDER (Discloseable Transaction)",
+  "time": "2026-10-29 22:29",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA LONGYUAN] CONNECTED TRANSACTION - ACQUISITION OF 49% EQUITY INTEREST IN GUANGDONG GUONENG LONGYUAN (Connected Transaction)",
-  "time": "2026-10-29 21:49",
+  "title": "[JIANGSU EXPRESS] Changes in the Book Close for Registration of Transfers of H Shares and the Payment Date for the 2026 Interim Dividend (Di",
+  "time": "2026-10-29 22:18",
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS HIGH DIV] HANG SENG HIGH DIVIDEND 30 INDEX ETF <03466> INFORMATION",
-  "time": "2026-10-29 21:49",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ODNB Financial Corp — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEXCELLENT GP] FINAL DIVIDEND FOR THE YEAR ENDED 31 JULY 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-10-29 21:47",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KENNAMETAL INC — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEXCELLENT GP] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 JULY 2026 (Final Results / Dividend or Distribution / Closure of Books or ",
-  "time": "2026-10-29 21:44",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "X4 Pharmaceuticals, Inc — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[B & S INTL HLDG] JOINT ANNOUNCEMENT - (1) SALE AND PURCHASE AGREEMENT IN RELATION TO 75% OF THE TOTAL ISSUED SHARE CAPITAL OF B & S INTERNA",
-  "time": "2026-10-29 22:08",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Pittsburgh — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TRIMAS CORP — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "TRINITY INDUSTRIES INC — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Topeka — 2.03",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Indianapolis — 2.03",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Dream Finders Homes, Inc. — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Celularity Inc — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ADT Inc. — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Federal Home Loan Bank of Cincinnati — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KKR FS Income Trust Select — 其他重大事件",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "KKR FS Income Trust — 其他重大事件",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Catalyst Bancorp, Inc. — 8-K",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Varex Imaging Corp — 5.07",
+  "time": "2026-10-29",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LSB INDUSTRIES, INC. — 附件",
+  "time": "2026-10-29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZJ INNOLIGHT] ANNOUNCEMENT ON PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND PROPOSED APPOINTMENT OF H SHARE AUDITOR FOR 2026 (Amen",
-  "time": "2026-10-29 22:07",
+  "title": "[GF SEC] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Overseas Regulatory Announcement - Trading Update / Inside Information)",
+  "time": "2026-10-29 22:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGFANG ELEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-10-29 22:06",
+  "title": "[CMSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-29 22:37",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA ENV TEC] QUARTERLY UPDATES IN RELATION TO RESOLVING DISCLAIMER OF OPINION (Other - Miscellaneous)",
-  "time": "2026-10-29 22:06",
+  "title": "[LONGSYS] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information)",
+  "time": "2026-10-29 22:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FIRST TRACTOR] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-10-29 22:05",
+  "title": "[BANK OF GUIZHOU] FINANCIAL DATA SUMMARY FOR THE THIRD QUARTER OF 2026 (Inside Information / Other - Trading Update)",
+  "time": "2026-10-29 22:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGFANG ELEC] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information)",
-  "time": "2026-10-29 22:03",
+  "title": "[LONGSYS] FORM OF PROXY FOR THE 2026 THIRD EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-10-29 22:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DATANG POWER] ANNOUNCEMENT RESOLUTION PASSED AT THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING (Results of EGM/SGM)",
-  "time": "2026-10-29 22:03",
+  "title": "[CMSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-10-29 22:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ZJ INNOLIGHT] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information)",
-  "time": "2026-10-29 22:02",
+  "title": "[SOUTHGOBI] DATE OF SPECIAL MEETING OF SHAREHOLDERS AND THE RECORD DATE (Notice of EGM/SGM / Closure of Books or Change of Book Closure Peri",
+  "time": "2026-10-29 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EDGE MEDICAL-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-10-29 22:02",
+  "title": "[LONGSYS] NOTICE OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-10-29 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MEGA GENOMICS] CONTINUING CONNECTED TRANSACTIONS - PROPOSED REVISION OF THE 2026 ANNUAL CAP UNDER THE 2024 MEINIAN FRAMEWORK AGREEMENT (Con",
-  "time": "2026-10-29 22:00",
+  "title": "[ZXZN QI-HSE-5K] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-10-29 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA JINMAO] ANNOUNCEMENT DISCLOSEABLE TRANSACTION PROVISION OF LOANS (Discloseable Transaction)",
-  "time": "2026-10-29 22:00",
+  "title": "[ZXZN QI-HSE-5K] RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTOR, CHANGE IN COMPOSITION OF BOARD COMMITTEES AND NON-COMPLIANCE WITH THE GE",
+  "time": "2026-10-29 22:33",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[IRC] DISCLOSEABLE TRANSACTION PURCHASE OF MINING EQUIPMENT (Discloseable Transaction)",
-  "time": "2026-10-29 22:00",
+  "title": "[CICC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-10-29 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGFANG ELEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-10-29 21:57",
+  "title": "[BANK OF GUIZHOU] MOUTAI GROUP SUBSCRIPTION DOCUMENT",
+  "time": "2026-10-29 22:32",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TRIGIANT] VOLUNTARY ANNOUNCEMENT - BUSINESS UPDATE (Other - Business Update)",
-  "time": "2026-10-29 21:56",
+  "title": "[CMSC] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-10-29 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSAI ETF] Hang Seng AI Advancement ETF <03438> INFORMATION",
-  "time": "2026-10-29 21:53",
+  "title": "[LONGSYS] CIRCULAR FOR THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Amendment of Constitutional Documents / Other)",
+  "time": "2026-10-29 22:31",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Legal Opinion from CM Law Firm on the Adjustment of the Exercise Price, Cancellation of Cert",
-  "time": "2026-10-29 21:52",
+  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 3005, 3033, 3153, 3432, 3193, 2822, 3147 NEWS",
+  "time": "2026-10-29 22:29",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
-  "time": "2026-10-29 21:52",
+  "title": "[COMEC] CONTINUING CONNECTED TRANSACTIONS AND MAJOR TRANSACTIONS 2027 FINANCIAL SERVICES FRAMEWORK AGREEMENT (Major Transaction / Continuing",
+  "time": "2026-10-29 22:28",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LYGEND RESOURCE] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information)",
-  "time": "2026-10-29 21:51",
+  "title": "[CHONGQING M&E] PROXY FORM FOR THE 2026 SECOND EXTRAORDINARY GENERAL MEETING TO BE HELD ON WEDNESDAY, 18 NOVEMBER 2026 (OR ANY ADJOURNMENT T",
+  "time": "2026-10-29 22:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[VGT] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Inside Information)",
-  "time": "2026-10-29 21:50",
+  "title": "[CMSC] (1) POLL RESULTS OF THE 2026 FIRST EXTRAORDINARY GENERAL MEETING HELD ON OCTOBER 29, 2026; (2) APPOINTMENT OF EXECUTIVE DIRECTOR; AND",
+  "time": "2026-10-29 22:27",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
-  "time": "2026-10-29 21:50",
+  "title": "[LVJI TECH] Documents on Display",
+  "time": "2026-10-29 22:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAIRONG AI-W] FORM OF PROXY FOR USE AT THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON TUESDAY, NOVEMBER 17, 2026",
-  "time": "2026-10-29 21:48",
+  "title": "[COMEC] CONTINUING CONNECTED TRANSACTIONS AND MAJOR TRANSACTIONS 2027 FRAMEWORK AGREEMENT (Major Transaction / Continuing Connected Transact",
+  "time": "2026-10-29 22:26",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Review Opinion of the Remuneration and Appraisal Committee of the Board on Matters Related t",
-  "time": "2026-10-29 21:47",
+  "title": "[BANK OF GUIZHOU] PROXY FORM FOR THE FIRST H SHAREHOLDERS CLASS MEETING OF 2026 (OR ANY ADJOURNMENT THEREOF) TO BE HELD ON 18 NOVEMBER 2026",
+  "time": "2026-10-29 22:25",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA LONGYUAN] ANNOUNCEMENT - COMPLETION OF ISSUANCE OF ULTRA SHORT-TERM DEBENTURES (Other - Miscellaneous)",
-  "time": "2026-10-29 21:47",
+  "title": "[CMSC] ANNOUNCEMENT CONNECTED TRANSACTION FORMATION OF THE FUND (Connected Transaction)",
+  "time": "2026-10-29 22:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
-  "time": "2026-10-29 21:47",
+  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3101, 3030, 3447 NEWS",
+  "time": "2026-10-29 22:24",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on the Fulfillment of Exercise Conditions for the Fourth Exercise Period of the",
-  "time": "2026-10-29 21:46",
+  "title": "[CH ENERGY ENG] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-10-29 22:23",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
-  "time": "2026-10-29 21:46",
+  "title": "[BANK OF GUIZHOU] PROXY FORM FOR THE FIRST EXTRAORDINARY GENERAL MEETING OF 2026 (OR ANY ADJOURNMENT THEREOF) TO BE HELD ON 18 November 2026",
+  "time": "2026-10-29 22:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on Cancellation of Certain Stock Options under the 2022 Stock Option Incentive ",
-  "time": "2026-10-29 21:45",
+  "title": "[COMEC] THIRD QUARTERLY REPORT OF 2026 (Overseas Regulatory Announcement - Trading Update / Quarterly Results)",
+  "time": "2026-10-29 22:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAIRONG AI-W] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-10-29 21:45",
+  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP PIONR TECH CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 343",
+  "time": "2026-10-29 22:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA LONGYUAN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='f",
-  "time": "2026-10-29 21:44",
+  "title": "[CHONGQING M&E] NOTICE OF THE EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-10-29 22:22",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CARRIANNA] GRANT OF WAIVER FROM STRICT COMPLIANCE WITH RULE 14.41(A) OF THE LISTING RULES (Major Transaction / Delay in Dispatch of Circula",
-  "time": "2026-10-29 21:44",
+  "title": "[CH ENERGY ENG] ANNOUNCEMENT ON MAJOR OPERATING INFORMATION FOR THE THIRD QUARTER OF 2026 (Inside Information)",
+  "time": "2026-10-29 22:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CQRC BANK] ANNOUNCEMENT NOMINATION OF EXECUTIVE DIRECTOR AND APPOINTMENT OF PRESIDENT (Change in Directors or of Important Executive Functi",
-  "time": "2026-10-29 21:44",
+  "title": "[ZJ INNOLIGHT] NOTICE OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period",
+  "time": "2026-10-29 22:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SF HOLDING] Overseas Regulatory Announcement - Announcement on the Adjustment of the Exercise Price of the Company's 2022 Stock Option Ince",
-  "time": "2026-10-29 21:44",
+  "title": "[CMSC] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Overseas Regulatory Announcement - Trading Update / Inside Information)",
+  "time": "2026-10-29 22:21",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSTECH ETF] HANG SENG TECH INDEX ETF < 03032> INFORMATION",
-  "time": "2026-10-29 21:44",
+  "title": "[LUXSHARE ICT] ESTIMATED RESULTS FOR THE YEAR ENDING 31 DECEMBER 2026 (Other - Trading Update)",
+  "time": "2026-10-29 22:20",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JUNSHI BIO] OVERSEAS REGULATORY ANNOUNCEMENT - SHANGHAI JUNSHI BIOSCIENCES CO., LTD.* ANNOUNCEMENT ON CASH MANAGEMENT BY USING TEMPORARILY ",
-  "time": "2026-10-29 21:44",
+  "title": "[ZGC TEC LEASING] UNAUDITED FINANCIAL STATEMENTS OF THE GROUP FOR THE THIRD QUARTER OF 2026 (Inside Information / Overseas Regulatory Announ",
+  "time": "2026-10-29 22:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BANK OF GUIZHOU] NOTICE OF THE FIRST H SHAREHOLDERS CLASS MEETING OF 2026 (Notice of EGM/SGM / Issue of Shares under a Specific Mandate / P",
+  "time": "2026-10-29 22:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COMEC] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-10-29 22:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH ENERGY ENG] 2026 THIRD QUARTERLY REPORT (Quarterly Results / Overseas Regulatory Announcement - Trading Update / Inside Information)",
+  "time": "2026-10-29 22:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LONGSYS] CHANGE IN REGISTERED CAPITAL, AMENDMENTS TO THE ARTICLES OF ASSOCIATION AND FILING OF CHANGES TO INDUSTRIAL AND COMMERCIAL REGISTR",
+  "time": "2026-10-29 22:18",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIRST TRACTOR] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-10-29 22:18",
   "level": "🟢"
  }
 ]
