@@ -10998,5 +10998,21 @@
   "detail": "高危关键词命中",
   "value": null,
   "time": "2026-10-29 20:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "天然气 -3.10%",
+  "detail": "现价 2.938，跌破波动阈值 2.0%",
+  "value": -3.1,
+  "time": "2026-10-29 21:20"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[SF REIT] Joint Announcement:(1)Proposed Very Substantial Di",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-10-29 21:20"
  }
 ]
