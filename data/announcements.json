@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FL2CSOPNASDAQ] 7266 NEWS",
+  "time": "2026-10-29 13:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FL2CSOPGOLD] 7299 NEWS",
+  "time": "2026-10-29 13:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CSOP NASDAQ100] 3034 NEWS",
+  "time": "2026-10-29 13:45",
+  "level": "🟢"
+ }
+]
