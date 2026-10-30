@@ -11246,5 +11246,37 @@
   "detail": "现价 94.87，24h 波动超 5.0%",
   "value": -5.808,
   "time": "2026-10-30 22:07"
+ },
+ {
+  "level": "🟡",
+  "market": "加密",
+  "title": "BTC 24h -5.63%",
+  "detail": "现价 76766.0，24h 波动超 5.0%",
+  "value": -5.635,
+  "time": "2026-10-30 22:37"
+ },
+ {
+  "level": "🟡",
+  "market": "加密",
+  "title": "ETH 24h -5.43%",
+  "detail": "现价 2221.23，24h 波动超 5.0%",
+  "value": -5.433,
+  "time": "2026-10-30 22:37"
+ },
+ {
+  "level": "🟡",
+  "market": "加密",
+  "title": "XRP 24h -5.44%",
+  "detail": "现价 1.2344，24h 波动超 5.0%",
+  "value": -5.439,
+  "time": "2026-10-30 22:37"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[FICUS TECH] UPDATES ON DISCLAIMER OF OPINION ON GOING CONCE",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-10-30 22:37"
  }
 ]
