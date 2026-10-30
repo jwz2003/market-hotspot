@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 18.65,
-  "pct": 8.44
+  "price": 18.72,
+  "pct": 8.84
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 3975.8,
-  "pct": -1.38
+  "price": 3973.3,
+  "pct": -1.44
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 50.2,
-  "pct": -4.15
+  "price": 50.15,
+  "pct": -4.27
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 104.06,
-  "pct": 2.02
+  "price": 104.0,
+  "pct": 1.96
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.5,
-  "pct": -1.63
+  "price": 6.52,
+  "pct": -1.2
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 2.87,
-  "pct": -2.91
+  "price": 2.88,
+  "pct": -2.34
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.66,
-  "pct": -0.37
+  "price": 101.68,
+  "pct": -0.35
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.65,
-  "pct": -0.08
+  "pct": -0.07
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.08,
-  "pct": -0.36
+  "price": 157.15,
+  "pct": -0.32
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.16
+  "pct": 0.07
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
   "price": 77496.01,
-  "pct": -3.29
+  "pct": -3.25
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2236.29,
-  "pct": -3.73
+  "price": 2235.76,
+  "pct": -3.71
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 96.66,
-  "pct": -3.63
+  "price": 96.76,
+  "pct": -3.66
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 700.4,
-  "pct": -5.29
+  "price": 699.57,
+  "pct": -5.6
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.25,
-  "pct": -3.43
+  "pct": -3.12
  }
 ]
