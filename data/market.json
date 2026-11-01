@@ -11,7 +11,7 @@
   "symbol": "^IXIC",
   "name": "纳斯达克",
   "price": 25437.0,
-  "pct": -2.86
+  "pct": -2.85
  },
  {
   "cat": "index",
@@ -122,35 +122,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 77994.0,
-  "pct": 0.35
+  "price": 77974.0,
+  "pct": 0.34
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2265.01,
-  "pct": 0.37
+  "price": 2266.78,
+  "pct": 0.43
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 94.72,
-  "pct": -1.48
+  "price": 94.63,
+  "pct": -1.59
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 711.35,
-  "pct": 0.54
+  "price": 710.7,
+  "pct": 0.5
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.25,
-  "pct": -0.41
+  "pct": -0.29
  }
 ]
