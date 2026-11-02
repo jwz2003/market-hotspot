@@ -1,72 +1,135 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Copley Acquisition Corp — 8-K",
-  "time": "2026-10-30",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[APOLLO FMG] LAPSE OF DISCLOSEABLE TRANSACTION IN RELATION TO ACQUISITION OF THE ENTIRE EQUITY INTEREST OF THE TARGET COMPANY (Discloseable ",
-  "time": "2026-11-02 20:20",
-  "level": "🟡"
- },
- {
   "src": "巨潮",
   "market": "A股",
-  "title": "[宁德时代] 关于回购公司A股股份的进展公告",
-  "time": "2026-11-02 20:26",
+  "title": "[永福股份] 关于参股公司股权重组暨关联交易终止的公告",
+  "time": "2026-11-02 19:30",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BAMA TEA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-02 20:37",
+  "title": "[WALNUT CAP] INSIDE INFORMATION (1) PLACING OF EXISTING SHARES BY CONTROLLING SHAREHOLDER; (2) CLARIFICATION IN RELATION TO THE TRADING HALT",
+  "time": "2026-11-02 21:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TUHU-W] Next Day Disclosure Return - Changes in issued shares and share buybacks (Share Buyback / Others)",
-  "time": "2026-11-02 20:37",
+  "title": "[VOYAH AUTO] PROXY FORM FOR THE 2026 SECOND EXTRAORDINARY GENERAL MEETING",
+  "time": "2026-11-02 21:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] INSIDE INFORMATION ENTERING INTO OF THE SETTLEMENT AGREEMENT AND UPDATE ON THE WINDING-UP PETITION (Inside Information / Win",
-  "time": "2026-11-02 20:36",
+  "title": "[NEW TIMES CORP] Monthly Return for Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-02 21:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HISENSE HA] Next Day Disclosure Return (Others)",
-  "time": "2026-11-02 20:36",
+  "title": "[VOYAH AUTO] NOTICE OF THE 2026 SECOND EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-02 20:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CATL] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-02 20:36",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-11-02 20:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XI2CSOPSMSN XL2CSOPHYNIX XL2CSOPSMSN] 7747, 7347,7709 NEWS",
-  "time": "2026-11-02 20:31",
+  "title": "[VOYAH AUTO] (1) PROPOSED GRANT OF A GENERAL MANDATE FOR THE PURCHASE OF LIABILITY INSURANCE FOR DIRECTORS, SENIOR MANAGEMENT AND OTHER RELE",
+  "time": "2026-11-02 20:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FL2 CSOP HSI XL2CSOPHSTECH FL2 CSOP NIKKEI FL2 CSOP HSCEI FI CSOP HSI FI2 CSOP HSI FI2 CSOP NIKKEI XI2CSOPHSTECH FI2 CSOP HSCEI] 7200, 7300",
-  "time": "2026-11-02 20:30",
+  "title": "[HING LEE (HK)] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-02 20:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HAOHAI BIOTEC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
+  "time": "2026-11-02 20:53",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-11-02 20:52",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DEEPZERO-NEW] VOLUNTARY ANNOUNCEMENT ENTERING INTO A STRATEGIC COOPERATION FRAMEWORK AGREEMENT WITH BEIJING BAIDU NETCOM SCIENCE TECHNOLOGY",
+  "time": "2026-11-02 20:49",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YUNJING DIGITEC] GRANT OF SHARE OPTIONS (Share Scheme)",
+  "time": "2026-11-02 20:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DUALITYBIO-B] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-11-02 20:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
+  "time": "2026-11-02 20:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA SANJIANG] CONTINUING CONNECTED TRANSACTIONS (1) NEW STEAM SUPPLY FRAMEWORK AGREEMENT (2) NEW FATTY ALCOHOL SUPPLY FRAMEWORK AGREEMENT",
+  "time": "2026-11-02 20:44",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[INNOSCIENCE] GRANT OF SHARE AWARD UNDER THE 2025 SHARE AWARD PLAN (Share Scheme)",
+  "time": "2026-11-02 20:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VIGONVITA-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-02 20:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BESUNYEN] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-02 20:40",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HBM HOLDINGS-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-02 20:39",
   "level": "🟢"
  },
  {
@@ -79,225 +142,8 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[AP RENTALS] Monthly Return for Equity Issuer and Hong Kong Depositary Receipts listed under Chapter 19B of the Exchange Listing Rules on Mo",
-  "time": "2026-11-02 20:29",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SOFTMEDX] PLACING OF NEW SHARES UNDER GENERAL MANDATE (Issue of Shares under a General Mandate)",
-  "time": "2026-11-02 20:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EDDING GENOR] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-02 20:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HISENSE HA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-02 20:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FB SSH HIGH DIV] Summary Information",
-  "time": "2026-11-02 20:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
   "title": "[FB TW SEMICON] Summary Information (3076)",
   "time": "2026-11-02 20:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
-  "time": "2026-11-02 20:24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MILLIONHOPE IND] Date of Board Meeting (Date of Board Meeting)",
-  "time": "2026-11-02 20:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHANGHAI XNG] Notification Letter and Reply Form to Non-registered Shareholders (Other)",
-  "time": "2026-11-02 20:19",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHANGYOU INT GP] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 October 2026",
-  "time": "2026-11-02 20:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LUZHU BIOTECH-B] DISCLOSABLE TRANSACTIONS IN RELATION TO SUBSCRIPTION AND DISPOSALS OF WEALTH MANAGEMENT PRODUCTS (Discloseable Transaction",
-  "time": "2026-11-02 20:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHANGHAI XNG] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-11-02 20:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SAINT BELLA GP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-02 20:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LUZHU BIOTECH-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-02 20:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KINGWORLD] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-02 20:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA JINMAO] Next Day Disclosure Return (Others)",
-  "time": "2026-11-02 20:14",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CICC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters)",
-  "time": "2026-11-02 20:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XINXIN MINING] ANNOUNCEMENT - CLOSURE OF REGISTER OF MEMBERS (Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-02 20:11",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHANGHAI XNG] FORM OF PROXY FOR USE AT EXTRAORDINARY GENERAL MEETING",
-  "time": "2026-11-02 20:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[C&D NEWIN] CONTINUING CONNECTED TRANSACTIONS (1) RENEWED PAPERBOARD SALES FRAMEWORK AGREEMENT; AND (2) RENEWED PAPER PULP PROCUREMENT FRAME",
-  "time": "2026-11-02 20:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LUXSHARE ICT] REVISION OF ANNUAL CAPS OF CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction)",
-  "time": "2026-11-02 20:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[先导智能] H股公告-翌日披露报表",
-  "time": "2026-11-02 20:28",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[宁德时代] 上海市通力律师事务所关于宁德时代新能源科技股份有限公司2026年第二次临时股东会的法律意见书",
-  "time": "2026-11-02 20:27",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[宁德时代] 2026年第二次临时股东会决议公告",
-  "time": "2026-11-02 20:27",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[和仁科技] 简式权益变动报告（磐源投资及磐鸿投资）",
-  "time": "2026-11-02 20:21",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[和仁科技] 关于控股股东及其一致行动人之间内部协议转让股份暨权益变动的提示性公告",
-  "time": "2026-11-02 20:19",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[和仁科技] 详式权益变动报告书（杨一兵）",
-  "time": "2026-11-02 20:19",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中际旭创] H股公告（截至2026年10月31日止股份发行人的证券变动月报表）",
-  "time": "2026-11-02 20:18",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[星源卓镁] 关于卓镁转债2026年付息的公告",
-  "time": "2026-11-02 20:09",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[移为通信] 上海市锦天城律师事务所关于公司2026年第三次临时股东会的法律意见书",
-  "time": "2026-11-02 20:07",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[全志科技] 关于2023年限制性股票激励计划第二类限制性股票预留授予部分第三个归属期归属结果暨股份上市的公告",
-  "time": "2026-11-02 20:07",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[移为通信] 2026年第三次临时股东会决议公告",
-  "time": "2026-11-02 20:07",
   "level": "🟢"
  }
 ]
