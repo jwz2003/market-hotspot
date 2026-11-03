@@ -1,534 +1,254 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST仕净] 关于公司股票交易被实施退市及其它风险警示相关事项的进展公告",
-  "time": "2026-11-03 18:36",
-  "level": "🔴"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[正业科技] 关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-  "time": "2026-11-03 18:36",
-  "level": "🔴"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Starlink AI Acquisition Corp — 8-K",
-  "time": "2026-11-02",
-  "level": "🟡"
- },
- {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MINSHENG BANK] ANNOUNCEMENT ON APPROVAL OF THE QUALIFICATION OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Funct",
-  "time": "2026-11-03 19:03",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENIOR MATERIAL] Dividend for the first three quarters ended 30 September 2026 (Dividend or Distribution (Announcement Form))",
-  "time": "2026-11-03 19:01",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENIOR MATERIAL] PROFIT DISTRIBUTION PROPOSAL FOR THE FIRST THREE QUARTERS OF 2026 (Dividend or Distribution)",
-  "time": "2026-11-03 18:55",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[QHD PORT] 1) MAJOR AND CONNECTED TRANSACTION - ACQUISITION OF EQUITY INTERESTS IN THE TARGET COMPANIES INVOLVING THE ISSUANCE OF THE CONSID",
-  "time": "2026-11-03 18:53",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NIU HOLDINGS] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO PROPOSED APPOINTMENT OF AUDITOR (Change in Auditors subject to Shareholders' Approva",
-  "time": "2026-11-03 18:52",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[满坤科技] 关于回购公司股份的进展公告",
-  "time": "2026-11-03 19:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[杰创智能] 回购报告书",
-  "time": "2026-11-03 18:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[卓胜微] 关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
-  "time": "2026-11-03 18:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[卓胜微] 关于回购公司股份的进展公告",
-  "time": "2026-11-03 18:36",
+  "title": "[MOKINGRAN] PROPOSED CHANGE OF AUDITORS; AND NOTICE OF 2026 FIRST EXTRAORDINARY GENERAL MEETING (Change in Auditors subject to Shareholders'",
+  "time": "2026-11-03 19:25",
   "level": "🟡"
  },
  {
   "src": "SEC 8-K",
   "market": "美股",
-  "title": "MERCER INTERNATIONAL INC. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NEWS CORP — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SmartStop Self Storage REIT, Inc. — 其他重大事件",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Archrock, Inc. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Aimei Health Technology Co., Ltd. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CORVEL CORP — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Midland States Bancorp, Inc. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "LOUISIANA-PACIFIC CORP — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Allegiant Travel CO — RegFD披露",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Bambusa Therapeutics, Inc. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "DOUGLAS DYNAMICS, INC — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Curaleaf Holdings, Inc. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "LIBERTY STAR URANIUM & METALS CORP. — RegFD披露",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Black Stone Minerals, L.P. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "GLOBAL PAYMENTS INC — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Leidos Holdings, Inc. — 8-K",
-  "time": "2026-11-02",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Tevogen Inc. — 8-K",
+  "title": "Mid-America Apartments, L.P. — 8-K",
   "time": "2026-11-02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WISE SSE50ETF] WISE SSE50 ETF <03024> INFORMATION",
+  "title": "[BANK OF GUIZHOU] PROXY FORM FOR THE SECOND EXTRAORDINARY GENERAL MEETING OF 2026 (OR ANY ADJOURNMENT THEREOF) TO BE HELD ON 18 NOVEMBER 202",
+  "time": "2026-11-03 19:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOLDSTONE CAP] ANNOUNCEMENT (Other - Business Update)",
+  "time": "2026-11-03 19:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SCIENTECH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEDLIVE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOKINGRAN] FOR THE 2026 FIRST EXTRAORDINARY GENERAL MEETING OF MOKINGRAN JEWELLERY GROUP CO., LTD. TO BE HELD AT 2:00 P.M. ON TUESDAY, NOVE",
+  "time": "2026-11-03 19:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TSAKER NE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BANK OF GUIZHOU] NOTICE OF THE SECOND EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Closure of Books or Change of Book Closure",
+  "time": "2026-11-03 19:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LEMO SERVICES] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOKINGRAN] NOTICE OF 2026 FIRST EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-03 19:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MEDICSKIN] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-03 19:29",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENCH EDU] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-03 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PP BEDROCK PREMIA STAR50 PP CN NEWECON PREMIA TW50 PREMIA STAR50-U PREMIA TW50A-U PP CN NEWECON-U PP BEDROCK-U PREMIA STAR50-R] 2803, 9803,",
+  "time": "2026-11-03 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
+  "time": "2026-11-03 19:27",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DINGDANG HEALTH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BANK OF GUIZHOU] REFORM AND RISK MITIGATION PLAN FOR THE RURAL BANKS SPONSORED BY BANK OF GUIZHOU AND NOTICE OF THE SECOND EXTRAORDINARY GE",
+  "time": "2026-11-03 19:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SG GROUP H-NEW] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 OCTOBER 2026",
+  "time": "2026-11-03 19:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISDN HOLDINGS] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 OCTOBER 2026",
+  "time": "2026-11-03 19:21",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CALB] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-03 19:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LIANLIAN] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIRST TRACTOR] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOODBABY INTL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-03 19:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KANTONE HOLDING] PROPOSED ADOPTION OF THE AMENDED AND RESTATED ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
+  "time": "2026-11-03 19:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MING YUAN CLOUD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:15",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP RMB MM] 3122 NEWS",
+  "time": "2026-11-03 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP USD MM] 3096 NEWS",
+  "time": "2026-11-03 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WEB3 META] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-03 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-11-03 19:13",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MINSHENG BANK] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-03 19:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PHARMARON] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-03 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[UBOX ONLINE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:10",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VIGONVITA-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-03 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CREALITY] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 October 2026",
+  "time": "2026-11-03 19:09",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CMS HS TECH] 3423 NEWS",
   "time": "2026-11-03 19:08",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI ESGLEADER HGI ESGLEADER-R] ETF_HKEX_Price_3112026_EN",
-  "time": "2026-11-03 19:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENIOR MATERIAL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='",
-  "time": "2026-11-03 19:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DYNASTY WINES] EXEMPT CONNECTED TRANSACTION: CAPITAL REDUCTION OF A NON-WHOLLY OWNED SUBSIDIRY IN GUIZHOU (Connected Transaction)",
-  "time": "2026-11-03 19:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KAISA CAPITAL] MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 OCTOBER 2026",
-  "time": "2026-11-03 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FE CONSORT INTL] SUPPLEMENTAL ANNOUNCEMENT DISCLOSEABLE TRANSACTIONS IN RELATION TO THE DISPOSAL OF OFFICE, HOTEL AND TOWN HALL IN THE UNIT",
-  "time": "2026-11-03 19:03",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HEARTCARE-B] Monthly Return of Equity Issuer on Movements in Securities for the Month ended 31 October 2026",
-  "time": "2026-11-03 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BEKE-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-03 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SIMCERE PHARMA] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-03 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MACAU E&M] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HENG TAI] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:02",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WUXI LEAD] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 October 2026",
-  "time": "2026-11-03 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DEEP SOURCE] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIAN LUN GAS] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-03 19:01",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HGI MSCI CN A HGI MSCI CN A-R] HARVEST MSCI CHINA A INDEX ETF <83118> <3118> INFORMATION",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GHW INTL] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GUMING] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[RMH HOLDINGS] CHANGE OF ADDRESS OF PRINCIPAL SHARE REGISTRAR AND TRANSFER OFFICE AND REGISTERED OFFICE IN THE CAYMAN ISLANDS (Change in Reg",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FS.COM] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ETHK LABS INC.] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BRAINAURORA-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[QHD PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Issue of Securities and Related Matters / Overseas...<div class='fancy-note-too",
-  "time": "2026-11-03 18:59",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DUALITYBIO-B] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOSIDENG] Next Day Disclosure Return (Others)",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[LONKING] RESIGNATION OF PRESIDENT AND APPOINTMENT OF EXECUTIVE DIRECTOR AND PRESIDENT (Change in Directors or of Important Executive Functi",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[QHD PORT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
-  "time": "2026-11-03 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[7ROAD] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-03 18:57",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EFUNDHSIESG] 3039 Information",
-  "time": "2026-11-03 18:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TOPNC] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-03 18:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HSBIOTECH CAM HSBIOTECH-U CAM HSBIOTECH-R] Summary Information",
-  "time": "2026-11-03 18:55",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A CAM RMB MM A CAM RMB MM-R] Summary Information",
-  "time": "2026-11-03 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM MSCI A50 CAM HSI ESG CAM HSI ESG-U CAM MSCI A50-U CAM MSCI A50-R CAM HSI ESG-R] Summary Information",
-  "time": "2026-11-03 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[BOS CSOE HIDV BOS CSOE HIDV-U BOS CSOE HIDV-R] 03437 & 09437 & 83437 news",
-  "time": "2026-11-03 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HS TECH CAM HS TECH-U CAM HS TECH-R] Summary Information",
-  "time": "2026-11-03 18:54",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[PING AN HKDIV PING AN HKDIV-U] 3070, 9070 NEWS",
-  "time": "2026-11-03 18:52",
-  "level": "🟢"
- },
- {
   "src": "巨潮",
   "market": "A股",
-  "title": "[明阳电路] 股票交易异常波动公告",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[明阳电路] 关于使用部分闲置募集资金进行现金管理的进展公告",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 关于2026年股票期权激励计划首次授予登记完成的公告",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 关于董事会完成换届选举及聘任高级管理人员、证券事务代表的公告",
-  "time": "2026-11-03 19:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 关于公司向银行申请授信额度暨关联担保的进展公告",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 第五届董事会第一次会议决议公告",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 国浩律师（深圳）事务所关于公司2026年第二次临时股东会的法律意见书",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[超频三] 2026年第二次临时股东会决议公告",
-  "time": "2026-11-03 18:58",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[福瑞医科] 内蒙古福瑞医疗科技股份有限公司第九届董事会第四次会议决议公告",
-  "time": "2026-11-03 18:36",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[正业科技] 广东正业科技股份有限公司2025年度向特定对象发行股票募集说明书（修订稿）",
-  "time": "2026-11-03 18:36",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[康龙化成] 关于公司实际控制人部分质押股份延期购回的公告",
-  "time": "2026-11-03 18:36",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[今天国际] 关于对外投资进展暨境外全资孙公司完成备案登记的公告",
-  "time": "2026-11-03 18:36",
+  "title": "[通达海] 关于持股5%以上股东权益变动触及1%整数倍的公告",
+  "time": "2026-11-03 19:20",
   "level": "🟢"
  }
 ]
