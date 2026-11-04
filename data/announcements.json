@@ -2,8 +2,22 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TRANSSION] ELECTION OF NEW SESSION OF BOARD OF DIRECTORS AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Re-election or Appointment of Directo",
-  "time": "2026-11-04 22:35",
+  "title": "[MICOT PHARMA-B] VOLUNTARY ANNOUNCEMENT - RECEIPT OF THE FIRST INSTALMENT OF PROJECT FUNDING UNDER A NATIONAL MAJOR SCIENCE AND TECHNOLOGY P",
+  "time": "2026-11-04 22:57",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KPA-BM HLDGS] JOINT ANNOUNCEMENT - COMPLETION OF THE ACQUISITION AND MANDATORY UNCONDITIONAL CASH OFF BY KINGSTON SECURITIES FOR AND ON BEH",
+  "time": "2026-11-04 22:57",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SKYFAME REALTY SKYFAME B3311 SKYFAME B3311B SKYFAME B3111B SKYFAME B3211 SKYFAME B3111] (1) PROPOSED RESTRUCTURING INVOLVING (i) PROPOSED C",
+  "time": "2026-11-04 22:54",
   "level": "🟡"
  },
  {
@@ -14,220 +28,213 @@
   "level": "🟡"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SFCE] ANNOUNCEMENT ADDITIONAL RESUMPTION GUIDANCE AND SUPPLEMENTAL INFORMATION IN RELATION TO THE RESIGNATION OF DIRECTORS (Inside Informat",
-  "time": "2026-11-04 22:08",
-  "level": "🟡"
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Select Notes Trust LT 2004-1 — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CLOUDBREAK-B] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-04 22:35",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Essential Utilities, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "ONCOLYTICS BIOTECH INC — 其他重大事件",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "FLOWERS FOODS INC — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cencora, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Shoals Technologies Group, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CLARIVATE PLC — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LABCORP HOLDINGS INC. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Cullinan Therapeutics, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "AeroVironment Inc — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "UWM Holdings Corp — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Penguin Solutions, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LUXFER HOLDINGS PLC — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Lyell Immunopharma, Inc. — 3.02",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "CDT Equity Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "LASE Corp. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SIERRA BANCORP — RegFD披露",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Royale Energy, Inc. — 8-K",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HarbourVest Private Equity Secondaries Fund (TE) L.P. — 其他重大事件",
+  "time": "2026-11-04",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "HarbourVest Private Equity Secondaries Fund L.P. — 8-K",
+  "time": "2026-11-04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[] Announcement on BOCI Asia Limited's credit rating (Credit Rating - Structured Products Issuer)",
-  "time": "2026-11-04 22:33",
+  "title": "[MERDEKAGOLD-DRS] INFORMATION DISCLOSURE TO SHAREHOLDERS IN RELATION TO THE PROPOSED CAPITAL INCREASE WITHOUT PRE-EMPTIVE RIGHTS (Other)",
+  "time": "2026-11-04 22:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TRANSSION] PROPOSED ELECTION OF NEW SESSION OF THE BOARD OF DIRECTORS AND ELECTION OF EMPLOYEE REPRESENTATIVE DIRECTOR (Change in Directors",
-  "time": "2026-11-04 22:30",
+  "title": "[HG SEMI] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-04 22:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
-  "time": "2026-11-04 22:27",
+  "title": "[MERDEKAGOLD-DRS] CONVOCATION TO THE SHAREHOLDERS OF EXTRAORDINARY GENERAL MEETING OF SHAREHOLDERS (\"GMS\") (Notice of EGM/SGM)",
+  "time": "2026-11-04 22:53",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
-  "time": "2026-11-04 22:25",
+  "title": "[TRANSSION] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-11-04 22:46",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[C CARBONNEUTRAL] VOLUNTARY ANNOUNCEMENT - CLARIFICATION ON MEDIA REPORTS AND MATTERS IN RELATION TO THE DISCIPLINARY ACTION ANNOUNCEMENT OF",
-  "time": "2026-11-04 22:25",
+  "title": "[TRANSSION] Form of proxy for the EGM to be held on Tuesday, November 24, 2026",
+  "time": "2026-11-04 22:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSAI ETF] Hang Seng AI Advancement ETF <03438> INFORMATION",
-  "time": "2026-11-04 22:23",
+  "title": "[TUHU-W] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-04 22:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
-  "time": "2026-11-04 22:22",
+  "title": "[TRANSSION] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-04 22:39",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GEEKPLUS-W] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-04 22:20",
+  "title": "[ZGC TEC LEASING] DISCLOSEABLE TRANSACTION FINANCE LEASE TRANSACTION (Discloseable Transaction)",
+  "time": "2026-11-04 22:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP PIONR TECH CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 343",
-  "time": "2026-11-04 22:18",
+  "title": "[RENRUI HR] Monthly Return of Equity Issuer on Movements in Securities for the Month Ended 31 October 2026",
+  "time": "2026-11-04 22:38",
   "level": "🟢"
  },
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
-  "time": "2026-11-04 22:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-04 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3101, 3030, 3447 NEWS",
-  "time": "2026-11-04 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[JOLIMARK] PROPOSED RIGHTS ISSUE ON THE BASIS OF ONE (1) RIGHTS SHARE FOR EVERY TWO (2) SHARES HELD ON THE RECORD DATE ON A NON-UNDERWRITTEN",
-  "time": "2026-11-04 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNEVISION] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-04 22:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENASIC] FORM OF PROXY FOR USE AT THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (THE \"MEETING\") TO BE HELD ON TUESDAY, NOVEMBER 24, 2026",
-  "time": "2026-11-04 22:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[METASURFACE] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-04 22:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AJISEN (CHINA)] CONTINUING CONNECTED TRANSACTIONS (1) REVISION OF ANNUAL CAP FOR EXISTING FORTUNE CHOICE SUPPLY AGREEMENT AND (2) RENEWAL O",
-  "time": "2026-11-04 22:16",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 3005, 3033, 3153, 3432, 3193, 2822, 3147 NEWS",
-  "time": "2026-11-04 22:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
-  "time": "2026-11-04 22:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DL HOLDINGS GP] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
-  "time": "2026-11-04 22:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
-  "time": "2026-11-04 22:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNEVISION] Amended and Restated Memorandum and Articles of Association",
-  "time": "2026-11-04 22:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[NANHUA FUTURES] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-04 22:13",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[METASURFACE] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-04 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-11-04 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENASIC] NOTICE OF 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-04 22:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SFCE] LIST OF DIRECTIRS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
-  "time": "2026-11-04 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[METASURFACE] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-04 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SENASIC] (1) PROPOSED GRANT OF GENERAL MANDATE TO ISSUE SHARES; (2) PROPOSED GRANT OF GENERAL MANDATE TO REPURCHASE H SHARES; (3) RESOLUTIO",
-  "time": "2026-11-04 22:08",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[鸿特科技] 关于公司控股股东及实际控制人权益变动触及1%整数倍的公告",
+  "time": "2026-11-04 18:24",
   "level": "🟢"
  }
 ]
