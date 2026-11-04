@@ -101,10 +101,12 @@ for cat, symbols in WATCH.items():
             # VIX 只在飙升时报警（下跌=风险偏好回升，非风险事件）
             if sym == "^VIX" and pct <= 0:
                 continue
-            # 行情已过期（休市/停更超 5h，如周末·长假）不再报警：
-            # 避免同一收盘数值每 6h 去重到期后重复触发（假期刷屏）
+            # 行情已过期（休市/停更超 2h，如周末·长假）不再报警：
+            # 避免同一收盘数值每 6h 去重到期后重复触发（假期刷屏）。
+            # 2026-11-04：阈值由 5h 收紧到 2h——Yahoo 收盘后会补盖 regularMarketTime
+            # （^SOX 收盘戳 06:16 CST），5h 门槛下 11:07 复读 05:07 的同一 +2.63% 收盘值。
             rmt = res["meta"].get("regularMarketTime")
-            if rmt and time.time() - rmt > 5 * 3600:
+            if rmt and time.time() - rmt > 2 * 3600:
                 continue
             if abs(pct) >= THRESH[cat]:
                 lv = "🔴" if abs(pct) >= THRESH[cat] * 1.7 else "🟡"
