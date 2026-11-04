@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 18.23,
-  "pct": -12.48
+  "price": 18.3,
+  "pct": -12.15
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4056.3,
-  "pct": 2.94
+  "price": 4053.6,
+  "pct": 2.87
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 52.2,
-  "pct": 4.92
+  "price": 52.08,
+  "pct": 4.67
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 94.74,
-  "pct": -1.41
+  "price": 95.3,
+  "pct": -0.82
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.47,
-  "pct": 1.01
+  "price": 6.46,
+  "pct": 0.96
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 2.9,
-  "pct": 0.21
+  "pct": 0.07
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.31,
-  "pct": -0.54
+  "price": 101.43,
+  "pct": -0.43
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": 0.05
+  "pct": 0.06
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.44,
-  "pct": -0.11
+  "price": 158.57,
+  "pct": -0.03
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
-  "price": 1.13,
-  "pct": 0.56
+  "price": 1.12,
+  "pct": 0.44
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 78558.01,
-  "pct": 1.95
+  "price": 78565.35,
+  "pct": 1.73
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2329.15,
-  "pct": 2.57
+  "price": 2328.52,
+  "pct": 2.4
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 93.53,
-  "pct": 1.14
+  "price": 93.6,
+  "pct": 0.98
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 702.91,
-  "pct": 0.7
+  "price": 702.23,
+  "pct": 0.45
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.29,
-  "pct": 2.88
+  "pct": 2.43
  }
 ]
