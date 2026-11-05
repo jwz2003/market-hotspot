@@ -175,5 +175,10 @@
    "reason": "买一主买，成功率14.44%"
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "symbol": "ETH",
+   "rate": 0.004
+  }
+ ]
 }
