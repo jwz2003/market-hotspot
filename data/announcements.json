@@ -1,65 +1,163 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMAGI INT'L] MAJOR TRANSACTION IN RELATION TO (1) ACQUISITION OF 67% OF THE ENTIRE ISSUED SHARE CAPITAL IN THE TARGET COMPANY INVOLVING ISS",
-  "time": "2026-11-06 07:33",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[友阿股份] 关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告",
+  "time": "2026-11-06 07:40",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[瑞纳智能] 关于中标候选人公示的提示性公告",
+  "time": "2026-11-06 07:38",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOTAI JUNAN I] White Form of Proxy for the Extraordinary General Meeting (\"EGM\") to be held on Monday, November 30, 2026 (or any adjournme",
-  "time": "2026-11-06 07:36",
+  "title": "[ST HLDGS] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-06 08:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOTAI JUNAN I] Pink Form of Proxy for the Court Meeting to be held on Monday, November 30, 2026 (or any adjournment thereof)",
-  "time": "2026-11-06 07:34",
+  "title": "[CHINAHONGQIAO] Next Day Disclosure Return (Others)",
+  "time": "2026-11-06 08:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOTAI JUNAN I] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-06 07:33",
+  "title": "[GALAXY ENT] Announcement on certain selected unaudited key performance indicators for the third quarter ended 30 September 2026 (Inside Inf",
+  "time": "2026-11-06 08:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOTAI JUNAN I] NOTICE OF COURT MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-06 07:32",
+  "title": "[HSBC HOLDINGS] ISSUANCE OF PERPETUAL SUBORDINATED CONTINGENT CONVERTIBLE SECURITIES (Issue of Convertible Securities / Placing / Issue of S",
+  "time": "2026-11-06 08:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-06 07:31",
+  "title": "[ICBC UBS AI ICBC UBS AI-U ICBC UBS AI-R] Stock Code : 3587, 83587, 41587 Information",
+  "time": "2026-11-06 07:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GUOTAI JUNAN I] (1) PROPOSAL FOR THE PRIVATISATION OF GUOTAI JUNAN INTERNATIONAL HOLDINGS LIMITED BY THE OFFEROR BY WAY OF A SCHEME OF ARRA",
-  "time": "2026-11-06 07:30",
+  "title": "[5100 XIZANG] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-06 07:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BRII-B] VOLUNTARY ANNOUNCEMENT Presents Late-Breaking Data from Phase 2 ENRICH and ENHANCE Studies at AASLD 2026 (Other - Business Update)",
-  "time": "2026-11-06 07:30",
+  "title": "[ICBCU KS KWEB ICBCU KS KWEB-U ICBCU KS KWEB-R] Stock Code : 9102, 3102, 83102 Information",
+  "time": "2026-11-06 07:54",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ABF PAIF] ABF PAN ASIA BOND INDEX FUND (STOCK CODE: 2821) INFORMATION",
+  "time": "2026-11-06 07:47",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[XI2CSOPCOIN XI2CSOPTSLA XI2CSOPNVDA XI2CSOPMSTR XL2CSOPCOIN XL2CSOPTSLA XL2CSOPBRKB XL2CSOPNVDA XL2CSOPMSTR] ANNOUNCEMENT - Daily Targeted ",
+  "time": "2026-11-06 07:45",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GTJAHLD B3211] (1) PROPOSAL FOR THE PRIVATISATION OF GUOTAI JUNAN INTERNATIONAL HOLDINGS LIMITED BY THE OFFEROR BY WAY OF A SCHEME OF ARRAN",
+  "time": "2026-11-06 07:43",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HENGAN INT'L] Monthly Return of Equity Issuer on Movements in Securities for the month ended 31 October 2026",
+  "time": "2026-11-06 07:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUOTAI JUNAN I] JOINT ANNOUNCEMENT (1) PROPOSAL FOR THE PRIVATISATION OF GUOTAI JUNAN INTERNATIONAL HOLDINGS LIMITED BY THE OFFEROR BY WAY ",
+  "time": "2026-11-06 07:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUOTAI JUNAN I] Letter to Non-registered Shareholders - Notice of Publication of Scheme Document and Reply Form (Other)",
+  "time": "2026-11-06 07:40",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUOTAI JUNAN I] Letter to Registered Shareholders - Notice of Publication of Scheme Document, Pink Form of Proxy for the Court Meeting and ",
+  "time": "2026-11-06 07:39",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GUOTAI JUNAN I] FORM OF ACCEPTANCE IN RELATION TO THE SHARE OPTION OFFER (Document issued by Offeree Company under the Takeovers Code / Doc",
+  "time": "2026-11-06 07:37",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[国轩高科] 关于5%以上股东协议转让部分公司股份暨权益变动的进展公告",
-  "time": "2026-11-06 00:00",
+  "title": "[铭普光磁] 广东华商律师事务所关于东莞铭普光磁股份有限公司向特定对象发行A股股票的法律意见书",
+  "time": "2026-11-06 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[铭普光磁] 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告",
+  "time": "2026-11-06 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[铭普光磁] 公司最近一年的财务报告及其审计报告以及最近一期的财务报告",
+  "time": "2026-11-06 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[铭普光磁] 国泰海通证券股份有限公司关于东莞铭普光磁股份有限公司向特定对象发行A股股票之发行保荐书",
+  "time": "2026-11-06 07:50",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[铭普光磁] 国泰海通证券股份有限公司关于东莞铭普光磁股份有限公司向特定对象发行A股股票之上市保荐书",
+  "time": "2026-11-06 07:48",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[铭普光磁] 东莞铭普光磁股份有限公司2026年度向特定对象发行A股股票募集说明书（申报稿）",
+  "time": "2026-11-06 07:48",
   "level": "🟢"
  }
 ]
