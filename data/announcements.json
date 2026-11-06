@@ -1,226 +1,275 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GUOEN HOLDINGS] PROFIT WARNING (Profit Warning / Inside Information)",
-  "time": "2026-11-06 19:36",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[正海磁材] 关于公司及相关人员收到警示函的公告",
+  "time": "2026-11-06 19:54",
+  "level": "🔴"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[杰创智能] 关于签署算力业务日常经营重大合同的公告",
+  "time": "2026-11-06 19:56",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[杰创智能] 北京国枫律师事务所关于杰创智能签署重大合同的法律意见书",
+  "time": "2026-11-06 19:56",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[BOS CSOE HIDV BOS CSOE HIDV-U BOS CSOE HIDV-R] 03437 & 09437 & 83437 news",
-  "time": "2026-11-06 19:36",
+  "title": "[FB SSH HIGH DIV] Summary Information",
+  "time": "2026-11-06 20:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[JLMAG] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-06 19:36",
+  "title": "[CHINA JINMAO] Request form to non-registered holders (Other)",
+  "time": "2026-11-06 20:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HENGRUI PHARMA] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-06 19:36",
+  "title": "[FB TW SEMICON] Summary Information (3076)",
+  "time": "2026-11-06 20:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP RMB MM] 3122 NEWS",
-  "time": "2026-11-06 19:36",
+  "title": "[CHINA JINMAO] Change request form to shareholders (Other)",
+  "time": "2026-11-06 20:05",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Summary Information(3031,83031,9031)",
-  "time": "2026-11-06 19:35",
+  "title": "[WERIDE-W] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-06 20:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP USD MM] 3096 NEWS",
-  "time": "2026-11-06 19:35",
+  "title": "[EFUNDMSCIA50 EFUND LIQUOR EFUNDMSCIA50-R EFUND LIQUOR-R] 83111, 3111, 83189, 3189 Information",
+  "time": "2026-11-06 20:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LIANLIAN] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-06 19:35",
+  "title": "[CHINA JINMAO] Notification letter to non-registered holders (Other)",
+  "time": "2026-11-06 20:04",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HKD MM] 3053 NEWS",
-  "time": "2026-11-06 19:34",
+  "title": "[CHINA JINMAO] Notification letter to shareholders (Other)",
+  "time": "2026-11-06 20:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[EFUNDHSIESG] 3039 Information",
-  "time": "2026-11-06 19:34",
+  "title": "[ITC NEOCLOUD] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-11-06 20:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON 6 NOVEMBER 2026 (Results of EGM/SGM)",
-  "time": "2026-11-06 19:33",
+  "title": "[CHINA JINMAO] Form of proxy for use at Extraordinary General Meeting",
+  "time": "2026-11-06 20:02",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[IMS GROUP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-11-06 19:33",
+  "title": "[CHINA JINMAO] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-11-06 20:01",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] SUPPLEMENTAL ANNOUNCEMENT TO THE ANNUAL REPORT FOR THE YEAR ENDED 31 DECEMBER 2025 (Other - Miscellaneous)",
-  "time": "2026-11-06 19:31",
+  "title": "[CHINA JINMAO] (1) CONTINUING CONNECTED TRANSACTIONS AND MAJOR TRANSACTION RENEWED SINOCHEM FINANCIAL SERVICES FRAMEWORK AGREEMENT (2) CONTI",
+  "time": "2026-11-06 20:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LONGFOR GROUP] UNAUDITED OPERATING STATISTICS IN OCTOBER 2026 (Other - Business Update)",
-  "time": "2026-11-06 19:30",
+  "title": "[ITC NEOCLOUD] (1) RESIGNATION OF INDEPENDENT NON-EXECUTIVE DIRECTORS; (2) CHANGE IN COMPOSITION OF BOARD COMMITTEES; (3) RE-DESIGNATION OF ",
+  "time": "2026-11-06 20:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHINA EAST AIR] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-06 19:30",
+  "title": "[FINELAND LIVING] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-06 19:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SHOUGANG LANZA] CLOSURE OF REGISTER OF MEMBERS FOR EXTRAORDINARY GENERAL MEETING TO BE HELD ON NOVEMBER 25, 2026 (Closure of Books or Chang",
-  "time": "2026-11-06 19:28",
+  "title": "[ANHUIEXPRESSWAY] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-06 19:59",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANASIALUM] SUPPLEMENTAL ANNOUNCEMENT RE-DESIGNATION OF DIRECTOR (Change in Directors or of Important Executive Functions or Responsibiliti",
-  "time": "2026-11-06 19:24",
+  "title": "[FINELAND LIVING] (1) CHANGES OF DIRECTORS; (2) CHANGES IN COMPOSITION OF BOARD COMMITTEES; (3) CHANGES OF COMPANY SECRETARY, AUTHORISED REP",
+  "time": "2026-11-06 19:58",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[DONGYUE GROUP] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-06 19:24",
+  "title": "[ANHUIEXPRESSWAY] CONNECTED TRANSACTION - FORMATION OF A JOINT VENTURE COMPANY WITH OTHER MEMBERS OF THE S24 CONSORTIUM AND CHANGGAO EXPRESS",
+  "time": "2026-11-06 19:57",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INGENIC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions / Overseas Regulatory...<div class='fancy-no",
-  "time": "2026-11-06 19:23",
+  "title": "[HTSC] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Corporate Governance Related Matters)",
+  "time": "2026-11-06 19:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INGENIC] FORM OF PROXY FOR THE SECOND EXTRAORDINARY GENERAL MEETING OF 2026",
-  "time": "2026-11-06 19:23",
+  "title": "[CR BEVERAGE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:56",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[HUANENG POWER] ANNOUNCEMENT ON THE LISTING OF A PUBLICLY OFFERED INFRASTRUCTURE REIT (Spin-off / Other - Business Update)",
-  "time": "2026-11-06 19:23",
+  "title": "[DELTON] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-11-06 19:55",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INGENIC] NOTICE OF THE SECOND EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-06 19:22",
+  "title": "[VIGONVITA-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:52",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[LINGYI ITECH] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-11-06 19:22",
+  "title": "[GTHT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-11-06 19:51",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANDO BITCOIN] 2818 News",
-  "time": "2026-11-06 19:21",
+  "title": "[LUFAX] (1) RENEWAL OF CONTINUING CONNECTED TRANSACTIONS AND DISCLOSEABLE TRANSACTIONS; AND (2) RECORD DATE FOR EXTRAORDINARY GENERAL MEETIN",
+  "time": "2026-11-06 19:51",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CONCORD NE] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE DISCLOSEABLE TRANSACTION DISPOSAL OF TARGET PROJECT COMPANIES (Discloseable Transa",
-  "time": "2026-11-06 19:21",
+  "title": "[STANCHART] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:51",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CICC USD-U] 9011 News",
-  "time": "2026-11-06 19:20",
+  "title": "[KINDSTAR GLOBAL] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-11-06 19:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[INGENIC] (1) CHANGE OF USE AND CANCELLATION OF REPURCHASED A SHARES; (2) REDUCTION OF REGISTERED CAPITAL AND AMENDMENTS TO THE ARTICLES OF ",
-  "time": "2026-11-06 19:20",
+  "title": "[SINOMAX GROUP] CONTINUING CONNECTED TRANSACTIONS (1) 2026-2028 SALE AND PURCHASE FRAMEWORK AGREEMENT; AND (2) LOGISTICS AGREEMENTS FURTHER ",
+  "time": "2026-11-06 19:50",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CICC HKD] 3071 News",
-  "time": "2026-11-06 19:20",
+  "title": "[DINGDANG HEALTH] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:47",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GRAND OCEAN AR] Documents on Display",
-  "time": "2026-11-06 19:20",
+  "title": "[POWERLONG] UPDATE ON THE HOLISTIC SOLUTION (1) NOTICE OF RESTRUCTURING EFFECTIVE DATE AND (2) COMMENCEMENT OF THE VOLUNTARY CONVERSION PERI",
+  "time": "2026-11-06 19:45",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[PANDO ETH] 3085 News",
-  "time": "2026-11-06 19:19",
+  "title": "[CONTEL] RESTORATION OF PUBLIC FLOAT (Sufficiency of Public Float)",
+  "time": "2026-11-06 19:42",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SCHOLAR EDU] VOLUNTARY ANNOUNCEMENT - SHARE PURCHASE PURSUANT TO SHARE AWARD SCHEME (Other - Miscellaneous)",
+  "time": "2026-11-06 19:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WUXI LEAD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:41",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[INSPUR DIGI ENT] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 19:39",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[B&K CORP-B] POLL RESULTS OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING HELD ON 6 NOVEMBER 2026 (Results of EGM/SGM)",
+  "time": "2026-11-06 19:38",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大族数控] 北京市君合律师事务所关于深圳市大族数控科技股份有限公司2026年第三次临时股东会的法律意见书",
-  "time": "2026-11-06 19:33",
+  "title": "[中兴通讯] 中兴通讯股份有限公司2026年面向专业投资者公开发行科技创新可续期公司债券（第一期）票面利率公告",
+  "time": "2026-11-06 20:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大族数控] 2026年第三次临时股东会决议公告",
-  "time": "2026-11-06 19:33",
+  "title": "[金力永磁] H股公告-翌日披露报表",
+  "time": "2026-11-06 20:00",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[大族数控] H股公告-建议变更H股全球发售所得款项用途",
+  "time": "2026-11-06 19:56",
   "level": "🟢"
  },
  {
@@ -233,64 +282,15 @@
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大族数控] 关于董事会完成换届选举及聘任高级管理人员、内部审计部负责人、证券事务代表的公告",
-  "time": "2026-11-06 19:33",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天龙集团] 关于为子公司提供担保的进展公告",
-  "time": "2026-11-06 19:24",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中科电气] 关于控股子公司湖南中科星城控股有限公司增资扩股暨关联交易的进展公告",
-  "time": "2026-11-06 19:22",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[ST华谊] 关于新增累计诉讼、仲裁案件及诉讼事项进展、部分银行账户冻结和部分债务逾期情况的公告",
-  "time": "2026-11-06 19:18",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[三超新材] 北京市金杜（南京）律师事务所关于无锡博达新能科技股份有限公司2026年第三次临时股东会之法律意见书",
-  "time": "2026-11-06 19:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[三超新材] 关于注销募集资金专项账户的公告",
-  "time": "2026-11-06 19:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[三超新材] 无锡博达新能科技股份有限公司2026年第三次临时股东会决议公告",
-  "time": "2026-11-06 19:10",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[国际复材] 关于建设高性能电子纤维布（龙山）项目的公告",
-  "time": "2026-11-06 19:08",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
   "title": "[国际复材] 第三届董事会第二十四次会议决议公告",
   "time": "2026-11-06 19:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[新雷能] 北京新雷能科技股份有限公司2026年度向特定对象发行A股股票方案的论证分析报告（修订稿）",
+  "time": "2026-11-06 19:02",
   "level": "🟢"
  }
 ]
