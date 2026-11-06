@@ -2,134 +2,323 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GROWN UP GROUP] (REVISED) MONTHLY RETURN OF EQUITY ISSUER ON MOVEMENTS IN SECURITIES FOR THE MONTH ENDED 31 OCTOBER 2026",
-  "time": "2026-11-06 16:04",
+  "title": "[LING YUE SER GP] PROPOSED ACQUISITION OF THE LAND IN SICHUAN THROUGH PUBLIC TENDER (Major Transaction)",
+  "time": "2026-11-06 16:36",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHOUGANG RES] DATE OF BOARD MEETING IN RELATION TO PROPOSED SPECIAL DIVIDEND (Date of Board Meeting)",
+  "time": "2026-11-06 16:32",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM HKHIDIV CAM HKHIDIV-U CAM HKHIDIV-R] Announcement - Distribution Announcement (Dividend or Distribution)",
+  "time": "2026-11-06 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAM 20 UST CAM 20 UST-U CAM 20 UST-R] Announcement - Distribution Announcement (Dividend or Distribution)",
+  "time": "2026-11-06 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ONEFORCE HLDGS] OneForce Holdings Limited 2027 Interim Profit Warning (Profit Warning / Inside Information)",
+  "time": "2026-11-06 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[强瑞技术] 关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+  "time": "2026-11-06 16:28",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[凯旺科技] 河南凯旺电子科技股份有限公司关于回购公司股份比例达到1%的进展公告",
+  "time": "2026-11-06 16:18",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH CASTSON 81] NOTICE OF THE SPECIAL GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-11-06 16:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GROWN UP GROUP] Next Day Disclosure Return (Others)",
-  "time": "2026-11-06 15:58",
+  "title": "[GOGOX] FORM OF PROXY FOR USE AT THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON MONDAY, NOVEMBER 30, 2026",
+  "time": "2026-11-06 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XA GX GOLD CC XA GX GOLD CC-U] Summary Information",
-  "time": "2026-11-06 15:41",
+  "title": "[BANKCOMM] NOTICE OF EXTRAORDINARY SHAREHOLDERS' MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-06 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CH CASTSON 81] (1) PROPOSED SHARE CONSOLIDATION; (2) PROPOSED CHANGE IN BOARD LOT SIZE; AND (3) NOTICE OF THE SGM (Exchange or Substitution",
+  "time": "2026-11-06 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A BOS RMB MM A BOS RMB MM-R] Monthly Confirmation on Movement of Open-ended Collective Investment Scheme October 2026",
+  "time": "2026-11-06 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CORNERSTONE TEC] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business i",
+  "time": "2026-11-06 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINO-LIFE GROUP] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-11-06 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GOGOX] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-11-06 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[POLY PROPERTY] UNAUDITED SALES DATA FOR OCTOBER 2026 (Inside Information)",
+  "time": "2026-11-06 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINO-LIFE GROUP] RESIGNATION OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-06 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINLINK INTL] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-06 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EV DYNAMICS] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-06 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-06 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MAJOR HLDGS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-06 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUNLICAR GROUP] CHANGE OF HEAD OFFICE AND PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Plac",
+  "time": "2026-11-06 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ICONCULTURE] POLL RESULTS OF ANNUAL GENERAL MEETING HELD ON 6 NOVEMBER 2026 (Results of AGM)",
+  "time": "2026-11-06 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JUTAL OIL SER] AMENDED AND RESTATED MEMORANDUM AND ARTICLES OF ASSOCIATION",
+  "time": "2026-11-06 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JUTAL OIL SER] VOTING RESULTS OF EXTRAORDINARY GENERAL MEETING HELD ON 6 NOVEMBER 2026 (Results of EGM/SGM)",
+  "time": "2026-11-06 16:31",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[*ST动力] 关于公司股票可能被终止上市的第七次风险提示公告",
-  "time": "2026-11-06 15:58",
+  "title": "[星源卓镁] 关于债券持有人可转债持有比例变动达10%的公告",
+  "time": "2026-11-06 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[江苏博云] 关于公司非独立董事辞任的公告",
-  "time": "2026-11-06 15:58",
+  "title": "[光智科技] 关于控股子公司签署长期供货意向协议的公告",
+  "time": "2026-11-06 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[迪阿股份] 关于公司2026年10月新增自营门店情况的公告",
-  "time": "2026-11-06 15:52",
+  "title": "[强瑞技术] 上市保荐书",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[捷捷微电] 江苏捷捷微电子股份有限公司关于完成工商变更登记换发营业执照的公告",
-  "time": "2026-11-06 15:50",
+  "title": "[隆华科技] 关于担保实施进展的公告",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[捷捷微电] 江苏捷捷微电子股份有限公司章程",
-  "time": "2026-11-06 15:50",
+  "title": "[强瑞技术] 法律意见书",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[英科医疗] 关于为子公司提供担保事项的进展公告",
-  "time": "2026-11-06 15:48",
+  "title": "[强瑞技术] 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[飞沃科技] 关于完成工商变更登记并换发营业执照的公告",
-  "time": "2026-11-06 15:48",
+  "title": "[强瑞技术] 发行人最近一年的财务报告及其审计报告以及最近一期的财务报告",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[联动科技] 关于更换持续督导保荐代表人的公告",
-  "time": "2026-11-06 15:46",
+  "title": "[强瑞技术] 募集说明书（申报稿）",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 董事会薪酬与考核委员会关于公司2025年限制性股票激励计划相关事项的核查意见",
-  "time": "2026-11-06 15:46",
+  "title": "[飞力达] 关于获得政府补助的公告",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 关于作废2025年限制性股票激励计划已授予尚未归属的限制性股票的公告",
-  "time": "2026-11-06 15:46",
+  "title": "[国缆检测] 上海国缆检测股份有限公司关于公司副总经理辞职的公告-2026-038",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 上海市锦天城（深圳）律师事务所关于深圳壹连科技股份有限公司2025年限制性股票激励计划首次授予部分第一个归属期归属条件成就及作废部分已授予但尚未归属限制性股票的法律意见书",
-  "time": "2026-11-06 15:46",
+  "title": "[强瑞技术] 发行保荐书",
+  "time": "2026-11-06 16:28",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 第六届董事会第四次会议决议公告",
-  "time": "2026-11-06 15:46",
+  "title": "[益客食品] 关于召开2026年第二次临时股东会的提示性公告",
+  "time": "2026-11-06 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[三诺生物] 关于为全资子公司提供担保的进展公告",
-  "time": "2026-11-06 15:46",
+  "title": "[尚品宅配] 关于担保额度调剂暨为全资子公司提供担保的进展公告",
+  "time": "2026-11-06 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 关于2025年限制性股票激励计划首次授予部分第一个归属期归属条件成就的公告",
-  "time": "2026-11-06 15:46",
+  "title": "[怡 亚 通] 2023年面向专业投资者公开发行公司债券（第三期）2026年兑付兑息暨摘牌公告",
+  "time": "2026-11-06 16:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[安靠智电] 关于董事会延期换届的提示性公告",
-  "time": "2026-11-06 15:44",
+  "title": "[立华股份] 2026年10月销售情况简报",
+  "time": "2026-11-06 16:17",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[西部牧业] 关于公司自产生鲜乳销售情况的公告",
-  "time": "2026-11-06 15:44",
+  "title": "[丰茂股份] 关于举办2026年第三季度业绩说明会的公告",
+  "time": "2026-11-06 16:17",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[优博讯] 关于业绩承诺补偿事项的进展公告",
+  "time": "2026-11-06 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[智飞生物] 关于大流行流感病毒mRNA疫苗临床试验申请获得受理的公告",
+  "time": "2026-11-06 16:10",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[广联航空] 关于为控股子公司提供担保的公告",
+  "time": "2026-11-06 16:08",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[北鼎股份] 关于为全资子公司向银行申请授信提供担保的进展公告",
+  "time": "2026-11-06 16:08",
   "level": "🟢"
  }
 ]
