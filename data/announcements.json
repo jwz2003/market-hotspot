@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HX BLDG MAT] DISCLOSEABLE TRANSACTION AND ACQUISITION OF THE TARGET COMPANY (Discloseable Transaction)",
+  "time": "2026-11-08 18:05",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GENFLEET-B] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-08 18:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HX BLDG MAT] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Board/Supervisory Board Resolutions)",
+  "time": "2026-11-08 18:02",
+  "level": "🟢"
+ }
+]
