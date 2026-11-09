@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 24446.82,
-  "pct": -0.14
+  "price": 24448.95,
+  "pct": -0.13
  },
  {
   "cat": "index",
@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 25.64,
-  "pct": -9.01
+  "price": 24.72,
+  "pct": -3.59
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4094.6,
-  "pct": 0.48
+  "price": 4102.8,
+  "pct": 0.69
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 52.11,
-  "pct": 0.32
+  "price": 52.38,
+  "pct": 0.84
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 89.97,
-  "pct": -0.95
+  "price": 89.72,
+  "pct": -1.22
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.29,
-  "pct": 0.81
+  "price": 6.31,
+  "pct": 1.1
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.01,
-  "pct": 0.43
+  "price": 3.02,
+  "pct": 0.83
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.98,
-  "pct": -0.31
+  "price": 101.89,
+  "pct": -0.4
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.0
+  "pct": -0.01
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 157.92,
-  "pct": -0.32
+  "price": 158.01,
+  "pct": -0.26
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": 0.3
+  "pct": 0.45
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 73851.38,
-  "pct": -2.75
+  "price": 74286.01,
+  "pct": -2.15
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2093.33,
-  "pct": -6.52
+  "price": 2110.87,
+  "pct": -5.69
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 85.67,
-  "pct": -3.95
+  "price": 86.4,
+  "pct": -3.16
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 677.01,
-  "pct": -3.29
+  "price": 681.96,
+  "pct": -2.47
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 1.09,
-  "pct": -6.7
+  "pct": -5.99
  }
 ]
