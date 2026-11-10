@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 20.11,
-  "pct": 0.95
+  "price": 20.1,
+  "pct": 0.9
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 4084.7,
-  "pct": -0.72
+  "price": 4077.8,
+  "pct": -0.89
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 52.25,
-  "pct": -0.84
+  "price": 52.16,
+  "pct": -1.01
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 84.8,
-  "pct": -2.36
+  "price": 85.02,
+  "pct": -2.11
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 6.3,
-  "pct": -0.69
+  "price": 6.29,
+  "pct": -0.91
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.25,
-  "pct": 0.87
+  "pct": 0.93
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 101.78,
-  "pct": 0.12
+  "price": 101.79,
+  "pct": 0.13
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.03
+  "pct": 0.05
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 158.18,
-  "pct": 0.18
+  "price": 158.39,
+  "pct": 0.31
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.12,
-  "pct": -0.01
+  "pct": -0.26
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 74330.45,
-  "pct": -0.74
+  "price": 74027.8,
+  "pct": -0.87
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 2096.18,
-  "pct": -1.29
+  "price": 2067.61,
+  "pct": -2.49
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 84.83,
-  "pct": -2.09
+  "price": 84.42,
+  "pct": -2.35
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 687.21,
-  "pct": 0.17
+  "price": 684.93,
+  "pct": 0.04
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 1.08,
-  "pct": -1.99
+  "price": 1.07,
+  "pct": -2.1
  }
 ]
