@@ -1,79 +1,289 @@
 [
  {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANDRE JUICE] Repurchase of Shares (Share Buyback)",
+  "time": "2026-11-11 16:33",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FUJIKON IND] PROFIT WARNING (Profit Warning / Inside Information)",
+  "time": "2026-11-11 16:32",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WECON HOLDINGS] (1) PROPOSED DECLARATION AND PAYMENT OF SPECIAL DIVIDEND; (2) CLOSURE OF REGISTER OF MEMBERS; AND (3) NOTICE OF EXTRAORDINA",
+  "time": "2026-11-11 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PEGBIO CO-B] (1) PROPOSED REMOVAL OF AUDITOR (2) PROPOSED APPOINTMENT OF AUDITOR (3) PROPOSED CHANGE IN USE OF PROCEEDS FROM THE GLOBAL OFF",
+  "time": "2026-11-11 16:30",
+  "level": "🟡"
+ },
+ {
   "src": "巨潮",
   "market": "A股",
-  "title": "[西部证券] 2025年面向专业投资者公开发行公司债券（第四期）2026年付息公告",
-  "time": "2026-11-11 16:04",
+  "title": "[中捷精工] 关于完成回购股份注销减少注册资本工商登记手续并换发营业执照的公告",
+  "time": "2026-11-11 16:14",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ADWAY] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-11 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEISEN HOLDING] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-11 16:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WASION HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-11 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FOUNDER HOLD] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-11 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WECON HOLDINGS] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-11 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA LIT] Form of Proxy for the Extraordinary General Meeting to be held on Wednesday, December 9, 2026",
+  "time": "2026-11-11 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BJ ENT WATER] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-11-11 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PEGBIO CO-B] NOTICE OF THE 2026 FIRST EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-11-11 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LINGYI ITECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-11 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SUCCESS DRAGON] PROPOSED SHARE PREMIUM REDUCTION (Capital Reorganisation)",
+  "time": "2026-11-11 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA LIT] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-11 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ASIA COMM HOLD] NOTIFICATION OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-11 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SINOSYNERGY] RESIGNATION OF JOINT COMPANY SECRETARY (Change in Company Secretary)",
+  "time": "2026-11-11 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[COUNTRY GARDEN] NEXT DAY DISCLOSURE RETURN (Others)",
+  "time": "2026-11-11 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[RIGOL] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-11 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW CITY DEV] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-11 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHENGRONG HLDG] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG AND CHANGE OF TELEPHONE NUMBER AND CANCELLATION OF FACSIMILE NUMBER (Cha",
+  "time": "2026-11-11 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JOHNSON HLDGS] Date of Board Meeting (Date of Board Meeting)",
+  "time": "2026-11-11 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CATHAY PAC AIR] List of Directors and their Role and Function (List of Directors and their Role and Function)",
+  "time": "2026-11-11 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PINESTONE] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
+  "time": "2026-11-11 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA LIT] PROPOSED REVISION OF ANNUAL CAPS FOR 2026 ADVERTISEMENT COOPERATION FRAMEWORK AGREEMENT AND NOTICE OF EXTRAORDINARY GENERAL MEET",
+  "time": "2026-11-11 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANKA ONLINE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-11 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHING LEE] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-11 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LE SAUNDA] Interim Report 2026/27 (Interim/Half-Year Report)",
+  "time": "2026-11-11 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CATHAY PAC AIR] Board Changes (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-11 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NEW CITY DEV] APPOINTMENT OF NON-EXECUTIVE DIRECTORS (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-11 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CENTRALCHINA MT] CHANGE OF PRINCIPAL PLACE OF BUSINESS IN HONG KONG (Change in Registered Address or Office, Registered Place of Business i",
+  "time": "2026-11-11 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[开立医疗] 关于2025年限制性股票与股票期权激励计划部分股票期权注销完成的公告",
-  "time": "2026-11-11 16:02",
+  "title": "[双乐股份] 关于注销部分募集资金现金管理专用结算账户的公告",
+  "time": "2026-11-11 16:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[海融科技] 关于使用闲置自有资金进行现金管理到期赎回的公告",
-  "time": "2026-11-11 16:00",
+  "title": "[ST金鸿] 联合资信评估股份有限公司关于终止金鸿控股集团股份有限公司主体及相关债项信用评级的公告",
+  "time": "2026-11-11 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中简科技] 关于公司2025年员工持股计划第一个锁定期届满的提示性公告",
-  "time": "2026-11-11 15:58",
+  "title": "[博腾股份] 关于受让杭州复曜星启成果转化创业投资合伙企业（有限合伙）份额暨对外投资的进展公告",
+  "time": "2026-11-11 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[铭利达] 关于子公司对外担保的进展公告",
-  "time": "2026-11-11 15:50",
+  "title": "[金刚光伏] 关于完成工商变更登记并换发营业执照的公告",
+  "time": "2026-11-11 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[汉仪股份] 关于对外投资进展的公告",
-  "time": "2026-11-11 15:46",
+  "title": "[欣天科技] 北京博星证券投资顾问有限公司关于深圳市欣天科技股份有限公司详式权益变动报告书之2026年第三季度持续督导意见",
+  "time": "2026-11-11 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[光莆股份] 关于召开2026年第二次临时股东会的提示性公告",
-  "time": "2026-11-11 15:46",
+  "title": "[立华股份] 关于实际控制人之一致行动人股份质押、解质押的公告",
+  "time": "2026-11-11 16:26",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[正强股份] 关于召开2026年第二次临时股东会的通知的更正公告",
-  "time": "2026-11-11 15:46",
+  "title": "[爱乐达] 关于召开2026年第一次临时股东会的提示性公告",
+  "time": "2026-11-11 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中仑新材] 关于中仑转债预计触发转股价格向下修正条件的提示性公告",
-  "time": "2026-11-11 15:46",
+  "title": "[金陵体育] 关于召开2026年第二次临时股东会的提示性公告",
+  "time": "2026-11-11 16:14",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[正强股份] 关于召开2026年第二次临时股东会的通知（更正后）",
-  "time": "2026-11-11 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[卡倍亿] 关于为全资子公司银行授信提供担保的进展公告",
-  "time": "2026-11-11 15:44",
+  "title": "[金明精机] 关于聘任董事会秘书的公告",
+  "time": "2026-11-11 16:10",
   "level": "🟢"
  }
 ]
