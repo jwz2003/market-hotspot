@@ -1,149 +1,289 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[罗博特科] 关于取得金融机构股票回购专项《贷款承诺函》的公告",
-  "time": "2026-11-12 16:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中仑新材] 关于取得金融机构股票回购专项贷款承诺函的公告",
-  "time": "2026-11-12 15:56",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新开普] 关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-  "time": "2026-11-12 15:52",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[泓淋电力] 关于收购苏州博睿汽车电器有限公司部分股权暨关联交易的进展公告",
-  "time": "2026-11-12 15:46",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[亿田智能] 关于子公司签署算力资源服务合同的进展暨签订补充协议的公告",
-  "time": "2026-11-12 15:44",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[VTECH HOLDINGS] 2026/27 Interim Results (Interim Results / Dividend or Distribution / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-12 16:35",
   "level": "🟡"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GX AGREENBOND GX AGREENBOND-R] 3059, 83059 NEWS",
-  "time": "2026-11-12 15:49",
+  "title": "[BEXCELLENT GP] (1) PROPOSED RE-ELECTION OF DIRECTORS; (2) PROPOSED RE-APPOINTMENT OF AUDITOR; (3) PROPOSED PAYMENT OF DIVIDEND OUT OF THE S",
+  "time": "2026-11-12 16:35",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ANDRE JUICE] Repurchase of Shares (Share Buyback)",
+  "time": "2026-11-12 16:34",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOG DIGITECH] (I) PROPOSED CHANGE OF AUDITOR; AND (II) NOTICE OF EXTRAORDINARY GENERAL MEETING (Change in Auditors subject to Shareholders'",
+  "time": "2026-11-12 16:31",
+  "level": "🟡"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[昇辉科技] 昇辉科技关于新能源换电站建设业务中标暨签署协议的公告",
+  "time": "2026-11-12 16:30",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EAST NOVA HLDGS] Share Option Scheme",
+  "time": "2026-11-12 16:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GX CN PB BOND] 3041 NEWS",
-  "time": "2026-11-12 15:42",
+  "title": "[CHUNCHENG HEAT] NOTICE OF THE FIRST EXTRAORDINARY GENERAL MEETING OF 2026 (Notice of EGM/SGM / Continuing Connected Transaction / Closure o",
+  "time": "2026-11-12 16:38",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GX AP HIGH DIV] 3116 NEWS",
-  "time": "2026-11-12 15:40",
+  "title": "[BEXCELLENT GP] NOTICE OF ANNUAL GENERAL MEETING (Notice of AGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-12 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIAN TECK LAND] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHUNCHENG HEAT] (1) CONTINUING CONNECTED TRANSACTIONS; AND (2) NOTICE OF THE FIRST EGM OF 2026 (Continuing Connected Transaction)",
+  "time": "2026-11-12 16:36",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEXCELLENT GP] FORM OF PROXY FOR THE ANNUAL GENERAL MEETING TO BE HELD ON 18 DECEMBER 2026 (OR ANY ADJOURNED MEETING THEREOF) (\"MEETING\")",
+  "time": "2026-11-12 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EAST NOVA HLDGS] PROPOSED ADOPTION OF NEW SHARE OPTION SCHEME (Share Scheme)",
+  "time": "2026-11-12 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[AEON STORES] (1) REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS IN RELATION TO THE RENEWAL AGREEMENT FOR THE COMMISSION PAYM",
+  "time": "2026-11-12 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EDVANCE INTL] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ASSO INT HOTELS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOG DIGITECH] FORM OF PROXY FOR EXTRAORDINARY GENERAL MEETING (OR AT ANY ADJOURNMENT THEREOF)",
+  "time": "2026-11-12 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUANXI MEDIA] FORM OF PROXY FOR USE AT THE SPECIAL GENERAL MEETING",
+  "time": "2026-11-12 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HARBOUR DIGITAL] NET ASSET VALUE (Net Asset Value)",
+  "time": "2026-11-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BEXCELLENT GP] Annual Report 2026 (Annual Report / Environmental, Social and Governance Information/Report)",
+  "time": "2026-11-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHAODA MODERN] DELAY IN DESPATCH OF CIRCULAR IN RELATION TO MAJOR AND CONNECTED TRANSACTIONS ACQUISITIONS OF AN AGGREGATE OF 34% EQUITY INT",
+  "time": "2026-11-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MOG DIGITECH] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
+  "time": "2026-11-12 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CEN PLAZA HOTEL] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NOBLE ENG GP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[HUANXI MEDIA] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-12 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DT CAPITAL] NET ASSET VALUE (Net Asset Value)",
+  "time": "2026-11-12 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NAN NAN RES] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C FIN INT INV] Net Asset Value (Net Asset Value)",
+  "time": "2026-11-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CAPINFO] FURTHER DELAY IN DESPATCH OF CIRCULAR IN RELATION TO PROPOSED REVISION TO INCOME ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS",
+  "time": "2026-11-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA CBS INTL] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IWS GROUP] NOTICE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[YB DEV B3111-R] NOTICE OF LISTING ON THE STOCK EXCHANGE OF HONG KONG LIMITED - CNY680,000,000 2.10 PER CENT. BONDS DUE 2031 ISSUED BY YIBIN",
+  "time": "2026-11-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA PPT INV] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ABLE ENG HLDGS] DATE OF BOARD MEETING (Date of Board Meeting)",
+  "time": "2026-11-12 16:30",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CKH HOLDINGS] RETAIL BUSINESS OF THE GROUP (Other - Miscellaneous)",
+  "time": "2026-11-12 16:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[兆日科技] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项的进展公告",
-  "time": "2026-11-12 16:02",
+  "title": "[欢乐家] 关于股东部分股份解除质押的公告",
+  "time": "2026-11-12 16:32",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[壹连科技] 关于注销部分募集资金专项账户的公告",
-  "time": "2026-11-12 15:58",
+  "title": "[南极光] 关于控股股东、实际控制人之一部分股份解除质押及再质押的公告",
+  "time": "2026-11-12 16:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[西部证券] 2024年面向专业投资者公开发行公司债券（第五期）2026年付息公告",
-  "time": "2026-11-12 15:56",
+  "title": "[测绘股份] 关于使用部分闲置自有资金进行现金管理的进展公告",
+  "time": "2026-11-12 16:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[深圳能源] 深圳能源集团股份有限公司2026年面向专业投资者公开发行可续期公司债券（第六期）在深圳证券交易所上市的公告",
-  "time": "2026-11-12 15:56",
+  "title": "[雅创电子] 公司关于实施2026年中期利润分配后发行股份及支付现金购买资产的股份发行价格和发行数量调整的公告",
+  "time": "2026-11-12 16:18",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[星源材质] 关于公司为子公司提供担保的进展公告",
-  "time": "2026-11-12 15:54",
+  "title": "[向日葵] 关于股东部分股份质押的公告",
+  "time": "2026-11-12 16:12",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[通源石油] 第九届董事会第七次会议决议公告",
-  "time": "2026-11-12 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[通源石油] 关于申请金融机构综合授信的公告",
-  "time": "2026-11-12 15:54",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中颖电子] 关于使用部分自有资金和闲置募集资金进行现金管理的进展公告",
-  "time": "2026-11-12 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华融化学] 关于公司核心技术人员退休离职的公告",
-  "time": "2026-11-12 15:48",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[飞力达] 关于投资的产业基金延长存续期限的公告",
-  "time": "2026-11-12 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[欣旺达] 关于召开2026年第六次临时股东会的提示性公告",
-  "time": "2026-11-12 15:46",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[奕东电子] 关于全资子公司变更公司类型、经营范围并完成工商变更登记的公告",
-  "time": "2026-11-12 15:44",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[中洲特材] 关于中证中小投资者服务中心有限责任公司公开征集表决权的公告",
-  "time": "2026-11-12 15:42",
+  "title": "[安宁股份] 北京国枫律师事务所关于四川安宁铁钛股份有限公司向不特定对象发行可转换公司债券的补充法律意见书之一",
+  "time": "2026-11-12 11:40",
   "level": "🟢"
  }
 ]
