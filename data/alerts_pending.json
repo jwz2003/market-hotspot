@@ -13302,5 +13302,21 @@
   "detail": "现价 48.65，跌破波动阈值 2.0%",
   "value": -2.826,
   "time": "2026-11-14 06:37"
+ },
+ {
+  "level": "🟡",
+  "market": "加密",
+  "title": "SOL 24h -5.13%",
+  "detail": "现价 77.52，24h 波动超 5.0%",
+  "value": -5.128,
+  "time": "2026-11-14 07:07"
+ },
+ {
+  "level": "🔴",
+  "market": "美股",
+  "title": "SEC 8-K公告：Panamera Holdings Corp — 财报重述风险",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-11-14 07:07"
  }
 ]
