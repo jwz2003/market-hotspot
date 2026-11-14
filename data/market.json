@@ -43,6 +43,13 @@
  },
  {
   "cat": "index",
+  "symbol": "^SOX",
+  "name": "费城半导体",
+  "price": 10146.32,
+  "pct": -3.43
+ },
+ {
+  "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
   "price": 19.3,
@@ -115,35 +122,28 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 65779.04,
-  "pct": -4.59
- },
- {
-  "cat": "crypto",
-  "symbol": "ETHUSDT",
-  "name": "ETH",
-  "price": 1836.18,
-  "pct": -5.45
+  "price": 65569.52,
+  "pct": -5.03
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 72.5,
-  "pct": -9.5
+  "price": 72.11,
+  "pct": -9.84
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 588.86,
-  "pct": -7.49
+  "price": 589.38,
+  "pct": -7.61
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 0.96,
-  "pct": -6.88
+  "price": 0.95,
+  "pct": -7.33
  }
 ]
