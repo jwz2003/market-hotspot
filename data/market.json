@@ -102,7 +102,7 @@
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
-  "pct": -0.01
+  "pct": -0.02
  },
  {
   "cat": "forex",
@@ -122,35 +122,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 65066.0,
-  "pct": -0.54
+  "price": 65058.03,
+  "pct": 0.59
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1830.45,
-  "pct": 0.58
+  "price": 1823.62,
+  "pct": 2.22
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 71.92,
-  "pct": 0.62
+  "price": 71.86,
+  "pct": 1.74
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 592.99,
-  "pct": 1.29
+  "price": 595.42,
+  "pct": 2.11
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 0.96,
-  "pct": 3.18
+  "pct": 3.9
  }
 ]
