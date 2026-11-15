@@ -36,13 +36,6 @@
  },
  {
   "cat": "index",
-  "symbol": "399001.SZ",
-  "name": "深证成指",
-  "price": 10968.79,
-  "pct": -2.05
- },
- {
-  "cat": "index",
   "symbol": "^SOX",
   "name": "费城半导体",
   "price": 10146.32,
@@ -68,13 +61,6 @@
   "name": "白银",
   "price": 49.12,
   "pct": -1.89
- },
- {
-  "cat": "commodity",
-  "symbol": "CL=F",
-  "name": "WTI原油",
-  "price": 88.56,
-  "pct": -0.2
  },
  {
   "cat": "commodity",
@@ -122,35 +108,35 @@
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 65516.06,
-  "pct": -2.56
+  "price": 65367.26,
+  "pct": -2.74
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1827.49,
+  "price": 1826.27,
   "pct": -4.27
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 71.98,
-  "pct": -5.01
+  "price": 72.42,
+  "pct": -4.54
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 597.61,
-  "pct": -3.47
+  "price": 596.65,
+  "pct": -3.08
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 0.96,
-  "pct": -2.87
+  "price": 0.97,
+  "pct": -3.02
  }
 ]
