@@ -1,401 +1,212 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIME INTERCON] NEXT DAY DISCLOSURE RETURN (Share Buyback / Others)",
-  "time": "2026-11-16 17:41",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FG HS HIGHDIV FG HS HIGHDIV-U FG HS HIGHDIV-R] Announcement - Dividend or Distribution (Dividend or Distribution (Announcement Form))",
-  "time": "2026-11-16 17:36",
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[科翔股份] 关于回购股份方案的公告暨回购报告书",
+  "time": "2026-11-16 20:10",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华康洁净] 关于项目预中标的提示性公告",
-  "time": "2026-11-16 17:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[松原安全] 关于回购期限过半尚未实施回购的公告",
-  "time": "2026-11-16 17:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[华康洁净] 关于项目中标的提示性公告",
-  "time": "2026-11-16 17:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[天地数码] 关于部分限制性股票回购注销完成的公告",
-  "time": "2026-11-16 17:36",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英搏尔] 关于首次回购公司股份的公告",
-  "time": "2026-11-16 17:34",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[百诚医药] 关于注销回购股份并减少注册资本暨通知债权人的公告",
-  "time": "2026-11-16 17:30",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[鼎泰高科] 回购股份报告书",
-  "time": "2026-11-16 17:30",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TSAKER NE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CR BEVERAGE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[EGL HOLDINGS] VOLUNTARY ANNOUNCEMENT DATA SECURITY INCIDENT (Other - Miscellaneous)",
-  "time": "2026-11-16 17:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XPENG-W] XPENG Reports Third Quarter 2026 Unaudited Financial Results (Other - Business Update / Quarterly Results)",
-  "time": "2026-11-16 17:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZYLOXTB] CHANGE OF JOINT COMPANY SECRETARY, AUTHORISED REPRESENTATIVE AND PROCESS AGENT (Change in Company Secretary / Change in Registered",
-  "time": "2026-11-16 17:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HAOHAI BIOTEC] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MONTAGE TECH] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[STAR SPORTS MED] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIANNENG POWER] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YUES INTL HLDG] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON 16 NOVEMBER 2026 (Results of EGM/SGM)",
-  "time": "2026-11-16 17:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CIMC] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-11-16 17:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEITU] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DTECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-16 17:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHANGHAI XNG] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-11-16 17:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONCH CEMENT] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ALPHA PRO HLDGS] Next Day Disclosure Return (Others)",
-  "time": "2026-11-16 17:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HANG YICK HLDGS] DATE OF BOARD MEETING (Date of Board Meeting)",
-  "time": "2026-11-16 17:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CHINA BOTON] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:36",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[UBOX ONLINE] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SITOY GROUP] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 16 NOVEMBER 2026 (Results of AGM)",
-  "time": "2026-11-16 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MEDIALINK GROUP] VOLUNTARY ANNOUNCEMENT - ESTABLISHMENT OF JOINT VENTURES WITH A LEADING INTEGRATED ENTERTAINMENT GROUP (Other - Business U",
-  "time": "2026-11-16 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[REMEGEN] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
-  "time": "2026-11-16 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ANTENGENE-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-16 17:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SHANGHAI XNG] RESIGNATION OF EXECUTIVE DIRECTOR; NON-COMPLIANCE WITH THE LISTING RULES; AND CONTINUED SUSPENSION OF TRADING (Change in Dire",
-  "time": "2026-11-16 17:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HKEX HKEX-R] Notification of Specified Date under Uncertificated Securities Market Regime (Notification of USM Specified Date)",
-  "time": "2026-11-16 17:34",
+  "title": "[聚赛龙] 2026年第一次临时股东会决议公告",
+  "time": "2026-11-16 20:46",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中石科技] 2026年第一次临时股东会决议公告",
-  "time": "2026-11-16 17:38",
+  "title": "[聚赛龙] 2026年第一次临时股东会法律意见书",
+  "time": "2026-11-16 20:46",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中石科技] 关于完成补选非独立董事的公告",
-  "time": "2026-11-16 17:38",
+  "title": "[科瑞思] 北京市中伦（上海）律师事务所关于中证中小投资者服务中心有限责任公司公开征集珠海科瑞思科技股份有限公司表决权的法律意见书",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中石科技] 北京市君合律师事务所关于北京中石伟业科技股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-11-16 17:38",
+  "title": "[科瑞思] 北京德恒（深圳）律师事务所关于珠海科瑞思科技股份有限公司2026年第一次临时股东会的法律意见",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华康洁净] 关于开展应收账款保理业务的公告",
-  "time": "2026-11-16 17:36",
+  "title": "[科瑞思] 2026年第一次临时股东会决议公告",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[松原安全] 2026年第一次临时股东会决议公告",
-  "time": "2026-11-16 17:36",
+  "title": "[科瑞思] 第三届董事会第一次会议决议公告",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华康洁净] 关于公司为子公司及孙公司向银行申请综合授信提供担保的公告",
-  "time": "2026-11-16 17:36",
+  "title": "[科瑞思] 珠海科瑞思科技股份有限公司第三届董事会提名委员会关于聘任高级管理人员的审查意见",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[北方长龙] 关于控股子公司取得计算机软件著作权登记证书的公告",
-  "time": "2026-11-16 17:36",
+  "title": "[科瑞思] 关于董事会完成换届暨选举董事长、董事会专门委员会成员并聘任高级管理人员、证券事务代表的公告",
+  "time": "2026-11-16 20:44",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华康洁净] 第三届董事会第十一次会议决议公告",
-  "time": "2026-11-16 17:36",
+  "title": "[可靠股份] 北京市安理律师事务所关于杭州可靠护理用品股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-11-16 20:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[松原安全] 浙江天册律师事务所关于浙江松原汽车安全系统股份有限公司2026年第一次临时股东会的法律意见书",
-  "time": "2026-11-16 17:36",
+  "title": "[可靠股份] 杭州可靠护理用品股份有限公司2026年第三次临时股东会决议公告",
+  "time": "2026-11-16 20:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大叶股份] 2026年第二次临时股东会决议公告",
-  "time": "2026-11-16 17:30",
+  "title": "[金力永磁] H股公告-翌日披露报表",
+  "time": "2026-11-16 20:22",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 关于董事会换届选举完成暨聘任高级管理人员、证券事务代表、内审负责人的公告",
-  "time": "2026-11-16 17:30",
+  "title": "[科德教育] 关于公司董事辞职的公告",
+  "time": "2026-11-16 20:14",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 关于注销无锡子公司的公告",
-  "time": "2026-11-16 17:30",
+  "title": "[鼎捷数智] 北京海润 关于鼎捷数智股份有限公司2026年第二次临时股东会的法律意见书",
+  "time": "2026-11-16 20:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 关于对外投资设立海外全资子公司的公告",
-  "time": "2026-11-16 17:30",
+  "title": "[鼎捷数智] 2026年第二次临时股东会决议公告",
+  "time": "2026-11-16 20:02",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[百诚医药] 2026年第三次临时股东会决议公告",
-  "time": "2026-11-16 17:30",
+  "title": "[雷迪克] 2026年第一次临时股东会决议公告",
+  "time": "2026-11-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大叶股份] 浙江阳明律师事务所关于宁波大叶园林设备股份有限公司2026年第二次临时股东会的法律意见书",
-  "time": "2026-11-16 17:30",
+  "title": "[雷迪克] 上海市锦天城律师事务所关于杭州雷迪克节能科技股份有限公司2026年第一次临时股东会的法律意见书",
+  "time": "2026-11-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 关于选举第四届董事会职工代表董事的公告",
-  "time": "2026-11-16 17:30",
+  "title": "[杭州高新] 关于持股5%以上股东所持部分股份被司法执行的提示性公告",
+  "time": "2026-11-16 19:52",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[威马农机] 第四届董事会第一次会议决议公告",
-  "time": "2026-11-16 17:30",
+  "title": "[科翔股份] 2026年第三次临时股东会决议公告",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[中亚股份] 关于2025年限制性股票激励计划第一个解除限售期股份上市流通的提示性公告",
-  "time": "2026-11-16 17:30",
+  "title": "[航天智造] 北京市康达律师事务所关于航天智造科技股份有限公司2026年第三次临时股东会的法律意见书",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[百诚医药] 北京炜衡（杭州）律师事务所关于杭州百诚医药科技股份有限公司2026年第三次临时股东会的法律意见书",
-  "time": "2026-11-16 17:30",
+  "title": "[科翔股份] 关于与九江经济技术开发区管理委员会签订项目投资协议的进展公告",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[久吾高科] 关于预计触发可转换公司债券转股价格向下修正条件的提示性公告",
-  "time": "2026-11-16 17:28",
+  "title": "[科翔股份] 第三届董事会第十四次会议决议公告",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[电科思仪] 上海市锦天城律师事务所关于中电科思仪科技股份有限公司2026年第二次临时股东会的法律意见书",
-  "time": "2026-11-16 17:26",
+  "title": "[航天智造] 2026年第三次临时股东会决议公告",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[电科思仪] 2026年第二次临时股东会决议公告",
-  "time": "2026-11-16 17:26",
+  "title": "[科翔股份] 广东信达律师事务所关于广东科翔电子科技股份有限公司2026年第三次临时股东会法律意见书",
+  "time": "2026-11-16 19:40",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[大宏立] 关于供应链融资客户还款逾期履行担保义务的公告",
-  "time": "2026-11-16 17:26",
+  "title": "[ST银江] 关于子公司名下部分房产将被司法拍卖的提示性公告",
+  "time": "2026-11-16 19:40",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜宏科技] 关于2027年度担保额度预计的公告",
+  "time": "2026-11-16 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜宏科技] 关于向2026年A股限制性股票激励计划激励对象首次授予限制性股票的公告",
+  "time": "2026-11-16 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜宏科技] 董事会薪酬与考核委员会关于2026年A股限制性股票激励计划调整及首次授予相关事项的核查意见",
+  "time": "2026-11-16 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜宏科技] 第五届董事会第二十次会议决议公告",
+  "time": "2026-11-16 19:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[胜宏科技] 关于向三级全资子公司增资的公告",
+  "time": "2026-11-16 19:28",
   "level": "🟢"
  }
 ]
