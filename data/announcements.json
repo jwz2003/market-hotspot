@@ -1,37 +1,9 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST香雪] 关于法院裁定受理公司重整及指定管理人暨公司股票被叠加实施退市风险警示的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🔴"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[英 力 特] 关于控股股东拟协议转让公司股份公开征集受让方事项及公司拟筹划发行股份购买资产暨关联交易事项进展并继续停牌的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🔴"
- },
- {
   "src": "HKEX",
   "market": "港股",
-  "title": "[XJ INTL HLDGS] CONNECTED TRANSACTION ACQUISITION OF SALE SHARES (Connected Transaction)",
-  "time": "2026-11-19 22:55",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMMUNEONCO-B] (1) APPOINTMENT OF INDEPENDENT NON-EXECUTIVE DIRECTOR; (2) PROPOSED REMOVAL OF AUDITOR; (3) PROPOSED APPOINTMENT OF AUDITOR; ",
-  "time": "2026-11-19 22:39",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS HIGH DIV] HANG SENG HIGH DIVIDEND 30 INDEX ETF <03466> INFORMATION",
-  "time": "2026-11-19 22:14",
+  "title": "[INFINITIES TECH] (I) ADDITIONAL RESUMPTION GUIDANCE; (II) CONTINUED SUSPENSION OF TRADING (Inside Information / Suspension)",
+  "time": "2026-11-20 06:04",
   "level": "🟡"
  },
  {
@@ -42,164 +14,73 @@
   "level": "🟡"
  },
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[重庆路桥] 重庆路桥关于第二大股东增持股份计划公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新锐股份] 新锐股份关于以集中竞价交易方式回购公司股份的回购报告书（修订稿）",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST香雪] 关于法院许可公司在重整期间继续营业的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光关于控股股东及其一致行动人增持计划进展暨增持计划调整的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光关于控股子公司拟签署IDC服务合同暨关联交易的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[双良节能] 双良节能系统股份有限公司关于子公司签订日常经营合同的自愿性披露公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 国浩律所关于返利科技2024年股票期权与限制性股票激励计划首次授予部分第二个行权期行权条件成就及第二个解除限售期解除限售条件成就及注销部分股票期权及回购注销部分限制性股票相关事项的法律意见书",
-  "time": "2026-11-20 00:00",
-  "level": "🟡"
- },
- {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GOLDSTONE CAP] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-11-19 22:57",
+  "title": "[SHUANGDENG] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-20 07:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TRANSCENTA-B] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON THURSDAY, NOVEMBER 19, 2026 (Results of EGM/SGM)",
-  "time": "2026-11-19 22:57",
+  "title": "[LEADS BIOLABS-B] VOLUNTARY ANNOUNCEMENT SHAREHOLDING INCREASE PLAN BY THE CHAIRMAN OF THE BOARD (Other - Miscellaneous)",
+  "time": "2026-11-20 07:03",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GOLDSTONE CAP] APPOINTMENTS OF INDEPENDENT NON-EXECUTIVE DIRECTOR AND NON-EXECUTIVE DIRECTORS AND CHANGE OF COMPOSITION OF THE BOARD COMMIT",
-  "time": "2026-11-19 22:54",
+  "title": "[LEADS BIOLABS-B] VOLUNTARY ANNOUNCEMENT LBL-024 CLINICAL UPDATE AT THE 2026 JEFFERIES GLOBAL HEALTHCARE CONFERENCE (Other - Business Update",
+  "time": "2026-11-20 07:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[ARTGO HOLDINGS] Documents on Display",
-  "time": "2026-11-19 22:54",
+  "title": "[HSBC HOLDINGS] Transaction in own shares (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-20 07:00",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CHENMING PAPER] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Trading Update)",
-  "time": "2026-11-19 22:51",
+  "title": "[MIDEA REAL EST] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-11-20 06:40",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GANFENGLITHIUM] ANNOUNCEMENT ON THE PROPOSAL FOR REPURCHASE OF A SHARES OF THE COMPANY AND SHARE REPURCHASE REPORT (Inside Information)",
-  "time": "2026-11-19 22:45",
+  "title": "[CHINA MOBILE CHINA MOBILE-R] CHANGE IN ACCOUNTING ESTIMATES (Inside Information)",
+  "time": "2026-11-20 06:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[A CSOP HSCEICC CSOP KOSPI CSOP CSI300 CSOP PIONR TECH CSOP HKKRTECH CSOP SCHIGHDIV CSOP A TEC&DIV CSOP AI BOTTLNK A CSOP KOSPICC] 2802, 343",
-  "time": "2026-11-19 22:43",
+  "title": "[CHINA MOBILE CHINA MOBILE-R] REVISION OF ANNUAL CAPS FOR CONTINUING CONNECTED TRANSACTIONS AND PROPOSED CONTINUING CONNECTED TRANSACTIONS (",
+  "time": "2026-11-20 06:30",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[IMMUNEONCO-B] Proxy Form for the Extraordinary General Meeting to be held on Wednesday, December 9, 2026",
-  "time": "2026-11-19 22:42",
+  "title": "[BRAINAURORA-B] VOLUNTARY ANNOUNCEMENT - DELIGHT STUDY ON MULTI-COGNITIVE DOMAIN DIGITAL THERAPEUTICS PUBLISHED IN eClinicalMedicine REVEALI",
+  "time": "2026-11-20 06:09",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[RAINMED-B] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE ANNUAL REPORT FOR THE YEAR ENDED DECEMBER 31, 2025 (Final Results / Other - Miscell",
-  "time": "2026-11-19 22:40",
+  "title": "[ZHI SHENG GP] COMPANY INFORMATION SHEET",
+  "time": "2026-11-20 06:06",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[CSOP GOLD CSOP A500 CSOP HK EQUITY CSOP AP REITS] 3443, 3101, 3030, 3447 NEWS",
-  "time": "2026-11-19 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ZIJIN MIN-500] Announcement in relation to the Plan of Repurchasing A Shares Through Centralised Price Bidding and the Repurchase Report (I",
-  "time": "2026-11-19 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GANFENGLITHIUM] Articles of Association",
-  "time": "2026-11-19 22:39",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CSOP A50 ETF X CSOPCSI500 CSOP HS TECH X CSOPCHINEXT CSOP NIKKEI225 CSOP CSI 5G CSOP HKCNCON] 3005, 3033, 3153, 3432, 3193, 2822, 3147 NEWS",
-  "time": "2026-11-19 22:36",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[IMMUNEONCO-B] NOTICE OF THE EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-19 22:35",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[GANFENGLITHIUM] List of Directors and their Roles and Functions (List of Directors and their Role and Function)",
-  "time": "2026-11-19 22:34",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MS CONCEPT] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
-  "time": "2026-11-19 22:34",
+  "title": "[WAI CHI HOLD] Next Day Disclosure Returns (Share Buyback)",
+  "time": "2026-11-20 06:06",
   "level": "🟢"
  },
  {
@@ -212,281 +93,8 @@
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GANFENGLITHIUM] (1) POLL RESULTS OF THE THIRD EXTRAORDINARY GENERAL MEETING OF 2026 OF THE COMPANY HELD ON NOVEMBER 19, 2026; AND (2) CHANG",
-  "time": "2026-11-19 22:31",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSTECHCC] Hang Seng TECH Covered Call Active ETF <03589> INFORMATION",
-  "time": "2026-11-19 22:27",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ICBCCSOP CGPB] 3199 NEWS",
-  "time": "2026-11-19 22:26",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[A HSCEICC] Hang Seng HSCEI Covered Call Active ETF <03519> INFORMATION",
-  "time": "2026-11-19 22:25",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSAI ETF] Hang Seng AI Advancement ETF <03438> INFORMATION",
-  "time": "2026-11-19 22:23",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS HK EQUITY] Hang Seng FTSE HONG KONG ETF <03444> INFORMATION",
-  "time": "2026-11-19 22:22",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] Revised Form of Proxy for the 2026 Fourth Extraordinary General Meeting to be held on Friday, December 4, 2026",
-  "time": "2026-11-19 22:20",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
   "title": "[TIGERMED] SUPPLEMENTAL NOTICE OF THE 2026 FOURTH EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Material Information after Issue of Cir",
   "time": "2026-11-19 22:18",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] SUPPLEMENTAL CIRCULAR (1) PROPOSED AMENDMENTS OF ARTICLES OF ASSOCIATION; AND (2) SUPPLEMENTAL NOTICE OF 2026 FOURTH EXTRAORDINAR",
-  "time": "2026-11-19 22:17",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS GOLD ETF] HANG SENG GOLD ETF < 03170> INFORMATION",
-  "time": "2026-11-19 22:15",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CREALITY] VOLUNTARY ANNOUNCEMENT - COMPLETION OF INCREASE IN SHAREHOLDING IN THE COMPANY BY THE CONTROLLING SHAREHOLDER AND CHAIRMAN OF THE",
-  "time": "2026-11-19 22:12",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTGO HOLDINGS] Notification Letter to Registered Shareholders and Reply Form (Other)",
-  "time": "2026-11-19 22:10",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[TIGERMED] PROPOSED AMENDMENTS TO THE ARTICLES OF ASSOCIATION (Amendment of Constitutional Documents)",
-  "time": "2026-11-19 22:09",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTGO HOLDINGS] Notification Letter to Non-registered Holders and Reply Form (Other)",
-  "time": "2026-11-19 22:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HS JAPAN TPX100] HANG SENG JAPAN TOPIX 100 INDEX ETF < 03410> INFORMATION",
-  "time": "2026-11-19 22:08",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTGO HOLDINGS] FORM OF PROXY FOR THE EXTRAORDINARY GENERAL MEETING TO BE HELD ON FRIDAY, 4 DECEMBER 2026",
-  "time": "2026-11-19 22:07",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CARRY WEALTH] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
-  "time": "2026-11-19 22:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HSI ESG ETF] HSI ESG ENHANCED SELECT INDEX ETF<03136> INFORMATION",
-  "time": "2026-11-19 22:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTGO HOLDINGS] NOTICE OF EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM)",
-  "time": "2026-11-19 22:06",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ARTGO HOLDINGS] (I) PROPOSED RIGHTS ISSUE ON THE BASIS OF THREE (3) RIGHTS SHARES FOR EVERY ONE (1) SHARE HELD ON THE RECORD DATE ON A NON-",
-  "time": "2026-11-19 22:05",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[龙蟠科技] 江苏龙蟠科技集团股份有限公司第五届董事会第二十二次会议决议公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[龙蟠科技] H股公告-持续关连交易",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[长春一东] 长春一东关于控股股东股份被冻结的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[*ST香雪] 关于公司重整债权申报通知及召开债权人会议的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 第十二届董事会独立董事专门会议第十一次会议决议(1)",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光第十二届董事会第三十五次会议决议公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[工业富联] 富士康工业互联网股份有限公司关于2026年员工持股计划的进展公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[工业富联] 富士康工业互联网股份有限公司员工持股计划信托协议",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光关于控股子公司增资扩股并引入投资者的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光关于召开2026年第三次临时股东会的通知",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[东阳光] 东阳光关于新增2026年度对外担保额度预计的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[新兴铸管] 关于公司高级管理人员辞职的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[联芸科技] 首次公开发行部分战略配售限售股上市流通公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[联芸科技] 中信建投证券股份有限公司关于联芸科技（杭州）股份有限公司首次公开发行部分战略配售限售股上市流通的核查意见",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 独立董事提名人声明与承诺（曾正明）",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 返利网数字科技股份有限公司董事会议事规则（2026年11月修订，待股东会审议）",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 独立董事候选人声明与承诺（曾正明）",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 返利网数字科技股份有限公司董事、高级管理人员薪酬管理制度（2026年11月修订，待股东会审议）",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 返利网数字科技股份有限公司关于董事会提前换届选举暨提名第十一届董事会董事候选人的公告",
-  "time": "2026-11-20 00:00",
-  "level": "🟢"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[返利科技] 返利网数字科技股份有限公司股东会议事规则（2026年11月修订，待股东会审议）",
-  "time": "2026-11-20 00:00",
   "level": "🟢"
  }
 ]
