@@ -1,13 +1,6 @@
 [
  {
   "cat": "index",
-  "symbol": "^GSPC",
-  "name": "标普500",
-  "price": 6910.39,
-  "pct": -3.7
- },
- {
-  "cat": "index",
   "symbol": "^IXIC",
   "name": "纳斯达克",
   "price": 22617.73,
@@ -29,13 +22,6 @@
  },
  {
   "cat": "index",
-  "symbol": "000001.SS",
-  "name": "上证指数",
-  "price": 3533.79,
-  "pct": -1.23
- },
- {
-  "cat": "index",
   "symbol": "399001.SZ",
   "name": "深证成指",
   "price": 10256.39,
@@ -54,13 +40,6 @@
   "name": "VIX恐慌",
   "price": 35.89,
   "pct": 26.2
- },
- {
-  "cat": "commodity",
-  "symbol": "GC=F",
-  "name": "黄金",
-  "price": 3515.4,
-  "pct": -4.62
  },
  {
   "cat": "commodity",
@@ -92,13 +71,6 @@
  },
  {
   "cat": "forex",
-  "symbol": "DX-Y.NYB",
-  "name": "美元指数",
-  "price": 103.84,
-  "pct": 0.03
- },
- {
-  "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.67,
@@ -120,30 +92,30 @@
  },
  {
   "cat": "crypto",
-  "symbol": "BTCUSDT",
-  "name": "BTC",
-  "price": 60034.55,
-  "pct": 1.74
+  "symbol": "ETHUSDT",
+  "name": "ETH",
+  "price": 1686.0,
+  "pct": 5.02
  },
  {
   "cat": "crypto",
-  "symbol": "ETHUSDT",
-  "name": "ETH",
-  "price": 1680.36,
-  "pct": 3.29
+  "symbol": "SOLUSDT",
+  "name": "SOL",
+  "price": 70.51,
+  "pct": 3.33
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 547.94,
-  "pct": 0.87
+  "price": 549.37,
+  "pct": 2.58
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
-  "price": 0.93,
-  "pct": 2.92
+  "price": 0.94,
+  "pct": 4.46
  }
 ]
