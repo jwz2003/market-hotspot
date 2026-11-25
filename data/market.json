@@ -24,8 +24,8 @@
   "cat": "index",
   "symbol": "^HSI",
   "name": "恒生指数",
-  "price": 22219.65,
-  "pct": -0.73
+  "price": 22252.81,
+  "pct": 0.15
  },
  {
   "cat": "index",
@@ -59,98 +59,98 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 3552.1,
-  "pct": -0.28
+  "price": 3540.3,
+  "pct": -0.61
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 40.87,
-  "pct": -5.29
+  "price": 40.65,
+  "pct": -5.8
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 81.82,
-  "pct": -0.28
+  "price": 81.41,
+  "pct": -0.78
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 5.46,
-  "pct": -2.89
+  "price": 5.48,
+  "pct": -2.68
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.67,
-  "pct": 15.39
+  "pct": 15.42
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 103.84,
-  "pct": 0.03
+  "price": 103.9,
+  "pct": 0.08
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.66,
-  "pct": 0.0
+  "pct": -0.07
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.24,
-  "pct": 0.0
+  "price": 159.32,
+  "pct": 0.05
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.1,
-  "pct": -0.05
+  "pct": -0.07
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 59501.19,
-  "pct": -3.32
+  "price": 59464.99,
+  "pct": -3.37
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1666.13,
-  "pct": -3.11
+  "price": 1665.33,
+  "pct": -3.14
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 69.49,
-  "pct": -4.11
+  "price": 69.39,
+  "pct": -4.39
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 545.26,
-  "pct": -2.8
+  "price": 544.76,
+  "pct": -2.99
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 0.92,
-  "pct": -2.88
+  "pct": -3.73
  }
 ]
