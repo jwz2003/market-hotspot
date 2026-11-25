@@ -1,345 +1,212 @@
 [
  {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YANGTZEKIANG] Interim Dividend for the six months ended 30 September 2026 and Closure of Register of Member (Dividend or Distribution (Anno",
-  "time": "2026-11-25 18:42",
-  "level": "🟡"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YANGTZEKIANG] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results / Dividend or Distribution / Clos",
-  "time": "2026-11-25 18:35",
-  "level": "🟡"
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[江苏雷利] 关于公司控股子公司鼎智科技收到中国证券监督管理委员会立案告知书的公告",
+  "time": "2026-11-25 20:14",
+  "level": "🔴"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[欧陆通] 关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-  "time": "2026-11-25 18:40",
+  "title": "[科拓生物] 关于回购公司股份比例达到4%暨回购完成的公告",
+  "time": "2026-11-25 20:20",
   "level": "🟡"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[珂玛科技] 回购股份报告书",
-  "time": "2026-11-25 18:24",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[珂玛科技] 关于回购公司股份事项前十名股东及前十名无限售条件股东持股情况的公告",
-  "time": "2026-11-25 18:24",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[百胜智能] 关于股份回购事项前十大股东和前十大无限售条件股东持股情况的公告",
-  "time": "2026-11-25 18:20",
-  "level": "🟡"
- },
- {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[百胜智能] 关于取得金融机构股票回购专项贷款承诺函的公告",
-  "time": "2026-11-25 18:20",
-  "level": "🟡"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "New Horizon Aircraft Ltd. — 5.07",
-  "time": "2026-11-24",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "MICROVISION, INC. — 8-K",
-  "time": "2026-11-24",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CONCH ENVIRO] MAJOR AND CONNECTED TRANSACTION IN RELATION TO THE ACQUISITIONS OF THE TARGET COMPANIES AND NOTICE OF EXTRAORDINARY GENERAL M",
-  "time": "2026-11-25 18:48",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[HTPCG HKKRSEMI] 3569 NEWS",
-  "time": "2026-11-25 18:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[C WAN TONG YUAN] INSIDE INFORMATION UPDATE ON THE CEMETERY JV PROJECT (Inside Information)",
-  "time": "2026-11-25 18:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[XIAO NOODLES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-25 18:47",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HKHIDIV CAM HKHIDIV A CAM HKHIDIV-U CAM HKHIDIV A-U CAM HKHIDIV-R CAM HKHIDIV A-R] Stock Code: 3592 3590 41590 41592 83590 83592 Inform",
-  "time": "2026-11-25 18:46",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[CAM HKGROWTH CAM HKGROWTH-U CAM HKGROWTH-R] Stock Code: 3459 9459 83459 Information",
-  "time": "2026-11-25 18:45",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[SUNAC SERVICES] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-25 18:43",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[DMALL] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-25 18:42",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[MINSHENG BANK CMBC N2911] Notice of Listing on the Stock Exchange of Hong Kong Limited - U.S.$100,000,000 Floating Rate Notes due 2029 issu",
-  "time": "2026-11-25 18:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[WISE NEWECONESG] WISE NEWECONESG ETF <03182> INFORMATION",
-  "time": "2026-11-25 18:41",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[FS.COM] VOLUNTARY ANNOUNCEMENT - PURCHASE OF SHARES FROM THE MARKET UNDER THE H SHARE AWARD SCHEME (Share Scheme / Other - Miscellaneous)",
-  "time": "2026-11-25 18:40",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[YANGTZEKIANG] CLOSURE OF REGISTER OF MEMBER (Closure of Books or Change of Book Closure Period)",
-  "time": "2026-11-25 18:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[ASIASEC PPT] Poll Results at the Extraordinary General Meeting held on 25th November, 2026 (Results of EGM/SGM)",
-  "time": "2026-11-25 18:38",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[AIRDOC-B] Next Day Disclosure Return (Share Buyback)",
-  "time": "2026-11-25 18:37",
-  "level": "🟢"
- },
- {
-  "src": "HKEX",
-  "market": "港股",
-  "title": "[KANGQIAO SER] DELAY IN DESPATCH OF CIRCULAR IN RELATION TO CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction / Amendment ",
-  "time": "2026-11-25 18:37",
+  "title": "[德福科技] 关于选举职工代表董事的公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[古鳌科技] 上海市锦天城律师事务所关于上海古鳌电子科技股份有限公司2026年第五次临时股东会的法律意见书",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 北京市金杜律师事务所上海分所关于九江德福科技股份有限公司2026年第二次临时股东会之法律意见书",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[古鳌科技] 上海古鳌电子科技股份有限公司2026年第五次临时股东会决议公告",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 2026年第二次临时股东会决议公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[古鳌科技] 第六届董事会第十三次会议决议公告",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 第四届董事会第一次会议决议公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[古鳌科技] 关于变更公司董事长、法定代表人及调整董事会专门委员会委员的公告",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 关于公司对外投资暨签订投资协议的公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[古鳌科技] 关于重大诉讼事项的进展公告",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 关于为子公司提供担保的进展公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[民爆光电] 关于参加2026年度深圳辖区上市公司投资者网上集体接待日活动的公告",
-  "time": "2026-11-25 18:42",
+  "title": "[德福科技] 关于完成董事会换届选举的公告",
+  "time": "2026-11-25 20:20",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[阳普医疗] 关于全资子公司产品通过美国FDA 510(k)审查的公告",
-  "time": "2026-11-25 18:40",
+  "title": "[胜宏科技] H股公告-翌日披露报表",
+  "time": "2026-11-25 20:12",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[阳普医疗] 关于全资子公司医疗器械产品完成延续注册的公告",
-  "time": "2026-11-25 18:40",
+  "title": "[德福科技] 关于选举公司第四届董事会董事长、各专门委员会委员及聘任高级管理人员、证券事务代表的公告",
+  "time": "2026-11-25 20:10",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[每日互动] 东方证券股份有限公司关于每日互动股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
-  "time": "2026-11-25 18:38",
+  "title": "[春晖智控] 国金证券股份有限公司关于浙江春晖智能控制股份有限公司发行股份及支付现金购买资产暨关联交易之独立财务顾问报告（上会稿）",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[每日互动] 关于调整募集资金投资项目拟投入募集资金金额的公告",
-  "time": "2026-11-25 18:38",
+  "title": "[春晖智控] 关于发行股份及支付现金购买资产暨关联交易报告书（草案）（上会稿）修订说明的公告",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[每日互动] 关于与专业投资机构共同投资暨关联交易的进展公告",
-  "time": "2026-11-25 18:38",
+  "title": "[春晖智控] 关于深圳证券交易所审核公司发行股份及支付现金购买资产暨关联交易事项会议安排的公告",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[每日互动] 第四届董事会第十二次会议决议公告",
-  "time": "2026-11-25 18:38",
+  "title": "[宁德时代] H股公告（翌日披露报表）",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[丰茂股份] 可转债交易异常波动公告",
-  "time": "2026-11-25 18:30",
+  "title": "[春晖智控] 浙江春晖智能控制股份有限公司发行股份及支付现金购买资产暨关联交易报告书（草案）摘要（上会稿）",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 独立财务顾问关于广州信邦智能装备股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告（修订稿）",
-  "time": "2026-11-25 18:24",
+  "title": "[春晖智控] 浙江春晖智能控制股份有限公司发行股份及支付现金购买资产暨关联交易报告书（草案）（上会稿）",
+  "time": "2026-11-25 20:06",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 广州信邦智能装备股份有限公司备考合并财务报表及审阅报告",
-  "time": "2026-11-25 18:24",
+  "title": "[江波龙] 关于公司副总经理辞任、财务负责人辞任暨聘任财务负责人的公告",
+  "time": "2026-11-25 19:36",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 广州信邦智能装备股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）（修订稿）",
-  "time": "2026-11-25 18:24",
+  "title": "[江波龙] 第三届董事会第二十三次会议决议公告",
+  "time": "2026-11-25 19:36",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 广州信邦智能装备股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）摘要（修订稿）",
-  "time": "2026-11-25 18:24",
+  "title": "[银禧科技] 关于董事会换届选举并征集候选人的进展公告",
+  "time": "2026-11-25 19:34",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 北京市君合律师事务所关于广州信邦智能装备股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之补充法律意见书（五）",
-  "time": "2026-11-25 18:24",
+  "title": "[易联众] 简式权益变动报告书（金莉莉等五人）",
+  "time": "2026-11-25 19:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 第四届董事会独立董事2026年第七次专门会议决议",
-  "time": "2026-11-25 18:24",
+  "title": "[易联众] 关于股东权益变动的提示性公告",
+  "time": "2026-11-25 19:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 关于发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）修订说明的公告",
-  "time": "2026-11-25 18:24",
+  "title": "[ST豆神] 关于公司股票被实施其他风险警示相关事项的进展公告",
+  "time": "2026-11-25 19:30",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 无锡英迪芯微电子科技股份有限公司2024年度、2025年度及2026年1-6月审计报告",
-  "time": "2026-11-25 18:24",
+  "title": "[金龙鱼] 关于为子公司赊销业务提供担保的公告",
+  "time": "2026-11-25 19:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[信邦智能] 第四届董事会第十五次会议决议公告",
-  "time": "2026-11-25 18:24",
+  "title": "[金龙鱼] 北京市汉坤律师事务所上海分所关于益海嘉里金龙鱼食品集团股份有限公司2026年第一次临时股东会的法律意见书",
+  "time": "2026-11-25 19:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[亿纬锂能] 关于子公司完成工商变更登记的公告",
-  "time": "2026-11-25 18:20",
+  "title": "[金龙鱼] 2026年第一次临时股东会决议公告",
+  "time": "2026-11-25 19:24",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[联创股份] 关于对外投资设立子公司暨关联交易的进展公告",
-  "time": "2026-11-25 18:20",
+  "title": "[申昊科技] 关于公司控股股东、实际控制人之一拟协议转让部分股份暨权益变动的提示性公告",
+  "time": "2026-11-25 19:14",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华自科技] 关于归还前次临时补充流动资金的募集资金的公告",
-  "time": "2026-11-25 18:16",
+  "title": "[申昊科技] 简式权益变动报告书（受让方）",
+  "time": "2026-11-25 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[申昊科技] 简式权益变动报告书（转让方）",
+  "time": "2026-11-25 19:14",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[赛微电子] 关于对外投资设立全资子公司并完成工商注册登记的公告",
+  "time": "2026-11-25 19:06",
   "level": "🟢"
  }
 ]
