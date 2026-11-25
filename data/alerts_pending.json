@@ -14462,5 +14462,37 @@
   "detail": "高危关键词命中",
   "value": null,
   "time": "2026-11-25 22:21"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "标普500 -2.33%",
+  "detail": "现价 7033.31，跌破波动阈值 1.5%",
+  "value": -2.33,
+  "time": "2026-11-25 23:37"
+ },
+ {
+  "level": "🔴",
+  "market": "行情",
+  "title": "纳斯达克 -3.54%",
+  "detail": "现价 22892.041，跌破波动阈值 1.5%",
+  "value": -3.545,
+  "time": "2026-11-25 23:37"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "黄金 -3.32%",
+  "detail": "现价 3472.0，跌破波动阈值 2.0%",
+  "value": -3.317,
+  "time": "2026-11-25 23:37"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[AMASSE CAPITAL] (1) RESIGNATION OF EDs; (2) CHANGE OF AUTHO",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-11-25 23:37"
  }
 ]
