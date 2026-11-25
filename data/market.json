@@ -59,50 +59,50 @@
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 3548.8,
-  "pct": -0.37
+  "price": 3539.6,
+  "pct": -0.63
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 40.72,
-  "pct": -5.62
+  "price": 40.58,
+  "pct": -5.95
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 81.68,
-  "pct": -0.45
+  "price": 81.7,
+  "pct": -0.43
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 5.47,
-  "pct": -2.79
+  "price": 5.46,
+  "pct": -2.93
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
   "price": 3.68,
-  "pct": 15.52
+  "pct": 15.48
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
   "price": 103.85,
-  "pct": -0.45
+  "pct": 0.03
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
-  "price": 6.67,
-  "pct": 0.02
+  "price": 6.66,
+  "pct": 0.01
  },
  {
   "cat": "forex",
@@ -116,41 +116,41 @@
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.1,
-  "pct": 0.0
+  "pct": -0.02
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 59751.3,
-  "pct": -2.43
+  "price": 59531.52,
+  "pct": -2.57
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1677.4,
-  "pct": -1.83
+  "price": 1670.26,
+  "pct": -2.09
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 69.71,
-  "pct": -3.15
+  "price": 69.63,
+  "pct": -3.36
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 547.91,
-  "pct": -1.52
+  "price": 546.07,
+  "pct": -1.92
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 0.92,
-  "pct": -1.64
+  "pct": -2.3
  }
 ]
