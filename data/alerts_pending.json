@@ -14574,5 +14574,29 @@
   "detail": "高危关键词命中",
   "value": null,
   "time": "2026-11-26 06:41"
+ },
+ {
+  "level": "🟡",
+  "market": "行情",
+  "title": "白银 +2.47%",
+  "detail": "现价 41.54，突破波动阈值 2.0%",
+  "value": 2.472,
+  "time": "2026-11-26 16:37"
+ },
+ {
+  "level": "🔴",
+  "market": "行情",
+  "title": "天然气 +10.58%",
+  "detail": "现价 3.615，突破波动阈值 2.0%",
+  "value": 10.584275022281089,
+  "time": "2026-11-26 16:37"
+ },
+ {
+  "level": "🔴",
+  "market": "港股",
+  "title": "HKEX公告：[PROSPER ONE] QUARTERLY PROGRESS UPDATE ON MEASURES TO ADDRE",
+  "detail": "高危关键词命中",
+  "value": null,
+  "time": "2026-11-26 16:37"
  }
 ]

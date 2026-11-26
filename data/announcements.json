@@ -1,212 +1,471 @@
 [
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "American Resources Corp — 财报重述风险",
-  "time": "2026-11-25",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PROSPER ONE] QUARTERLY PROGRESS UPDATE ON MEASURES TO ADDRESS DISCLAIMER OF OPINION RELATING TO GOING CONCERN (Other - Miscellaneous)",
+  "time": "2026-11-26 16:32",
   "level": "🔴"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "DT Cloud Star Acquisition Corp — 其他重大事件",
-  "time": "2026-11-25",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[IRICO NEWENERGY] PROPOSED CHANGE OF AUDITORS (Change in Auditors / Change in Auditors subject to Shareholders' Approval)",
+  "time": "2026-11-26 16:36",
   "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Personalis, Inc. — 其他重大事件",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ASSO INT HOTELS] Preliminary Announcement of Interim Results for the six months ended 30 September 2026 (Dividend or Distribution / Interim",
+  "time": "2026-11-26 16:36",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Scilex Holding Co — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REGINA MIRACLE] Interim Dividend for the six months ended 30 September 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-11-26 16:36",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "SYNLOGIC, INC. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[DYNAM JAPAN] INTERIM DIVIDEND FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 RECORD DATE IN CONNECTION WITH THE PAYMENT OF INTERIM DIVIDEND FOR",
+  "time": "2026-11-26 16:34",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Cycurion, Inc. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TAI CHEUNG HOLD] Interim Dividend for the six months ended 30th September 2026 (Dividend or Distribution (Announcement Form))",
+  "time": "2026-11-26 16:31",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "ORAGENICS INC — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SIM TECH] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
+  "time": "2026-11-26 16:31",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Soluna Holdings, Inc — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汇川技术] 关于回购公司股份实施完成暨股份变动的公告",
+  "time": "2026-11-26 16:34",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Momentus Inc. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[永贵智能] 关于股份回购结果暨股份变动的公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "BONK, INC. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[本立科技] 关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Valion Bio, Inc. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[云意电气] 关于回购公司股份实施完毕的公告",
+  "time": "2026-11-26 16:14",
+  "level": "🟡"
  },
  {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Nuburu, Inc. — 其他重大事件",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "UPEXI, INC. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "CATHAY GENERAL BANCORP — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "NXP Semiconductors N.V. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Stewards, Inc. — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Drilling Tools International Corp — 8-K",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "First Breach, Inc. — 3.01",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Dermata Therapeutics, Inc. — 3.01",
-  "time": "2026-11-25",
-  "level": "🟢"
- },
- {
-  "src": "SEC 8-K",
-  "market": "美股",
-  "title": "Stardust Power Inc. — 8-K",
-  "time": "2026-11-25",
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PERFECT MEDICAL] INTERIM REPORT 2026/2027 (Interim/Half-Year Report)",
+  "time": "2026-11-26 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] Documents on Display",
-  "time": "2026-11-26 06:20",
+  "title": "[KONTA CHINA] PROPOSED CHANGE OF COMPANY ENGLISH NAME AND NOTICE OF EXTRAORDINARY GENERAL MEETING (Other)",
+  "time": "2026-11-26 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] Notification Letter to Non-Registered Shareholders (Other)",
-  "time": "2026-11-26 06:13",
+  "title": "[CHUNCHENG HEAT] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-26 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] Notification Letter and Reply Form to Registered Shareholders (Other)",
-  "time": "2026-11-26 06:11",
+  "title": "[INFINITIES TECH] FURTHER ADJOURNMENT OF WINDING UP PETITION HEARING (Inside Information / Winding Up and Liquidation of Issuer, its Holding",
+  "time": "2026-11-26 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] EXCESS APPLICATION FORM (Rights Issue)",
-  "time": "2026-11-26 06:10",
+  "title": "[GBG HOLDINGS] Notification Letter to Non-Registered Shareholder and Request Form - Notice of publication of 2026 Interim Report (Other)",
+  "time": "2026-11-26 16:36",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[WAI CHI HOLD] Next Day Disclosure Returns (Share Buyback)",
-  "time": "2026-11-26 06:07",
+  "title": "[HSBC HOLDINGS] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-26 16:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] PROVISIONAL ALLOTMENT LETTER (Rights Issue)",
-  "time": "2026-11-26 06:07",
+  "title": "[SHENGRONG HLDG] Form of proxy for use at the special general meeting of the Company (the \"Meeting\") to be held on Wednesday, 16 December 20",
+  "time": "2026-11-26 16:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[SIGENERGY] Next Day Disclosure Return (Share Buyback / Others)",
-  "time": "2026-11-26 06:07",
+  "title": "[CHUNCHENG HEAT] RETIREMENT OF NON-EXECUTIVE DIRECTOR; AND CHANGE OF MEMBER OF THE AUDIT COMMITTEE (Change in Directors or of Important Exec",
+  "time": "2026-11-26 16:35",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[TA YANG GROUP] RIGHTS ISSUE ON THE BASIS OF TWO (2) RIGHTS SHARES FOR EVERY ONE (1) NEW SHARE HELD ON THE RECORD DATE AT A SUBSCRIPTION PRI",
-  "time": "2026-11-26 06:06",
+  "title": "[WANJIA GROUP] Notification of publication of Corporate Communication on the Company's website and Request Form to Non-Registered Shareholde",
+  "time": "2026-11-26 16:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[MAN WAH HLDGS] Next Day Disclosure Return (Equity issuer - changes in issued share capital and/or share buybacks) (Share Buyback)",
-  "time": "2026-11-26 06:02",
+  "title": "[GBG HOLDINGS] Notification Letter to Registered Shareholder and Change Request Form - Notice of publication of 2026 Interim Report (Other)",
+  "time": "2026-11-26 16:34",
   "level": "🟢"
  },
  {
   "src": "HKEX",
   "market": "港股",
-  "title": "[GPIXEL] INSIDE INFORMATION LATEST BUSINESS PERFORMANCE FOR THE FIRST TEN MONTHS OF 2026 (Inside Information)",
-  "time": "2026-11-26 06:02",
+  "title": "[E LIGHTING] INTERIM REPORT 2026/27 (Interim/Half-Year Report)",
+  "time": "2026-11-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA EDU GROUP] PROPOSED AMENDMENTS TO THE EXISTING MEMORANDUM AND ARTICLES OF ASSOCIATION AND PROPOSED ADOPTION OF NEW MEMORANDUM AND ART",
+  "time": "2026-11-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIN STREET SEC] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA-HK PHOTO] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-26 16:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PAN ASIA DATA H] MONTHLY UPDATE RELATING TO MEMORANDUM OF UNDERSTANDING REGARDING RESTRUCTURING AND APPLICATION FOR WHITEWASH WAIVER (Annou",
+  "time": "2026-11-26 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANJIA GROUP] Notification of publication of Corporate Communication on the Company's website and Change Request Form to Registered Shareho",
+  "time": "2026-11-26 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANKA ONLINE] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-26 16:33",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHENGRONG HLDG] NOTICE OF SPECIAL GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[REMEGEN] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINA EDU GROUP] ANNOUNCEMENT OF ANNUAL RESULTS FOR THE YEAR ENDED 31 AUGUST 2026 (Final Results / Closure of Books or Change of Book Closu",
+  "time": "2026-11-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANJIA GROUP] Interim Report 2026/2027 (Interim/Half-Year Report)",
+  "time": "2026-11-26 16:32",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHENGUAN HLDGS] POLL RESULTS OF THE EXTRAORDINARY GENERAL MEETING HELD ON 26 NOVEMBER 2026 (Results of EGM/SGM)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ZHONGZHENG INTL] POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 26 NOVEMBER 2026 (Results of AGM)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MECOM POWER] DISCLOSEABLE TRANSACTION - CONSTRUCTION CONTRACT FOR THE FACILITIES IN JIANGMEN, GUANGDONG PROVINCE, THE PRC (Discloseable Tra",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GBG HOLDINGS] Interim Report 2026 (Interim/Half-Year Report)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ROISERV] ELECTION OF EMPLOYEE REPRESENTATIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[NTES] Next Day Disclosure Return (Share Buyback / Others)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FIN STREET SEC] ANNOUNCEMENT ON ELECTION OF A DIRECTOR AS THE ACTING CHAIRMAN (Change in Directors or of Important Executive Functions or R",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WANKA ONLINE] VOLUNTARY ANNOUNCEMENT SUBSIDIARY SECURES EXCLUSIVE AGENCY AUTHORISATION FOR 2027 UMIADS' GAMING INDUSTRY (Other - Business U",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JUTAL OIL SER] TERMS OF REFERENCE OF NOMINATION COMMITTEE (Terms of Reference of the Nomination Committee)",
+  "time": "2026-11-26 16:31",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST凯利] 关于申请撤销其他风险警示的进展公告",
+  "time": "2026-11-26 16:28",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[东杰智能] 关于取得专利证书的公告",
+  "time": "2026-11-26 16:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[绿联科技] 关于变更持续督导保荐代表人的公告",
+  "time": "2026-11-26 16:26",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[华致酒行] 关于为全资子公司提供担保的进展公告",
+  "time": "2026-11-26 16:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[ST大烨] 关于诉讼的进展公告",
+  "time": "2026-11-26 16:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[迪普科技] 关于完成工商登记变更并换发营业执照的公告",
+  "time": "2026-11-26 16:24",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 上市保荐书",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 证券发行保荐书",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 募集说明书（申报稿）",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 发行人最近一年的财务报告及其审计报告以及最近一期的财务报告",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 法律意见书",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[怡达股份] 关于2026年度向特定对象发行股票申请获得深圳证券交易所受理的公告",
+  "time": "2026-11-26 16:22",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[宜通世纪] 关于司法划转股份注销完成暨股份变动的公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[通用电梯] 关于使用部分自有资金进行现金管理的进展公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[电连技术] 关于签署合伙协议之补充协议暨合伙企业进展的公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 发行人最近三年的财务报告及其审计报告以及最近一期的财务报告",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 上市保荐书",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 证券发行保荐书",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 募集说明书（申报稿）",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 法律意见书",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中熔电气] 关于向不特定对象发行可转换公司债券申请获得深圳证券交易所受理的公告",
+  "time": "2026-11-26 16:20",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[长江证券] 2025年面向专业投资者公开发行科技创新公司债券（第二期）2026年付息公告",
+  "time": "2026-11-26 16:18",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[中亚股份] 关于使用部分自有资金进行委托理财的进展公告",
+  "time": "2026-11-26 15:58",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[汤臣倍健] 关于与专业投资机构共同投资的进展公告",
+  "time": "2026-11-26 15:58",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[同星科技] 关于选举第四届董事会职工代表董事的公告",
+  "time": "2026-11-26 15:58",
+  "level": "🟢"
+ },
+ {
+  "src": "巨潮",
+  "market": "A股",
+  "title": "[惠云钛业] 关于惠云转债可能触发向下修正转股价格条件的提示性公告",
+  "time": "2026-11-26 15:58",
   "level": "🟢"
  }
 ]
