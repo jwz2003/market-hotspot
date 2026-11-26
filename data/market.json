@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 27.47,
-  "pct": -2.9
+  "price": 27.06,
+  "pct": -4.35
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 3583.0,
-  "pct": 0.52
+  "price": 3592.6,
+  "pct": 0.79
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 41.61,
-  "pct": 2.64
+  "price": 41.76,
+  "pct": 3.0
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 84.43,
-  "pct": 0.9
+  "price": 84.46,
+  "pct": 0.93
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 5.45,
-  "pct": 0.51
+  "price": 5.46,
+  "pct": 0.8
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.62,
-  "pct": 10.74
+  "price": 3.63,
+  "pct": 11.17
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 103.73,
-  "pct": 0.06
+  "price": 103.79,
+  "pct": 0.12
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.66,
-  "pct": -0.06
+  "pct": -0.05
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.29,
-  "pct": 0.1
+  "price": 159.3,
+  "pct": 0.11
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.1,
-  "pct": -0.07
+  "pct": -0.09
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 60504.52,
-  "pct": 2.75
+  "price": 60687.41,
+  "pct": 3.73
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1694.76,
-  "pct": 2.77
+  "price": 1700.61,
+  "pct": 3.78
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 70.52,
-  "pct": 3.9
+  "price": 70.77,
+  "pct": 4.88
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 550.42,
-  "pct": 1.59
+  "price": 551.48,
+  "pct": 2.43
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 0.95,
-  "pct": 4.05
+  "pct": 5.08
  }
 ]
