@@ -52,105 +52,105 @@
   "cat": "index",
   "symbol": "^VIX",
   "name": "VIX恐慌",
-  "price": 24.97,
-  "pct": -6.83
+  "price": 25.65,
+  "pct": -4.29
  },
  {
   "cat": "commodity",
   "symbol": "GC=F",
   "name": "黄金",
-  "price": 3704.8,
-  "pct": 3.93
+  "price": 3697.7,
+  "pct": 3.73
  },
  {
   "cat": "commodity",
   "symbol": "SI=F",
   "name": "白银",
-  "price": 44.49,
-  "pct": 9.76
+  "price": 44.29,
+  "pct": 9.26
  },
  {
   "cat": "commodity",
   "symbol": "CL=F",
   "name": "WTI原油",
-  "price": 85.37,
-  "pct": 2.02
+  "price": 85.29,
+  "pct": 1.92
  },
  {
   "cat": "commodity",
   "symbol": "HG=F",
   "name": "铜",
-  "price": 5.68,
-  "pct": 4.71
+  "price": 5.66,
+  "pct": 4.37
  },
  {
   "cat": "commodity",
   "symbol": "NG=F",
   "name": "天然气",
-  "price": 3.57,
-  "pct": 9.09
+  "price": 3.55,
+  "pct": 8.69
  },
  {
   "cat": "forex",
   "symbol": "DX-Y.NYB",
   "name": "美元指数",
-  "price": 103.81,
-  "pct": 0.14
+  "price": 103.8,
+  "pct": 0.13
  },
  {
   "cat": "forex",
   "symbol": "USDCNH=X",
   "name": "离岸人民币",
   "price": 6.65,
-  "pct": -0.07
+  "pct": -0.06
  },
  {
   "cat": "forex",
   "symbol": "USDJPY=X",
   "name": "美元日元",
-  "price": 159.45,
-  "pct": 0.14
+  "price": 159.39,
+  "pct": 0.11
  },
  {
   "cat": "forex",
   "symbol": "EURUSD=X",
   "name": "欧元美元",
   "price": 1.1,
-  "pct": -0.1
+  "pct": -0.04
  },
  {
   "cat": "crypto",
   "symbol": "BTCUSDT",
   "name": "BTC",
-  "price": 61736.02,
-  "pct": 1.73
+  "price": 61630.58,
+  "pct": 1.32
  },
  {
   "cat": "crypto",
   "symbol": "ETHUSDT",
   "name": "ETH",
-  "price": 1727.99,
-  "pct": 1.61
+  "price": 1722.68,
+  "pct": 1.01
  },
  {
   "cat": "crypto",
   "symbol": "SOLUSDT",
   "name": "SOL",
-  "price": 73.28,
-  "pct": 3.55
+  "price": 73.08,
+  "pct": 2.87
  },
  {
   "cat": "crypto",
   "symbol": "BNBUSDT",
   "name": "BNB",
-  "price": 564.17,
-  "pct": 2.3
+  "price": 563.73,
+  "pct": 2.01
  },
  {
   "cat": "crypto",
   "symbol": "XRPUSDT",
   "name": "XRP",
   "price": 0.98,
-  "pct": 2.49
+  "pct": 2.12
  }
 ]
