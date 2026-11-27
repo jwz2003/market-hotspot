@@ -1,16 +1,324 @@
 [
  {
-  "src": "巨潮",
-  "market": "A股",
-  "title": "[爱司凯] 东北证券股份有限公司关于爱司凯科技股份有限公司2025年度向特定对象发行股票发行保荐书（修订稿）",
-  "time": "2026-11-27 19:33",
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Mediaco Holding Inc. — 高管/董事变动",
+  "time": "2026-11-27",
+  "level": "🟡"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ACTIVATION GP] NEXT DAY DISCLOSURE RETURN (Share Buyback)",
+  "time": "2026-11-27 21:36",
+  "level": "🟡"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Skydance Corp — 8-K",
+  "time": "2026-11-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "Columbia Financial, Inc./MD/ — 8-K",
+  "time": "2026-11-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "WW INTERNATIONAL, INC. — 8-K",
+  "time": "2026-11-27",
+  "level": "🟢"
+ },
+ {
+  "src": "SEC 8-K",
+  "market": "美股",
+  "title": "SYNLOGIC, INC. — 8-K",
+  "time": "2026-11-25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[METIS TECHBIO-P] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-27 21:37",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SIWI SCI & TECH] ANNOUNCEMENT - CONTINUING CONNECTED TRANSACTIONS (Continuing Connected Transaction)",
+  "time": "2026-11-27 21:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MAPLELEAF EDU] ANNUAL RESULTS ANNOUNCEMENT FOR THE YEAR ENDED 31 AUGUST 2026 (Final Results)",
+  "time": "2026-11-27 21:35",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[FU SHEK FIN] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-27 21:34",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] NOTICE OF THE 2026 THIRD EXTRAORDINARY GENERAL MEETING (Notice of EGM/SGM / Closure of Books or Change of Book Closure Period)",
+  "time": "2026-11-27 21:31",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C FIN INT INV] LIST OF DIRECTORS AND THEIR ROLE AND FUNCTION (List of Directors and their Role and Function)",
+  "time": "2026-11-27 21:28",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] CHANGES IN ACCOUNTING ESTIMATES, CHANGE OF REGISTERED ADDRESS AND AMENDMENT TO THE ARTICLES OF ASSOCIATION AND NOTICE OF THE 2026 ",
+  "time": "2026-11-27 21:26",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP RMB MM] 3122 NEWS",
+  "time": "2026-11-27 21:25",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PW MEDTECH] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-27 21:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[BLUE RIVER HLDG] INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results / Suspension)",
+  "time": "2026-11-27 21:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C FIN INT INV] (I) CHANGE OF DIRECTORS; (II) RESIGNATION OF CHIEF EXECUTIVE OFFICER; (III) CHANGE IN COMPOSITION OF THE BOARD COMMITTEES; A",
+  "time": "2026-11-27 21:24",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP USD MM] 3096 NEWS",
+  "time": "2026-11-27 21:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MERDEKAGOLD-DRS] OVERSEAS REGULATORY ANNOUNCEMENT (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-27 21:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[PW MEDTECH] APPOINTMENT OF NON-EXECUTIVE DIRECTORS (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-27 21:23",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[EDDING GENOR] Next Day Disclosure Return (Share Buyback)",
+  "time": "2026-11-27 21:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JOIN-SHARE] LIST OF DIRECTORS AND THEIR ROLES AND FUNCTIONS (List of Directors and their Role and Function)",
+  "time": "2026-11-27 21:22",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[A CSOP HKD MM] 3053 NEWS",
+  "time": "2026-11-27 21:20",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ISP GLOBAL] SUPPLEMENTAL ANNOUNCEMENT IN RELATION TO THE PLACING OF NEW SHARES UNDER GENERAL MANDATE (Placing / Issue of Shares under a Gen",
+  "time": "2026-11-27 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[JOIN-SHARE] RESIGNATION OF NON-EXECUTIVE DIRECTOR (Change in Directors or of Important Executive Functions or Responsibilities)",
+  "time": "2026-11-27 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TSUI WAH HLDG] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-27 21:19",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] ANNOUNCEMENT ON THE CHANGE OF REGISTERED ADDRESS AND THE AMENDMENT TO THE ARTICLES OF ASSOCIATION (Amendment of Constitutional Doc",
+  "time": "2026-11-27 21:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[WAN KEI GROUP] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-27 21:17",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TSUI WAH HLDG] SUPPLEMENTAL ANNOUNCEMENT DISCLOSEABLE TRANSACTION IN RELATION TO TENANCY AGREEMENT (Discloseable Transaction)",
+  "time": "2026-11-27 21:14",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] ANNOUNCEMENT ON THE CHANGES IN ACCOUNTING ESTIMATES (Other - Miscellaneous)",
+  "time": "2026-11-27 21:12",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CULTURECOM HOLD] ANNOUNCEMENT OF INTERIM RESULTS FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-27 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LUMINA GROUP] 2026 INTERIM RESULTS ANNOUNCEMENT (Interim Results)",
+  "time": "2026-11-27 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CULTURECOM HOLD] TERMS OF REFERENCE FOR AUDIT COMMITTEE (THE \"COMMITTEE\") (Terms of Reference of the Audit Committee)",
+  "time": "2026-11-27 21:11",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[SHUN WO GROUP] DISCLOSEABLE TRANSACTION SUBSCRIPTION OF NEW SHARES IN METAOPTICS LTD. (Discloseable Transaction)",
+  "time": "2026-11-27 21:08",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] ANNOUNCEMENT ON THE UNIFORM ADOPTION OF THE CHINA ACCOUNTING STANDARDS FOR BUSINESS ENTERPRISES FOR FINANCIAL REPORT PREPARATION (",
+  "time": "2026-11-27 21:07",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[MACAU LEGEND] PROPOSED SHARE CONSOLIDATION, PROPOSED CHANGE IN BOARD LOT SIZE AND PROPOSED AMENDMENTS TO THE BYE-LAWS AND PROPOSED ADOPTION",
+  "time": "2026-11-27 21:07",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KOWLOON DEV] DISCLOSEABLE TRANSACTION - DISPOSAL OF 40% OF THE TOTAL ISSUED SHARE CAPITAL OF RIDEON LIMITED (Discloseable Transaction)",
+  "time": "2026-11-27 21:05",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[C FIN INT INV] (1) POLL RESULTS OF THE ANNUAL GENERAL MEETING HELD ON 27 NOVEMBER 2026; (2) RETIREMENT OF EXECUTIVE DIRECTOR; (Results of A",
+  "time": "2026-11-27 21:04",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] VOLUNTARY ANNOUNCEMENT INVESTMENT IN THE CONSTRUCTION OF THE HIGH-END MSAP PRECISION PRINTED CIRCUIT BOARD PROJECT (Other - Busine",
+  "time": "2026-11-27 21:03",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[CHINANEWENERGY] QUARTERLY UPDATE ON THE ACTION PLAN TO ADDRESS THE DISCLAIMER OF OPINION CONTAINED IN THE ANNUAL REPORT FOR THE YEAR ENDED ",
+  "time": "2026-11-27 21:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[GW TERROIR] VOLUNTARY ANNOUNCEMENT BUSINESS UPDATE EXPANDING INTO HIGH-SPEED INTERCONNECT BUSINESS (Other - Business Update)",
+  "time": "2026-11-27 21:02",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[ACESO LIFE SCI] INTERIM RESULTS ANNOUNCEMENT FOR THE SIX MONTHS ENDED 30 SEPTEMBER 2026 (Interim Results)",
+  "time": "2026-11-27 20:59",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[LOPAL TECH] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-27 20:58",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[KINWONG] 中文公告（见披露易中文版） (Overseas Regulatory Announcement - Other)",
+  "time": "2026-11-27 20:57",
+  "level": "🟢"
+ },
+ {
+  "src": "HKEX",
+  "market": "港股",
+  "title": "[TIAN CHENG HLDG] DELAY IN DESPATCH OF CIRCULAR IN RELATION TO PROPOSED RIGHTS ISSUE ON THE BASIS OF THREE (3) RIGHTS SHARES FOR EVERY ONE (",
+  "time": "2026-11-27 20:57",
   "level": "🟢"
  },
  {
   "src": "巨潮",
   "market": "A股",
-  "title": "[华宝股份] 华宝科技股份有限公司关于确认2025年限制性股票激励计划预留授予限制性股票的公告",
-  "time": "2026-11-27 19:00",
+  "title": "[朗新科技] 2026-045，关于控股股东部分股份补充质押的公告",
+  "time": "2026-11-27 21:08",
   "level": "🟢"
  }
 ]
